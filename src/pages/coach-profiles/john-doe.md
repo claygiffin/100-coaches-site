@@ -1,7 +1,7 @@
 ---
 templateKey: coach-profile
 title: John Doe
-jobTitle: Super Star
+jobTitle: Super Star Super StarSuper StarSuper StarSuper StarSuper Star
 photo: /img/jumbotron.jpg
 tags:
   - Cool Guy
