@@ -1,7 +1,7 @@
 ---
 templateKey: coach-profile
 title: John Doe
-jobTitle: Testing
+jobTitle: All Star
 photo: /img/jumbotron.jpg
 tags:
   - Cool Guy
