@@ -4,7 +4,8 @@ title: John Doe
 jobTitle: All Star
 photo: /img/jumbotron.jpg
 tags:
-  - Cool Guy
-  - Bandito
+  - Consultant
+  - Writer
+  - Entrepreneur
 ---
 Lorem ipsum comet dolor
