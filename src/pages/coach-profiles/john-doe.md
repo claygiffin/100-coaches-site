@@ -1,7 +1,7 @@
 ---
 templateKey: coach-profile
 title: John Doe
-jobTitle: Testing Two Hundred and Twenty Five Thousand Two Hundred and Ninety-nine
+jobTitle: Testing Two
 photo: /img/jumbotron.jpg
 tags:
   - Cool Guy
