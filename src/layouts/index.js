@@ -6,10 +6,10 @@ import Navbar from '../components/Navbar'
 import './all.sass'
 
 const TemplateWrapper = ({ children }) => (
-  <div>
-    <Helmet title="Home | Gatsby + Netlify CMS" />
+  <div id="template-wrap">
+    <Helmet title="100 Coaches" />
     <Navbar />
-    <div>{children()}</div>
+    {children()}
   </div>
 )
 
