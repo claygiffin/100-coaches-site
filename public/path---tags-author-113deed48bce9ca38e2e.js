@@ -1,0 +1,2 @@
+webpackJsonp([0x87cd82333e51],{380:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby + Netlify CMS Starter"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/coach-profiles/jane-smith/"},frontmatter:{title:"Jane Smith"}}}]}},pathContext:{tag:"Author"}}}});
+//# sourceMappingURL=path---tags-author-113deed48bce9ca38e2e.js.map

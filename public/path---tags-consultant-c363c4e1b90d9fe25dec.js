@@ -1,0 +1,2 @@
+webpackJsonp([0x6d53f7e3a798],{384:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby + Netlify CMS Starter"}},allMarkdownRemark:{totalCount:3,edges:[{node:{fields:{slug:"/coach-profiles/jane-smith/"},frontmatter:{title:"Jane Smith"}}},{node:{fields:{slug:"/coach-profiles/jane-doe/"},frontmatter:{title:"Jane Doe"}}},{node:{fields:{slug:"/coach-profiles/john-doe/"},frontmatter:{title:"John Doe"}}}]}},pathContext:{tag:"Consultant"}}}});
+//# sourceMappingURL=path---tags-consultant-c363c4e1b90d9fe25dec.js.map

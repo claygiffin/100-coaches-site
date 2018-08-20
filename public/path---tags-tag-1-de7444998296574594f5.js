@@ -1,0 +1,2 @@
+webpackJsonp([47587219260780],{371:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby + Netlify CMS Starter"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/coach-profiles/john-doe/"},frontmatter:{title:"John Doe"}}}]}},pathContext:{tag:"Tag 1"}}}});
+//# sourceMappingURL=path---tags-tag-1-de7444998296574594f5.js.map

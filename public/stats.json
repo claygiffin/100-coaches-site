@@ -1,0 +1,158 @@
+{
+  "assetsByChunkName": {
+    "path---coach-profiles-jane-smith": [
+      "path---coach-profiles-jane-smith-0dd95d6266fb7ba6b75c.js",
+      "path---coach-profiles-jane-smith-0dd95d6266fb7ba6b75c.js.map"
+    ],
+    "path---blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex": [
+      "path---blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex-072ab1cf20c97ec6055d.js",
+      "path---blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex-072ab1cf20c97ec6055d.js.map"
+    ],
+    "path---tags-brewing": [
+      "path---tags-brewing-2e0ff87e07beb7d673d3.js",
+      "path---tags-brewing-2e0ff87e07beb7d673d3.js.map"
+    ],
+    "path---blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel": [
+      "path---blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel-d8b950fd1d65eb7c6ebd.js",
+      "path---blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel-d8b950fd1d65eb7c6ebd.js.map"
+    ],
+    "path---tags-jamaica": [
+      "path---tags-jamaica-6b689e1efcdb6243a1f1.js",
+      "path---tags-jamaica-6b689e1efcdb6243a1f1.js.map"
+    ],
+    "component---src-templates-tags-js": [
+      "component---src-templates-tags-js-88b70f8d8e8e22870934.js",
+      "component---src-templates-tags-js-88b70f8d8e8e22870934.js.map"
+    ],
+    "path---blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week": [
+      "path---blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week-17e8617837a973ab4fda.js",
+      "path---blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week-17e8617837a973ab4fda.js.map"
+    ],
+    "component---src-templates-coach-profile-js": [
+      "component---src-templates-coach-profile-js-0bd569be24e3b6ad0ba3.js",
+      "component---src-templates-coach-profile-js-0bd569be24e3b6ad0ba3.js.map"
+    ],
+    "path---products": [
+      "path---products-f4c3e0923c39b91afa9b.js",
+      "path---products-f4c3e0923c39b91afa9b.js.map"
+    ],
+    "path---tags": [
+      "path---tags-5c24facc7c4307b728a6.js",
+      "path---tags-5c24facc7c4307b728a6.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---tags-tasting": [
+      "path---tags-tasting-11d2ebc20616287b82da.js",
+      "path---tags-tasting-11d2ebc20616287b82da.js.map"
+    ],
+    "path---tags-chemex": [
+      "path---tags-chemex-1c0d6687bc1351e454f4.js",
+      "path---tags-chemex-1c0d6687bc1351e454f4.js.map"
+    ],
+    "cms": [
+      "cms-c1201820c81d6f21f22a.js",
+      "cms.css",
+      "cms-c1201820c81d6f21f22a.js.map",
+      "cms.css.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-d2e03a700e040d84fe78.js",
+      "component---src-templates-blog-post-js-d2e03a700e040d84fe78.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-18c4cda3396b8b90f078.js",
+      "component---src-layouts-index-js-18c4cda3396b8b90f078.js.map"
+    ],
+    "path---tags-green-beans": [
+      "path---tags-green-beans-c84a0fbde86e03af9c32.js",
+      "path---tags-green-beans-c84a0fbde86e03af9c32.js.map"
+    ],
+    "path---tags-consultant": [
+      "path---tags-consultant-c363c4e1b90d9fe25dec.js",
+      "path---tags-consultant-c363c4e1b90d9fe25dec.js.map"
+    ],
+    "path---tags-real-cool-guy": [
+      "path---tags-real-cool-guy-6fdf3307f25641056edc.js",
+      "path---tags-real-cool-guy-6fdf3307f25641056edc.js.map"
+    ],
+    "path---tags-bandito": [
+      "path---tags-bandito-782caf203ae98a606e30.js",
+      "path---tags-bandito-782caf203ae98a606e30.js.map"
+    ],
+    "component---src-templates-index-page-js": [
+      "component---src-templates-index-page-js-beb45b6b7b23437d1feb.js",
+      "component---src-templates-index-page-js-beb45b6b7b23437d1feb.js.map"
+    ],
+    "path---index": [
+      "path---index-dbd59db9b25341bda62b.js",
+      "path---index-dbd59db9b25341bda62b.js.map"
+    ],
+    "path---tags-author": [
+      "path---tags-author-113deed48bce9ca38e2e.js",
+      "path---tags-author-113deed48bce9ca38e2e.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "path---coach-profiles-john-doe": [
+      "path---coach-profiles-john-doe-9ad577eb93e05b1cef49.js",
+      "path---coach-profiles-john-doe-9ad577eb93e05b1cef49.js.map"
+    ],
+    "commons": [
+      "commons-d9eb526bd32d2d0310af.js",
+      "commons-d9eb526bd32d2d0310af.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags-flavor": [
+      "path---tags-flavor-027fafa4cd33a43c8d25.js",
+      "path---tags-flavor-027fafa4cd33a43c8d25.js.map"
+    ],
+    "path---tags-trickster": [
+      "path---tags-trickster-581f8f322e5cea95e4fe.js",
+      "path---tags-trickster-581f8f322e5cea95e4fe.js.map"
+    ],
+    "component---src-pages-tags-index-js": [
+      "component---src-pages-tags-index-js-acc725d679a6ff517016.js",
+      "component---src-pages-tags-index-js-acc725d679a6ff517016.js.map"
+    ],
+    "path---tags-writer": [
+      "path---tags-writer-fe67d7642e4ad0fecd50.js",
+      "path---tags-writer-fe67d7642e4ad0fecd50.js.map"
+    ],
+    "app": [
+      "app-e1be12bd0282da8745e3.js",
+      "app-e1be12bd0282da8745e3.js.map"
+    ],
+    "path---coach-profiles-jane-doe": [
+      "path---coach-profiles-jane-doe-563fff56044c179db105.js",
+      "path---coach-profiles-jane-doe-563fff56044c179db105.js.map"
+    ],
+    "component---src-templates-product-page-js": [
+      "component---src-templates-product-page-js-8b38102b2f9a10d88858.js",
+      "component---src-templates-product-page-js-8b38102b2f9a10d88858.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---the-coaches": [
+      "path---the-coaches-0a7d00b43c0655718405.js",
+      "path---the-coaches-0a7d00b43c0655718405.js.map"
+    ],
+    "component---src-templates-about-page-js": [
+      "component---src-templates-about-page-js-898bcdd20f6ad801a247.js",
+      "component---src-templates-about-page-js-898bcdd20f6ad801a247.js.map"
+    ],
+    "path---about": [
+      "path---about-4b92f01c99b05195be2a.js",
+      "path---about-4b92f01c99b05195be2a.js.map"
+    ]
+  }
+}
