@@ -6,7 +6,7 @@ import CoachThumb from '../components/CoachThumb'
 import XScroller from '../components/XScroller'
 import CoachLightbox from '../components/CoachLightbox'
 
-export default class IndexPage extends React.Component {
+export class IndexPageTemplate extends React.Component {
   constructor(props){
     super(props);
 
@@ -40,20 +40,18 @@ export default class IndexPage extends React.Component {
       coachLightboxOpen: false,
       activeCoach: []
     })
-    // window.history.back();
     window.history.replaceState({page: 'home'}, null, `/`)
     document.body.classList.remove('lightbox-open');
   }
 
   render() {
-    const { data } = this.props
-    const { edges: coaches } = data.coachQuery
     return (
       <div id="main-content-wrap">
         <div id="main-content">
+          <h1> Test: {this.props.title}</h1>
           <section>
             <XScroller className="coaches">
-              {coaches.map(({ node: coach }) => (
+              {this.props.coaches.map(({ node: coach }) => (
                 <CoachThumb coach={coach} key={coach.id} onClick={this.handleCoachClick} />
               ))}
             </XScroller>
@@ -72,7 +70,7 @@ export default class IndexPage extends React.Component {
 
 }
 
-IndexPage.propTypes = {
+IndexPageTemplate.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -80,8 +78,32 @@ IndexPage.propTypes = {
   }),
 }
 
-export const pageQuery = graphql`
-  query IndexQuery {
+const IndexPage = ({ data }) => {
+  const page = data.pageQuery
+  const { edges: coaches } = data.coachQuery
+
+  return (
+    <IndexPageTemplate
+      title={page.frontmatter.title}
+      coaches={coaches}
+    />
+  )
+}
+
+IndexPage.propTypes = {
+  data: PropTypes.object.isRequired,
+}
+
+export default IndexPage
+
+export const indexPageQuery = graphql`
+  query IndexQuery($id: String!) {
+    pageQuery: markdownRemark(id: { eq: $id }) {
+      html
+      frontmatter {
+        title
+      }
+    }
     coachQuery: allMarkdownRemark(
       filter: { frontmatter: { templateKey: { eq: "coach-profile" } }}
     ) {
