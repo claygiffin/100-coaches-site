@@ -1,0 +1,1 @@
+{"data":{"site":{"siteMetadata":{"title":"Gatsby + Netlify CMS Starter"}},"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/coach-profiles/john-doe/"},"frontmatter":{"title":"John Doe"}}},{"node":{"fields":{"slug":"/coach-profiles/jane-smith/"},"frontmatter":{"title":"Jane Smith"}}}]}},"pageContext":{"tag":"Bandito"}}

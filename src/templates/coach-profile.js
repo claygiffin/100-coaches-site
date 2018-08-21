@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
+import {Link, graphql} from 'gatsby'
 import Content, { HTMLContent } from '../components/Content'
 
 export const CoachProfileTemplate = ({
@@ -26,7 +26,7 @@ export const CoachProfileTemplate = ({
         <h2 className="job-title" >
           {jobTitle}
         </h2>
-        <img src={photo} />
+        <img src={photo} alt={title}/>
         <PostContent content={content} />
         {tags && tags.length ? (
           <div style={{ marginTop: `4rem` }}>

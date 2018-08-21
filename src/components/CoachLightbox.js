@@ -4,10 +4,6 @@ import Content, { HTMLContent } from './Content'
 import Lightbox from './Lightbox'
 
 export class CoachLightbox extends React.Component {
-  constructor(props){
-    super(props);
-  }
-
   render(){
     const {coach} = this.props;
     const PostContent = HTMLContent || Content

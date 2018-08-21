@@ -21,16 +21,16 @@
       "path---tags-jamaica-6b689e1efcdb6243a1f1.js.map"
     ],
     "component---src-templates-tags-js": [
-      "component---src-templates-tags-js-88b70f8d8e8e22870934.js",
-      "component---src-templates-tags-js-88b70f8d8e8e22870934.js.map"
+      "component---src-templates-tags-js-6c9ec7346df50538d45d.js",
+      "component---src-templates-tags-js-6c9ec7346df50538d45d.js.map"
     ],
     "path---blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week": [
       "path---blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week-17e8617837a973ab4fda.js",
       "path---blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week-17e8617837a973ab4fda.js.map"
     ],
     "component---src-templates-coach-profile-js": [
-      "component---src-templates-coach-profile-js-0bd569be24e3b6ad0ba3.js",
-      "component---src-templates-coach-profile-js-0bd569be24e3b6ad0ba3.js.map"
+      "component---src-templates-coach-profile-js-4458d7661bb446f5a769.js",
+      "component---src-templates-coach-profile-js-4458d7661bb446f5a769.js.map"
     ],
     "path---products": [
       "path---products-f4c3e0923c39b91afa9b.js",
@@ -53,18 +53,18 @@
       "path---tags-chemex-1c0d6687bc1351e454f4.js.map"
     ],
     "cms": [
-      "cms-c1201820c81d6f21f22a.js",
+      "cms-30d4fda31ea98cc10f7c.js",
       "cms.css",
-      "cms-c1201820c81d6f21f22a.js.map",
+      "cms-30d4fda31ea98cc10f7c.js.map",
       "cms.css.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-d2e03a700e040d84fe78.js",
-      "component---src-templates-blog-post-js-d2e03a700e040d84fe78.js.map"
+      "component---src-templates-blog-post-js-16cd45d51d31aa01efaa.js",
+      "component---src-templates-blog-post-js-16cd45d51d31aa01efaa.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-18c4cda3396b8b90f078.js",
-      "component---src-layouts-index-js-18c4cda3396b8b90f078.js.map"
+      "component---src-layouts-index-js-5e7dd303603cf1d5161a.js",
+      "component---src-layouts-index-js-5e7dd303603cf1d5161a.js.map"
     ],
     "path---tags-green-beans": [
       "path---tags-green-beans-c84a0fbde86e03af9c32.js",
@@ -83,8 +83,8 @@
       "path---tags-bandito-782caf203ae98a606e30.js.map"
     ],
     "component---src-templates-index-page-js": [
-      "component---src-templates-index-page-js-beb45b6b7b23437d1feb.js",
-      "component---src-templates-index-page-js-beb45b6b7b23437d1feb.js.map"
+      "component---src-templates-index-page-js-058ecc996a683eca5269.js",
+      "component---src-templates-index-page-js-058ecc996a683eca5269.js.map"
     ],
     "path---index": [
       "path---index-dbd59db9b25341bda62b.js",
@@ -103,8 +103,8 @@
       "path---coach-profiles-john-doe-9ad577eb93e05b1cef49.js.map"
     ],
     "commons": [
-      "commons-d9eb526bd32d2d0310af.js",
-      "commons-d9eb526bd32d2d0310af.js.map"
+      "commons-bd198d2dbbbb8e6d2c35.js",
+      "commons-bd198d2dbbbb8e6d2c35.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -119,16 +119,16 @@
       "path---tags-trickster-581f8f322e5cea95e4fe.js.map"
     ],
     "component---src-pages-tags-index-js": [
-      "component---src-pages-tags-index-js-acc725d679a6ff517016.js",
-      "component---src-pages-tags-index-js-acc725d679a6ff517016.js.map"
+      "component---src-pages-tags-index-js-1385195fb482092acdd5.js",
+      "component---src-pages-tags-index-js-1385195fb482092acdd5.js.map"
     ],
     "path---tags-writer": [
       "path---tags-writer-fe67d7642e4ad0fecd50.js",
       "path---tags-writer-fe67d7642e4ad0fecd50.js.map"
     ],
     "app": [
-      "app-e1be12bd0282da8745e3.js",
-      "app-e1be12bd0282da8745e3.js.map"
+      "app-128c4cd5ff29fcbb9192.js",
+      "app-128c4cd5ff29fcbb9192.js.map"
     ],
     "path---coach-profiles-jane-doe": [
       "path---coach-profiles-jane-doe-563fff56044c179db105.js",

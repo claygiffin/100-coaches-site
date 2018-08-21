@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Link from 'gatsby-link'
+import {Link, graphql} from 'gatsby'
 
 import CoachThumb from '../components/CoachThumb'
 import XScroller from '../components/XScroller'
@@ -49,6 +49,7 @@ export class IndexPageTemplate extends React.Component {
       <div id="main-content-wrap">
         <div id="main-content">
           <h1> Test: {this.props.title}</h1>
+          <Link to="/about">read our story</Link>
           <section>
             <XScroller className="coaches">
               {this.props.coaches.map(({ node: coach }) => (
