@@ -1,2 +1,0 @@
-webpackJsonp([0xcfabc0f4dda6],{391:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby + Netlify CMS Starter"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/coach-profiles/jane-doe/"},frontmatter:{title:"Jane Doe"}}}]}},pathContext:{tag:"Writer"}}}});
-//# sourceMappingURL=path---tags-writer-fe67d7642e4ad0fecd50.js.map

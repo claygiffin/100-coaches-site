@@ -2,8 +2,32 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
-import {Link, graphql} from 'gatsby'
+import { Link, graphql } from 'gatsby'
+import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+
+export const BlogPost = ({ data }) => {
+  const { markdownRemark: post } = data
+
+  return (
+    <Layout>
+      <BlogPostTemplate
+        content={post.html}
+        contentComponent={HTMLContent}
+        description={post.frontmatter.description}
+        helmet={<Helmet title={`${post.frontmatter.title} | Blog`} />}
+        tags={post.frontmatter.tags}
+        title={post.frontmatter.title}
+      />
+    </Layout>
+  )
+}
+
+BlogPost.propTypes = {
+  data: PropTypes.shape({
+    markdownRemark: PropTypes.object,
+  }),
+}
 
 export const BlogPostTemplate = ({
   content,
@@ -51,27 +75,6 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.instanceOf(Helmet),
-}
-
-const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data
-
-  return (
-    <BlogPostTemplate
-      content={post.html}
-      contentComponent={HTMLContent}
-      description={post.frontmatter.description}
-      helmet={<Helmet title={`${post.frontmatter.title} | Blog`} />}
-      tags={post.frontmatter.tags}
-      title={post.frontmatter.title}
-    />
-  )
-}
-
-BlogPost.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
-  }),
 }
 
 export default BlogPost

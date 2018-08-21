@@ -1,2 +1,0 @@
-webpackJsonp([0x961ba54fb54b],{363:function(o,e){o.exports={data:{markdownRemark:{id:"/Users/claygiffin/Documents/100 Coaches/100-coaches-site/src/pages/coach-profiles/john-doe.md absPath of file >>> MarkdownRemark",html:"<p>Lorem ipsum comet dolor</p>",frontmatter:{title:"John Doe",tags:["Cool Guy","Bandito"]}}},pathContext:{id:"/Users/claygiffin/Documents/100 Coaches/100-coaches-site/src/pages/coach-profiles/john-doe.md absPath of file >>> MarkdownRemark"}}}});
-//# sourceMappingURL=path---coach-profiles-john-doe-71c78c1183da0fbd5f46.js.map

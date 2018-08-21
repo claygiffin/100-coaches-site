@@ -1,7 +1,4 @@
 {
-  "cms.js": "bundle-for-css.js",
-  "cms.js.map": "render-page.js.map",
-  "main.css": "styles.css",
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map"
 }

@@ -1,13 +1,44 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import {graphql} from 'gatsby'
+import { graphql } from 'gatsby'
+import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 
+export const ProductPage = ({ data }) => {
+  const { frontmatter } = data.markdownRemark
+
+  return (
+    <Layout>
+      <ProductPageTemplate
+        image={frontmatter.image}
+        title={frontmatter.title}
+        heading={frontmatter.heading}
+        description={frontmatter.description}
+        intro={frontmatter.intro}
+        main={frontmatter.main}
+        testimonials={frontmatter.testimonials}
+        fullImage={frontmatter.full_image}
+        pricing={frontmatter.pricing}
+      />
+    </Layout>
+  )
+}
+
+ProductPage.propTypes = {
+  data: PropTypes.shape({
+    markdownRemark: PropTypes.shape({
+      frontmatter: PropTypes.object,
+    }),
+  }),
+}
+
 export const ProductPageTemplate = ({
   image,
   title,
+  heading,
+  description,
   intro,
   main,
   testimonials,
@@ -39,9 +70,9 @@ export const ProductPageTemplate = ({
               <div className="columns">
                 <div className="column is-7">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    {intro.heading}
+                    {heading}
                   </h3>
-                  <p>{intro.description}</p>
+                  <p>{description}</p>
                 </div>
               </div>
               <Features gridItems={intro.blurbs} />
@@ -128,32 +159,6 @@ ProductPageTemplate.propTypes = {
   }),
 }
 
-const ProductPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark
-
-  return (
-    <ProductPageTemplate
-      image={frontmatter.image}
-      title={frontmatter.title}
-      heading={frontmatter.heading}
-      description={frontmatter.description}
-      intro={frontmatter.intro}
-      main={frontmatter.main}
-      testimonials={frontmatter.testimonials}
-      fullImage={frontmatter.full_image}
-      pricing={frontmatter.pricing}
-    />
-  )
-}
-
-ProductPage.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.shape({
-      frontmatter: PropTypes.object,
-    }),
-  }),
-}
-
 export default ProductPage
 
 export const productPageQuery = graphql`
@@ -162,6 +167,8 @@ export const productPageQuery = graphql`
       frontmatter {
         title
         image
+        heading
+        description
         intro {
           blurbs {
             image

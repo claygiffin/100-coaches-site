@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import {Link, graphql} from 'gatsby'
+import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
 export const CoachProfileTemplate = ({
@@ -56,15 +57,17 @@ const CoachProfile = ({ data }) => {
   const { markdownRemark: coach } = data
 
   return (
-    <CoachProfileTemplate
-      content={coach.html}
-      contentComponent={HTMLContent}
-      helmet={<Helmet title={`${coach.frontmatter.title}'s Profile`} />}
-      tags={coach.frontmatter.tags}
-      photo={coach.frontmatter.photo}
-      title={coach.frontmatter.title}
-      jobTitle={coach.frontmatter.jobTitle}
-    />
+    <Layout>
+      <CoachProfileTemplate
+        content={coach.html}
+        contentComponent={HTMLContent}
+        helmet={<Helmet title={`${coach.frontmatter.title}'s Profile`} />}
+        tags={coach.frontmatter.tags}
+        photo={coach.frontmatter.photo}
+        title={coach.frontmatter.title}
+        jobTitle={coach.frontmatter.jobTitle}
+      />      
+    </Layout>
   )
 }
 
