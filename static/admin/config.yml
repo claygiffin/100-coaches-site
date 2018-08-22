@@ -45,7 +45,8 @@ collections:
         name: home
         fields:
           - {label: Template Key, name: templateKey, widget: hidden, default: home-page}
-          - {label: Intro, name: intro, widget: list, fields: [{label: Heading, name: heading, widget: string}, {label: Link Text, name: linkText, widget: string}]}
+          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Link Text, name: linkText, widget: string}]}
+          - {label: List Test, name: listTest, widget: list, field: {label: Text Field, name: textField, widget:string}}
 
       - file: src/pages/about/index.md
         label: About
