@@ -17,6 +17,12 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               tags
               templateKey
+              coachList {
+                coachName
+                jobTitle
+                tags
+                photo
+              }
             }
           }
         }
@@ -68,6 +74,38 @@ exports.createPages = ({ actions, graphql }) => {
         },
       })
     })
+
+    // Coach Profile Pages:
+    let coachProfiles = []
+    // Iterate through each post, putting all found tags into `tags`
+    posts.forEach(edge => {
+      if (_.get(edge, `node.frontmatter.coachList`)) {
+        edge.node.frontmatter.coachList.forEach(coachProfile => {
+          coachProfiles = coachProfiles.concat(coachProfile)
+        })
+      }
+    })
+
+    // Eliminate duplicate coach profiles
+    coachProfiles = _.uniq(coachProfiles)
+
+    // Make tag pages
+    coachProfiles.forEach(coachProfile => {
+      const coachPath = `/coaches/${_.kebabCase(coachProfile.coachName)}/`
+
+      createPage({
+        path: coachPath,
+        component: path.resolve(`src/templates/coach-profile.js`),
+        context: {
+          coachName: coachProfile.coachName,
+          jobTitle: coachProfile.jobTitle,
+          photo: coachProfile.photo,
+          tags: coachProfile.tags
+        },
+      })
+    })
+    
+    
   })
 }
 

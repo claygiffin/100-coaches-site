@@ -19,18 +19,23 @@ collections:
       - {label: Body, name: body, widget: markdown}
       - {label: Tags, name: tags, widget: list}
 
-  - name: profile
+  - name: coaches
     label: Coaches
-    folder: src/pages/coaches
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: Template Key, name: templateKey, widget: hidden, default: coach-profile}
-      - {label: Name, name: title, widget: string}
-      - {label: Professional Title, name: jobTitle, widget: string, pattern: ['^.{1,25}$', 'Limit 25 characters']}
-      - {label: Photo, name: photo, widget: image}
-      - {label: Bio, name: body, widget: markdown, buttons: [bold, italic, link]}
-      - {label: Tags, name: tags, widget: list}
+    files:
+      - file: src/pages/coaches/index.md
+        label: coaches
+        name: Coaches
+        fields:
+          - {label: Template Key, name: templateKey, widget: hidden, default: coaches-page}
+          - label: Coaches List
+            name: coachList
+            widget: list
+            fields:
+              - {label: Name, name: coachName, widget: string}
+              - {label: Professional Title, name: jobTitle, widget: string, pattern: ['^.{1,25}$', 'Limit 25 characters']}
+              - {label: Photo, name: photo, widget: image}
+              - {label: Bio, name: body, widget: markdown, buttons: [bold, italic, link]}
+              - {label: Tags, name: tags, widget: list}
 
   - name: pages
     label: Pages

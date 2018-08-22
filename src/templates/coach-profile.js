@@ -1,94 +1,58 @@
 import React from 'react'
-import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
-import Helmet from 'react-helmet'
-import {Link, graphql} from 'gatsby'
+// import PropTypes from 'prop-types'
+import {graphql} from 'gatsby'
 import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
 
-export const CoachProfileTemplate = ({
-  content,
-  contentComponent,
-  title,
-  jobTitle,
-  photo,
-  tags,
-  helmet
-}) => {
-  const PostContent = contentComponent || Content
+export class CoachProfileTemplate extends React.Component {
 
-  return (
-    <section className="section"> 
-      {helmet}
-      <div className="container content">
-        <h1 className="title">
-          {title}
-        </h1>
-        <h2 className="job-title" >
-          {jobTitle}
-        </h2>
-        <img src={photo} alt={title}/>
-        <PostContent content={content} />
-        {tags && tags.length ? (
-          <div style={{ marginTop: `4rem` }}>
-            <h4>Tags</h4>
-            <ul className="taglist">
-              {tags.map(tag => (
-                <li key={tag + `tag`}>
-                  <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-        ) : null}
-      </div>
-    </section>
-  )
+  render() {
+    return (
+      <section className="section"> 
+        Testing
+        {this.props.coach.coachName}
+      </section>
+    )
+  }
+
 }
 
-CoachProfileTemplate.propTypes = {
-  content: PropTypes.string.isRequired,
-  contentComponent: PropTypes.func,
-  title: PropTypes.string,
-  helmet: PropTypes.object,
-}
+// CoachProfileTemplate.propTypes = {
+//   content: PropTypes.string.isRequired,
+//   contentComponent: PropTypes.func,
+//   title: PropTypes.string,
+//   helmet: PropTypes.object,
+// }
 
-const CoachProfile = ({ data }) => {
-  const { markdownRemark: coach } = data
+export const CoachProfile = ({ data }) => {
+  const { context: coach } = data.coachQuery
 
+  console.log(coach)
   return (
     <Layout>
       <CoachProfileTemplate
-        content={coach.html}
-        contentComponent={HTMLContent}
-        helmet={<Helmet title={`${coach.frontmatter.title}'s Profile`} />}
-        tags={coach.frontmatter.tags}
-        photo={coach.frontmatter.photo}
-        title={coach.frontmatter.title}
-        jobTitle={coach.frontmatter.jobTitle}
-      />      
+        coach={coach}
+      />
     </Layout>
   )
 }
 
-CoachProfile.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
-  }),
-}
+// CoachProfile.propTypes = {
+//   data: PropTypes.shape({
+//     markdownRemark: PropTypes.object,
+//   }),
+// }
 
 export default CoachProfile
 
 export const pageQuery = graphql`
-  query CoachProfileByID($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+  query coachProfileQuery($path: String!) {
+    coachQuery: sitePage(path: { eq: $path }) {
       id
-      html
-      frontmatter {
-        title
-        tags
+      context {
+        coachName
         jobTitle
         photo
+        tags
       }
     }
   }

@@ -13,18 +13,19 @@ export class CoachThumb extends React.Component {
 
   render(){
     const {coach} = this.props;
+    console.log(coach);
     return (
       <div onClick={this.handleClick}>
         <div 
           className="coach" 
-          style={{backgroundImage: `url(${coach.frontmatter.photo}`}}
+          style={{backgroundImage: `url(${coach.photo}`}}
           onClick={this.handleLightboxOpen}
         >
           <h3>
-            {coach.frontmatter.title}
+            {coach.coachName}
           </h3>
           <h4>
-            {coach.frontmatter.jobTitle}
+            {coach.jobTitle}
           </h4>  
         </div>
 

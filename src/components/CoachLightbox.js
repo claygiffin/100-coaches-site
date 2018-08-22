@@ -11,18 +11,18 @@ export class CoachLightbox extends React.Component {
       <Lightbox 
         openState={this.props.openState}
         onClose={this.props.onClose}
-        slug={coach.fields.slug}
+        slug={coach.coachName.toString()}
       >
         <div 
           className="coach" 
-          style={{backgroundImage: `url(${coach.frontmatter.photo}`}}
+          style={{backgroundImage: `url(${coach.photo}`}}
         >
-          <Helmet title={`${coach.frontmatter.title}'s Profile`} />
+          <Helmet title={`${coach.coachName}'s Profile`} />
           <h1>
-            {coach.frontmatter.title}
+            {coach.coachName}
           </h1>
           <h2>
-            {coach.frontmatter.jobTitle}
+            {coach.jobTitle}
           </h2>    
           <PostContent content={coach.html} />
         </div>

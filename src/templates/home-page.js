@@ -8,7 +8,7 @@ import CoachLightbox from '../components/CoachLightbox'
 
 export const HomePage = ({data}) => {
   const page = data.pageQuery
-  const { edges: coaches } = data.coachQuery
+  const coaches = data.coachQuery.edges
 
   return (
     <Layout>
@@ -51,9 +51,9 @@ export class HomePageTemplate extends React.Component {
     this.setState({
       activeCoach: this.state.activeCoach,
     });
-    let slug = this.state.activeCoach[0].fields.slug;
-    window.history.pushState({page: slug}, null, `${slug}`);
-    document.body.classList.add('lightbox-open');
+    // let slug = this.state.activeCoach[0].fields.slug;
+    // window.history.pushState({page: slug}, null, `${slug}`);
+    // document.body.classList.add('lightbox-open');
   }
 
   handleCoachClose(){
@@ -62,8 +62,8 @@ export class HomePageTemplate extends React.Component {
       coachLightboxOpen: false,
       activeCoach: []
     })
-    window.history.replaceState({page: 'home'}, null, `/`)
-    document.body.classList.remove('lightbox-open');
+    // window.history.replaceState({page: 'home'}, null, `/`)
+    // document.body.classList.remove('lightbox-open');
   }
   
   render() {
@@ -74,13 +74,16 @@ export class HomePageTemplate extends React.Component {
             <Link to="/about">read our story</Link>
             <section>
               <XScroller className="coaches">
-                {this.props.coaches.map(({ node: coach }) => (
-                  <CoachThumb coach={coach} key={coach.id} onClick={this.handleCoachClick} />
+                {this.props.coaches.map(({ node }) => (
+                  node.frontmatter.coachList.map(coach => (
+                    <CoachThumb coach={coach} key={coach.coachName} onClick={this.handleCoachClick} />
+                  ))
                 ))}
+
               </XScroller>
             </section>
           </div>
-          {this.state.coachLightboxOpen ? (
+          {this.state.coachLightboxOpen ? ( 
             <CoachLightbox 
               openState={this.state.coachLightboxOpen} 
               onClose={this.handleCoachClose}
@@ -101,21 +104,16 @@ export const indexPageQuery = graphql`
       }
     }
     coachQuery: allMarkdownRemark(
-      filter: { frontmatter: { templateKey: { eq: "coach-profile" } }}
+      filter: { frontmatter: { templateKey: { eq: "coaches-page" } }}
     ) {
       edges {
         node {
-          id
-          html
-          fields {
-            slug
-          }
           frontmatter {
-            title
-            templateKey
-            jobTitle
-            photo
-            tags
+            coachList {
+              coachName
+              jobTitle
+              photo
+            }
           }
         }
       }
