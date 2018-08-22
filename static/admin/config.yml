@@ -23,8 +23,8 @@ collections:
     label: Coaches
     files:
       - file: src/pages/coaches/index.md
-        label: coaches
-        name: Coaches
+        label: Coaches
+        name: coaches
         fields:
           - {label: Template Key, name: templateKey, widget: hidden, default: coaches-page}
           - label: Coaches List
@@ -45,7 +45,7 @@ collections:
         name: home
         fields:
           - {label: Template Key, name: templateKey, widget: hidden, default: home-page}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Link Text, name: linkText, widget: string}]}
+          - {label: Intro, name: intro, widget: list, fields: [{label: Heading, name: heading, widget: string}, {label: Link Text, name: linkText, widget: string}]}
 
       - file: src/pages/about/index.md
         label: About
