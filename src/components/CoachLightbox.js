@@ -11,7 +11,6 @@ export class CoachLightbox extends React.Component {
       <Lightbox 
         openState={this.props.openState}
         onClose={this.props.onClose}
-        slug={coach.coachName.toString()}
       >
         <div 
           className="coach" 
@@ -24,7 +23,7 @@ export class CoachLightbox extends React.Component {
           <h2>
             {coach.jobTitle}
           </h2>    
-          <PostContent content={coach.html} />
+          <PostContent content={coach.body} />
         </div>
       </Lightbox>      
     )

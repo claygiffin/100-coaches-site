@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
+import { kebabCase } from 'lodash'
 import Layout from '../components/Layout'
 import CoachThumb from '../components/CoachThumb'
 import XScroller from '../components/XScroller'
@@ -47,13 +48,14 @@ export class HomePageTemplate extends React.Component {
       coachLightboxOpen: true,
       activeCoach: []
     })
-    this.state.activeCoach.unshift(coach);
+    this.state.activeCoach.push(coach);
+    console.log(this.state.activeCoach)
     this.setState({
       activeCoach: this.state.activeCoach,
     });
-    // let slug = this.state.activeCoach[0].fields.slug;
-    // window.history.pushState({page: slug}, null, `${slug}`);
-    // document.body.classList.add('lightbox-open');
+    let slug = `coaches/${kebabCase(this.state.activeCoach[0].coachName)}/`;
+    window.history.pushState({page: slug}, null, `${slug}`);
+    document.body.classList.add('lightbox-open');
   }
 
   handleCoachClose(){
@@ -62,8 +64,8 @@ export class HomePageTemplate extends React.Component {
       coachLightboxOpen: false,
       activeCoach: []
     })
-    // window.history.replaceState({page: 'home'}, null, `/`)
-    // document.body.classList.remove('lightbox-open');
+    window.history.replaceState({page: 'home'}, null, `/`)
+    document.body.classList.remove('lightbox-open');
   }
   
   render() {
@@ -110,6 +112,7 @@ export const indexPageQuery = graphql`
         node {
           frontmatter {
             coachList {
+              body
               coachName
               jobTitle
               photo
