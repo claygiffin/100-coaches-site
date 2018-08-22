@@ -1,15 +1,16 @@
 ---
-templateKey: 'coaches-page'
-path: /coaches
-coachList: 
-  - coachName: Jane Doe
+templateKey: coaches-page
+coachList:
+  - body: Hi! This is a test of the bio section
+    coachName: Jane Doe
     jobTitle: The Boss
     photo: /img/products-grid2.jpg
     tags:
       - Consultant
       - Writer
       - Trickster
-  - coachName: John Smith
+  - body: This is another test of the bio section
+    coachName: John Smith
     jobTitle: The Dude
     photo: /img/products-grid1.jpg
     tags:
@@ -17,3 +18,4 @@ coachList:
       - Author
       - Master of None
 ---
+
