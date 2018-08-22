@@ -13,7 +13,6 @@ export class CoachThumb extends React.Component {
 
   render(){
     const {coach} = this.props;
-    console.log(coach);
     return (
       <div onClick={this.handleClick}>
         <div 

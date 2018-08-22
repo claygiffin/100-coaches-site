@@ -44,17 +44,15 @@ export class HomePageTemplate extends React.Component {
 
   handleCoachClick(coach){
     console.log('coach is clicked');
+    console.log(coach);
     this.setState({
       coachLightboxOpen: true,
-      activeCoach: []
+      activeCoach: coach
     })
-    this.state.activeCoach.push(coach);
-    console.log(this.state.activeCoach)
-    this.setState({
-      activeCoach: this.state.activeCoach,
-    });
-    let slug = `coaches/${kebabCase(this.state.activeCoach[0].coachName)}/`;
-    window.history.pushState({page: slug}, null, `${slug}`);
+    console.log(this.state.activeCoach);
+    let coachName = coach.coachName;
+    let slug = `/coaches/${kebabCase(coachName)}/`;
+    window.history.pushState({page: coachName}, null, `${slug}`);
     document.body.classList.add('lightbox-open');
   }
 
@@ -89,7 +87,7 @@ export class HomePageTemplate extends React.Component {
             <CoachLightbox 
               openState={this.state.coachLightboxOpen} 
               onClose={this.handleCoachClose}
-              coach={this.state.activeCoach[0]}
+              coach={this.state.activeCoach}
             />
           ) : null }
         </div>        
