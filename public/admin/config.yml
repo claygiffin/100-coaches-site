@@ -49,7 +49,7 @@ collections:
             name: intro
             widget: object
             fields: 
-              - {label: Intro Text, name: introText, widget: text}
+              - {label: Intro Text, name: text, widget: text}
               - {label: Link Text, name: linkText, widget: string}
           - label: Coaches
             name: coaches
