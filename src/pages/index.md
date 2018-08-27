@@ -12,6 +12,7 @@ coaches:
     committed to achieving positive lasting change. 
   title: Our Members
 consultancy:
+  linkText: Get Started
   text: >-
     Selected by Marshall Goldsmith, 100 Coaches offers a collection of the best
     executive coaches in the world. We help successful leaders reach their full
