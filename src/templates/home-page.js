@@ -75,7 +75,7 @@ export class HomePageTemplate extends React.Component {
         <div id="main-content-wrap">
           <div id="main-content">
             <section>
-              <Hero backgroundVideo={this.props.intro.background} >
+              <Hero>
                 <h1>{this.props.title}</h1>
                 <img src={logoOnColor} alt={this.props.title} />
                 <div className="intro-text">{this.props.intro.introText}</div>
@@ -116,7 +116,16 @@ export const indexPageQuery = graphql`
       html
       frontmatter {
         intro {
-          introText
+          text
+          linkText
+        }
+        coaches {
+          headline
+          text
+        }
+        consultancy {
+          headline
+          text
           linkText
         }
       }

@@ -49,9 +49,21 @@ collections:
             name: intro
             widget: object
             fields: 
-              - {label: Intro Text, name: introText, widget: string}
+              - {label: Intro Text, name: introText, widget: text}
               - {label: Link Text, name: linkText, widget: string}
-              - {label: Background, name: background, widget: youtube, extraInfo: true, APIkey: $YOUTUBE_API }
+          - label: Coaches
+            name: coaches
+            widget: object
+            fields: 
+              - {label: Section Title, name: title, widget: string}
+              - {label: Text, name: text, widget: text}
+          - label: Consultancy
+            name: consultancy
+            widget: object
+            fields:
+              - {label: Section Title, name: title, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Link Text, name: linkText, widget: string}
 
       - file: src/pages/about/index.md
         label: About
