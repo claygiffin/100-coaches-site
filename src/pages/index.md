@@ -9,7 +9,7 @@ intro:
 coaches:
   text: >-
     Members of 100 Coaches are an elite group of leaders, thinkers, and coaches
-    commited to achieving positive lasting change. 
+    committed to achieving positive lasting change. 
   title: Our Members
 consultancy:
   text: >-
