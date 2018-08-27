@@ -45,8 +45,13 @@ collections:
         name: home
         fields:
           - {label: Template Key, name: templateKey, widget: hidden, default: home-page}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Link Text, name: linkText, widget: string}]}
-          - {label: List Test, name: listTest, widget: list, fields: [{label: Text Field, name: textField, widget:string}]}
+          - label: Intro
+            name: intro
+            widget: object
+            fields: 
+              - {label: Intro Text, name: introText, widget: string}
+              - {label: Link Text, name: linkText, widget: string}
+              - {label: Background, name: background, widget: youtube, extraInfo: true, APIkey: $YOUTUBE_API }
 
       - file: src/pages/about/index.md
         label: About

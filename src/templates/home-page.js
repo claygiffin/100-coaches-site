@@ -6,15 +6,19 @@ import Layout from '../components/Layout'
 import CoachThumb from '../components/CoachThumb'
 import XScroller from '../components/XScroller'
 import CoachLightbox from '../components/CoachLightbox'
+import Hero from '../components/Hero'
+import logoOnColor from '../img/100Coaches_logo_onColor.svg'
 
 export const HomePage = ({data}) => {
   const page = data.pageQuery
   const coaches = data.coachQuery.edges
+  const metaQuery = data.site.siteMetadata
 
   return (
     <Layout>
       <HomePageTemplate 
-        title={page.frontmatter.title}
+        title={metaQuery.title}
+        intro={page.frontmatter.intro}
         coaches={coaches}
       />
     </Layout>
@@ -70,8 +74,14 @@ export class HomePageTemplate extends React.Component {
     return (
         <div id="main-content-wrap">
           <div id="main-content">
-            <h1> Test: {this.props.title}</h1>
-            <Link to="/about">read our story</Link>
+            <section>
+              <Hero backgroundVideo={this.props.intro.background} >
+                <h1>{this.props.title}</h1>
+                <img src={logoOnColor} alt={this.props.title} />
+                <div className="intro-text">{this.props.intro.introText}</div>
+                <Link to="/about" className="text-link" >{this.props.intro.linkText}</Link>
+              </Hero>
+            </section>
             <section>
               <XScroller className="coaches">
                 {this.props.coaches.map(({ node }) => (
@@ -97,10 +107,18 @@ export class HomePageTemplate extends React.Component {
 
 export const indexPageQuery = graphql`
   query IndexQuery($id: String!) {
+    site {
+      siteMetadata {
+        title
+      }
+    }
     pageQuery: markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
-        title
+        intro {
+          introText
+          linkText
+        }
       }
     }
     coachQuery: allMarkdownRemark(
