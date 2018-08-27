@@ -55,13 +55,13 @@ collections:
             name: coaches
             widget: object
             fields: 
-              - {label: Section Title, name: title, widget: string}
+              - {label: Section Heading, name: headline, widget: string}
               - {label: Text, name: text, widget: text}
           - label: Consultancy
             name: consultancy
             widget: object
             fields:
-              - {label: Section Title, name: title, widget: string}
+              - {label: Section Heading, name: headline, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Link Text, name: linkText, widget: string}
 
