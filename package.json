@@ -25,6 +25,9 @@
     "react": "^16.2.0",
     "react-dom": "^16.4.1",
     "react-helmet": "^5.2.0",
+    "remark": "^9.0.0",
+    "remark-html": "^8.0.0",
+    "remark-preset-lint-recommended": "^3.0.2",
     "uuid": "^3.2.1"
   },
   "keywords": [
