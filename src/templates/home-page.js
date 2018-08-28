@@ -19,7 +19,9 @@ export const HomePage = ({data}) => {
       <HomePageTemplate 
         title={metaQuery.title}
         intro={page.frontmatter.intro}
+        coachesSection={page.frontmatter.coaches}
         coaches={coaches}
+        consultancy={page.frontmatter.consultancy}
       />
     </Layout>
   )
@@ -74,23 +76,29 @@ export class HomePageTemplate extends React.Component {
     return (
         <div id="main-content-wrap">
           <div id="main-content">
-            <section>
+            <section id="intro">
               <Hero>
                 <h1>{this.props.title}</h1>
                 <img src={logoOnColor} alt={this.props.title} />
-                <div className="intro-text">{this.props.intro.introText}</div>
+                <div className="intro-text">{this.props.intro.text}</div>
                 <Link to="/about" className="text-link" >{this.props.intro.linkText}</Link>
               </Hero>
             </section>
-            <section>
+            <section id="coaches">
+              <h3>{this.props.coachesSection.headline}</h3>
+              <div className="intro-text">{this.props.coaches.text}</div>
               <XScroller className="coaches">
                 {this.props.coaches.map(({ node }) => (
                   node.frontmatter.coachList.map(coach => (
                     <CoachThumb coach={coach} key={coach.coachName} onClick={this.handleCoachClick} />
                   ))
                 ))}
-
               </XScroller>
+            </section>
+            <section id="consultancy">
+              <h3>{this.props.consultancy.headline}</h3>
+              <div className="intro-text">{this.props.consultancy.text}</div>
+              <Link to="/">{this.props.consultancy.linkText}</Link>
             </section>
           </div>
           {this.state.coachLightboxOpen ? ( 
