@@ -341,8 +341,61 @@ coachList:
       complemented by a deep understanding of how executives create and destroy
       value, having spent nearly a decade as an Institutional Investor-ranked
       equity analyst on Wall Street.
+
+
+      **Professional / Coaching Experience:**
+
+
+      * Thinkers 50, Leading Business Thinker Globally
+
+      * Finalist for Top Thinker on Talent, Thinkers 50, 2015
+
+      * Host, Disrupt Yourself Podcast; guests include Susan Cain, author of
+      bestseller Quiet, Patrick Pichette, former CFO of Google
+
+      * Coach C-Suite executives across a variety of industries and companies,
+      from start-ups to P&Ls of $10bn+
+
+      * Coach for Harvard Business School Executive Education
+
+      * Original Cohort of 15, Marshall Goldsmith’s #100 Coaches
+
+      * Top 100 Best Coaches Award – World HRD Congress (India)
+
+      * Harvard Medical School Institute of Coaching – Member
+
+      * Master Certified Coach – Marshall Goldsmith’s Stakeholder-Centered
+      Coaching
+
+      * Experience
+
+      * Co-founded with Clayton Christensen: Rose Park Advisors – Disruptive
+      Innovation Fund
+
+      * Former Institutional Investor-ranked sell-side analyst on Wall Street
+
+      * Author, Disrupt Yourself: Putting the Power of Disruptive Innovation to
+      Work
+
+      * Keynote speaker on innovation, having delivered speeches to audiences of
+      over 50,000
+
+      * Regular contributor to Harvard Business Review; article, “Disrupt
+      Yourself,” was included in publication from HBR on Leading Change,
+      featuring Clayton Christensen, John Kotter, among others.
+
+      * Board Member, Business Innovation Factory
+
+      * Advisory Board Member, Chatbooks
     coachName: Whitney Johnson
     jobTitle: Author of "Disrupt Yourself"
+    links:
+      twitter: johnsonwhitney
     photo: /img/whitney-johnson.jpg
+    tags:
+      - Thinkers 50
+      - Executive Coach
+      - Speaker
+      - Author
 ---
 
