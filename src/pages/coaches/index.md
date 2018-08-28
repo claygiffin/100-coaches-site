@@ -399,27 +399,23 @@ coachList:
 
       > Playing it safe is not safe in today’s fast-paced marketplace. Disrupt
       Yourself is a must-read for anyone looking to stand out from the crowd and
-      pursue innovation in our highly uncertain business climate.
-      >
+      pursue innovation in our highly uncertain business climate. >
 
       —Eric Ries, bestselling author of The Lean Start-up
-      
-      
+
+
       > I’ve worked with several coaches over the years. I’ve accomplished more
-      with Whitney than any of the others.
-      >
+      with Whitney than any of the others. >
 
       —Angela Blanchard, CEO, Neighborhood Centers, Houston, TX
        
-      
+
       > Wow! Disrupt Yourself wins the ‘plain English’ award–which is to say,
       I’ve seldom, if ever, read a better written business/career development
       book. The advice is compelling, clear-as-a-bell, research-based and
-      actionable.
-      >
-      
-      —Tom Peters, best-selling author of In Search of Excellence
+      actionable. >
 
+      —Tom Peters, best-selling author of In Search of Excellence
     coachName: Whitney Johnson
     jobTitle: Author of "Disrupt Yourself"
     links:
@@ -463,11 +459,9 @@ coachList:
       committed to think about for myself and what I’m doing, I’d pick Michael
       Bungay Stanier. He has an ability to shake our tree and make us more
       conscious and responsible about what we know but aren’t willing to admit
-      we know yet.
-      >
+      we know yet. >
 
       _—David Allen, author of Getting Things Done_
-
     coachName: Michael Bungay Stanier
     jobTitle: Senior Partner at Box of Crayons
     photo: /img/michael-bungay-stanier.jpg
