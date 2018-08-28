@@ -27,15 +27,25 @@ collections:
         name: coaches
         fields:
           - {label: Template Key, name: templateKey, widget: hidden, default: coaches-page}
-          - label: Coaches List
+          - label: Coaches
+            label_singular: Coach
             name: coachList
             widget: list
             fields:
               - {label: Name, name: coachName, widget: string}
-              - {label: Professional Title, name: jobTitle, widget: string, pattern: ['^.{1,25}$', 'Limit 25 characters']}
+              - {label: Professional Title, name: jobTitle, widget: string, pattern: ['^.{1,75}$', 'Limit 75 characters']}
               - {label: Photo, name: photo, widget: image}
-              - {label: Bio, name: body, widget: markdown, buttons: [bold, italic, link]}
+              - {label: Bio, name: body, widget: markdown, buttons: [bold, italic, link, bulleted-list, numbered-list]}
               - {label: Tags, name: tags, widget: list}
+              - label: Links
+                name: links
+                widget: object
+                fields:
+                  - {label: Website, name: website, widget: string, hint: 'Website URL (ex: www.mysite.com)' }
+                  - {label: LinkedIn, name: linkedin, widget: string, hint: 'LinkedIn ID (found at the end of your LinkedIn profile URL)' }
+                  - {label: Twitter, name: twitter, widget: string, hint: 'Twitter Handle (do not include "@" symbol)' }
+                  - {label: Facebook, name: facebook, widget: string, hint: 'Facebook ID (found at the end of your Facebook profile URL)' }
+                  - {label: Instagram, name: instagram, widget: string, hint: 'Instagram Handle (do not include "@" symbol)' }
 
   - name: pages
     label: Pages
