@@ -73,7 +73,11 @@ coachList:
     coachName: Frances Hesselbein
     jobTitle: 'Former CEO of Girl Scouts of America, Editor of Leader to Leader Journal'
     links:
+      facebook: ''
+      instagram: ''
+      linkedin: ''
       twitter: ToServeIsToLive
+      website: ''
     photo: /img/frances-hesselbein.jpg
     tags:
       - Iconic Leader
