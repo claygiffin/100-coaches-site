@@ -473,8 +473,5 @@ coachList:
       - Executive Coach
       - Author
       - Entrepreneur
-  - bio: Lorem ipsum comet dolor
-    coachName: Joe Schmoe
-    photo: /img/michael-bungay-stanier.jpg
 ---
 
