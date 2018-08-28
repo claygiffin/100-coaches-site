@@ -141,5 +141,208 @@ coachList:
       - Iconic Leader
       - Entrepreneur
       - Corporate Leader
+  - body: >-
+      Jim Yong Kim, M.D., Ph.D., is the 12th President of the World Bank Group.
+      Soon after he assumed his position in July 2012, the organization
+      established two goals to guide its work: to end extreme poverty by 2030;
+      and to boost shared prosperity, focusing on the bottom 40% of the
+      population in developing countries. In September 2016, the World Bank
+      Group Board unanimously reappointed Kim to a second five-year term as
+      President.
+
+
+      Kim’s career has revolved around health, education, and improving the
+      lives of the poor. Before joining the World Bank Group, Kim, a physician
+      and anthropologist, served as the President of Dartmouth College and held
+      professorships at Harvard Medical School and the Harvard School of Public
+      Health. From 2003 to 2005, as director of the World Health Organization’s
+      HIV/AIDS department, he led the “3 by 5” initiative, the first-ever global
+      goal for AIDS treatment, which greatly to expand access to antiretroviral
+      medication in developing countries. In 1987, Kim co- founded Partners In
+      Health, a non-profit medical organization that now works in poor
+      communities on four continents.
+
+
+      Kim has received a MacArthur “Genius” Fellowship, was recognized as one of
+      America’s “25 Best Leaders” by U.S. News & World Report, and was named one
+      of TIME magazine’s “100 Most Influential People in the World.”
+    coachName: Kim Yong Kim
+    jobTitle: >-
+      Right now, the "add" button uses whichever label is being applied to the
+      label property of a list. However, the add button only adds a singular
+      item to a list, so it does not make sense to ever use the plural label
+      there if a singular label is available. 
+    photo: /img/jim-yong-kim.jpg
+    tags:
+      - Iconic Leader
+      - Non-Profit
+  - body: >-
+      Alexander Osterwalder is an entrepreneur, speaker and business model
+      innovator. He is co-founder of Strategyzer, a leading SaaS company that
+      helps organizations develop new growth engines, better value propositions
+      und powerful business models via online applications and facilitated
+      online courses.
+
+
+      In 2015 Alex won the strategy award by Thinkers50, called the “Oscars of
+      Management Thinking” by the FT, and ranks #15 among the leading business
+      thinkers of the world. In 2013 he won the inaugural Innovation Luminary
+      Award by the European Union.
+
+
+      Alex is lead author of Business Model Generation and Value Proposition
+      Design, which sold over a million copies in 37 languages. USA Today named
+      Business Model Generation among the 12 best business books of all times.
+      The German edition was named Management Book of the Year 2011. Fast
+      Company Magazine named it one of the Best Books for Business Owners in
+      2010.
+
+
+      He crafted the first book with his long-time co-author and former PhD
+      supervisor Professor Yves Pigneur and 470 collaborators from 45 countries.
+      It was initially self-published in 2009 with an innovative crowd-funded
+      business model.
+
+
+      Alex invented the Business Model Canvas, a strategic management tool to
+      visualize, challenge and (re-) invent business models. Leading
+      organizations and start-ups around the world use it. He is a frequent
+      keynote speaker at Fortune 500 companies and has held guest lectures in
+      top universities around the world, including Wharton, Stanford, Berkeley,
+      IESE, MIT, KAUST and IMD.
+
+
+      Previous start-ups include netfinance.ch and Arvetica. Alexander holds a
+      PhD from HEC Lausanne, Switzerland, and he is a founding member of The
+      Constellation, a global not-for-profit organization aiming to make
+      HIV/AIDS and Malaria history.
+    coachName: Alexander Osterwalder
+    jobTitle: Co-founder of Strategyzer
+    photo: /img/alexander-osterwalder.jpg
+    tags:
+      - Thinkers 50
+      - Speaker
+      - Entrepreneur
+  - body: >-
+      Rita Gunther McGrath is a globally recognized expert on strategy,
+      innovation, and growth with an emphasis on corporate entrepreneurship. Her
+      work and ideas help CEOs and senior executives chart a pathway to success
+      in today’s rapidly changing and volatile environments. McGrath is highly
+      valued for her rare ability to connect research to business problems and
+      in 2016 received the “Theory to Practice” award at the [Vienna Strategy
+      Forum](http://www.strategieforum.at/).
+
+
+      Recognized as one of the top 10 management thinkers by global management
+      award [Thinkers50](http://thinkers50.com/t50-ranking/2015-2/) in 2017,
+      2015 and 2013, McGrath also received the award for outstanding achievement
+      in the Strategy category. She is a highly sought after speaker at
+      corporate events, such as the Yale CEO Summit, the Innosight CEO Summit
+      and at the World Economic Forum meeting in Davos. McGrath has also been
+      inducted into the Strategic Management Society “Fellows” in recognition of
+      her impact on the field.
+
+
+      McGrath is often cited in the press, including the Wall Street Journal,
+      New York Times, Washington Post, Financial Times, and NPR’s Marketplace.
+      She maintains an active social media presence, and has been rated one of
+      the 25 smartest women to follow on Twitter by [Fast Company
+      Magazine](http://www.fastcompany.com/3016225/dialed/25-of-the-smartest-women-on-twitter).
+      She consistently appears in rankings of the top business school professors
+      to follow on Twitter. McGrath was voted HR Magazine’s Most Influential
+      International Thinker, writes regularly for Fortune magazine’s [online
+      edition](http://www.fastcompany.com/3016225/dialed/25-of-the-smartest-women-on-twitter),
+      is a regular contributor to the Wall Street Journal’s [The
+      Experts](http://blogs.wsj.com/experts/tag/rita-gunther-mcgrath/) column
+      and blogs regularly at HBR.org.
+
+
+      McGrath is one of the most widely published authors in the [Harvard
+      Business Review](https://hbr.org/search?term=rita%2520mcgrath), including
+      the best-selling “Discovery Driven Planning” (1995), which was recognized
+      as an early articulation of today’s “lean” startup philosophy and has been
+      praised by Clayton Christensen as ‘one of the most important ideas in
+      management – ever.’ Her related book, Discovery Driven Growth: A
+      Breakthrough Process to Reduce Risk and Seize Opportunity (2009) is a deep
+      dive into how to put the technique to work. Her next project, tentatively
+      entitled Discovery Driven Advantage examines how companies can build true
+      proficiency in innovation.
+
+
+      McGrath’s best-selling book, The End of Competitive Advantage: How to Keep
+      Your Strategy Moving as Fast as Your Business, was recognized by
+      Strategy+Business as the #1 business book of the year. She has co-authored
+      two more books: MarketBusters: 40 Strategic Moves that Drive Exceptional
+      Business Growth (2005); and The Entrepreneurial Mindset (2000), all
+      published by Harvard Business Review Press.MarketBusters has been
+      translated into ten languages and was named one of the [best business
+      books](http://www.strategy-business.com/article/00223a) of 2005 by
+      Strategy+Business.
+
+
+      Rita joined the faculty of Columbia Business School in 1993. Prior to life
+      in academia, she was an IT director, worked in the political arena, and
+      founded two startups. She received her Ph.D. from the Wharton School,
+      University of Pennsylvania and has degrees with honors from Barnard
+      College and the Columbia School of International and Public Affairs. She
+      is married and is proud to be the mother of two delightful grownups.
+    coachName: Rita McGrath
+    jobTitle: 'Globally recognized expert on strategy, innovation, and growth'
+    photo: /img/rita_mcgrath_headshot.jpg
+    tags:
+      - Thinkers 50
+      - Author
+      - Entrepreneur
+  - body: >-
+      Thinkers 50 #9 Management Thinker – 2015, #1 Leadership Thinker 2013,
+      author and Professor at INSEAD.
+
+
+      Herminia Ibarra is the Cora Chaired Professor of Leadership and Learning,
+      and Professor of Organisational Behaviour at INSEAD. Prior to joining
+      INSEAD she served on the Harvard Business School faculty for thirteen
+      years. She is a member of the World Economic Forum Global Agenda Councils,
+      a judge for the Financial Times and McKinsey Business Book of the Year
+      Award, and Chairs the Visiting Committee of the Harvard Business School.
+      Thinkers 50 ranked Ibarra #8 among the most influential business gurus in
+      the world.
+
+
+      Professor Ibarra is an expert on professional and leadership development.
+      Her most recent book, Act Like a Leader, Think Like a Leader (Harvard
+      Business School Press, 2015), explains how to step up to a bigger
+      leadership role. Her best-selling book, Working Identity: Unconventional
+      Strategies for Reinventing Your Career (HBSP, 2003) describes how people
+      reinvent their careers.
+
+
+      Ibarra is the author of numerous articles in the Harvard Business Review,
+      Administrative Science Quarterly, Academy of Management Review, Academy of
+      Management Journal, and Organization Science and writes frequently for
+      business media including The Wall Street Journal, Financial Times, and New
+      York Times. She directs Leadership Transition, an executive program
+      designed for managers moving into broader leadership roles and speaks
+      internationally on leadership, talent management, and women’s careers.
+    coachName: Herminia Ibarra
+    jobTitle: Chaired Professor at INSEAD
+    photo: /img/ibarra-photo.jpg
+    tags:
+      - Thinkers 50
+      - Author
+      - Educator
+  - body: >-
+      Recognized as one of the 50 leading business thinkers in the world by
+      Thinkers50. Whitney Johnson is an expert on disruptive innovation and
+      personal disruption; specifically, a framework which she codified in the
+      critically-acclaimed book Disrupt Yourself: Putting the Power of
+      Disruptive Innovation to Work. She developed her proprietary framework and
+      diagnostics after having co-founded the Disruptive Innovation Fund with
+      Harvard Business School’s Clayton Christensen. This framework is
+      complemented by a deep understanding of how executives create and destroy
+      value, having spent nearly a decade as an Institutional Investor-ranked
+      equity analyst on Wall Street.
+    coachName: Whitney Johnson
+    jobTitle: Author of "Disrupt Yourself"
+    photo: /img/whitney-johnson.jpg
 ---
 
