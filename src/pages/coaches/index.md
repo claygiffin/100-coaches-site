@@ -404,18 +404,14 @@ coachList:
       >
 
       > —Eric Ries, bestselling author of The Lean Start-up
-
-      >
-
+       
       > I’ve worked with several coaches over the years. I’ve accomplished more
       with Whitney than any of the others.
 
       >
 
       > —Angela Blanchard, CEO, Neighborhood Centers, Houston, TX
-
-      >
-
+       
       > Wow! Disrupt Yourself wins the ‘plain English’ award–which is to say,
       I’ve seldom, if ever, read a better written business/career development
       book. The advice is compelling, clear-as-a-bell, research-based and
