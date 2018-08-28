@@ -145,7 +145,7 @@ export const indexPageQuery = graphql`
         node {
           frontmatter {
             coachList {
-              body
+              bio
               coachName
               jobTitle
               photo

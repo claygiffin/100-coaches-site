@@ -1,7 +1,7 @@
 ---
 templateKey: coaches-page
 coachList:
-  - body: >-
+  - bio: >-
       One of the most highly respected experts in the field of contemporary
       leadership development, Frances Hesselbein is the namesake for The Frances
       Hesselbein Leadership Forum in the Graduate School of Public and
@@ -80,7 +80,7 @@ coachList:
       - Author
       - Entrepreneur
       - Non-Profit
-  - body: >-
+  - bio: >-
       Alan Mulally served as president and chief executive officer of The Ford
       Motor Company and as a member of Ford’s board of directors from September
       2006 – June 2014.
@@ -143,7 +143,7 @@ coachList:
       - Iconic Leader
       - Entrepreneur
       - Corporate Leader
-  - body: >-
+  - bio: >-
       Jim Yong Kim, M.D., Ph.D., is the 12th President of the World Bank Group.
       Soon after he assumed his position in July 2012, the organization
       established two goals to guide its work: to end extreme poverty by 2030;
@@ -178,7 +178,7 @@ coachList:
     tags:
       - Iconic Leader
       - Non-Profit
-  - body: >-
+  - bio: >-
       Alexander Osterwalder is an entrepreneur, speaker and business model
       innovator. He is co-founder of Strategyzer, a leading SaaS company that
       helps organizations develop new growth engines, better value propositions
@@ -229,7 +229,7 @@ coachList:
       - Thinkers 50
       - Speaker
       - Entrepreneur
-  - body: >-
+  - bio: >-
       Rita Gunther McGrath is a globally recognized expert on strategy,
       innovation, and growth with an emphasis on corporate entrepreneurship. Her
       work and ideas help CEOs and senior executives chart a pathway to success
@@ -299,7 +299,7 @@ coachList:
       - Thinkers 50
       - Author
       - Entrepreneur
-  - body: >-
+  - bio: >-
       Thinkers 50 #9 Management Thinker – 2015, #1 Leadership Thinker 2013,
       author and Professor at INSEAD.
 
@@ -338,7 +338,7 @@ coachList:
       - Thinkers 50
       - Author
       - Educator
-  - body: >-
+  - bio: >-
       Recognized as one of the 50 leading business thinkers in the world by
       Thinkers50. Whitney Johnson is an expert on disruptive innovation and
       personal disruption; specifically, a framework which she codified in the
@@ -453,7 +453,7 @@ coachList:
       - Executive Coach
       - Speaker
       - Author
-  - body: >-
+  - bio: >-
       Michael Bungay Stanier is the Senior Partner of Box of Crayons, a company
       that helps organizations do less Good Work and more Great Work. Box of
       Crayons is best known for its coaching programs, which give busy managers

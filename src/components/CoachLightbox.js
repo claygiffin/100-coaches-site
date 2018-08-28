@@ -23,7 +23,7 @@ export class CoachLightbox extends React.Component {
           <h2>
             {coach.jobTitle}
           </h2>    
-          <PostContent content={coach.body} />
+          <PostContent content={coach.bio} />
         </div>
       </Lightbox>      
     )
