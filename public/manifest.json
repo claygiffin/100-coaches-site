@@ -1,7 +1,0 @@
-{
-  "main.js": "render-page.js",
-  "main.js.map": "render-page.js.map",
-  "static/100Coaches_logo.svg": "static/100Coaches_logo-6ef00d9291ae8a87421a169cb029bf01.svg",
-  "static/100Coaches_logo_knockout.svg": "static/100Coaches_logo_knockout-044ff47257bd67ac138545f50ba5f51b.svg",
-  "static/100Coaches_logo_onColor.svg": "static/100Coaches_logo_onColor-88bda53dc3cb513a30a9fb360ed72256.svg"
-}
