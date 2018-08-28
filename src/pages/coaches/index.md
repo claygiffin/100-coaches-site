@@ -72,6 +72,8 @@ coachList:
       Enduring Wisdom for Today’s Leaders.
     coachName: Frances Hesselbein
     jobTitle: 'Former CEO of Girl Scouts of America, Editor of Leader to Leader Journal'
+    links:
+      twitter: ToServeIsToLive
     photo: /img/frances-hesselbein.jpg
     tags:
       - Iconic Leader
@@ -218,6 +220,10 @@ coachList:
       HIV/AIDS and Malaria history.
     coachName: Alexander Osterwalder
     jobTitle: Co-founder of Strategyzer
+    links:
+      facebook: osterwalder
+      twitter: AlexOsterwalder
+      website: 'http://blog.strategyzer.com/'
     photo: /img/alexander-osterwalder.jpg
     tags:
       - Thinkers 50
@@ -325,6 +331,8 @@ coachList:
       internationally on leadership, talent management, and women’s careers.
     coachName: Herminia Ibarra
     jobTitle: Chaired Professor at INSEAD
+    links:
+      website: herminiaibarra.com
     photo: /img/ibarra-photo.jpg
     tags:
       - Thinkers 50
@@ -438,11 +446,62 @@ coachList:
     jobTitle: Author of "Disrupt Yourself"
     links:
       twitter: johnsonwhitney
+      website: ''
     photo: /img/whitney-johnson.jpg
     tags:
       - Thinkers 50
       - Executive Coach
       - Speaker
       - Author
+  - body: >-
+      Michael Bungay Stanier is the Senior Partner of Box of Crayons, a company
+      that helps organizations do less Good Work and more Great Work. Box of
+      Crayons is best known for its coaching programs, which give busy managers
+      practical tools so they can coach in 10 minutes or less.
+
+
+      On the way to founding Box of Crayons in 2002, Michael lived in Australia,
+      England, the United States and Canada, his current home.
+
+
+      He’s written two books that have each sold close to 100,000 copies, the
+      Wall Street Journal bestsellers _The Coaching Habit_ and _Do More Great
+      Work_. He’s proudest of End Malaria, a collection of essays about Great
+      Work by thought leaders that raised $400,000 for Malaria No More.
+
+
+      To balance all this out, Michael was banned from his high school
+      graduation for “the balloon incident,” was sued by one of his law school
+      lecturers for defamation and managed to give himself a concussion while
+      digging a hole as a labourer.
+
+
+      He was the first Canadian Coach of the Year, is a Rhodes Scholar, and in
+      2016 was recognized as the #2 Coaching Guru in the world.
+
+
+      > If I had to pick a person to have dinner with, when I need to be prodded
+      and challenged and inspired to think about the things I really am
+      committed to think about for myself and what I’m doing, I’d pick Michael
+      Bungay Stanier. He has an ability to shake our tree and make us more
+      conscious and responsible about what we know but aren’t willing to admit
+      we know yet.
+
+      >
+
+      > \
+
+      >
+
+      >
+
+      > —David Allen, author of Getting Things Done
+    coachName: Michael Bungay Stanier
+    jobTitle: Senior Partner at Box of Crayons
+    photo: /img/michael-bungay-stanier.jpg
+    tags:
+      - Executive Coach
+      - Author
+      - Entrepreneur
 ---
 
