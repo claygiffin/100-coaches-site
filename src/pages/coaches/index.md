@@ -173,11 +173,7 @@ coachList:
       America’s “25 Best Leaders” by U.S. News & World Report, and was named one
       of TIME magazine’s “100 Most Influential People in the World.”
     coachName: Kim Yong Kim
-    jobTitle: >-
-      Right now, the "add" button uses whichever label is being applied to the
-      label property of a list. However, the add button only adds a singular
-      item to a list, so it does not make sense to ever use the plural label
-      there if a singular label is available. 
+    jobTitle: President of the World Bank Group
     photo: /img/jim-yong-kim.jpg
     tags:
       - Iconic Leader
