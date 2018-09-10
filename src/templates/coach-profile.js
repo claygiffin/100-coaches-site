@@ -2,14 +2,16 @@ import React from 'react'
 // import PropTypes from 'prop-types'
 import {graphql} from 'gatsby'
 import Layout from '../components/Layout'
+import {markdownContent} from '../components/Content'
 
 export class CoachProfileTemplate extends React.Component {
 
   render() {
+    const Bio = markdownContent
     return (
       <section className="section"> 
-        Testing
         {this.props.coach.coachName}
+        <Bio content={this.props.coach.bio} />
       </section>
     )
   }
@@ -25,7 +27,6 @@ export class CoachProfileTemplate extends React.Component {
 
 export const CoachProfile = ({ data }) => {
   const { context: coach } = data.coachQuery
-
   console.log(coach)
   return (
     <Layout>
@@ -53,6 +54,10 @@ export const pageQuery = graphql`
         jobTitle
         photo
         tags
+        bio
+        links {
+          website
+        }
       }
     }
   }

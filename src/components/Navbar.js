@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logoDefault from '../img/100Coaches_logo.svg'
-import logoKnockout from '../img/100Coaches_logo_knockout.svg'
+import logoDefault from '../assets/100Coaches_logo.svg'
+import logoKnockout from '../assets/100Coaches_logo_knockout.svg'
 
 class Navbar extends React.Component {
   constructor(props){
@@ -9,19 +9,17 @@ class Navbar extends React.Component {
 
     this.state = {
       logo: logoDefault,
+      home: true
     }
   }
 
   render() {
     return (
-      <nav className="navbar">
-      <div className="container">
-        <div className="navbar-brand">
-          <Link to="/" className="navbar-item">
-            <img src={this.state.logo} alt="Marshall Goldsmith 100 Coaches" className="logo"/>
-          </Link>
-        </div>
-        <div className="navbar-start">
+      <nav className={`navbar ${this.state.home ? 'home' : ''}`}>
+        <Link to="/" className="navbar-brand">
+          <img src={this.state.logo} alt="Marshall Goldsmith 100 Coaches" className="logo"/>
+        </Link>
+        <div className="navbar-list">
           <Link className="navbar-item" activeClassName="active" to="/about">
             Our Story
           </Link>
@@ -29,14 +27,13 @@ class Navbar extends React.Component {
             The Coaches
           </Link>
         </div>
-      </div>
     </nav>
     )
   }
 
   componentDidMount(){
     const isRoot = window.location.pathname === "/";
-    isRoot ? this.setState({logo: logoKnockout}) : this.setState({logo: logoDefault})
+    isRoot ? this.setState({logo: logoKnockout, home: true}) : this.setState({logo: logoDefault, home: false})
   }
 }
 

@@ -4,15 +4,16 @@ import { Link, graphql } from 'gatsby'
 import { kebabCase } from 'lodash'
 import Layout from '../components/Layout'
 import CoachThumb from '../components/CoachThumb'
-import XScroller from '../components/XScroller'
+import Carousel from '../components/Carousel'
 import CoachLightbox from '../components/CoachLightbox'
 import Hero from '../components/Hero'
-import logoOnColor from '../img/100Coaches_logo_onColor.svg'
+import logoOnColor from '../assets/100Coaches_logo_onColor.svg'
+import videoMp4 from '../assets/100-coaches-video-example.mp4'
 
 export const HomePage = ({data}) => {
   const page = data.pageQuery
-  const coaches = data.coachQuery.edges
   const metaQuery = data.site.siteMetadata
+  const coaches = data.coachQuery.edges
 
   return (
     <Layout>
@@ -20,8 +21,8 @@ export const HomePage = ({data}) => {
         title={metaQuery.title}
         intro={page.frontmatter.intro}
         coachesSection={page.frontmatter.coaches}
-        coaches={coaches}
         consultancy={page.frontmatter.consultancy}
+        coaches={coaches}
       />
     </Layout>
   )
@@ -41,21 +42,25 @@ export class HomePageTemplate extends React.Component {
 
     this.state = {
       coachLightboxOpen: false,
-      activeCoach: []
+      activeCoach: [],
+      dragging: false
     }
 
     this.handleCoachClose = this.handleCoachClose.bind(this);
     this.handleCoachClick = this.handleCoachClick.bind(this);
+    this.handleDrag = this.handleDrag.bind(this);
+  }
+
+  handleDrag(){
+    console.log('handling drag!');
   }
 
   handleCoachClick(coach){
     console.log('coach is clicked');
-    console.log(coach);
     this.setState({
       coachLightboxOpen: true,
       activeCoach: coach
     })
-    console.log(this.state.activeCoach);
     let coachName = coach.coachName;
     let slug = `/coaches/${kebabCase(coachName)}/`;
     window.history.pushState({page: coachName}, null, `${slug}`);
@@ -76,24 +81,23 @@ export class HomePageTemplate extends React.Component {
     return (
         <div id="main-content-wrap">
           <div id="main-content">
-            <section id="intro">
-              <Hero>
-                <h1>{this.props.title}</h1>
-                <img src={logoOnColor} alt={this.props.title} />
-                <div className="intro-text">{this.props.intro.text}</div>
-                <Link to="/about" className="text-link" >{this.props.intro.linkText}</Link>
-              </Hero>
-            </section>
+            <Hero videoMp4={videoMp4} videoOgg="" videoWebM="" >
+              <h1>{this.props.title}</h1>
+              <img src={logoOnColor} alt={this.props.title} id="hero-logo"/>
+              <div className="intro-text">{this.props.intro.text}</div>
+              <div className="divider"></div>
+              <Link to="/about" className="text-link" >{this.props.intro.linkText}</Link>
+            </Hero>
             <section id="coaches">
               <h3>{this.props.coachesSection.headline}</h3>
-              <div className="intro-text">{this.props.coaches.text}</div>
-              <XScroller className="coaches">
+              <div className="intro-text">{this.props.coachesSection.text}</div>
+              <Carousel slidesToShow={4} >
                 {this.props.coaches.map(({ node }) => (
                   node.frontmatter.coachList.map(coach => (
-                    <CoachThumb coach={coach} key={coach.coachName} onClick={this.handleCoachClick} />
+                    <CoachThumb coach={coach} key={coach.coachName} onClick={this.handleCoachClick} onDrag={this.handleDrag}/>
                   ))
                 ))}
-              </XScroller>
+              </Carousel>
             </section>
             <section id="consultancy">
               <h3>{this.props.consultancy.headline}</h3>
@@ -111,6 +115,7 @@ export class HomePageTemplate extends React.Component {
         </div>        
     )
   }
+
 }
 
 export const indexPageQuery = graphql`

@@ -15,7 +15,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        path: `${__dirname}/src/img`,
+        path: `${__dirname}/src/assets`,
         name: 'images',
       },
     },
@@ -31,7 +31,7 @@ module.exports = {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
-        stylesPath: `${__dirname}/src/components/all.sass`,
+        stylesPath: `${__dirname}/src/components/all.scss`,
       },
     },
     'gatsby-plugin-netlify', // make sure to keep it last in the array

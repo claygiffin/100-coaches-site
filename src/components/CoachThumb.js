@@ -7,6 +7,10 @@ export class CoachThumb extends React.Component {
     this.handleClick = this.handleClick.bind(this);
   }
 
+  handleDrag(){
+    this.props.ondrag();
+  }
+
   handleClick(){
     this.props.onClick(this.props.coach)
   }
@@ -14,18 +18,14 @@ export class CoachThumb extends React.Component {
   render(){
     const {coach} = this.props;
     return (
-      <div onClick={this.handleClick}>
-        <div 
-          className="coach" 
-          style={{backgroundImage: `url(${coach.photo}`}}
-          onClick={this.handleLightboxOpen}
-        >
-          <h3>
-            {coach.coachName}
-          </h3>
-          <h4>
-            {coach.jobTitle}
-          </h4>  
+      <div 
+        onClick={this.handleClick}
+        className="coach" 
+      >
+        <img src={coach.photo} alt={coach.coachName + ' 100 Coaches'}/>
+        <div className="info">
+          <h4>{coach.coachName}</h4>
+          <h5>{coach.jobTitle}</h5>  
         </div>
 
       </div>

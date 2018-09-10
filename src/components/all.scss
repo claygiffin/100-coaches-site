@@ -1,0 +1,261 @@
+@import "./_prefixes.scss";
+@import "./_normalize.scss";
+@import "./_icomoon.scss";
+@import url("https://use.typekit.net/xln8mvd.css");
+// Config vars
+$gold: rgb(232,
+178,
+76);
+$goldLight: rgb(243,
+209,
+122);
+$darkGray: rgb(65,
+72,
+70);
+$midGray: rgb(93,
+103,
+99);
+$font-16-dt: 1.1vw;
+$font-18-dt: 1.25vw;
+$font-21-dt: 1.5vw;
+$font-30-dt: 2vw;
+$font-36-dt: 2.5vw;
+$col-8-dt: 62.5vw;
+// Mixins
+@mixin easingGradient {
+  background-image: linear-gradient( 0deg, hsla(0, 0%, 0%, 0.65) 0%, hsla(0, 0%, 0%, 0.602030178295) 16.57%, hsla(0, 0%, 0%, 0.5286488340250001) 29.56%, hsla(0, 0%, 0%, 0.43814814816500003) 39.93%, hsla(0, 0%, 0%, 0.338820301755) 48.61%, hsla(0, 0%, 0%, 0.23895747596500005) 56.57%, hsla(0, 0%, 0%, 0.14685185183500005) 64.74%, hsla(0, 0%, 0%, 0.07079561040500004) 74.07%, hsla(0, 0%, 0%, 0.019080932780000004) 85.51%, hsla(0, 0%, 0%, 0) 100%);
+}
+
+@mixin divider {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 2px;
+  background-color: $gold;
+  margin: 36px 0;
+}
+
+@mixin effraStack {
+  font-family: 'effra', sans-serif;
+}
+
+@mixin eavesStack {
+  font-family: 'mrs-eaves-xl-serif', serif;
+}
+
+// 100 Coaches Styling
+// Base font setup
+body {
+  @include effraStack;
+  font-weight: 300;
+  letter-spacing: 0.005em;
+}
+
+h3 {
+  @include eavesStack;
+  font-size: $font-36-dt;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  color: $darkGray;
+  margin: 1em 0 0;
+  @include flexbox;
+  @include flex-direction(column);
+  @include align-items(center);
+  &:after {
+    @include divider;
+  }
+}
+
+h4 {
+  @include effraStack;
+  font-size: $font-18-dt;
+  text-transform: uppercase;
+  letter-spacing: .125em;
+  font-weight: 500;
+  margin: .25em 0;
+}
+
+h5 {
+  @include effraStack;
+  font-size: $font-16-dt;
+  font-weight: 400;
+  font-style: italic;
+  margin: .25em 0;
+}
+
+// Global Elements 
+section {
+  @include flexbox;
+  @include flex-direction(column);
+  @include align-items(center);
+  padding: 2.5vw 0;
+}
+
+.intro-text {
+  font-size: $font-30-dt;
+  line-height: 1.6;
+  width: $col-8-dt;
+  text-align: center;
+  color: $midGray;
+}
+
+.text-link {
+  font-size: $font-21-dt;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: .1em;
+  color: $gold;
+  text-decoration: none;
+  padding: .25em 0;
+  @include transition(.3s color ease);
+  &:hover {
+    color: $goldLight;
+  }
+  &:after {
+    @include LinkArrow;
+    display: inline-block;
+    font-size: .75em;
+    margin-left: .25em
+  }
+}
+
+.divider {
+  @include divider;
+}
+
+// Styling
+nav.navbar {
+  position: absolute;
+  @include flexbox;
+  @include justify-content(space-between);
+  z-index: 10;
+  width: 100%;
+  .navbar-brand {
+    @include flexbox;
+    margin: 9px calc(2.5vw - 9px);
+    opacity: .75;
+    @include transition(.3s opacity ease);
+    .logo {
+      height: 36px;
+      padding: 9px;
+    }
+    &:hover {
+      opacity: 1;
+    }
+  }
+  .navbar-list {
+    @include flexbox;
+    margin-right: 1.25vw;
+    .navbar-item {
+      @include flexbox;
+      @include justify-content(space-between);
+      @include flex-direction(column);
+      padding: 0 6px;
+      margin: 0 calc(2.5vw - 6px);
+      color: inherit;
+      text-decoration: none;
+      font-size: 15px;
+      font-weight: 400;
+      text-transform: uppercase;
+      letter-spacing: .075em;
+      @include transition(.3s color ease);
+      &:before,
+      &:after {
+        content: '';
+        display: block;
+        height: 2px;
+        width: 100%;
+      }
+    }
+  }
+  &.home {
+    color: rgba(white, .75);
+    .navbar-item {
+      &:hover {
+        color: $goldLight;
+      }
+    }
+  }
+}
+
+#hero {
+  @include clip-path(inset(0 0 0 0));
+  @include flexbox;
+  @include flex-direction(column);
+  @include align-items(center);
+  padding: calc(72px + 3.75vw) 2.5vw 6.25vw;
+  #hero-video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    background-size: cover;
+  }
+  h1 {
+    margin: 0;
+    padding: 0;
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+  }
+  #hero-logo {
+    width: calc(180px + 25vw);
+    margin-bottom: calc(24px + 1vw);
+  }
+  .intro-text {
+    margin: .125em 0 .5em;
+    color: rgba(white, .75);
+  }
+}
+
+#coaches {
+  overflow: hidden;
+}
+
+.slick-slider {
+  width: 100%;
+  margin-top: 5vw;
+  padding-left: 1.6667vw;
+  padding-right: 4.1667vw;
+  .slick-list {
+    overflow: visible;
+    .slick-track {
+      >div>div {
+        padding: 0 .83333vw;
+      }
+    }
+  }
+  .coach {
+    position: relative;
+    img {
+      width: 100%;
+    }
+    .info {
+      position: absolute;
+      width: 100%;
+      bottom: 0;
+      color: white;
+      padding: .83333vw;
+      box-sizing: border-box;
+      text-align: center;
+      text-shadow: 0 0 5px black;
+      z-index: 2;
+    }
+    &:after {
+      @include easingGradient;
+      content: '';
+      display: block;
+      width: 100%;
+      height: 50%;
+      position: absolute;
+      bottom: 0;
+      z-index: 1;
+    }
+  }
+}

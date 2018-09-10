@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'coaches-icons';
+  src:  url('../assets/fonts/coaches-icons.eot?jjcdbb');
+  src:  url('../assets/fonts/coaches-icons.eot?jjcdbb#iefix') format('embedded-opentype'),
+    url('../assets/fonts/coaches-icons.ttf?jjcdbb') format('truetype'),
+    url('../assets/fonts/coaches-icons.woff?jjcdbb') format('woff'),
+    url('../assets/fonts/coaches-icons.svg?jjcdbb#coaches-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@mixin icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'coaches-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@mixin CarouselArrow {
+  content: "\e900";
+  @include icon;
+}
+@mixin LinkArrow{
+  content: "\e901";
+  @include icon;
+}
+@mixin XLarge {
+  content: "\e902";
+  @include icon;
+}
+@mixin XMedium {
+  content: "\e903";
+  @include icon;
+}
+@mixin Link {
+  content: "\e904";
+  @include icon;
+}
+@mixin LinkedIn {
+  content: "\e905";
+  @include icon;
+}
+@mixin Twitter {
+  content: "\e906";
+  @include icon;
+}
+@mixin Facebook {
+  content: "\e907";
+  @include icon;
+}
+@mixin Instagram {
+  content: "\e908";
+  @include icon;
+}
+@mixin Print {
+  content: "\e909";
+  @include icon;
+}
+@mixin Share {
+  content: "\e90a";
+  @include icon;
+}

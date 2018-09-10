@@ -20,8 +20,14 @@ exports.createPages = ({ actions, graphql }) => {
               coachList {
                 coachName
                 jobTitle
-                tags
                 photo
+                bio
+                tags
+                links {
+                  website
+                  twitter
+                  facebook
+                }
               }
             }
           }
@@ -100,7 +106,9 @@ exports.createPages = ({ actions, graphql }) => {
           coachName: coachProfile.coachName,
           jobTitle: coachProfile.jobTitle,
           photo: coachProfile.photo,
-          tags: coachProfile.tags
+          bio: coachProfile.bio,
+          tags: coachProfile.tags,
+          links: coachProfile.links
         },
       })
     })
@@ -118,6 +126,21 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       name: `slug`,
       node,
       value,
+    })
+  }
+}
+
+exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
+  if (stage === "build-html") {
+    actions.setWebpackConfig({
+      module: {
+        rules: [
+          {
+            test: /react-flickity-component/,
+            use: loaders.null(),
+          },
+        ],
+      },
     })
   }
 }
