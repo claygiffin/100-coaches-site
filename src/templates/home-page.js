@@ -43,23 +43,17 @@ export class HomePageTemplate extends React.Component {
     this.state = {
       coachLightboxOpen: false,
       activeCoach: [],
-      dragging: false
     }
 
     this.handleCoachClose = this.handleCoachClose.bind(this);
     this.handleCoachClick = this.handleCoachClick.bind(this);
-    this.handleDrag = this.handleDrag.bind(this);
-  }
-
-  handleDrag(){
-    console.log('handling drag!');
   }
 
   handleCoachClick(coach){
     console.log('coach is clicked');
     this.setState({
       coachLightboxOpen: true,
-      activeCoach: coach
+      activeCoach: coach,
     })
     let coachName = coach.coachName;
     let slug = `/coaches/${kebabCase(coachName)}/`;
@@ -94,7 +88,11 @@ export class HomePageTemplate extends React.Component {
               <Carousel slidesToShow={4} >
                 {this.props.coaches.map(({ node }) => (
                   node.frontmatter.coachList.map(coach => (
-                    <CoachThumb coach={coach} key={coach.coachName} onClick={this.handleCoachClick} onDrag={this.handleDrag}/>
+                    <CoachThumb 
+                      coach={coach} 
+                      key={coach.coachName} 
+                      onClick={this.handleCoachClick}
+                    />
                   ))
                 ))}
               </Carousel>
@@ -115,6 +113,7 @@ export class HomePageTemplate extends React.Component {
         </div>        
     )
   }
+
 
 }
 

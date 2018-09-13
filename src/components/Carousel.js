@@ -3,9 +3,10 @@ import Slider from 'react-slick'
 import './Carousel.scss'
 
 export class Carousel extends React.Component {
+
   render(){
-    let settings = this.props.slidesToShow;
-    switch (settings) {
+    let settings;
+    switch (this.props.slidesToShow) {
       case 4 :
         settings = {
           dots: false,
@@ -15,7 +16,10 @@ export class Carousel extends React.Component {
           slidesToScroll: 1,
           respondTo: 'slider',
           swipeToSlide: true,
-        };
+        }
+        break;
+      default:
+        console.log('Carousels must provide a number of slides to show');
     }
     return (
       <Slider {...settings}>

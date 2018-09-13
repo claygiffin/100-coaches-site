@@ -4,22 +4,28 @@ import React from 'react'
 export class CoachThumb extends React.Component {
   constructor(props){
     super(props);
-    this.handleClick = this.handleClick.bind(this);
+    this.handleMouseDown = this.handleMouseDown.bind(this);
+    this.handleMouseMove = this.handleMouseMove.bind(this);
+    this.handleMouseUp = this.handleMouseUp.bind(this);
   }
 
-  handleDrag(){
-    this.props.ondrag();
+  handleMouseDown(){
+    this.eventType = 0;
   }
-
-  handleClick(){
-    this.props.onClick(this.props.coach)
+  handleMouseMove(){
+    this.eventType = 1;
   }
+  handleMouseUp(){
+    this.eventType === 0 ? this.props.onClick(this.props.coach) : null;
+  }  
 
   render(){
     const {coach} = this.props;
     return (
       <div 
-        onClick={this.handleClick}
+        onMouseDown={this.handleMouseDown}
+        onMouseMove={this.handleMouseMove}
+        onMouseUp={this.handleMouseUp}
         className="coach" 
       >
         <img src={coach.photo} alt={coach.coachName + ' 100 Coaches'}/>
