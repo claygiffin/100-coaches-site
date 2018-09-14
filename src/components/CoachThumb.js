@@ -16,7 +16,7 @@ export class CoachThumb extends React.Component {
     this.eventType = 1;
   }
   handleMouseUp(){
-    this.eventType === 0 ? this.props.onClick(this.props.coach) : null;
+    this.eventType === 0 && this.props.onClick(this.props.coach);
   }  
 
   render(){
@@ -26,6 +26,9 @@ export class CoachThumb extends React.Component {
         onMouseDown={this.handleMouseDown}
         onMouseMove={this.handleMouseMove}
         onMouseUp={this.handleMouseUp}
+        onTouchStart={this.handleMouseDown}
+        onTouchMove={this.handleMouseMove}
+        onTouchEnd={this.handleMouseUp}
         className="coach" 
       >
         <img src={coach.photo} alt={coach.coachName + ' 100 Coaches'}/>

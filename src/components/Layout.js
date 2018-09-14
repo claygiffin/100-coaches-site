@@ -4,12 +4,13 @@ import Helmet from 'react-helmet'
 import Navbar from '../components/Navbar'
 import './all.scss'
 
-const TemplateWrapper = ({ children }) => (
+const TemplateWrapper = ({children, title}) => (
   <div id="content">
-    <Helmet title="Home | Gatsby + Netlify CMS" />
+    <Helmet title={title} />
     <Navbar />
     {children}
-  </div>
+  </div>  
 )
+
 
 export default TemplateWrapper

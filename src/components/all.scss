@@ -2,37 +2,51 @@
 @import "./_normalize.scss";
 @import "./_icomoon.scss";
 @import url("https://use.typekit.net/xln8mvd.css");
+
 // Config vars
-$gold: rgb(232,
-178,
-76);
-$goldLight: rgb(243,
-209,
-122);
-$darkGray: rgb(65,
-72,
-70);
-$midGray: rgb(93,
-103,
-99);
+$green: hsl(154, 33%, 37%);
+$greenLight: hsl(154, 36%, 50%);
+$gold: hsl(39, 77%, 60%);
+$goldLight: hsl(43, 83%, 72%);
+$darkGray: hsl(163, 5%, 27%);
+$midGray: hsl(156, 5%, 38%);
+$midLightGray: hsl(153, 5%, 57%);
+$lightGray: hsl(154, 6%, 75%);
+$lightestGray: hsl(0, 0%, 95%);
+$font-13-dt: .9vw;
 $font-16-dt: 1.1vw;
 $font-18-dt: 1.25vw;
 $font-21-dt: 1.5vw;
+$font-24-dt: 1.67vw;
 $font-30-dt: 2vw;
 $font-36-dt: 2.5vw;
+$font-72-dt: 5vw;
 $col-8-dt: 62.5vw;
+
 // Mixins
 @mixin easingGradient {
-  background-image: linear-gradient( 0deg, hsla(0, 0%, 0%, 0.65) 0%, hsla(0, 0%, 0%, 0.602030178295) 16.57%, hsla(0, 0%, 0%, 0.5286488340250001) 29.56%, hsla(0, 0%, 0%, 0.43814814816500003) 39.93%, hsla(0, 0%, 0%, 0.338820301755) 48.61%, hsla(0, 0%, 0%, 0.23895747596500005) 56.57%, hsla(0, 0%, 0%, 0.14685185183500005) 64.74%, hsla(0, 0%, 0%, 0.07079561040500004) 74.07%, hsla(0, 0%, 0%, 0.019080932780000004) 85.51%, hsla(0, 0%, 0%, 0) 100%);
+  background-image: linear-gradient( 
+    0deg, 
+    hsla(0, 0%, 0%, 0.65) 0%, 
+    hsla(0, 0%, 0%, 0.602030178295) 16.57%, 
+    hsla(0, 0%, 0%, 0.5286488340250001) 29.56%, 
+    hsla(0, 0%, 0%, 0.43814814816500003) 39.93%, 
+    hsla(0, 0%, 0%, 0.338820301755) 48.61%, 
+    hsla(0, 0%, 0%, 0.23895747596500005) 56.57%, 
+    hsla(0, 0%, 0%, 0.14685185183500005) 64.74%, 
+    hsla(0, 0%, 0%, 0.07079561040500004) 74.07%, 
+    hsla(0, 0%, 0%, 0.019080932780000004) 85.51%, 
+    hsla(0, 0%, 0%, 0) 100%);
 }
 
 @mixin divider {
   content: '';
-  display: block;
-  width: 60px;
+  display: inline-block;
+  width: 5vw;
+  min-width: 60px;
   height: 2px;
   background-color: $gold;
-  margin: 36px 0;
+  margin: 2.5vw 0;
 }
 
 @mixin effraStack {
@@ -49,6 +63,16 @@ body {
   @include effraStack;
   font-weight: 300;
   letter-spacing: 0.005em;
+}
+
+h1 {
+  @include eavesStack;
+  font-size: $font-72-dt;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  color: $darkGray;
+  margin: 0;
 }
 
 h3 {
@@ -82,6 +106,25 @@ h5 {
   font-weight: 400;
   font-style: italic;
   margin: .25em 0;
+}
+
+h6 {
+  @include effraStack;
+  font-size: $font-13-dt;
+  text-transform: uppercase;
+  color: $midLightGray;
+  letter-spacing: .05em;
+  font-weight: 500;
+}
+
+p {
+  @include effraStack;
+  font-size: $font-24-dt;
+  line-height: 2;
+  margin: 0 0 1.125em;
+  font-weight: 300;
+  text-align: left;
+  color: $midGray;
 }
 
 // Global Elements 
@@ -120,9 +163,195 @@ section {
   }
 }
 
-.divider {
-  @include divider;
+.divider{
+  width: 100%;
+  text-align: center;
+  display: block;
+  &:after {
+    @include divider;
+  }  
 }
+
+
+.icon {
+  background: $lightestGray;
+  width: 3.33vw;
+  height: 3.33vw;
+  min-width: 36px;
+  min-height: 36px;
+  text-decoration: none;
+  color: $lightGray;
+  font-size: $font-21-dt;
+  @include flexbox;
+  @include align-items(center);
+  @include justify-content(center);
+  @include transition(.15s color ease, .3s background-color ease);
+  &.facebook:before {
+    @include Facebook;
+  }
+  &.twitter:before {
+    @include Twitter;
+  }
+  &.website:before {
+    @include Link;
+  }
+  &.linkedin:before {
+    @include LinkedIn;
+  }
+  &.instagram:before {
+    @include Instagram;
+  }
+  &.share:before {
+    @include Share;
+  }
+  &.print:before {
+    @include Print;
+  }
+  span {
+    font-size: 0;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+  }
+  &:hover {
+    color: white;
+    background-color: $gold;
+  }
+}
+
+// Lightbox
+
+.lightbox {
+  position: fixed;
+  width: 100vw;
+  max-height: 100vh;
+  top: 0;
+  left: 0;
+  overflow-y: scroll;
+  opacity:0;
+  visibility: hidden;
+  text-align: center;
+  @include transform(translateY(calc(-50% + 50vh)));
+  @include transition(.3s opacity ease-in);
+  .lightbox-wrapper {
+    position: relative;
+    .lightbox-container {
+      background: white;
+      margin: 2.5vw 0 3.125vw;
+      position: relative;
+      z-index: 10;
+      box-shadow: 0 1vw 5vw rgba(0,0,0,.1), 0 0 0.75vw rgba(0,0,0,.05);
+      // @include filter( drop-shadow(0 1vw 5vw rgba(0,0,0,.1)) drop-shadow(0 0 .75vw rgba(0,0,0,.05)) );
+      @include inline-flex;
+      @include flex-direction(column);
+      .lightbox-content {
+        width: $col-8-dt;
+      }
+    }
+    .lightbox-bg {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      width: 100vw;
+      height: 100%;
+      z-index: 1;
+    }  
+  }
+  nav {
+    @include justify-content(space-between);
+    @include align-items(center);
+    @include flexbox;
+    padding: 1.67vw 2.5vw;
+    border-bottom: 1px solid hsl(0, 0%, 90%);
+    .site-logo {
+      height: $font-36-dt;
+    }
+    .close-button {
+      cursor: pointer;
+      @include justify-content(center);
+      @include align-items(center);
+      @include flexbox;
+      font-size: $font-36-dt;
+      color: $midGray;
+      @include transition(.1s color ease);
+      &:before{
+        @include XLarge;
+      }
+      &:hover {
+        color: $greenLight;
+      }
+    }
+  }
+  .flex-row {
+    @include flexbox;
+    @include justify-content(space-between);
+    padding: 2.5vw 2.5vw 0;
+    & > * {
+      @include flex(1);
+    }
+    .coach-photo {
+      @include flexbox;
+      @include flex(1.25);
+      img {
+        width: 100%;  
+      }
+    }
+    .coach-links {
+      @include flexbox;
+      .icon {
+        margin: 0 .5vw 0 0;
+      }
+    }
+    .functional-links {
+      @include flexbox;
+      @include justify-content(flex-end);
+      .icon {
+        margin: 0 0 0 .5vw;
+        cursor: pointer;
+      }
+    }
+  }
+  h1 {
+    font-size: $font-36-dt;
+    margin: .75em 0 .5em;
+  }
+  h5 {
+    font-size: $font-21-dt;
+    color: $midGray;
+    font-weight: 300;
+    margin-bottom: .5em;
+  }
+  .tags {
+    h6 {
+      display: inline-block;
+      margin: 0 1em;
+    }
+    .divider:after {
+      margin: 2vw 0;
+    }
+  }
+
+  .bio {
+    padding: 0 2.5vw 2.5vw;
+  }
+}
+
+body.lightbox-open {
+  overflow: hidden;
+  .lightbox {
+    opacity: 1;
+    visibility: visible;
+  }
+  #main-content, nav.navbar {
+    @include filter(blur(20px) opacity(.5));
+  }
+}
+
+#main-content, nav.navbar {
+  @include transition(.3s filter linear)
+}
+
 
 // Styling
 nav.navbar {
@@ -233,6 +462,7 @@ nav.navbar {
   }
   .coach {
     position: relative;
+    cursor: pointer;
     img {
       width: 100%;
     }

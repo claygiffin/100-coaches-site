@@ -12,6 +12,7 @@
 @mixin icon {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'coaches-icons' !important;
+  text-decoration: none;
   speak: none;
   font-style: normal;
   font-weight: normal;

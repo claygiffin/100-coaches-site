@@ -4,6 +4,25 @@ import {graphql} from 'gatsby'
 import Layout from '../components/Layout'
 import {markdownContent} from '../components/Content'
 
+export const CoachProfile = ({ data }) => {
+  const { context: coach } = data.coachQuery
+  console.log(coach)
+  return (
+    <Layout>
+      <CoachProfileTemplate
+        coach={coach}
+      />
+    </Layout>
+  )
+}
+
+// CoachProfile.propTypes = {
+//   data: PropTypes.shape({
+//     markdownRemark: PropTypes.object,
+//   }),
+// }
+
+
 export class CoachProfileTemplate extends React.Component {
 
   render() {
@@ -25,23 +44,6 @@ export class CoachProfileTemplate extends React.Component {
 //   helmet: PropTypes.object,
 // }
 
-export const CoachProfile = ({ data }) => {
-  const { context: coach } = data.coachQuery
-  console.log(coach)
-  return (
-    <Layout>
-      <CoachProfileTemplate
-        coach={coach}
-      />
-    </Layout>
-  )
-}
-
-// CoachProfile.propTypes = {
-//   data: PropTypes.shape({
-//     markdownRemark: PropTypes.object,
-//   }),
-// }
 
 export default CoachProfile
 

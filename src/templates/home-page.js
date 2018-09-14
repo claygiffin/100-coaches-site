@@ -16,9 +16,8 @@ export const HomePage = ({data}) => {
   const coaches = data.coachQuery.edges
 
   return (
-    <Layout>
+    <Layout title={metaQuery.title} >
       <HomePageTemplate 
-        title={metaQuery.title}
         intro={page.frontmatter.intro}
         coachesSection={page.frontmatter.coaches}
         consultancy={page.frontmatter.consultancy}
@@ -63,54 +62,57 @@ export class HomePageTemplate extends React.Component {
 
   handleCoachClose(){
     console.log('lightbox is closed');
-    this.setState({
-      coachLightboxOpen: false,
-      activeCoach: []
-    })
     window.history.replaceState({page: 'home'}, null, `/`)
     document.body.classList.remove('lightbox-open');
+    setTimeout(() => {
+      this.setState({
+        coachLightboxOpen: false,
+        activeCoach: []
+      })
+    },
+      300
+    )
+
   }
   
   render() {
     return (
-        <div id="main-content-wrap">
-          <div id="main-content">
-            <Hero videoMp4={videoMp4} videoOgg="" videoWebM="" >
-              <h1>{this.props.title}</h1>
-              <img src={logoOnColor} alt={this.props.title} id="hero-logo"/>
-              <div className="intro-text">{this.props.intro.text}</div>
-              <div className="divider"></div>
-              <Link to="/about" className="text-link" >{this.props.intro.linkText}</Link>
-            </Hero>
-            <section id="coaches">
-              <h3>{this.props.coachesSection.headline}</h3>
-              <div className="intro-text">{this.props.coachesSection.text}</div>
-              <Carousel slidesToShow={4} >
-                {this.props.coaches.map(({ node }) => (
-                  node.frontmatter.coachList.map(coach => (
-                    <CoachThumb 
-                      coach={coach} 
-                      key={coach.coachName} 
-                      onClick={this.handleCoachClick}
-                    />
-                  ))
-                ))}
-              </Carousel>
-            </section>
-            <section id="consultancy">
-              <h3>{this.props.consultancy.headline}</h3>
-              <div className="intro-text">{this.props.consultancy.text}</div>
-              <Link to="/">{this.props.consultancy.linkText}</Link>
-            </section>
-          </div>
-          {this.state.coachLightboxOpen ? ( 
-            <CoachLightbox 
-              openState={this.state.coachLightboxOpen} 
-              onClose={this.handleCoachClose}
-              coach={this.state.activeCoach}
-            />
-          ) : null }
-        </div>        
+      <div id="main-content-wrap">
+        <div id="main-content">
+          <Hero videoMp4={videoMp4} videoOgg="" videoWebM="" >
+            <h1>{this.props.title}</h1>
+            <img src={logoOnColor} alt={this.props.title} id="hero-logo"/>
+            <div className="intro-text">{this.props.intro.text}</div>
+            <div className="divider"></div>
+            <Link to="/about" className="text-link" >{this.props.intro.linkText}</Link>
+          </Hero>
+          <section id="coaches">
+            <h3>{this.props.coachesSection.headline}</h3>
+            <div className="intro-text">{this.props.coachesSection.text}</div>
+            <Carousel slidesToShow={4} >
+              {this.props.coaches.map(({ node }) => (
+                node.frontmatter.coachList.map(coach => (
+                  <CoachThumb 
+                    coach={coach} 
+                    key={coach.coachName} 
+                    onClick={this.handleCoachClick}
+                  />
+                ))
+              ))}
+            </Carousel>
+          </section>
+          <section id="consultancy">
+            <h3>{this.props.consultancy.headline}</h3>
+            <div className="intro-text">{this.props.consultancy.text}</div>
+            <Link to="/">{this.props.consultancy.linkText}</Link>
+          </section>
+        </div>
+        <CoachLightbox 
+          openState={this.state.coachLightboxOpen} 
+          onClose={this.handleCoachClose}
+          coach={this.state.activeCoach}
+        />
+      </div>        
     )
   }
 
@@ -153,6 +155,14 @@ export const indexPageQuery = graphql`
               coachName
               jobTitle
               photo
+              tags
+              links {
+                facebook
+                instagram
+                linkedin
+                twitter
+                website
+              }
             }
           }
         }
