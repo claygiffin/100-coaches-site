@@ -8,7 +8,7 @@ class Navbar extends React.Component {
     super(props);
 
     this.state = {
-      logo: logoDefault,
+      logo: logoKnockout,
       home: true
     }
   }

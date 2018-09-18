@@ -25,8 +25,10 @@ exports.createPages = ({ actions, graphql }) => {
                 tags
                 links {
                   website
+                  linkedin
                   twitter
                   facebook
+                  instagram
                 }
               }
             }
@@ -57,29 +59,29 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
 
-    // Tag pages:
-    let tags = []
-    // Iterate through each post, putting all found tags into `tags`
-    posts.forEach(edge => {
-      if (_.get(edge, `node.frontmatter.tags`)) {
-        tags = tags.concat(edge.node.frontmatter.tags)
-      }
-    })
-    // Eliminate duplicate tags
-    tags = _.uniq(tags)
+    // // Tag pages:
+    // let tags = []
+    // // Iterate through each post, putting all found tags into `tags`
+    // posts.forEach(edge => {
+    //   if (_.get(edge, `node.frontmatter.tags`)) {
+    //     tags = tags.concat(edge.node.frontmatter.tags)
+    //   }
+    // })
+    // // Eliminate duplicate tags
+    // tags = _.uniq(tags)
 
-    // Make tag pages
-    tags.forEach(tag => {
-      const tagPath = `/tags/${_.kebabCase(tag)}/`
+    // // Make tag pages
+    // tags.forEach(tag => {
+    //   const tagPath = `/tags/${_.kebabCase(tag)}/`
 
-      createPage({
-        path: tagPath,
-        component: path.resolve(`src/templates/tags.js`),
-        context: {
-          tag,
-        },
-      })
-    })
+    //   createPage({
+    //     path: tagPath,
+    //     component: path.resolve(`src/templates/tags.js`),
+    //     context: {
+    //       tag,
+    //     },
+    //   })
+    // })
 
     // Coach Profile Pages:
     let coachProfiles = []

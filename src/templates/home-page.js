@@ -7,13 +7,15 @@ import CoachThumb from '../components/CoachThumb'
 import Carousel from '../components/Carousel'
 import CoachLightbox from '../components/CoachLightbox'
 import Hero from '../components/Hero'
+import ThoughtThumb from '../components/ThoughtThumb'
 import logoOnColor from '../assets/100Coaches_logo_onColor.svg'
-import videoMp4 from '../assets/100-coaches-video-example.mp4'
+import videoMp4 from '../assets/GettyImages-178062441_3.mp4'
 
 export const HomePage = ({data}) => {
   const page = data.pageQuery
   const metaQuery = data.site.siteMetadata
   const coaches = data.coachQuery.edges
+  const thoughts = data.thoughtQuery.edges
 
   return (
     <Layout title={metaQuery.title} >
@@ -22,6 +24,7 @@ export const HomePage = ({data}) => {
         coachesSection={page.frontmatter.coaches}
         consultancy={page.frontmatter.consultancy}
         coaches={coaches}
+        thoughts={thoughts}
       />
     </Layout>
   )
@@ -77,7 +80,7 @@ export class HomePageTemplate extends React.Component {
   
   render() {
     return (
-      <div id="main-content-wrap">
+      <>
         <div id="main-content">
           <Hero videoMp4={videoMp4} videoOgg="" videoWebM="" >
             <h1>{this.props.title}</h1>
@@ -89,7 +92,7 @@ export class HomePageTemplate extends React.Component {
           <section id="coaches">
             <h3>{this.props.coachesSection.headline}</h3>
             <div className="intro-text">{this.props.coachesSection.text}</div>
-            <Carousel slidesToShow={4} >
+            <Carousel slidesToShow={4} id="coaches-carousel" viewAll="/coaches">
               {this.props.coaches.map(({ node }) => (
                 node.frontmatter.coachList.map(coach => (
                   <CoachThumb 
@@ -104,7 +107,16 @@ export class HomePageTemplate extends React.Component {
           <section id="consultancy">
             <h3>{this.props.consultancy.headline}</h3>
             <div className="intro-text">{this.props.consultancy.text}</div>
-            <Link to="/">{this.props.consultancy.linkText}</Link>
+            <Link to="/" className="cta-link">{this.props.consultancy.linkText}</Link>
+          </section>
+          <section id="thought-leadership">
+            <h3>Thought Leadership</h3>
+            {console.log(this.props.thoughts)}
+            <Carousel slidesToShow={3} id="thought-leadership-carousel" viewAll="/" >
+              {this.props.thoughts.map(({ node }) => (
+                <ThoughtThumb key={node.frontmatter.title} thought={node.frontmatter} />
+              ))}
+            </Carousel>
           </section>
         </div>
         <CoachLightbox 
@@ -112,7 +124,7 @@ export class HomePageTemplate extends React.Component {
           onClose={this.handleCoachClose}
           coach={this.state.activeCoach}
         />
-      </div>        
+      </>        
     )
   }
 
@@ -164,6 +176,22 @@ export const indexPageQuery = graphql`
                 website
               }
             }
+          }
+        }
+      }
+    }
+    thoughtQuery: allMarkdownRemark(
+      filter: { frontmatter: { templateKey: {eq: "thought-post"}}},
+      sort: {fields: [frontmatter___date], order: DESC}
+    ) {
+      edges {
+        node {
+          frontmatter {
+            title
+            author
+            date
+            url
+            image
           }
         }
       }

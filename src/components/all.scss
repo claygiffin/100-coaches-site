@@ -6,14 +6,18 @@
 // Config vars
 $green: hsl(154, 33%, 37%);
 $greenLight: hsl(154, 36%, 50%);
+$greenMid: hsl(165, 56%, 22%);
+$greenDark: hsl(174, 70%, 12%);
 $gold: hsl(39, 77%, 60%);
-$goldLight: hsl(43, 83%, 72%);
+$goldLight: hsl(43, 100%, 72%);
+$goldDark: hsl(33, 57%, 47%);
 $darkGray: hsl(163, 5%, 27%);
 $midGray: hsl(156, 5%, 38%);
 $midLightGray: hsl(153, 5%, 57%);
 $lightGray: hsl(154, 6%, 75%);
 $lightestGray: hsl(0, 0%, 95%);
 $font-13-dt: .9vw;
+$font-15-dt: 1vw;
 $font-16-dt: 1.1vw;
 $font-18-dt: 1.25vw;
 $font-21-dt: 1.5vw;
@@ -163,6 +167,23 @@ section {
   }
 }
 
+.cta-link {
+  @include linear-gradient(55deg, $goldDark, $gold);
+  color: white;
+  font-weight: 400;
+  text-decoration: none;
+  font-size: $font-21-dt;
+  text-transform: uppercase;
+  padding: .75em 2.5em;
+  letter-spacing: .05em;
+  margin: 2em 0;
+  background-position: 100% 0%;
+  @include transition(.3s filter ease);
+  &:hover {
+    filter: brightness(1.125)
+  }
+}
+
 .divider{
   width: 100%;
   text-align: center;
@@ -219,29 +240,340 @@ section {
   }
 }
 
+
+// Styling
+nav.navbar {
+  position: absolute;
+  @include flexbox;
+  @include justify-content(space-between);
+  z-index: 10;
+  width: 100%;
+  .navbar-brand {
+    @include flexbox;
+    margin: .625vw 1.475vw;
+    opacity: .75;
+    @include transition(.3s opacity ease);
+    .logo {
+      height: 2.5vw;
+      padding: .625vw;
+    }
+    &:hover {
+      opacity: 1;
+    }
+  }
+  .navbar-list {
+    @include flexbox;
+    margin-right: 0.8333vw;
+    .navbar-item {
+      @include flexbox;
+      @include justify-content(space-between);
+      @include flex-direction(column);
+      padding: 0 .4vw;
+      margin: 0 2.1vw;
+      color: inherit;
+      text-decoration: none;
+      font-size: $font-15-dt;
+      font-weight: 400;
+      text-transform: uppercase;
+      letter-spacing: .075em;
+      @include transition(.3s color ease);
+      &:before,
+      &:after {
+        content: '';
+        display: block;
+        height: 2px;
+        width: 100%;
+      }
+    }
+  }
+  &.home {
+    color: rgba(white, .75);
+    .navbar-item {
+      &:hover {
+        color: $goldLight;
+      }
+    }
+  }
+}
+
+#hero {
+  @include clip-path(inset(0 0 0 0));
+  @include flexbox;
+  @include flex-direction(column);
+  @include align-items(center);
+  padding: calc(72px + 3.75vw) 2.5vw 6.25vw;
+  background-color: $greenMid;
+  @include linear-gradient(to top right, $greenDark, $green);
+  animation: fadeIn .5s 0s ease;
+  #hero-video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    background-size: cover;
+  }
+  h1 {
+    margin: 0;
+    padding: 0;
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+  }
+  #hero-logo {
+    width: calc(180px + 25vw);
+    margin-bottom: calc(24px + 1vw);
+  }
+  .intro-text {
+    margin: .125em 0 .5em;
+    color: rgba(white, .75);
+  }
+}
+
+#coaches {
+  overflow: hidden;
+  .intro-text {
+    margin-bottom: 1vw;
+  }
+}
+
+.coach {
+  position: relative;
+  cursor: pointer;
+  img {
+    width: 100%;
+  }
+  .info {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    padding: .83333vw;
+    box-sizing: border-box;
+    text-align: center;
+    text-shadow: 0 0 5px black;
+    z-index: 2;
+  }
+  &:after {
+    @include easingGradient;
+    content: '';
+    display: block;
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+  }
+  img {
+    @include transition(.3s opacity ease);
+  }
+  &:hover {
+    img {
+      opacity: .85;
+    }
+  }
+}
+
+#consultancy {
+  position: relative;
+  background-image: url('../assets/LightGrayGeometricBackground.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  &:before,
+  &:after {
+    content: '';
+    display: block;
+    position:absolute;
+    width: 100%;
+    height: 1vw;
+    @include linear-gradient(90deg, lighten($lightGray, 10%), $lightestGray);
+  }
+  &:before {
+    top: 0;
+  }
+  &:after {
+    bottom:0;
+  }
+}
+
+#thought-leadership {
+  overflow: hidden;
+  .slick-nav {
+    padding-top: 0;
+  }
+  h3:after {
+    margin-bottom: 1vw;
+  }
+}
+
+.thought {
+  text-decoration: none;
+  color: $midGray;
+  @include transition(.3s color ease);
+  h5 {
+    font-style: normal;
+    font-size: $font-21-dt;
+    color: inherit;
+  }
+  h6 {
+    font-weight: 400;
+    margin: 0;
+    @include transition(.3s opacity ease);
+  }
+  img {
+    width: 100%;
+    @include transition(.3s opacity ease);
+  }
+  &:hover {
+    color: $gold;
+    img {
+      opacity: .85;
+    }
+    h6 {
+      opacity: .65;
+    }
+  }
+}
+
+
+// Slick Slider
+
+.slick-wrap {
+  width: 100%;
+  .slick-nav {
+    @include flexbox;
+    @include justify-content(flex-end);
+    @include align-items(center);
+    padding: 1.5vw 1.67vw 1.25vw;
+    .view-all {
+      position: relative;
+      color: $green;
+      font-size: $font-13-dt;
+      text-decoration: none;
+      text-transform: uppercase;
+      font-weight: 500;
+      letter-spacing: .05em;
+      padding: .5em;
+      margin-right: 1em;
+      &:after {
+        content: '';
+        display: block;
+        position: absolute;
+        pointer-events: none;
+        right: -1em;
+        top: .1em;
+        bottom: .1em;
+        width: 1px;
+        opacity: .5;
+        background: $lightGray;
+      }
+    }
+    button.slick-arrow{
+      position: relative;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      width: auto;
+      height: auto;
+      @include transform(translate(0,0));
+      display: -webkit-box !important;
+      display: -webkit-flex !important;
+      display: -moz-flex !important;
+      display: -ms-flexbox !important;
+      display: flex !important;
+      &:before {
+        color: $green;
+        font-size: $font-21-dt;
+        padding: .25em;
+        opacity: 1;
+        @include transition(.15s color ease);
+      }
+      &.slick-prev {
+        margin-left: .75vw;
+        margin-right: .5vw;
+        &:before {
+          @include CarouselArrowPrev;
+        }
+      }
+      &.slick-next {
+        &:before {
+          @include CarouselArrowNext;
+        }
+      }
+      &:hover {
+        &:before {
+          color: $greenLight;
+        }
+      }
+      &.slick-disabled {
+        cursor: default;
+        pointer-events: none;
+        &:before {
+          color: $lightGray;
+          opacity: .5;
+        }
+       &:hover {
+          color: inherit;
+        }
+      }
+    }
+  }
+  .slick-slider {
+    width: 100%;
+    padding-left: 1.6667vw;
+    padding-right: 1.6667vw;
+    padding-bottom: 3.5vw;
+    .slick-list {
+      overflow: visible;
+      .slick-track {
+        >div>div {
+          padding: 0 .83333vw;
+        }
+      }
+    }
+  }
+}
+
+
 // Lightbox
 
 .lightbox {
   position: fixed;
-  width: 100vw;
-  max-height: 100vh;
   top: 0;
+  right: 0;
+  bottom: 0;
   left: 0;
-  overflow-y: scroll;
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
   opacity:0;
   visibility: hidden;
   text-align: center;
-  @include transform(translateY(calc(-50% + 50vh)));
+  @include transform(translate3D(0, 0, 0));
+  -webkit-backface-visibility: hidden;
+  -webkit-perspective: 1000;
   @include transition(.3s opacity ease-in);
   .lightbox-wrapper {
     position: relative;
+    -webkit-backface-visibility: hidden;
+    -webkit-perspective: 1000;
+    @include transform(translate3D(0,0,0));
     .lightbox-container {
+      -webkit-backface-visibility: hidden;
+      -webkit-perspective: 1000;
+      @include transform(translate3D(0,0,0));
       background: white;
       margin: 2.5vw 0 3.125vw;
       position: relative;
       z-index: 10;
       box-shadow: 0 1vw 5vw rgba(0,0,0,.1), 0 0 0.75vw rgba(0,0,0,.05);
-      // @include filter( drop-shadow(0 1vw 5vw rgba(0,0,0,.1)) drop-shadow(0 0 .75vw rgba(0,0,0,.05)) );
       @include inline-flex;
       @include flex-direction(column);
       .lightbox-content {
@@ -344,7 +676,11 @@ body.lightbox-open {
     visibility: visible;
   }
   #main-content, nav.navbar {
-    @include filter(blur(20px) opacity(.5));
+    @include filter(blur(20px));
+    opacity: .5;
+  }
+  video {
+    visibility: hidden;
   }
 }
 
@@ -353,139 +689,13 @@ body.lightbox-open {
 }
 
 
-// Styling
-nav.navbar {
-  position: absolute;
-  @include flexbox;
-  @include justify-content(space-between);
-  z-index: 10;
-  width: 100%;
-  .navbar-brand {
-    @include flexbox;
-    margin: 9px calc(2.5vw - 9px);
-    opacity: .75;
-    @include transition(.3s opacity ease);
-    .logo {
-      height: 36px;
-      padding: 9px;
-    }
-    &:hover {
-      opacity: 1;
-    }
-  }
-  .navbar-list {
-    @include flexbox;
-    margin-right: 1.25vw;
-    .navbar-item {
-      @include flexbox;
-      @include justify-content(space-between);
-      @include flex-direction(column);
-      padding: 0 6px;
-      margin: 0 calc(2.5vw - 6px);
-      color: inherit;
-      text-decoration: none;
-      font-size: 15px;
-      font-weight: 400;
-      text-transform: uppercase;
-      letter-spacing: .075em;
-      @include transition(.3s color ease);
-      &:before,
-      &:after {
-        content: '';
-        display: block;
-        height: 2px;
-        width: 100%;
-      }
-    }
-  }
-  &.home {
-    color: rgba(white, .75);
-    .navbar-item {
-      &:hover {
-        color: $goldLight;
-      }
-    }
-  }
-}
+// Keyframes
 
-#hero {
-  @include clip-path(inset(0 0 0 0));
-  @include flexbox;
-  @include flex-direction(column);
-  @include align-items(center);
-  padding: calc(72px + 3.75vw) 2.5vw 6.25vw;
-  #hero-video {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: -100;
-    transform: translateX(-50%) translateY(-50%);
-    background-size: cover;
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
   }
-  h1 {
-    margin: 0;
-    padding: 0;
-    visibility: hidden;
-    height: 0;
-    overflow: hidden;
-  }
-  #hero-logo {
-    width: calc(180px + 25vw);
-    margin-bottom: calc(24px + 1vw);
-  }
-  .intro-text {
-    margin: .125em 0 .5em;
-    color: rgba(white, .75);
-  }
-}
-
-#coaches {
-  overflow: hidden;
-}
-
-.slick-slider {
-  width: 100%;
-  margin-top: 5vw;
-  padding-left: 1.6667vw;
-  padding-right: 4.1667vw;
-  .slick-list {
-    overflow: visible;
-    .slick-track {
-      >div>div {
-        padding: 0 .83333vw;
-      }
-    }
-  }
-  .coach {
-    position: relative;
-    cursor: pointer;
-    img {
-      width: 100%;
-    }
-    .info {
-      position: absolute;
-      width: 100%;
-      bottom: 0;
-      color: white;
-      padding: .83333vw;
-      box-sizing: border-box;
-      text-align: center;
-      text-shadow: 0 0 5px black;
-      z-index: 2;
-    }
-    &:after {
-      @include easingGradient;
-      content: '';
-      display: block;
-      width: 100%;
-      height: 50%;
-      position: absolute;
-      bottom: 0;
-      z-index: 1;
-    }
+  100% {
+    opacity: 1;
   }
 }

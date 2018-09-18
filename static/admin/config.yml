@@ -6,18 +6,20 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: blog
-    label: Blog
-    folder: src/pages/blog
+  - name: thought
+    label: Thought Leadership
+    folder: src/pages/thought
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
+    editor:
+      - preview: false    
     fields:
-      - {label: Template Key, name: templateKey, widget: hidden, default: blog-post}
-      - {label: Title, name: title, widget: string}
+      - {label: Template Key, name: templateKey, widget: hidden, default: thought-post}
+      - {label: Post Title, name: title, widget: string}
+      - {label: URL, name: url, hint: 'ex: www.linkedin.com/pulse/example-post-title', widget: string}
+      - {label: Post Author, name: author, widget: string}
       - {label: Publish Date, name: date, widget: datetime}
-      - {label: Description, name: description, widget: text}
-      - {label: Body, name: body, widget: markdown}
-      - {label: Tags, name: tags, widget: list}
+      - {label: Post Image, name: image, widget: image, hint: ''}
 
   - name: coaches
     label: Coaches
@@ -25,6 +27,8 @@ collections:
       - file: src/pages/coaches/index.md
         label: Coaches
         name: coaches
+        editor:
+          - preview: false        
         fields:
           - {label: Template Key, name: templateKey, widget: hidden, default: coaches-page}
           - label: Coaches
@@ -53,6 +57,8 @@ collections:
       - file: src/pages/index.md
         label: Home
         name: home
+        editor:
+          - preview: false
         fields:
           - {label: Template Key, name: templateKey, widget: hidden, default: home-page}
           - label: Intro
@@ -78,6 +84,8 @@ collections:
       - file: src/pages/about/index.md
         label: About
         name: about
+        editor:
+          - preview: false        
         fields:
           - {label: Template Key, name: templateKey, widget: hidden, default: about-page}
           - {label: Title, name: title, widget: string}
@@ -86,6 +94,8 @@ collections:
       - file: src/pages/products/index.md
         label: Products Page
         name: products
+        editor:
+          - preview: false        
         fields:
           - {label: Template Key, name: templateKey, widget: hidden, default: product-page}
           - {label: Title, name: title, widget: string}
