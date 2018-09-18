@@ -465,7 +465,7 @@ nav.navbar {
       letter-spacing: .05em;
       padding: .5em;
       margin-right: 1em;
-      @include transition(.2s color ease)
+      @include transition(.2s color ease);
       &:after {
         content: '';
         display: block;
