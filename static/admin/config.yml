@@ -12,7 +12,7 @@ collections:
     create: true
     slug: "{{slug}}"
     editor:
-      - preview: false    
+      preview: false    
     fields:
       - {label: Template Key, name: templateKey, widget: hidden, default: thought-post}
       - {label: Post Title, name: title, widget: string}
@@ -28,7 +28,7 @@ collections:
         label: Coaches
         name: coaches
         editor:
-          - preview: false        
+          preview: false        
         fields:
           - {label: Template Key, name: templateKey, widget: hidden, default: coaches-page}
           - label: Coaches
@@ -58,7 +58,7 @@ collections:
         label: Home
         name: home
         editor:
-          - preview: false
+          preview: false
         fields:
           - {label: Template Key, name: templateKey, widget: hidden, default: home-page}
           - label: Intro
@@ -85,7 +85,7 @@ collections:
         label: About
         name: about
         editor:
-          - preview: false        
+          preview: false        
         fields:
           - {label: Template Key, name: templateKey, widget: hidden, default: about-page}
           - {label: Title, name: title, widget: string}
@@ -95,7 +95,7 @@ collections:
         label: Products Page
         name: products
         editor:
-          - preview: false        
+          preview: false        
         fields:
           - {label: Template Key, name: templateKey, widget: hidden, default: product-page}
           - {label: Title, name: title, widget: string}
