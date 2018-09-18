@@ -251,12 +251,18 @@ nav.navbar {
   .navbar-brand {
     @include flexbox;
     margin: .625vw 1.475vw;
-    opacity: .75;
+    opacity: 1;
     @include transition(.3s opacity ease);
     .logo {
       height: 2.5vw;
       padding: .625vw;
     }
+    &:hover {
+      opacity: .75;
+    }
+  }
+  &.home .navbar-brand {
+    opacity: .75;
     &:hover {
       opacity: 1;
     }
@@ -459,6 +465,7 @@ nav.navbar {
       letter-spacing: .05em;
       padding: .5em;
       margin-right: 1em;
+      @include transition(.2s color ease)
       &:after {
         content: '';
         display: block;
@@ -470,6 +477,9 @@ nav.navbar {
         width: 1px;
         opacity: .5;
         background: $lightGray;
+      }
+      &:hover {
+        color: $greenLight;
       }
     }
     button.slick-arrow{
@@ -550,9 +560,6 @@ nav.navbar {
   left: 0;
   width: 100%;
   height: 100%;
-  overflow: scroll;
-  -webkit-overflow-scrolling: touch;
-  overscroll-behavior: contain;
   opacity:0;
   visibility: hidden;
   text-align: center;
@@ -561,7 +568,16 @@ nav.navbar {
   -webkit-perspective: 1000;
   @include transition(.3s opacity ease-in);
   .lightbox-wrapper {
-    position: relative;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
     -webkit-backface-visibility: hidden;
     -webkit-perspective: 1000;
     @include transform(translate3D(0,0,0));
