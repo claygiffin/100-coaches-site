@@ -193,7 +193,6 @@ section {
   }  
 }
 
-
 .icon {
   background: $lightestGray;
   width: 3.33vw;
@@ -250,7 +249,7 @@ nav.navbar {
   width: 100%;
   .navbar-brand {
     @include flexbox;
-    margin: .625vw 1.475vw;
+    margin: .625vw 1.875vw;
     opacity: 1;
     @include transition(.3s opacity ease);
     .logo {
@@ -300,6 +299,14 @@ nav.navbar {
       }
     }
   }
+  &.interior {
+    box-shadow: 0 1px 0 rgba(0,0,0,.1);
+    background-color: white;
+  }
+}
+
+.page-content {
+  padding-top: 5vw;
 }
 
 #hero {
@@ -381,6 +388,73 @@ nav.navbar {
     img {
       opacity: .85;
     }
+  }
+}
+
+#profile-page {
+  text-align: center;
+  .coach-profile {
+    .coach-photo {
+      flex: .75;
+    }
+    .profile-content {
+      width: $col-8-dt;
+      @include inline-flex;
+      @include flex-direction(column);      
+    }
+  }
+}
+
+.coach-profile {
+  .flex-row {
+    @include flexbox;
+    @include justify-content(space-between);
+    padding: 2.5vw 2.5vw 0;
+    & > * {
+      @include flex(1);
+    }
+    .coach-photo {
+      @include flex(1.25);
+      img {
+        width: 100%;  
+      }
+    }
+    .coach-links {
+      @include flexbox;
+      .icon {
+        margin: 0 .5vw 0 0;
+      }
+    }
+    .functional-links {
+      @include flexbox;
+      @include justify-content(flex-end);
+      .icon {
+        margin: 0 0 0 .5vw;
+        cursor: pointer;
+      }
+    }
+  }
+  h1 {
+    font-size: $font-36-dt;
+    margin: .75em 0 .5em;
+  }
+  h5 {
+    font-size: $font-21-dt;
+    color: $midGray;
+    font-weight: 300;
+    margin-bottom: .5em;
+  }
+  .tags {
+    h6 {
+      display: inline-block;
+      margin: 0 1em;
+    }
+    .divider:after {
+      margin: 2vw 0;
+    }
+  }
+  .bio {
+    padding: 0 2.5vw 2.5vw;
   }
 }
 
@@ -630,58 +704,6 @@ nav.navbar {
         color: $greenLight;
       }
     }
-  }
-  .flex-row {
-    @include flexbox;
-    @include justify-content(space-between);
-    padding: 2.5vw 2.5vw 0;
-    & > * {
-      @include flex(1);
-    }
-    .coach-photo {
-      @include flexbox;
-      @include flex(1.25);
-      img {
-        width: 100%;  
-      }
-    }
-    .coach-links {
-      @include flexbox;
-      .icon {
-        margin: 0 .5vw 0 0;
-      }
-    }
-    .functional-links {
-      @include flexbox;
-      @include justify-content(flex-end);
-      .icon {
-        margin: 0 0 0 .5vw;
-        cursor: pointer;
-      }
-    }
-  }
-  h1 {
-    font-size: $font-36-dt;
-    margin: .75em 0 .5em;
-  }
-  h5 {
-    font-size: $font-21-dt;
-    color: $midGray;
-    font-weight: 300;
-    margin-bottom: .5em;
-  }
-  .tags {
-    h6 {
-      display: inline-block;
-      margin: 0 1em;
-    }
-    .divider:after {
-      margin: 2vw 0;
-    }
-  }
-
-  .bio {
-    padding: 0 2.5vw 2.5vw;
   }
 }
 

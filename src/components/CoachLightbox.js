@@ -13,7 +13,7 @@ export class CoachLightbox extends React.Component {
       <Lightbox 
         openState={this.props.openState}
         onClose={this.props.onClose}
-        className='coach-lightbox' 
+        className='coach-profile' 
       >
         <Helmet title={`${coach.coachName}'s Profile`} />
         <div className="flex-row">
