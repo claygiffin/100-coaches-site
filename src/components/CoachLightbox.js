@@ -7,8 +7,8 @@ export class CoachLightbox extends React.Component {
 
   render(){
     const {coach} = this.props;
-    // const PostContent = HTMLContent || Content
     const Bio = markdownContent
+    console.log(coach.photo)
     return(
       <Lightbox 
         openState={this.props.openState}

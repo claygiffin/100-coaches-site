@@ -20,6 +20,7 @@ export const HomePage = ({data}) => {
   return (
     <Layout title={metaQuery.title} >
       <HomePageTemplate 
+        title={metaQuery.title}
         intro={page.frontmatter.intro}
         coachesSection={page.frontmatter.coaches}
         consultancy={page.frontmatter.consultancy}
@@ -61,6 +62,7 @@ export class HomePageTemplate extends React.Component {
     let slug = `/coaches/${kebabCase(coachName)}/`;
     window.history.pushState({page: coachName}, null, `${slug}`);
     document.body.classList.add('lightbox-open');
+    console.log(coach.photo);
   }
 
   handleCoachClose(){
