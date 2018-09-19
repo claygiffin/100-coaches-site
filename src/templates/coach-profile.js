@@ -30,7 +30,7 @@ export class CoachProfileTemplate extends React.Component {
     const { coach } = this.props;
     const Bio = markdownContent;
     return (
-      <div id="profile-page" class="page-content">
+      <div id="profile-page" className="page-content">
         <div className="coach-profile">
           <Helmet title={`${coach.coachName}'s Profile`} />
           <div className="flex-row">

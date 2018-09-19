@@ -13,11 +13,13 @@ export default class ThoughtThumb extends React.Component {
         onTouchMove={this.handleMouseMove}
         onTouchEnd={this.handleMouseUp}
         className="thought"
-        href={thought.url}
+        href={`//${thought.url.replace(/(^\w+:|^)\/\//, '')}`}
         target="_blank"
         rel="noopener noreferrer"
       >
-        <img src={thought.image} alt={thought.title} />
+        <div className="image" >
+          <img src={thought.image} alt={thought.title} />
+        </div>
         <h5>{thought.title}</h5>
         <h6>{thought.author}</h6>
       </a>

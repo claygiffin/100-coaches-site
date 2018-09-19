@@ -4,6 +4,11 @@
 @import url("https://use.typekit.net/xln8mvd.css");
 
 // Config vars
+$dt: 1440;
+$ds: 1080;
+$tb: 720;
+$mb: 480;
+
 $green: hsl(154, 33%, 37%);
 $greenLight: hsl(154, 36%, 50%);
 $greenMid: hsl(165, 56%, 22%);
@@ -16,16 +21,33 @@ $midGray: hsl(156, 5%, 38%);
 $midLightGray: hsl(153, 5%, 57%);
 $lightGray: hsl(154, 6%, 75%);
 $lightestGray: hsl(0, 0%, 95%);
-$font-13-dt: .9vw;
-$font-15-dt: 1vw;
-$font-16-dt: 1.1vw;
-$font-18-dt: 1.25vw;
-$font-21-dt: 1.5vw;
-$font-24-dt: 1.67vw;
-$font-30-dt: 2vw;
-$font-36-dt: 2.5vw;
-$font-72-dt: 5vw;
-$col-8-dt: 62.5vw;
+
+$sizeList: 12 13 15 16 18 21 24 30 36 72;
+
+@each $fontSize in $sizeList {
+  %font-#{$fontSize} {
+    font-size: $fontSize / $dt * 100vw;
+    @media screen and (max-width: $ds * 1px) {
+      font-size: $fontSize / $ds * 95vw;
+    }
+    @media screen and (max-width: $tb * 1px) {
+      font-size: $fontSize / $tb * 90vw;
+    }
+    @media screen and (max-width: $mb * 1px) {
+      font-size: $fontSize / $mb * 80vw;
+    }
+  }
+}
+
+%col-8 {
+  width: 62.5vw;
+  @media screen and (max-width: $ds * 1px) {
+    width: 62.5vw;
+  }
+  @media screen and (max-width: $tb * 1px) {
+    width: 95vw;
+  }
+}
 
 // Mixins
 @mixin easingGradient {
@@ -46,11 +68,13 @@ $col-8-dt: 62.5vw;
 @mixin divider {
   content: '';
   display: inline-block;
-  width: 5vw;
-  min-width: 60px;
+  width: 6rem;
   height: 2px;
   background-color: $gold;
-  margin: 2.5vw 0;
+  margin: 3rem 0;
+  @media screen and (max-width: $mb * 1px) {
+    height: 1px;
+  }
 }
 
 @mixin effraStack {
@@ -63,6 +87,10 @@ $col-8-dt: 62.5vw;
 
 // 100 Coaches Styling
 // Base font setup
+html {
+  @extend %font-12;
+}
+
 body {
   @include effraStack;
   font-weight: 300;
@@ -71,7 +99,7 @@ body {
 
 h1 {
   @include eavesStack;
-  font-size: $font-72-dt;
+  @extend %font-72;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: .1em;
@@ -79,9 +107,9 @@ h1 {
   margin: 0;
 }
 
-h3 {
+h2 {
   @include eavesStack;
-  font-size: $font-36-dt;
+  @extend %font-36;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: .1em;
@@ -95,9 +123,19 @@ h3 {
   }
 }
 
+h3 {
+  @include eavesStack;
+  @extend %font-36;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+  color: $darkGray;
+  margin: 0 0 .5em;
+}
+
 h4 {
   @include effraStack;
-  font-size: $font-18-dt;
+  @extend %font-18;
   text-transform: uppercase;
   letter-spacing: .125em;
   font-weight: 500;
@@ -106,15 +144,15 @@ h4 {
 
 h5 {
   @include effraStack;
-  font-size: $font-16-dt;
-  font-weight: 400;
+  @extend %font-16;
+  font-weight: 300;
   font-style: italic;
   margin: .25em 0;
 }
 
 h6 {
   @include effraStack;
-  font-size: $font-13-dt;
+  @extend %font-13;
   text-transform: uppercase;
   color: $midLightGray;
   letter-spacing: .05em;
@@ -123,7 +161,7 @@ h6 {
 
 p {
   @include effraStack;
-  font-size: $font-24-dt;
+  @extend %font-24;
   line-height: 2;
   margin: 0 0 1.125em;
   font-weight: 300;
@@ -136,19 +174,19 @@ section {
   @include flexbox;
   @include flex-direction(column);
   @include align-items(center);
-  padding: 2.5vw 0;
+  padding: 3em 0;
 }
 
 .intro-text {
-  font-size: $font-30-dt;
+  @extend %font-30;
   line-height: 1.6;
-  width: $col-8-dt;
+  @extend %col-8;
   text-align: center;
   color: $midGray;
 }
 
 .text-link {
-  font-size: $font-21-dt;
+  @extend %font-18;
   text-transform: uppercase;
   font-weight: 500;
   letter-spacing: .1em;
@@ -172,7 +210,7 @@ section {
   color: white;
   font-weight: 400;
   text-decoration: none;
-  font-size: $font-21-dt;
+  @extend %font-21;
   text-transform: uppercase;
   padding: .75em 2.5em;
   letter-spacing: .05em;
@@ -186,8 +224,8 @@ section {
 
 .divider{
   width: 100%;
-  text-align: center;
-  display: block;
+  @include flexbox;
+  @include justify-content(center);
   &:after {
     @include divider;
   }  
@@ -195,13 +233,11 @@ section {
 
 .icon {
   background: $lightestGray;
-  width: 3.33vw;
-  height: 3.33vw;
-  min-width: 36px;
-  min-height: 36px;
+  width: 4rem;
+  height: 4rem;
   text-decoration: none;
   color: $lightGray;
-  font-size: $font-21-dt;
+  @extend %font-21;
   @include flexbox;
   @include align-items(center);
   @include justify-content(center);
@@ -243,18 +279,19 @@ section {
 // Styling
 nav.navbar {
   position: absolute;
+  @extend %font-15;
   @include flexbox;
   @include justify-content(space-between);
   z-index: 10;
   width: 100%;
   .navbar-brand {
     @include flexbox;
-    margin: .625vw 1.875vw;
+    margin: .6em 1.8em;
     opacity: 1;
     @include transition(.3s opacity ease);
     .logo {
-      height: 2.5vw;
-      padding: .625vw;
+      height: 2.4em;
+      padding: .6em;
     }
     &:hover {
       opacity: .75;
@@ -268,16 +305,16 @@ nav.navbar {
   }
   .navbar-list {
     @include flexbox;
-    margin-right: 0.8333vw;
+    margin-right: 1rem;
     .navbar-item {
       @include flexbox;
       @include justify-content(space-between);
       @include flex-direction(column);
-      padding: 0 .4vw;
-      margin: 0 2.1vw;
+      font-size: inherit;
+      padding: 0 .3em;
+      margin: 0 2.1em;
       color: inherit;
       text-decoration: none;
-      font-size: $font-15-dt;
       font-weight: 400;
       text-transform: uppercase;
       letter-spacing: .075em;
@@ -306,7 +343,7 @@ nav.navbar {
 }
 
 .page-content {
-  padding-top: 5vw;
+  padding-top: 6rem;
 }
 
 #hero {
@@ -314,7 +351,8 @@ nav.navbar {
   @include flexbox;
   @include flex-direction(column);
   @include align-items(center);
-  padding: calc(72px + 3.75vw) 2.5vw 6.25vw;
+  @extend %font-72;
+  padding: 1.75em .5em 1.25em;
   background-color: $greenMid;
   @include linear-gradient(to top right, $greenDark, $green);
   animation: fadeIn .5s 0s ease;
@@ -338,19 +376,23 @@ nav.navbar {
     overflow: hidden;
   }
   #hero-logo {
-    width: calc(180px + 25vw);
-    margin-bottom: calc(24px + 1vw);
+    width: 7.5em;
+    max-width: 90%;
+    margin-bottom: .5em;
   }
   .intro-text {
     margin: .125em 0 .5em;
     color: rgba(white, .75);
+  }
+  .text-link {
+    @extend %font-21;
   }
 }
 
 #coaches {
   overflow: hidden;
   .intro-text {
-    margin-bottom: 1vw;
+    margin-bottom: 1.25rem;
   }
 }
 
@@ -365,7 +407,7 @@ nav.navbar {
     width: 100%;
     bottom: 0;
     color: white;
-    padding: .83333vw;
+    padding: 1rem;
     box-sizing: border-box;
     text-align: center;
     text-shadow: 0 0 5px black;
@@ -398,7 +440,7 @@ nav.navbar {
       flex: .75;
     }
     .profile-content {
-      width: $col-8-dt;
+      @extend %col-8;
       @include inline-flex;
       @include flex-direction(column);      
     }
@@ -409,7 +451,7 @@ nav.navbar {
   .flex-row {
     @include flexbox;
     @include justify-content(space-between);
-    padding: 2.5vw 2.5vw 0;
+    padding: 3rem 3rem 0;
     & > * {
       @include flex(1);
     }
@@ -422,27 +464,27 @@ nav.navbar {
     .coach-links {
       @include flexbox;
       .icon {
-        margin: 0 .5vw 0 0;
+        margin: 0 .5rem 0 0;
       }
     }
     .functional-links {
       @include flexbox;
       @include justify-content(flex-end);
       .icon {
-        margin: 0 0 0 .5vw;
+        margin: 0 0 0 .5rem;
         cursor: pointer;
       }
     }
   }
   h1 {
-    font-size: $font-36-dt;
+    @extend %font-36;
     margin: .75em 0 .5em;
   }
   h5 {
-    font-size: $font-21-dt;
+    @extend %font-21;
     color: $midGray;
     font-weight: 300;
-    margin-bottom: .5em;
+    margin-bottom: .75em;
   }
   .tags {
     h6 {
@@ -450,11 +492,11 @@ nav.navbar {
       margin: 0 1em;
     }
     .divider:after {
-      margin: 2vw 0;
+      margin: 2.25rem 0;
     }
   }
-  .bio {
-    padding: 0 2.5vw 2.5vw;
+  .profile-content {
+    padding: 0 3rem 3rem;
   }
 }
 
@@ -469,7 +511,7 @@ nav.navbar {
     display: block;
     position:absolute;
     width: 100%;
-    height: 1vw;
+    height: 1.25rem;
     @include linear-gradient(90deg, lighten($lightGray, 10%), $lightestGray);
   }
   &:before {
@@ -485,8 +527,8 @@ nav.navbar {
   .slick-nav {
     padding-top: 0;
   }
-  h3:after {
-    margin-bottom: 1vw;
+  h2:after {
+    margin-bottom: 1.25rem;
   }
 }
 
@@ -496,7 +538,8 @@ nav.navbar {
   @include transition(.3s color ease);
   h5 {
     font-style: normal;
-    font-size: $font-21-dt;
+    font-weight: 400;
+    @extend %font-21;
     color: inherit;
   }
   h6 {
@@ -504,9 +547,35 @@ nav.navbar {
     margin: 0;
     @include transition(.3s opacity ease);
   }
-  img {
+  .image {
     width: 100%;
-    @include transition(.3s opacity ease);
+    height: 0;
+    padding-bottom: 52.5%;
+    position: relative;
+    img {
+      position:absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      @include transition(.3s opacity ease);
+    }
+    &:after {
+      content: '';
+      display: block;
+      position:absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      width: 100%;
+      height: 100%;
+      border: 1px solid rgba(black, 0.07);
+      box-sizing: border-box;
+    }
   }
   &:hover {
     color: $gold;
@@ -519,6 +588,53 @@ nav.navbar {
   }
 }
 
+#education {
+  @include linear-gradient(to top right, $greenDark, $greenMid);
+  @include flex-direction(row);
+  @include align-items(stretch);
+  .image {
+    flex: 1;
+    height: auto;
+    position: relative;
+    img {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      @include transform(translate(-50%, -50%));
+      height: 155%;
+      max-width: 90%;
+      object-fit: contain;
+    }
+  }
+  .text {
+    padding: 2rem 3rem 2rem 1.5rem;
+    flex: 1;
+  }
+  h3 {
+    color: white;
+  }
+  p {
+    color: rgba(white, .75);
+    line-height: 1.5;
+  }
+}
+
+#institute {
+  @include flex-direction(row);
+  @include align-items(stretch);
+  .headline {
+    flex: 1;
+    padding: 5rem 1.5rem 5rem 3rem;
+    text-align: right;
+  }
+  .text {
+    flex: 1;
+    padding: 5rem 3rem 5rem 1.5rem;
+    p {
+      line-height: 1.5;
+    }
+  }
+}
 
 // Slick Slider
 
@@ -532,7 +648,7 @@ nav.navbar {
     .view-all {
       position: relative;
       color: $green;
-      font-size: $font-13-dt;
+      @extend %font-13;
       text-decoration: none;
       text-transform: uppercase;
       font-weight: 500;
@@ -572,7 +688,7 @@ nav.navbar {
       display: flex !important;
       &:before {
         color: $green;
-        font-size: $font-21-dt;
+        @extend %font-21;
         padding: .25em;
         opacity: 1;
         @include transition(.15s color ease);
@@ -655,6 +771,9 @@ nav.navbar {
     -webkit-backface-visibility: hidden;
     -webkit-perspective: 1000;
     @include transform(translate3D(0,0,0));
+    .wrapper-inner {
+      position: relative;
+    }
     .lightbox-container {
       -webkit-backface-visibility: hidden;
       -webkit-perspective: 1000;
@@ -667,7 +786,7 @@ nav.navbar {
       @include inline-flex;
       @include flex-direction(column);
       .lightbox-content {
-        width: $col-8-dt;
+        @extend %col-8;
       }
     }
     .lightbox-bg {
@@ -684,17 +803,17 @@ nav.navbar {
     @include justify-content(space-between);
     @include align-items(center);
     @include flexbox;
-    padding: 1.67vw 2.5vw;
+    padding: 2rem 3rem;
     border-bottom: 1px solid hsl(0, 0%, 90%);
     .site-logo {
-      height: $font-36-dt;
+      height: 3rem;
     }
     .close-button {
       cursor: pointer;
       @include justify-content(center);
       @include align-items(center);
       @include flexbox;
-      font-size: $font-36-dt;
+      @extend %font-36;
       color: $midGray;
       @include transition(.1s color ease);
       &:before{

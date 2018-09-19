@@ -7,17 +7,19 @@ export class Lightbox extends React.Component {
     return (
       <div className={`lightbox ${this.props.className}`} >
         <div className="lightbox-wrapper" >
-          <div className="lightbox-container">
-            <nav>
-              <img className="site-logo" src={logoDefault} alt="100 Coaches" />
-              <div className="close-button" onClick={this.props.onClose}></div>
-            </nav>
-            <div className="lightbox-content">
-              {this.props.openState && this.props.children }        
+          <div className="wrapper-inner">
+            <div className="lightbox-container">
+              <nav>
+                <img className="site-logo" src={logoDefault} alt="100 Coaches" />
+                <div className="close-button" onClick={this.props.onClose}></div>
+              </nav>
+              <div className="lightbox-content">
+                {this.props.openState && this.props.children }        
+              </div>
+            </div>
+              <div className="lightbox-bg" onClick={this.props.onClose}></div>
             </div>
           </div>
-          <div className="lightbox-bg" onClick={this.props.onClose}></div>
-        </div>
       </div>
     )
   }

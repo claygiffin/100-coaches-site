@@ -18,5 +18,18 @@ consultancy:
     executive coaches in the world. We help successful leaders reach their full
     potential using a variety of coaching methods. 
   headline: Work With Us
+education: 
+  image: /img/marshall-books@2x.png
+  url: www.example.com
+  linkText: Order Now
+  text: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
+  headline: Books lorem ipsum comet dolor consectetur sit vatar
+institute: 
+  url: www.example.com
+  linkText: Learn More
+  text: >-
+    If you are one of the 100 Coaches, lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor:
+  headline: Lorem ipsum comet dolor consectetur sit vatar ametius
 ---
 

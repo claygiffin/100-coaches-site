@@ -24,6 +24,8 @@ export const HomePage = ({data}) => {
         intro={page.frontmatter.intro}
         coachesSection={page.frontmatter.coaches}
         consultancy={page.frontmatter.consultancy}
+        education={page.frontmatter.education}
+        institute={page.frontmatter.institute}
         coaches={coaches}
         thoughts={thoughts}
       />
@@ -92,7 +94,7 @@ export class HomePageTemplate extends React.Component {
             <Link to="/about" className="text-link" >{this.props.intro.linkText}</Link>
           </Hero>
           <section id="coaches">
-            <h3>{this.props.coachesSection.headline}</h3>
+            <h2>{this.props.coachesSection.headline}</h2>
             <div className="intro-text">{this.props.coachesSection.text}</div>
             <Carousel slidesToShow={4} id="coaches-carousel" viewAll="/coaches">
               {this.props.coaches.map(({ node }) => (
@@ -107,17 +109,48 @@ export class HomePageTemplate extends React.Component {
             </Carousel>
           </section>
           <section id="consultancy">
-            <h3>{this.props.consultancy.headline}</h3>
+            <h2>{this.props.consultancy.headline}</h2>
             <div className="intro-text">{this.props.consultancy.text}</div>
             <Link to="/" className="cta-link">{this.props.consultancy.linkText}</Link>
           </section>
           <section id="thought-leadership">
-            <h3>Thought Leadership</h3>
+            <h2>Thought Leadership</h2>
             <Carousel slidesToShow={3} id="thought-leadership-carousel" viewAll="/" >
               {this.props.thoughts.map(({ node }) => (
                 <ThoughtThumb key={node.frontmatter.title} thought={node.frontmatter} />
               ))}
             </Carousel>
+          </section>
+          <section id="education">
+            <div className="image">
+              <img src={this.props.education.image} alt="" />
+            </div>
+            <div className="text">
+              <h3>{this.props.education.headline}</h3>
+              <p>{this.props.education.text}</p>
+              <a className="text-link" 
+                href={`//${this.props.education.url.replace(/(^\w+:|^)\/\//, '')}`} 
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {this.props.education.linkText}
+              </a>
+            </div>
+          </section>
+          <section id="institute" >
+            <div className="headline">
+              <h3>{this.props.institute.headline}</h3>
+            </div>
+            <div className="text" >
+              <p>{this.props.institute.text}</p>
+              <a className="text-link" 
+                href={`//${this.props.institute.url.replace(/(^\w+:|^)\/\//, '')}`} 
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {this.props.institute.linkText}
+              </a>
+            </div>
           </section>
         </div>
         <CoachLightbox 
@@ -154,6 +187,19 @@ export const indexPageQuery = graphql`
           headline
           text
           linkText
+        }
+        education {
+          headline
+          text
+          linkText
+          url
+          image
+        }
+        institute {
+          headline
+          text
+          linkText
+          url
         }
       }
     }
