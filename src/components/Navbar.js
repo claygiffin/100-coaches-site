@@ -16,7 +16,7 @@ class Navbar extends React.Component {
   render() {
     return (
       <nav className={`navbar ${this.state.home ? 'home' : 'interior'}`}>
-        <Link to="/" className="navbar-brand">
+        <Link to="/" className="site-logo">
           <img src={this.state.logo} alt="Marshall Goldsmith 100 Coaches" className="logo"/>
         </Link>
         <div className="navbar-list">

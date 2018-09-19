@@ -16,6 +16,7 @@ $greenDark: hsl(174, 70%, 12%);
 $gold: hsl(39, 77%, 60%);
 $goldLight: hsl(43, 100%, 72%);
 $goldDark: hsl(33, 57%, 47%);
+$darkestGray: hsl(180, 5%, 19%);
 $darkGray: hsl(163, 5%, 27%);
 $midGray: hsl(156, 5%, 38%);
 $midLightGray: hsl(153, 5%, 57%);
@@ -284,7 +285,7 @@ nav.navbar {
   @include justify-content(space-between);
   z-index: 10;
   width: 100%;
-  .navbar-brand {
+  .site-logo {
     @include flexbox;
     margin: .6em 1.8em;
     opacity: 1;
@@ -297,7 +298,7 @@ nav.navbar {
       opacity: .75;
     }
   }
-  &.home .navbar-brand {
+  &.home .site-logo {
     opacity: .75;
     &:hover {
       opacity: 1;
@@ -344,6 +345,24 @@ nav.navbar {
 
 .page-content {
   padding-top: 6rem;
+}
+
+footer.site-footer {
+  @include flexbox;
+  @include flex-direction(column);
+  background-color: $darkestGray;
+  padding: 3rem;
+  .site-logo {
+    height: 3rem;
+  }
+  .copyright {
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    color: rgba(white, .85);
+    text-align: center;
+    margin-top: 1.5rem;
+  }
 }
 
 #hero {
