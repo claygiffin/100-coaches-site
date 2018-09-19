@@ -6,7 +6,7 @@ export default class Footer extends React.Component {
     return (
       <footer className="site-footer" >
         <img src={logoKnockout} alt="100 Coaches Logo" className="site-logo" />
-        <div class="copyright">© 2018 100 Coaches. All Rights Reserved.</div>
+        <div className="copyright">© 2018 100 Coaches. All Rights Reserved.</div>
       </footer>
     )
   }
