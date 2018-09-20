@@ -19,7 +19,7 @@ consultancy:
     potential using a variety of coaching methods. 
   headline: Work With Us
 education: 
-  image: /img/marshall-books@2x.png
+  image: /uploads/marshall-books@2x.png
   url: www.example.com
   linkText: Order Now
   text: >-

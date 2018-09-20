@@ -78,7 +78,7 @@ coachList:
       linkedin: ''
       twitter: ToServeIsToLive
       website: ''
-    photo: /img/frances-hesselbein.jpg
+    photo: /uploads/frances-hesselbein.jpg
     tags:
       - Iconic Leader
       - Author
@@ -142,7 +142,7 @@ coachList:
       Sloan Fellow.
     coachName: Alan Mulally
     jobTitle: Former CEO of The Ford Motor Company
-    photo: /img/alan_mulally.jpg
+    photo: /uploads/alan_mulally.jpg
     tags:
       - Iconic Leader
       - Entrepreneur
@@ -174,7 +174,7 @@ coachList:
       of TIME magazine’s “100 Most Influential People in the World.”
     coachName: Kim Yong Kim
     jobTitle: President of the World Bank Group
-    photo: /img/jim-yong-kim.jpg
+    photo: /uploads/jim-yong-kim.jpg
     tags:
       - Iconic Leader
       - Non-Profit
@@ -224,7 +224,7 @@ coachList:
       facebook: osterwalder
       twitter: AlexOsterwalder
       website: 'http://blog.strategyzer.com/'
-    photo: /img/alexander-osterwalder.jpg
+    photo: /uploads/alexander-osterwalder.jpg
     tags:
       - Thinkers 50
       - Speaker
@@ -294,7 +294,7 @@ coachList:
       is married and is proud to be the mother of two delightful grownups.
     coachName: Rita McGrath
     jobTitle: 'Globally recognized expert on strategy, innovation, and growth'
-    photo: /img/rita_mcgrath_headshot.jpg
+    photo: /uploads/rita_mcgrath_headshot.jpg
     tags:
       - Thinkers 50
       - Author
@@ -333,7 +333,7 @@ coachList:
     jobTitle: Chaired Professor at INSEAD
     links:
       website: herminiaibarra.com
-    photo: /img/ibarra-photo.jpg
+    photo: /uploads/ibarra-photo.jpg
     tags:
       - Thinkers 50
       - Author
@@ -421,7 +421,7 @@ coachList:
     links:
       twitter: johnsonwhitney
       website: ''
-    photo: /img/whitney-johnson.jpg
+    photo: /uploads/whitney-johnson.jpg
     tags:
       - Thinkers 50
       - Executive Coach
@@ -464,7 +464,7 @@ coachList:
       _—David Allen, author of Getting Things Done_
     coachName: Michael Bungay Stanier
     jobTitle: Senior Partner at Box of Crayons
-    photo: /img/michael-bungay-stanier.jpg
+    photo: /uploads/michael-bungay-stanier.jpg
     tags:
       - Executive Coach
       - Author
