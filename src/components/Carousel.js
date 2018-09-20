@@ -11,7 +11,7 @@ export class Carousel extends React.Component {
       infinite: false,
       speed: 500,
       respondTo: 'slider',
-      lazyLoad: true,
+      lazyLoad: `progressive`,
     }
     switch (this.props.slidesToShow) {
       case 3 :

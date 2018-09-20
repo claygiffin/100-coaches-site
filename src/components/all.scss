@@ -444,6 +444,7 @@ footer.site-footer {
 .coach {
   position: relative;
   cursor: pointer;
+  animation: fadeIn .5s 0s ease;
   img {
     width: 100%;
   }
