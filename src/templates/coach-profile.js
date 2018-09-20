@@ -95,6 +95,10 @@ export const pageQuery = graphql`
         bio
         links {
           website
+          linkedin
+          twitter
+          facebook
+          instagram
         }
       }
     }
