@@ -1,6 +1,5 @@
 import React from 'react'
 
-
 export class CoachThumb extends React.Component {
   constructor(props){
     super(props);
@@ -36,7 +35,6 @@ export class CoachThumb extends React.Component {
           <h4>{coach.coachName}</h4>
           <h5>{coach.jobTitle}</h5>  
         </div>
-
       </div>
     )
   }

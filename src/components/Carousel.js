@@ -16,15 +16,75 @@ export class Carousel extends React.Component {
       case 3 :
         settings = {
           ...defaultSettings,
-          slidesToShow: 3,
-          slidesToScroll: 3,
+          slidesToShow: 5,
+          slidesToScroll: 5,
+          responsive: [
+            {
+              breakpoint: 1800,
+              settings: {
+                slidesToShow: 4,
+                slidesToScroll: 4,
+              }
+            },
+            {
+              breakpoint: 1440,
+              settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+              }
+            },
+            {
+              breakpoint: 768,
+              settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2,
+              }
+            },
+            {
+              breakpoint: 540,
+              settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+              }
+            }
+          ]
         }
       break;
       case 4 :
         settings = {
           ...defaultSettings,
-          slidesToShow: 4,
-          slidesToScroll: 4,
+          slidesToShow: 6,
+          slidesToScroll: 6,
+          responsive: [
+            {
+              breakpoint: 1800,
+              settings: {
+                slidesToShow: 5,
+                slidesToScroll: 5,
+              }
+            },
+            {
+              breakpoint: 1440,
+              settings: {
+                slidesToShow: 4,
+                slidesToScroll: 4,
+              }
+            },
+            {
+              breakpoint: 768,
+              settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+              }
+            },
+            {
+              breakpoint: 540,
+              settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2,
+              }
+            }
+          ]
         }
         break;
       default:

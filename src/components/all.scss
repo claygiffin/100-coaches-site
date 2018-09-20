@@ -4,9 +4,10 @@
 @import url("https://use.typekit.net/xln8mvd.css");
 
 // Config vars
+$dl: 1800;
 $dt: 1440;
 $ds: 1080;
-$tb: 720;
+$tb: 768;
 $mb: 480;
 
 $green: hsl(154, 33%, 37%);
@@ -27,7 +28,15 @@ $sizeList: 12 13 15 16 18 21 24 30 36 72;
 
 @each $fontSize in $sizeList {
   %font-#{$fontSize} {
-    font-size: $fontSize / $dt * 100vw;
+    @media screen and (min-width: $dl * 1px) {
+      font-size: $fontSize / $dl * 85vw;
+    }
+    @media screen and (max-width: $dl * 1px) {
+      font-size: $fontSize / $dl * 100vw;
+    }
+    @media screen and (max-width: $dt * 1px) {
+      font-size: $fontSize / $dt * 100vw;
+    }
     @media screen and (max-width: $ds * 1px) {
       font-size: $fontSize / $ds * 95vw;
     }
@@ -35,7 +44,7 @@ $sizeList: 12 13 15 16 18 21 24 30 36 72;
       font-size: $fontSize / $tb * 90vw;
     }
     @media screen and (max-width: $mb * 1px) {
-      font-size: $fontSize / $mb * 80vw;
+      font-size: $fontSize / $mb * 87.5vw;
     }
   }
 }
@@ -43,9 +52,6 @@ $sizeList: 12 13 15 16 18 21 24 30 36 72;
 %col-8 {
   width: 62.5vw;
   @media screen and (max-width: $ds * 1px) {
-    width: 62.5vw;
-  }
-  @media screen and (max-width: $tb * 1px) {
     width: 95vw;
   }
 }
@@ -620,8 +626,8 @@ footer.site-footer {
       left: 50%;
       top: 50%;
       @include transform(translate(-50%, -50%));
-      height: 155%;
-      max-width: 90%;
+      height: 160%;
+      max-width: 95%;
       object-fit: contain;
     }
   }
@@ -663,11 +669,11 @@ footer.site-footer {
     @include flexbox;
     @include justify-content(flex-end);
     @include align-items(center);
-    padding: 1.5vw 1.67vw 1.25vw;
+    padding: 1.5vw 1.875vw 1.25vw;
     .view-all {
+      @extend %font-13;
       position: relative;
       color: $green;
-      @extend %font-13;
       text-decoration: none;
       text-transform: uppercase;
       font-weight: 500;
@@ -713,8 +719,8 @@ footer.site-footer {
         @include transition(.15s color ease);
       }
       &.slick-prev {
-        margin-left: .75vw;
-        margin-right: .5vw;
+        margin-left: .9rem;
+        margin-right: .6rem;
         &:before {
           @include CarouselArrowPrev;
         }
@@ -739,6 +745,14 @@ footer.site-footer {
        &:hover {
           color: inherit;
         }
+      }
+    }
+    @media screen and (max-width: $tb * 1px ) {
+      .view-all {
+        font-size: 1.25rem;
+      }
+      button.slick-arrow:before {
+        font-size: 2rem;
       }
     }
   }
