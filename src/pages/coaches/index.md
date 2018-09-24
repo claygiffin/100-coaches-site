@@ -56,10 +56,7 @@ coachList:
 
       Mrs. Hesselbein was named a Senior Leader at the United States Military
       Academy’s 2008 National Conference on Ethics in America. In 2007, Mrs.
-      Hesselbein was awarded the John F.
-
-
-      Kennedy Memorial Fellowship by Fulbright New Zealand and was the first
+      Hesselbein was awarded the John F. Kennedy Memorial Fellowship by Fulbright New Zealand and was the first
       recipient of the Dwight D. Eisenhower National Security Award in 2003.
 
 

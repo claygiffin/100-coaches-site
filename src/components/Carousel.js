@@ -109,8 +109,8 @@ export class Carousel extends React.Component {
     const carouselNav =  document.querySelectorAll(`#${this.props.id} .slick-nav`)[0];
     const nextButton = thisCarousel.getElementsByClassName('slick-next')[0];
     const prevButton = thisCarousel.getElementsByClassName('slick-prev')[0];
-    prevButton && carouselNav.appendChild(prevButton);
-    nextButton && carouselNav.appendChild(nextButton);
+    prevButton && carouselNav.appendChild(prevButton) && (prevButton.style.display = null);
+    nextButton && carouselNav.appendChild(nextButton) && (nextButton.style.display = null);
   }
 }
 
