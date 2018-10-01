@@ -35,7 +35,7 @@ export class AboutPageTemplate extends React.Component {
         <p className="intro-text">
           {this.props.lede}
         </p>
-        <VideoPlayer />
+        <VideoPlayer url='https://www.youtube.com/watch?v=jqe5XWzBHt0' title='What is 100 Coaches?' description='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.' />
         <PageContent className="content" content={this.props.content} />
       </div>
     )

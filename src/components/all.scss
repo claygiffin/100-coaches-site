@@ -49,15 +49,33 @@ $sizeList: 12 13 15 16 18 21 24 30 36 72;
   }
 }
 
+%font-72 {
+  @media screen and (max-width: $mb * 1px) {
+    font-size: 6rem * .75;
+  }
+}
+
 %col-8 {
   width: 62.5vw;
   @media screen and (max-width: $ds * 1px) {
     width: 95vw;
   }
+  @media screen and (max-width: $tb * 1px) {
+    width: 90vw;
+  }
 }
 
 %col-12 {
   width: 95vw;
+  @media screen and (max-width: $tb * 1px) {
+    width: 90vw;
+  }
+}
+
+%geometric-bg {
+  background-image: url('../assets/LightGrayGeometricBackground.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 // Mixins
@@ -194,6 +212,7 @@ section {
   @include flex-direction(column);
   @include align-items(center);
   padding: 3em 0;
+  position: relative;
 }
 
 .intro-text {
@@ -406,17 +425,19 @@ footer.site-footer {
   padding: 1.75em .5em 1.25em;
   background-color: $greenMid;
   @include linear-gradient(to top right, $greenDark, $green);
+  @include clip-path(inset(0 0 0 0));
+  overflow: hidden;
   animation: fadeIn .5s 0s ease;
   #hero-video {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
     z-index: -100;
-    transform: translateX(-50%) translateY(-50%);
     background-size: cover;
   }
   h1 {
@@ -557,9 +578,7 @@ footer.site-footer {
 
 #consultancy {
   position: relative;
-  background-image: url('../assets/LightGrayGeometricBackground.svg');
-  background-repeat: no-repeat;
-  background-size: cover;
+  @extend %geometric-bg;
   &:before,
   &:after {
     content: '';
@@ -719,6 +738,7 @@ footer.site-footer {
 #about-page {
   margin-bottom: 9rem;
   h1 {
+    @extend %col-12;
     margin-top: 1.5em;
   }
   .content {
@@ -732,16 +752,53 @@ footer.site-footer {
   }
 }
 
-.player-wrapper {
-  width: 100%;
-  position: relative;
-  padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
-  .react-player {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
+.video-container {
+  margin: 3rem 0 2rem;
+  @extend %col-12;
+  @include flexbox;
+  @extend %geometric-bg;
+  .player-wrapper {
+    flex: 2;
+    @include flexbox;
+    @include align-items(center);
+    background-color: rgba(black, .10);
+    .player-wrapper-inner {
+      width: 100%;
+      position: relative;
+      padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+      .react-player {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+    }
+  }
+  .info-wrapper {
+    padding: 4rem 3rem;
+    flex: 1;
+    h3{
+      @extend %font-30;
+      margin-bottom: .5em;
+    }
+    h6 {
+      margin: 0 0 1em;
+      color: lighten($midLightGray, 10);
+    }
+    p {
+      @extend %font-21;
+      margin-bottom: .75em;
+      line-height: 1.75;
+      color: $midLightGray;
+    }
+    @media screen and (max-width: $mb * 1px) {
+      padding: 3rem 2rem;
+    }
+  }
+  @media screen and (max-width: $tb * 1px) {
+    @include flex-direction(column);
+    margin-bottom: 0;
   }
 }
 

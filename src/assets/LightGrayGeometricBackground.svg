@@ -41,9 +41,9 @@
             <stop stop-color="#FDFDFD" offset="100%"></stop>
         </linearGradient>
         <polygon id="path-24" points="101.057183 0.303617131 0.187617391 336.002959 115.390748 336.002959 115.390748 0.303617131"></polygon>
-        <linearGradient x1="205.928553%" y1="98.3955381%" x2="80.9999124%" y2="59.6213446%" id="linearGradient-26">
-            <stop stop-color="#F1F1F1" offset="0%"></stop>
-            <stop stop-color="#FDFDFD" offset="100%"></stop>
+        <linearGradient x1="10.2535257%" y1="98.381693%" x2="140.081948%" y2="100.697113%" id="linearGradient-26">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#EFEFEF" offset="100%"></stop>
         </linearGradient>
         <polygon id="path-27" points="286.244099 70.1606218 0 119.456377 0 0.304182128 210.050651 0.304182128"></polygon>
         <linearGradient x1="-31.3591431%" y1="50%" x2="68.6405039%" y2="50%" id="linearGradient-29">
