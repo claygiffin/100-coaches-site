@@ -4,6 +4,30 @@ import {Link} from 'gatsby'
 import './Carousel.scss'
 
 export class Carousel extends React.Component {
+
+  constructor(props) {
+    super(props);
+
+    this.preventTouch = this.preventTouch.bind(this);
+    this.touchStart = this.touchStart.bind(this);
+  }
+
+  touchStart(e) {
+    // capture user's starting finger position, for later comparison
+    this.firstClientX = e.touches[0].clientX;
+  }
+
+  preventTouch(e) {
+    // only prevent touch on horizontal scroll (for horizontal carousel)
+    // this allows the users to scroll vertically past the carousel when touching the carousel
+    // this also stabilizes the horizontal scroll somewhat, decreasing vertical scroll while horizontal scrolling
+    const clientX = e.touches[0].clientX - this.firstClientX;
+    const horizontalScroll = Math.abs(clientX) > 5;
+    if (horizontalScroll) {
+      e.preventDefault();
+    }
+  }
+
   render(){
     let settings;
     let defaultSettings = {
@@ -104,13 +128,19 @@ export class Carousel extends React.Component {
 
     )
   }
+
   componentDidMount() {
-    const thisCarousel = document.querySelectorAll(`#${this.props.id} .slick-slider`)[0];
-    const carouselNav =  document.querySelectorAll(`#${this.props.id} .slick-nav`)[0];
-    const nextButton = thisCarousel.getElementsByClassName('slick-next')[0];
-    const prevButton = thisCarousel.getElementsByClassName('slick-prev')[0];
+    const thisCarousel = document.querySelector(`#${this.props.id} .slick-slider`);
+    const carouselNav =  document.querySelector(`#${this.props.id} .slick-nav`);
+    const nextButton = thisCarousel.querySelector('.slick-next');
+    const prevButton = thisCarousel.querySelector('.slick-prev');
     prevButton && carouselNav.appendChild(prevButton) && (prevButton.style.display = null);
     nextButton && carouselNav.appendChild(nextButton) && (nextButton.style.display = null);
+
+    // Disable touchmove to prevent scrolling entire page
+    const carousel = document.getElementById(this.props.id); // Your site element containing react-slick's carousel-container
+    carousel.addEventListener('touchstart', this.touchStart);
+    carousel.addEventListener('touchmove', this.preventTouch, { passive: false });
   }
 }
 

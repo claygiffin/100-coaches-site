@@ -439,6 +439,10 @@ footer.site-footer {
     object-fit: cover;
     z-index: -100;
     background-size: cover;
+    &::-webkit-media-controls-overlay-play-button,
+    &::-webkit-media-controls-start-playback-button {
+      display: none !important;
+    }
   }
   h1 {
     margin: 0;
@@ -806,6 +810,7 @@ footer.site-footer {
 
 .slick-wrap {
   width: 100%;
+  overflow: hidden;
   .slick-nav {
     @include flexbox;
     @include justify-content(flex-end);
