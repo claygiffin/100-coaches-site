@@ -113,8 +113,10 @@ export class Carousel extends React.Component {
         }
         break;
       default:
-        settings = defaultSettings;
-        console.log('Carousels must provide a number of slides to show');
+        settings = {
+          ...defaultSettings,
+          variableWidth: true,
+        }
     }
     return (
       <div className="slick-wrap" id={this.props.id}>

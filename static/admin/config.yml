@@ -30,7 +30,8 @@ collections:
         editor:
           preview: false        
         fields:
-          - {label: Template Key, name: templateKey, widget: hidden, default: coaches-page}
+          - {label: Template Key, name: templateKey, widget: hidden, default: coaches-page }
+          - {label: Page Title, name: title, widget: text }
           - label: Coaches
             label_singular: Coach
             name: coachList
@@ -111,7 +112,9 @@ collections:
             name: video
             widget: object
             fields: 
-              - {label: Video URL, name: url, widget: string, }
+              - {label: Video URL, name: url, widget: string, hint: 'Example: https://www.youtube.com/watch?v=abcdefghijk123', default: "" }
+              - {label: Title, name: title, widget: string }
+              - {label: Description, name: description, widget: text }
           - {label: Body, name: body, widget: markdown, buttons: [bold, italic, link, bulleted-list, numbered-list, quote, heading-two]}
 
       - file: src/pages/products/index.md

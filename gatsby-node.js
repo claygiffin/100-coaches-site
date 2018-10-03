@@ -15,7 +15,6 @@ exports.createPages = ({ actions, graphql }) => {
               slug
             }
             frontmatter {
-              tags
               templateKey
               coachList {
                 coachName
@@ -48,7 +47,6 @@ exports.createPages = ({ actions, graphql }) => {
       const id = edge.node.id
       createPage({
         path: edge.node.fields.slug,
-        tags: edge.node.frontmatter.tags,
         component: path.resolve(
           `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
         ),
@@ -61,7 +59,7 @@ exports.createPages = ({ actions, graphql }) => {
 
     // Coach Profile Pages:
     let coachProfiles = []
-    // Iterate through each post, putting all found tags into `tags`
+    // Iterate through each post, putting all found coaches into `coachProfiles`
     posts.forEach(edge => {
       if (_.get(edge, `node.frontmatter.coachList`)) {
         edge.node.frontmatter.coachList.forEach(coachProfile => {
@@ -73,7 +71,7 @@ exports.createPages = ({ actions, graphql }) => {
     // Eliminate duplicate coach profiles
     coachProfiles = _.uniq(coachProfiles)
 
-    // Make tag pages
+    // Make coach pages
     coachProfiles.forEach(coachProfile => {
       const coachPath = `/coaches/${_.kebabCase(coachProfile.coachName)}/`
 

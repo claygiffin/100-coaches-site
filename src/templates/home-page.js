@@ -79,7 +79,6 @@ export class HomePageTemplate extends React.Component {
     },
       300
     )
-
   }
   
   render() {

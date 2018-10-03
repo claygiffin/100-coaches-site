@@ -1,5 +1,7 @@
 ---
 templateKey: coaches-page
+title: >
+  The coaches lorem ipsum comet dolor et cetera
 coachList:
   - bio: >-
       One of the most highly respected experts in the field of contemporary
