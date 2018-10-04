@@ -8,10 +8,9 @@ export class CoachLightbox extends React.Component {
   render(){
     const {coach} = this.props;
     const Bio = markdownContent
-    console.log(coach.photo)
     return(
       <Lightbox 
-        openState={this.props.openState}
+        isOpen={this.props.isOpen}
         onClose={this.props.onClose}
         className='coach-profile' 
       >

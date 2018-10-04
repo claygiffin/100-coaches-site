@@ -3,8 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import CoachThumb from '../components/CoachThumb'
-import { kebabCase } from 'lodash'
-import CoachLightbox from '../components/CoachLightbox'
+import Carousel from '../components/Carousel'
 
 export const CoachesPage = ({ data }) => {
   const { pageQuery, allCoaches } = data
@@ -23,6 +22,47 @@ CoachesPage.propTypes = {
   data: PropTypes.object.isRequired,
 }
 
+const tags = [
+  {
+    name: 'Executive Coaches',
+    matches: [
+      'Coach',
+      'Executive Coach',
+    ],
+  },
+  {
+    name: 'Authors',
+    matches: [
+      'Author',
+    ],
+  },
+  {
+    name: 'Speakers',
+    matches: [
+      'Speaker',
+    ],
+  },
+  {
+    name: 'Entrepreneurs',
+    matches: [
+      'Entrepreneur',
+    ],
+  },
+  {
+    name: 'Non-Profit',
+    matches: [
+      'Non-Profit',
+      'Nonprofit'
+    ],
+  },
+  {
+    name: 'Iconic Leaders',
+    matches: [
+      'Iconic Leader',
+    ],
+  },
+]
+
 export class CoachesPageTemplate extends React.Component {
 
   constructor(props){
@@ -31,11 +71,11 @@ export class CoachesPageTemplate extends React.Component {
     this.state = {
       allCoaches: [],
       filteredCoaches: [],
-      coachLightboxOpen: false,
-      activeCoach: '',
+      activeFilter: 'default',
     }
 
     this.popAllCoaches = this.popAllCoaches.bind(this);
+    this.applyFilter = this.applyFilter.bind(this);
   }
 
   popAllCoaches() {
@@ -43,62 +83,48 @@ export class CoachesPageTemplate extends React.Component {
     this.setState({
       allCoaches: coaches,
       filteredCoaches: coaches,
+      activeFilter: 'default',
     });
-    this.handleCoachClose = this.handleCoachClose.bind(this);
-    this.handleCoachClick = this.handleCoachClick.bind(this);
   }
 
-
-  handleCoachClick(coach){
-    console.log('coach is clicked');
+  applyFilter(selectedTag) {
+    let matches = selectedTag.matches
+    let filteredCoaches = [];
+    matches.forEach(match => {
+      this.state.allCoaches.forEach(coach => {
+        coach.tags.filter(tag => tag === match).length > 0 && filteredCoaches.push(coach);
+      });
+    });
     this.setState({
-      coachLightboxOpen: true,
-      activeCoach: coach,
+      filteredCoaches: filteredCoaches,
+      activeFilter: selectedTag.name,
     })
-    let coachName = coach.coachName;
-    let slug = `/coaches/${kebabCase(coachName)}/`;
-    window.history.pushState({page: coachName}, null, `${slug}`);
-    document.body.classList.add('lightbox-open');
-    console.log(coach.photo);
-  }
-
-  handleCoachClose(){
-    console.log('lightbox is closed');
-    window.history.replaceState({page: 'home'}, null, `/`)
-    document.body.classList.remove('lightbox-open');
-    setTimeout(() => {
-      this.setState({
-        coachLightboxOpen: false,
-        activeCoach: []
-      })
-    },
-      300
-    )
   }
 
   render() {
+    
     return (
       <div id="coaches-page" className="page-content" >
         <div id="main-content">
           <h1>
             {this.props.title}
           </h1>
+          <div className="carousel-wrap">
+            <Carousel id="filters">
+              <h3 onClick={this.popAllCoaches} className={this.state.activeFilter === 'default' ? 'active' : '' }>Everyone</h3>
+              {tags.map(tag => <h3 key={tag.name} onClick={() => {this.applyFilter(tag)}} className={this.state.activeFilter === tag.name ? 'active' : '' }>{tag.name}</h3>)}
+            </Carousel>
+          </div>
           <section className="coach-list" >
             {this.state.filteredCoaches.map(coach => (
               <div className="coach-wrap" key={coach.coachName} >
                 <CoachThumb 
                   coach={coach} 
-                  onClick={this.handleCoachClick}
                 />
               </div>
             ))}
           </section>
         </div>
-        <CoachLightbox 
-          openState={this.state.coachLightboxOpen} 
-          onClose={this.handleCoachClose}
-          coach={this.state.activeCoach}
-        />
       </div>
     )
   }
