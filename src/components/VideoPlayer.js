@@ -66,16 +66,4 @@ export default class VideoPlayer extends React.Component {
     )
   }
 
-  componentDidMount() {
-    // console.log(this.player);
-    // console.log(this.player.getDuration())
-    // setTimeout(() => {
-    //   console.log(this.player)
-    //   console.log(this.player.getDuration())
-    //   const duration = this.player.getDuration();
-    //   this.setState({
-    //     duration: duration,
-    //   })
-    // }, 1000)
-  }
 }

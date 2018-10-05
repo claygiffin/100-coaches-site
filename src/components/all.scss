@@ -319,7 +319,7 @@ section {
 
 // Styling
 nav.navbar {
-  position: absolute;
+  position: fixed;
   @extend %font-15;
   @include flexbox;
   @include justify-content(space-between);
@@ -330,17 +330,27 @@ nav.navbar {
     margin: .6em 1.8em;
     opacity: 1;
     z-index: 12;
-    @include transition(.3s opacity ease);
+    @include transition(.3s .3s ease);
     .logo {
       height: 2.4em;
       min-height: 24px;
       padding: .6em;
+      @include transition(.3s .3s ease);
     }
     &:hover {
       opacity: .75;
     }
   }
-  &.home .site-logo {
+  &.scrolled {
+    .site-logo {
+      margin: 0.1em 1.8em;
+      .logo {
+        height: 2em;
+        padding-top: .4em;
+      }
+    }
+  }
+  &.home:not(.scrolled) .site-logo {
     opacity: .75;
     &:hover {
       opacity: 1;
@@ -358,6 +368,7 @@ nav.navbar {
     height: 100%;
     z-index: 11;
     pointer-events: none;
+    @include transition(.3s ease);
   }
   .navbar-list {
     @include flexbox;
@@ -395,7 +406,7 @@ nav.navbar {
       }
     }
   }
-  &.home {
+  &.home:not(.scrolled) {
     color: rgba(white, .75);
     .navbar-item {
       &:hover {
@@ -403,7 +414,8 @@ nav.navbar {
       }
     }
   }
-  &.interior:after {
+  &.interior:after,
+  &.scrolled:after {
     box-shadow: 0 1px 0 rgba(0,0,0,.1);
     background-color: white;
   }
@@ -418,7 +430,7 @@ nav.navbar {
       @include transition(transform .3s ease);
       @include flex-direction(column);
       @include align-items(center);
-      padding: 8rem 2rem 2rem;
+      padding: 7.25rem 2rem 2rem;
       box-sizing: border-box;
       background-color: white;
       box-shadow: 0 3px 9px rgba(0,0,0,.1), 0 1px 0 rgba(0,0,0,.05);
@@ -438,9 +450,14 @@ nav.navbar {
       }
       z-index: 10;
     }
-    .site-logo {
+    .site-logo,
+    &.scrolled .site-logo {
       z-index: 13;
-      margin: .6rem 2.5vw;
+      margin: .6rem calc(4.25vw - .6em);
+      .logo {
+        height: 2em;
+        padding: .4em .6em;
+      }
     }
     .mobile-nav-button {
       position: relative;
@@ -479,7 +496,7 @@ nav.navbar {
         }
       }
     }
-    &.home {
+    &.home:not(.scrolled) {
       .mobile-nav-button span {
         background-color: rgba(white, .85);
       }

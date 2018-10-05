@@ -14,6 +14,8 @@ class Navbar extends React.Component {
 
     this.toggleNav = this.toggleNav.bind(this);
     this.setLogo = this.setLogo.bind(this);
+    this.handleScroll = this.handleScroll.bind(this);
+
     this.navbarRef = React.createRef();
   }
 
@@ -24,7 +26,7 @@ class Navbar extends React.Component {
       this.setState({logo: logoDefault});
     } else {
       nav.classList.remove('activated');
-      this.setLogo();
+      this.handleScroll();
     }
   }
 
@@ -33,11 +35,22 @@ class Navbar extends React.Component {
     isRoot ? this.setState({logo: logoKnockout, home: true}) : this.setState({logo: logoDefault, home: false})
   }
 
+  handleScroll(){
+    let nav = this.navbarRef.current;
+    if (window.scrollY > 30) {
+      nav.classList.add('scrolled');
+      this.setState({logo: logoDefault});
+    } else {
+      nav.classList.remove('scrolled');
+      this.setLogo();
+    }
+  }
+
   render() {
     return (
       <nav ref={this.navbarRef} className={`navbar ${this.state.home ? 'home' : 'interior'}`}>
         <Link to="/" className="site-logo">
-          <img src={this.state.logo} alt="Marshall Goldsmith 100 Coaches" className="logo"/>
+          <img src={this.state.logo} alt="Marshall Goldsmith 100 Coaches" className="logo" />
         </Link>
         <div className="mobile-nav-button" onClick={this.toggleNav} >
           <span></span><span></span><span></span><span></span>
@@ -56,6 +69,12 @@ class Navbar extends React.Component {
 
   componentDidMount(){
     this.setLogo();
+    this.handleScroll();
+    window.addEventListener('scroll', this.handleScroll);
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('scroll', this.handleScroll);
   }
 }
 
