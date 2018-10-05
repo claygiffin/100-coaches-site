@@ -28,7 +28,6 @@ export class CoachThumb extends React.Component {
   }  
 
   handleCoachClick(){
-    console.log('coach is clicked');
     this.setState({
       lightboxOpen: true,
     })
@@ -39,7 +38,6 @@ export class CoachThumb extends React.Component {
   }
 
   handleCoachClose(){
-    console.log('lightbox is closed');
     window.history.go(-1);
     document.body.classList.remove('lightbox-open');
     setTimeout(() => {

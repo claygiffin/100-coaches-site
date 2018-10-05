@@ -7,7 +7,6 @@ import Helmet from 'react-helmet'
 
 export const CoachProfile = ({ data }) => {
   const { context: coach } = data.coachQuery
-  console.log(coach)
   return (
     <Layout>
       <CoachProfileTemplate

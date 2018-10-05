@@ -1,11 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
-import { kebabCase } from 'lodash'
 import Layout from '../components/Layout'
 import CoachThumb from '../components/CoachThumb'
 import Carousel from '../components/Carousel'
-import CoachLightbox from '../components/CoachLightbox'
 import Hero from '../components/Hero'
 import ThoughtThumb from '../components/ThoughtThumb'
 import logoOnColor from '../assets/100Coaches_logo_onColor.svg'
@@ -42,45 +40,6 @@ HomePage.propTypes = {
 }
 
 export class HomePageTemplate extends React.Component {
-  constructor(props){
-    super(props);
-
-    this.state = {
-      coachLightboxOpen: false,
-      activeCoach: [],
-    }
-
-    this.handleCoachClose = this.handleCoachClose.bind(this);
-    this.handleCoachClick = this.handleCoachClick.bind(this);
-  }
-
-  handleCoachClick(coach){
-    console.log('coach is clicked');
-    this.setState({
-      coachLightboxOpen: true,
-      activeCoach: coach,
-    })
-    let coachName = coach.coachName;
-    let slug = `/coaches/${kebabCase(coachName)}/`;
-    window.history.pushState({page: coachName}, null, `${slug}`);
-    document.body.classList.add('lightbox-open');
-    console.log(coach.photo);
-  }
-
-  handleCoachClose(){
-    console.log('lightbox is closed');
-    window.history.replaceState({page: 'home'}, null, `/`)
-    document.body.classList.remove('lightbox-open');
-    setTimeout(() => {
-      this.setState({
-        coachLightboxOpen: false,
-        activeCoach: []
-      })
-    },
-      300
-    )
-  }
-  
   render() {
     return (
       <>
@@ -152,11 +111,6 @@ export class HomePageTemplate extends React.Component {
             </div>
           </section>
         </div>
-        <CoachLightbox 
-          openState={this.state.coachLightboxOpen} 
-          onClose={this.handleCoachClose}
-          coach={this.state.activeCoach}
-        />
       </>        
     )
   }
