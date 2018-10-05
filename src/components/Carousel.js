@@ -116,7 +116,7 @@ export class Carousel extends React.Component {
         settings = {
           ...defaultSettings,
           variableWidth: true,
-          slidesToShow: 1,
+          swipeToSlide: true,
           lazyLoad: false,
         }
     }

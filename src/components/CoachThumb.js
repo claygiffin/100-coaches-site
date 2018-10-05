@@ -64,7 +64,9 @@ export class CoachThumb extends React.Component {
           onTouchEnd={this.handleMouseUp}
           className="coach" 
         >
-          <img src={coach.photo} alt={coach.coachName + ' 100 Coaches'}/>
+          <div className="image-wrap">
+            <img src={coach.photo} alt={coach.coachName + ' 100 Coaches'}/>
+          </div>
           <div className="info">
             <h4>{coach.coachName}</h4>
             <h5>{coach.jobTitle}</h5>  

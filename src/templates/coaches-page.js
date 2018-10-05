@@ -74,9 +74,28 @@ export class CoachesPageTemplate extends React.Component {
       activeFilter: 'default',
     }
 
+    this.handleMouseDown = this.handleMouseDown.bind(this);
+    this.handleMouseMove = this.handleMouseMove.bind(this);
+    this.handleMouseUpDefault = this.handleMouseUpDefault.bind(this);
+    this.handleMouseUpFilter = this.handleMouseUpFilter.bind(this);
+
     this.popAllCoaches = this.popAllCoaches.bind(this);
     this.applyFilter = this.applyFilter.bind(this);
   }
+
+  handleMouseDown(){
+    this.eventType = 0;
+  }
+  handleMouseMove(){
+    this.eventType = 1;
+  }
+  handleMouseUpDefault(){
+    this.eventType === 0 && this.popAllCoaches();
+  }  
+
+  handleMouseUpFilter(selectedTag){
+    this.eventType === 0 && this.applyFilter(selectedTag);
+  }  
 
   popAllCoaches() {
     const coaches = this.props.coaches
@@ -105,26 +124,49 @@ export class CoachesPageTemplate extends React.Component {
     
     return (
       <div id="coaches-page" className="page-content" >
-        <div id="main-content">
-          <h1>
-            {this.props.title}
-          </h1>
-          <div className="carousel-wrap">
-            <Carousel id="filters">
-              <h3 onClick={this.popAllCoaches} className={this.state.activeFilter === 'default' ? 'active' : '' }>Everyone</h3>
-              {tags.map(tag => <h3 key={tag.name} onClick={() => {this.applyFilter(tag)}} className={this.state.activeFilter === tag.name ? 'active' : '' }>{tag.name}</h3>)}
-            </Carousel>
-          </div>
-          <section className="coach-list" >
-            {this.state.filteredCoaches.map(coach => (
-              <div className="coach-wrap" key={coach.coachName} >
-                <CoachThumb 
-                  coach={coach} 
-                />
-              </div>
-            ))}
-          </section>
+        <h1>
+          {this.props.title}
+        </h1>
+        <div className="carousel-wrap">
+          <Carousel id="filters">
+            <h3 
+              onMouseDown={this.handleMouseDown}
+              onMouseMove={this.handleMouseMove}
+              onMouseUp={this.handleMouseUpDefault}
+              onTouchStart={this.handleMouseDown}
+              onTouchMove={this.handleMouseMove}
+              onTouchEnd={this.handleMouseUpDefault}
+              className={this.state.activeFilter === 'default' ? 'active' : '' }
+            >
+              Everyone
+            </h3>
+            {tags.map(tag => {
+              return (
+                <h3 
+                  key={tag.name} 
+                  onMouseDown={this.handleMouseDown}
+                  onMouseMove={this.handleMouseMove}
+                  onMouseUp={() => this.handleMouseUpFilter(tag)}
+                  onTouchStart={this.handleMouseDown}
+                  onTouchMove={this.handleMouseMove}
+                  onTouchEnd={() => this.handleMouseUpFilter(tag)}
+                  className={this.state.activeFilter === tag.name ? 'active' : '' }
+                >
+                  {tag.name}
+                </h3>
+              )
+            })}
+          </Carousel>
         </div>
+        <section className="coach-list" >
+          {this.state.filteredCoaches.map(coach => (
+            <div className="coach-wrap" key={coach.coachName} >
+              <CoachThumb 
+                coach={coach} 
+              />
+            </div>
+          ))}
+        </section>
       </div>
     )
   }
