@@ -639,10 +639,13 @@ footer.site-footer {
     @include flex-direction(column);
     @media screen and (max-width: $tb * 1px) {
       position: relative;
-      padding: .5rem 0;
+      padding: .25rem 0 .75rem;
       text-shadow: none;
       color: $darkGray;
       background: none;
+      h5 {
+        margin-top: 0;
+      }
     }
   }
   img {
@@ -1120,11 +1123,18 @@ footer.site-footer {
     }
   }
   #filters {
+    .slick-slider {
+      padding-bottom: 1vw;
+    }
+    .slick-nav {
+      padding-bottom: 0;
+    }
     h3 {
       cursor: pointer;
       padding: .25em 0;
       margin-right: .25em;
-      margin-bottom: 0;
+      margin-bottom: 1rem;
+      margin-top: 1rem;
       color: lighten($lightGray, 10);
       @include transition(color .2s ease);
       @media screen and (max-width: $mb * 1px) {
