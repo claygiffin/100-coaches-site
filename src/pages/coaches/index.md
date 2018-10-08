@@ -1,6 +1,6 @@
 ---
 templateKey: coaches-page
-title: >
+title: |
   The coaches lorem ipsum comet dolor et cetera
 coachList:
   - bio: >-
@@ -58,8 +58,9 @@ coachList:
 
       Mrs. Hesselbein was named a Senior Leader at the United States Military
       Academy’s 2008 National Conference on Ethics in America. In 2007, Mrs.
-      Hesselbein was awarded the John F. Kennedy Memorial Fellowship by Fulbright New Zealand and was the first
-      recipient of the Dwight D. Eisenhower National Security Award in 2003.
+      Hesselbein was awarded the John F. Kennedy Memorial Fellowship by
+      Fulbright New Zealand and was the first recipient of the Dwight D.
+      Eisenhower National Security Award in 2003.
 
 
       Mrs. Hesselbein is the recipient of twenty-one honorary doctoral degrees.
@@ -398,23 +399,31 @@ coachList:
 
       > Playing it safe is not safe in today’s fast-paced marketplace. Disrupt
       Yourself is a must-read for anyone looking to stand out from the crowd and
-      pursue innovation in our highly uncertain business climate. >
+      pursue innovation in our highly uncertain business climate.
 
-      —Eric Ries, bestselling author of The Lean Start-up
+      >
 
+      > _—Eric Ries, bestselling author of The Lean Start-up_
+
+      >
 
       > I’ve worked with several coaches over the years. I’ve accomplished more
-      with Whitney than any of the others. >
+      with Whitney than any of the others.
 
-      —Angela Blanchard, CEO, Neighborhood Centers, Houston, TX
-       
+      >
+
+      > _—Angela Blanchard, CEO, Neighborhood Centers, Houston, TX_
+
+      >
 
       > Wow! Disrupt Yourself wins the ‘plain English’ award–which is to say,
       I’ve seldom, if ever, read a better written business/career development
       book. The advice is compelling, clear-as-a-bell, research-based and
-      actionable. >
+      actionable.
 
-      —Tom Peters, best-selling author of In Search of Excellence
+      >
+
+      > _—Tom Peters, best-selling author of In Search of Excellence_
     coachName: Whitney Johnson
     jobTitle: Author of "Disrupt Yourself"
     links:
