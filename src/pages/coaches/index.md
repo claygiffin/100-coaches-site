@@ -447,9 +447,11 @@ coachList:
       committed to think about for myself and what I’m doing, I’d pick Michael
       Bungay Stanier. He has an ability to shake our tree and make us more
       conscious and responsible about what we know but aren’t willing to admit
-      we know yet. >
+      we know yet.
 
-      _—David Allen, author of Getting Things Done_
+      >
+
+      > _—David Allen, author of Getting Things Done_
     coachName: Michael Bungay Stanier
     jobTitle: Senior Partner at Box of Crayons
     photo: /uploads/michael-bungay-stanier.jpg
