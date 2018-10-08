@@ -749,34 +749,61 @@ footer.site-footer {
       }
     }
   }
-  h1 {
-    @extend %font-36;
-    margin: .75em 0 .5em;
-    width: 100%;
-    &:after {
-      display: none;
-    }
-  }
-  h5 {
-    @extend %font-21;
-    color: $midGray;
-    font-weight: 300;
-    margin-bottom: .75em;
-  }
-  .tags {
-    h6 {
-      display: inline-block;
-      margin: 0 1em;
-    }
-    .divider:after {
-      margin: 2.25rem 0;
-    }
-  }
   .profile-content {
     box-sizing: border-box;
     padding: 0 3rem 3rem;
     @media screen and (max-width: $tb * 1px) {
       padding: 0 2rem 3rem;
+    }
+    h1 {
+      @extend %font-36;
+      margin: .75em 0 .5em;
+      width: 100%;
+      &:after {
+        display: none;
+      }
+    }
+    h5 {
+      @extend %font-21;
+      color: $midGray;
+      font-weight: 300;
+      margin-bottom: .75em;
+    }
+    .tags {
+      h6 {
+        display: inline-block;
+        margin: 0 1em;
+      }
+      .divider:after {
+        margin: 2.25rem 0;
+      }
+    }
+    .bio {
+      h2 {
+        @extend h4;
+        margin-top: 1em;
+        text-align: left;
+        display: inline-block;
+        &:after {
+          display: none;
+        }
+      }
+      ul {
+        padding-left: 2.25em;
+        margin-bottom: 3rem;
+        li {
+          @extend p;
+          margin-bottom: .25em;
+        }
+      }
+      blockquote {
+        margin: 0;
+        p {
+          box-sizing: border-box;
+          padding-left: 1em;
+          border-left: 2px solid lighten($lightGray, 15);
+        }
+      }
     }
   }
 }
