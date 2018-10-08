@@ -43,7 +43,7 @@ export class HomePageTemplate extends React.Component {
   render() {
     return (
       <>
-        <div id="main-content">
+        <div id="home-page" className="page-content">
           <Hero videoMp4={videoMp4} videoOgg="" videoWebM="" >
             <h1>{this.props.title}</h1>
             <img src={logoOnColor} alt={this.props.title} id="hero-logo"/>

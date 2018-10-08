@@ -32,13 +32,14 @@ export class CoachThumb extends React.Component {
       lightboxOpen: true,
     })
     let coachName = this.props.coach.coachName;
+    window.localStorage.setItem('lightboxCloseURL', window.location.pathname );
     let slug = `/coaches/${kebabCase(coachName)}/`;
-    window.history.pushState({page: coachName}, null, `${slug}`);
+    window.history.replaceState({page: coachName}, null, `${slug}`);
     setTimeout(() => {document.body.classList.add('lightbox-open')}, 10);
   }
 
   handleCoachClose(){
-    window.history.go(-1);
+    window.history.replaceState('', null, window.localStorage.getItem('lightboxCloseURL'));
     document.body.classList.remove('lightbox-open');
     setTimeout(() => {
       this.setState({
@@ -57,9 +58,9 @@ export class CoachThumb extends React.Component {
           onMouseDown={this.handleMouseDown}
           onMouseMove={this.handleMouseMove}
           onMouseUp={this.handleMouseUp}
-          onTouchStart={this.handleMouseDown}
-          onTouchMove={this.handleMouseMove}
-          onTouchEnd={this.handleMouseUp}
+          // onTouchStart={this.handleMouseDown}
+          // onTouchMove={this.handleMouseMove}
+          // onTouchEnd={this.handleMouseUp}
           className="coach" 
         >
           <div className="image-wrap">

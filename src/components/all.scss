@@ -72,6 +72,16 @@ $sizeList: 12 13 15 16 18 21 24 30 36 72;
   }
 }
 
+%absolute-fill {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
 %geometric-bg {
   background-image: url('../assets/LightGrayGeometricBackground.svg');
   background-repeat: no-repeat;
@@ -359,13 +369,7 @@ nav.navbar {
   &:after {
     content: '';
     display: block;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    @extend %absolute-fill;
     z-index: 11;
     pointer-events: none;
     @include transition(.3s ease);
@@ -563,52 +567,50 @@ footer.site-footer {
   }
 }
 
-#hero {
-  @include clip-path(inset(0 0 0 0));
-  @include flexbox;
-  @include flex-direction(column);
-  @include align-items(center);
-  @extend %font-72;
-  padding: 12rem 3rem 8rem;
-  background-color: $greenMid;
-  @include linear-gradient(to top right, $greenDark, $green);
-  @include clip-path(inset(0 0 0 0));
-  overflow: hidden;
-  animation: fadeIn .5s 0s ease;
-  #hero-video {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    z-index: -100;
-    background-size: cover;
-    &::-webkit-media-controls-overlay-play-button,
-    &::-webkit-media-controls-start-playback-button {
-      display: none !important;
-    }
-  }
-  h1 {
-    margin: 0;
-    padding: 0;
-    visibility: hidden;
-    height: 0;
+#home-page {
+  padding-top: 0;
+  display: block;
+  #hero {
+    @include clip-path(inset(0 0 0 0));
+    @include flexbox;
+    @include flex-direction(column);
+    @include align-items(center);
+    @extend %font-72;
+    padding: 12rem 3rem 8rem;
+    background-color: $greenMid;
+    @include linear-gradient(to top right, $greenDark, $green);
+    @include clip-path(inset(0 0 0 0));
     overflow: hidden;
-  }
-  #hero-logo {
-    width: 7.5em;
-    max-width: 90%;
-    margin-bottom: .5em;
-  }
-  .intro-text {
-    margin: .125em 0 .5em;
-    color: rgba(white, .75);
-  }
-  .text-link {
-    @extend %font-21;
+    animation: fadeIn .5s 0s ease;
+    #hero-video {
+      @extend %absolute-fill;
+      object-fit: cover;
+      z-index: -100;
+      background-size: cover;
+      &::-webkit-media-controls-overlay-play-button,
+      &::-webkit-media-controls-start-playback-button {
+        display: none !important;
+      }
+    }
+    h1 {
+      margin: 0;
+      padding: 0;
+      visibility: hidden;
+      height: 0;
+      overflow: hidden;
+    }
+    #hero-logo {
+      width: 7.5em;
+      max-width: 90%;
+      margin-bottom: .5em;
+    }
+    .intro-text {
+      margin: .125em 0 .5em;
+      color: rgba(white, .75);
+    }
+    .text-link {
+      @extend %font-21;
+    }
   }
 }
 
@@ -630,13 +632,7 @@ footer.site-footer {
     position: relative;
     background-color: $lightGray;
     img {
-      position: absolute;
-      top: 0;
-      right: 0;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
+      @extend %absolute-fill;
       object-fit: cover;
     }
   }
@@ -682,13 +678,15 @@ footer.site-footer {
 #profile-page {
   text-align: center;
   .coach-profile {
-    .coach-photo {
-      flex: .75;
-    }
     .profile-content {
       @extend %col-8;
       @include inline-flex;
       @include flex-direction(column);      
+    }
+    @media screen and (max-width: $tb * 1px) {
+      .profile-content {
+        width: 100%;
+      }
     }
   }
 }
@@ -703,8 +701,20 @@ footer.site-footer {
     }
     .coach-photo {
       @include flex(1.25);
-      img {
-        width: 100%;  
+      @include flexbox;
+      @include justify-content(center);
+      .image-wrap-outer {
+        width: 100%;
+        .image-wrap {
+          width: 100%;
+          height: 0px;
+          padding-bottom: 100%;
+          position: relative;
+        }
+        img {
+          @extend %absolute-fill;
+          object-fit: cover;
+        }
       }
     }
     .coach-links {
@@ -719,6 +729,23 @@ footer.site-footer {
       .icon {
         margin: 0 0 0 .5rem;
         cursor: pointer;
+      }
+    }
+    @media screen and (max-width: $tb * 1px) {
+      padding: 1rem 2rem 0;
+      @include flex-wrap(wrap);
+      & > * {
+        @include flex(auto);
+      }
+      .coach-photo { 
+        @include flex(auto);
+        order: 3;
+        width: 100%;
+        .image-wrap-outer {
+          margin-top: 2rem;
+          width: 75%;
+          max-width: $mb * .75px;
+        }
       }
     }
   }
@@ -746,7 +773,11 @@ footer.site-footer {
     }
   }
   .profile-content {
+    box-sizing: border-box;
     padding: 0 3rem 3rem;
+    @media screen and (max-width: $tb * 1px) {
+      padding: 0 2rem 3rem;
+    }
   }
 }
 
@@ -801,26 +832,14 @@ footer.site-footer {
     padding-bottom: 52.5%;
     position: relative;
     img {
-      position:absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      width: 100%;
-      height: 100%;
+      @extend %absolute-fill;
       object-fit: cover;
       @include transition(.3s opacity ease);
     }
     &:after {
       content: '';
       display: block;
-      position:absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      width: 100%;
-      height: 100%;
+      @extend %absolute-fill;
       border: 1px solid rgba(black, 0.07);
       box-sizing: border-box;
     }
@@ -1173,13 +1192,8 @@ footer.site-footer {
 // Lightbox
 
 .lightbox {
+  @extend %absolute-fill;
   position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
   opacity:0;
   visibility: hidden;
   text-align: center;
@@ -1189,13 +1203,8 @@ footer.site-footer {
   -webkit-perspective: 1000;
   @include transition(.3s all ease-in);
   .lightbox-wrapper {
+    @extend %absolute-fill;
     position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
     overflow: scroll;
     -webkit-overflow-scrolling: touch;
     overscroll-behavior: contain;
@@ -1210,14 +1219,19 @@ footer.site-footer {
       -webkit-perspective: 1000;
       @include transform(translate3D(0,0,0));
       background: white;
-      margin: 2.5vw 0 3.125vw;
+      margin: 2rem 0 3rem;
       position: relative;
       z-index: 10;
       box-shadow: 0 1vw 5vw rgba(0,0,0,.1), 0 0 0.75vw rgba(0,0,0,.05);
       @include inline-flex;
       @include flex-direction(column);
       .lightbox-content {
-        @extend %col-8;
+        width: 62.5vw;
+        min-width: $tb * .9px;
+        @media screen and (max-width: $tb * 1px) {
+          width: 90vw;
+          min-width: auto;
+        }
       }
     }
     .lightbox-bg {
@@ -1237,8 +1251,9 @@ footer.site-footer {
     padding: 2rem 3rem;
     border-bottom: 1px solid hsl(0, 0%, 90%);
     .site-logo {
-      height: 3rem;
-      height: auto;
+      height: 2.4em;
+      min-height: 24px;
+      padding: 0;
     }
     .close-button {
       cursor: pointer;
@@ -1256,6 +1271,19 @@ footer.site-footer {
       }
     }
   }
+  @media screen and (max-width: $tb * 1px) {
+    .lightbox-wrapper {
+      .wrapper-inner {
+        .lightbox-container {
+          nav {
+            padding: 1.25rem 2rem;
+            box-sizing: border-box;
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
 }
 
 body.lightbox-open {
@@ -1264,9 +1292,12 @@ body.lightbox-open {
     opacity: 1;
     visibility: visible;
   }
-  #content {
+  .page-content, .site-footer{
     @include filter(blur(10px));
     opacity: .25;
+  }
+  .navbar {
+    @include filter(blur(10px));
   }
   video {
     visibility: hidden;

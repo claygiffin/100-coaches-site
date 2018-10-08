@@ -27,7 +27,13 @@ export class CoachLightbox extends React.Component {
               </>
             }
           </div>        
-          <div className="coach-photo"><img src={coach.photo} alt={coach.coachName + ' 100 Coaches'}/></div>
+          <div className="coach-photo">
+            <div className="image-wrap-outer">
+              <div className="image-wrap">
+                  <img src={coach.photo} alt={coach.coachName + ' 100 Coaches'}/>
+              </div>  
+            </div>
+          </div>
           <div className="functional-links">
             <div className="share icon" title="Share"><span className="hidden">Share</span></div>
             <div className="print icon" title="Print"><span className="hidden">Print</span></div>
