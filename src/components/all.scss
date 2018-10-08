@@ -797,11 +797,12 @@ footer.site-footer {
         }
       }
       blockquote {
-        margin: 0;
+        margin: 4rem 0 0;
+        box-sizing: border-box;
+        padding-left: 2rem;
+        border-left: 2px solid lighten($lightGray, 15);
         p {
-          box-sizing: border-box;
-          padding-left: 1em;
-          border-left: 2px solid lighten($lightGray, 15);
+          color: $midLightGray;
         }
       }
     }
