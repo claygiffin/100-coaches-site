@@ -404,26 +404,6 @@ coachList:
       >
 
       > _—Eric Ries, bestselling author of The Lean Start-up_
-
-      >
-
-      > I’ve worked with several coaches over the years. I’ve accomplished more
-      with Whitney than any of the others.
-
-      >
-
-      > _—Angela Blanchard, CEO, Neighborhood Centers, Houston, TX_
-
-      >
-
-      > Wow! Disrupt Yourself wins the ‘plain English’ award–which is to say,
-      I’ve seldom, if ever, read a better written business/career development
-      book. The advice is compelling, clear-as-a-bell, research-based and
-      actionable.
-
-      >
-
-      > _—Tom Peters, best-selling author of In Search of Excellence_
     coachName: Whitney Johnson
     jobTitle: Author of "Disrupt Yourself"
     links:
@@ -467,9 +447,11 @@ coachList:
       committed to think about for myself and what I’m doing, I’d pick Michael
       Bungay Stanier. He has an ability to shake our tree and make us more
       conscious and responsible about what we know but aren’t willing to admit
-      we know yet. >
+      we know yet.
 
-      _—David Allen, author of Getting Things Done_
+      >
+
+      > _—David Allen, author of Getting Things Done_
     coachName: Michael Bungay Stanier
     jobTitle: Senior Partner at Box of Crayons
     photo: /uploads/michael-bungay-stanier.jpg
