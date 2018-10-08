@@ -1282,7 +1282,8 @@ footer.site-footer {
     padding: 2rem 3rem;
     border-bottom: 1px solid hsl(0, 0%, 90%);
     .site-logo {
-      height: 2.4em;
+      height: 3rem;
+      width: auto;
       min-height: 24px;
       padding: 0;
     }
@@ -1348,5 +1349,106 @@ body.lightbox-open {
   }
   100% {
     opacity: 1;
+  }
+}
+
+
+// Print
+
+@media print {
+  html {
+    font-size: 10pt !important;
+  }
+  footer.site-footer {
+    display:none;
+  }
+  nav.navbar {
+    position: relative;
+    margin-bottom: 1.25rem;
+    padding: 0 0 .5rem;
+    .site-logo { 
+      margin: 0 !important;
+      padding: 0;
+      .logo {
+        height: 1.75rem !important;
+        padding: 0;
+        min-height: auto;
+      }
+    }
+    .navbar-list {
+      display: none;
+    }
+  }
+  body.lightbox-open {
+    overflow: auto;
+    #content {
+      display: none;
+    }
+    .lightbox {
+      position: relative;
+      .lightbox-wrapper {
+        overflow: visible;
+        display: block;
+        position: static;
+        .lightbox-bg {
+          display: none;
+        }
+        .lightbox-container {
+          margin: 0;
+          box-shadow: none;
+          display: block;
+          position: static;
+          nav {
+            display: block;
+            position:relative;
+            text-align: left; 
+            // border-bottom: 0px;
+            padding: 0 0 .5rem;
+            margin-bottom: 1.25rem;
+            .site-logo {
+              height: 1.75rem;
+              min-height: auto;
+            }
+            .close-button {
+              display: none;
+            }
+          }
+          .lightbox-content {
+            display: block;
+            position: static;
+            width: 100%;
+            min-width: auto;
+          }
+        }
+      }
+    }
+  }
+  .coach-profile {
+    .flex-row {
+      padding: 0;
+      display: block;
+      .coach-photo {
+        width: 25%;
+        margin: 0 auto;
+      }
+      .coach-links, 
+      .functional-links{
+        display: none;
+      }
+    }
+    .profile-content {
+      width: 100% !important;
+      padding: 0;
+      display: block !important;
+      .divider {
+        display: none;
+      }
+      .tags {
+        margin-bottom: 1.5rem;
+      }
+    }
+  }
+  #profile-page {
+    padding-top: 0;
   }
 }
