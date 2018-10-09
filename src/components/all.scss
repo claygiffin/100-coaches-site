@@ -324,6 +324,11 @@ section {
     color: white;
     background-color: $gold;
   }
+  @media screen and (max-width: $tb * 1px) {
+    width: 36px;
+    height: 36px;
+    font-size: 18px;
+  }
 }
 
 
@@ -435,7 +440,7 @@ nav.navbar {
       @include transition(transform .3s ease, opacity 0s .3s ease);
       @include flex-direction(column);
       @include align-items(center);
-      padding: 7.25rem 2rem 2rem;
+      padding: calc(24px + 5rem) 2rem 2rem;
       box-sizing: border-box;
       background-color: white;
       box-shadow: 0 3px 9px rgba(0,0,0,.1), 0 1px 0 rgba(0,0,0,.05);
@@ -747,7 +752,7 @@ footer.site-footer {
         .image-wrap-outer {
           margin-top: 2rem;
           width: 75%;
-          max-width: $mb * .75px;
+          max-width: $mb * .5px;
         }
       }
     }
@@ -1398,9 +1403,14 @@ body.lightbox-open {
     display:none;
   }
   nav.navbar {
-    position: relative;
-    margin-bottom: 1.25rem;
-    padding: 0 0 .5rem;
+    position: static !important;
+    overflow: visible;
+    margin: 0 0 1.25rem;
+    padding: 0 0 .75rem;
+    border-bottom: 1px solid hsl(0, 0%, 90%);
+    &:after {
+      display: none;
+    }
     .site-logo { 
       margin: 0 !important;
       padding: 0;
@@ -1437,7 +1447,6 @@ body.lightbox-open {
             display: block;
             position:relative;
             text-align: left; 
-            // border-bottom: 0px;
             padding: 0 0 .5rem;
             margin-bottom: 1.25rem;
             .site-logo {
@@ -1484,6 +1493,6 @@ body.lightbox-open {
     }
   }
   #profile-page {
-    padding-top: 0;
+    padding-top: 0 !important;
   }
 }
