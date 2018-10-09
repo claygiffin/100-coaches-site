@@ -797,6 +797,15 @@ footer.site-footer {
           display: none;
         }
       }
+      a {
+        color: $greenLight;
+        text-decoration: none;
+        font-weight: 400;
+        @include transition(color .2s ease);
+        &:hover {
+          color: $gold;
+        }
+      }
       ul {
         padding-left: 2.25em;
         margin-bottom: 3rem;
