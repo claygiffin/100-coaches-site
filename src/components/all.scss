@@ -430,8 +430,9 @@ nav.navbar {
       height: auto;
       max-height: 100vh;
       overflow: scroll;
+      opacity: 0;
       transform: translate3d(0, -100%, 0);
-      @include transition(transform .3s ease);
+      @include transition(transform .3s ease, opacity 0s .3s ease);
       @include flex-direction(column);
       @include align-items(center);
       padding: 7.25rem 2rem 2rem;
@@ -514,6 +515,8 @@ nav.navbar {
       }
       .navbar-list {
         transform: translate3d(0, 0, 0);
+        opacity: 1;
+        @include transition(transform .3s ease, opacity .1s ease);
       }
       .mobile-nav-button {
         span {
@@ -806,6 +809,37 @@ footer.site-footer {
         }
       }
     }
+  }
+}
+
+.notification {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  @include transform(translate3D(-50%, 130%, 0));
+  opacity: 0;
+  visibility: hidden;
+  padding: 2rem;
+  background-color: $greenLight;
+  color: white;
+  font-size: 1.5rem;
+  max-width: 90%;
+  text-align: center;
+  z-index: 100;
+  em {
+    font-style: normal;
+    font-weight: 400;
+  }
+  &.active {
+    opacity: 1;
+    visibility: visible;
+    @include transform(translate3D(-50%, 0, 0));
+    @include transition(.3s transform ease);
+  }
+  &.inactive {
+    opacity: 0;
+    visibility: hidden;
+    @include transition(.5s 1.5s all ease);
   }
 }
 

@@ -1,8 +1,31 @@
 import React from 'react'
 import {markdownContent} from '../components/Content'
 import Helmet from 'react-helmet'
+import {Portal} from 'react-portal';
 
 export default class CoachProfile extends React.Component {
+
+  constructor(props) {
+    super(props);
+    this.copyURLToClipboard = this.copyURLToClipboard.bind(this);
+  }
+
+  copyURLToClipboard() {
+    const el = document.createElement('textarea');
+    el.value = window.location;
+    document.body.appendChild(el);
+    el.select();
+    document.execCommand('copy');
+    document.body.removeChild(el);
+    const notification = document.querySelector('.notification.copied');
+    notification.classList.add('active')
+    notification.classList.remove('inactive');
+    setTimeout(() => {
+      notification.classList.add('inactive')
+      notification.classList.remove('active');
+    }, 500)
+  }
+
   render() {
     const { coach } = this.props;
     const Bio = markdownContent;
@@ -29,8 +52,8 @@ export default class CoachProfile extends React.Component {
             </div>
           </div>
             <div className="functional-links">
-              <div className="share icon" title="Share"><span className="hidden">Share</span></div>
-              <div className="print icon" title="Print"><span className="hidden">Print</span></div>
+              <div className="share icon" title="Share" onClick={this.copyURLToClipboard} ><span className="hidden">Share</span></div>
+              <div className="print icon" title="Print" onClick={() => window.print()} ><span className="hidden">Print</span></div>
             </div>
           </div>
           <div className="profile-content" >
@@ -41,13 +64,16 @@ export default class CoachProfile extends React.Component {
               {coach.jobTitle}
             </h5>
             <div className="tags">          
-              {this.props.coach.tags && this.props.coach.tags.map((tag, i) => <h6 key={i}>{tag}</h6>)}
+              {coach.tags && coach.tags.map((tag, i) => <h6 key={i}>{tag}</h6>)}
               <span className="divider"></span>
             </div>
             <div className="bio">
               <Bio content={coach.bio} />
             </div>   
           </div>
+          <Portal>
+            <div className="notification copied">Link to <em>{coach.coachName}'s</em> profile has been copied to the clipboard.</div>
+          </Portal>
         </div>
     )
   }

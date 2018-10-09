@@ -3,8 +3,21 @@ import {Portal} from 'react-portal';
 import logoDefault from '../assets/100Coaches_logo.svg'
 
 export class Lightbox extends React.Component {
-
-
+  constructor(props){
+    super(props);
+    this.escFunction = this.escFunction.bind(this);
+  }
+  escFunction(event){
+    if(event.keyCode === 27 && this.props.isOpen) {
+      this.props.onClose();
+    }
+  }
+  componentDidMount(){
+    document.addEventListener("keydown", this.escFunction, false);
+  }
+  componentWillUnmount(){
+    document.removeEventListener("keydown", this.escFunction, false);
+  }
   render(){
     return (
       <>
@@ -31,6 +44,8 @@ export class Lightbox extends React.Component {
       </>
     )
   }
+
+
 
 }
 

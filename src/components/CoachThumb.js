@@ -2,6 +2,11 @@ import React from 'react'
 import { kebabCase } from 'lodash'
 import CoachLightbox from '../components/CoachLightbox'
 
+let mouseXInit;
+let mouseYInit;
+let mouseX;
+let mouseY;
+
 export class CoachThumb extends React.Component {
   constructor(props){
     super(props);
@@ -16,15 +21,18 @@ export class CoachThumb extends React.Component {
     this.handleCoachClose = this.handleCoachClose.bind(this);
     this.handleCoachClick = this.handleCoachClick.bind(this);
   }
-
-  handleMouseDown(){
-    this.eventType = 0;
+  handleMouseDown(e){
+    mouseXInit = e.pageX;
+    mouseYInit = e.pageY;
   }
-  handleMouseMove(){
-    this.eventType = 1;
+  handleMouseMove(e){
+    mouseX = e.pageX;
+    mouseY = e.pageY;
   }
   handleMouseUp(){
-    this.eventType === 0 && this.handleCoachClick();
+    if ((Math.abs(mouseX - mouseXInit) < 10) && (Math.abs(mouseY - mouseYInit) < 10) ){
+      this.handleCoachClick();
+    }
   }  
 
   handleCoachClick(){
@@ -39,7 +47,7 @@ export class CoachThumb extends React.Component {
   }
 
   handleCoachClose(){
-    window.history.replaceState('', null, window.localStorage.getItem('lightboxCloseURL'));
+    window.history.replaceState(null, null, window.localStorage.getItem('lightboxCloseURL'));
     document.body.classList.remove('lightbox-open');
     setTimeout(() => {
       this.setState({
@@ -86,12 +94,10 @@ export class CoachThumb extends React.Component {
       this.setState({
         lightboxOpen: false,
       });
-    }
+    };
   }
 
-  componentWillUnmount() {
-    
-  }
+  
 }
 
 export default CoachThumb

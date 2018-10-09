@@ -63,6 +63,11 @@ const tags = [
   },
 ]
 
+let mouseXInit;
+let mouseYInit;
+let mouseX;
+let mouseY;
+
 export class CoachesPageTemplate extends React.Component {
 
   constructor(props){
@@ -83,18 +88,26 @@ export class CoachesPageTemplate extends React.Component {
     this.applyFilter = this.applyFilter.bind(this);
   }
 
-  handleMouseDown(){
-    this.eventType = 0;
+  handleMouseDown(e){
+    mouseXInit = e.pageX;
+    mouseYInit = e.pageY;
   }
-  handleMouseMove(){
-    this.eventType = 1;
+
+  handleMouseMove(e){
+    mouseX = e.pageX;
+    mouseY = e.pageY;
   }
+
   handleMouseUpDefault(){
-    this.eventType === 0 && this.popAllCoaches();
+    if ((Math.abs(mouseX - mouseXInit) < 10) && (Math.abs(mouseY - mouseYInit) < 10) ){
+      this.popAllCoaches();
+    }
   }  
 
   handleMouseUpFilter(selectedTag){
-    this.eventType === 0 && this.applyFilter(selectedTag);
+    if ((Math.abs(mouseX - mouseXInit) < 10) && (Math.abs(mouseY - mouseYInit) < 10) ){
+      this.applyFilter(selectedTag);
+    }
   }  
 
   popAllCoaches() {
