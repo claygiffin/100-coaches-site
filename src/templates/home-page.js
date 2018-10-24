@@ -12,7 +12,8 @@ import videoMp4 from '../assets/GettyImages-178062441_3.mp4'
 export const HomePage = ({data}) => {
   const page = data.pageQuery
   const metaQuery = data.site.siteMetadata
-  const coaches = data.coachQuery.edges
+  const _ = require('lodash')
+  const coaches = _.uniqBy(data.coachQuery.edges, 'coachName')
   const thoughts = data.thoughtQuery.edges
 
   return (
@@ -59,7 +60,7 @@ export class HomePageTemplate extends React.Component {
                 node.frontmatter.coachList.map(coach => (
                   <CoachThumb 
                     coach={coach} 
-                    key={`${coach.coachName} ${coach.jobTitle}`} 
+                    key={coach.coachName} 
                     onClick={this.handleCoachClick}
                   />
                 ))

@@ -69,7 +69,7 @@ exports.createPages = ({ actions, graphql }) => {
     })
 
     // Eliminate duplicate coach profiles
-    coachProfiles = _.uniq(coachProfiles)
+    coachProfiles = _.uniqBy(coachProfiles, 'coachName');
 
     // Make coach pages
     coachProfiles.forEach(coachProfile => {

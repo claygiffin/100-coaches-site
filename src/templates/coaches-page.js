@@ -7,12 +7,13 @@ import Carousel from '../components/Carousel'
 
 export const CoachesPage = ({ data }) => {
   const { pageQuery, allCoaches } = data
+  const _ = require('lodash')
 
   return (
     <Layout title="Our Members" >
       <CoachesPageTemplate
         title={pageQuery.frontmatter.title}
-        coaches={allCoaches.frontmatter.coachList}
+        coaches={_.uniqBy(allCoaches.frontmatter.coachList, 'coachName')}
       />
     </Layout>
   )
@@ -173,7 +174,7 @@ export class CoachesPageTemplate extends React.Component {
         </div>
         <section className="coach-list" >
           {this.state.filteredCoaches.map(coach => (
-            <div className="coach-wrap" key={`${coach.coachName} ${coach.jobTitle}`} >
+            <div className="coach-wrap" key={coach.coachName} >
               <CoachThumb 
                 coach={coach} 
               />
