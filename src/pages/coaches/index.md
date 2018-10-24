@@ -601,5 +601,8 @@ coachList:
   - coachName: Terry Jackson
   - coachName: Tom Kolditz
   - coachName: Tony Marx
+  - coachName: Wendy Greeson
+  - coachName: Whitney Johnson
+  - coachName: Will Linssen
 ---
 
