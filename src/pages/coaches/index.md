@@ -459,5 +459,8 @@ coachList:
       - Executive Coach
       - Author
       - Entrepreneur
+  - bio: "Dr. Agapol Na Songkhla is Chief People Officer and Executive Vice President of Human Capital Group at Thai Beverage (ThaiBev), ASEAN’s leading conglomerate in beverages and food businesses. He is in charge of the Group’s people transformation, with a signature transformation program called “Limitless Opportunities”\r\n\n\rFrom 2006 until 2014 Dr. Agapol served as Executive Vice President and Head of Strategy & Transformation at TMB Bank and doubling as Head of Corporate Governance and Company Secretary from 2012-2014, as Head of Human Resources from 2011 to 2012 and as Head of Retail Operations in 2010\r\n\n\rDr. Agapol began his career with The Boston Consulting Group (BCG) where he worked with leading companies in Southeast Asia on their strategies and transformations from 1997 to 2006\r\n\n\rHe is on the board of multiple companies and is a distinguished member with the Thai Institute of Directors\r\n\n\rDr. Agapol holds a Ph.D. degree in Systems Science from the Tokyo Institute of Technology and undergraduate degree in electrical engineering from Chulalongkorn University"
+    coachName: AGAPOL NA SONGKHLA
+  - {}
 ---
 
