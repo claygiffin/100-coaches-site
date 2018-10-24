@@ -459,7 +459,33 @@ coachList:
       - Executive Coach
       - Author
       - Entrepreneur
-  - bio: "Dr. Agapol Na Songkhla is Chief People Officer and Executive Vice President of Human Capital Group at Thai Beverage (ThaiBev), ASEAN’s leading conglomerate in beverages and food businesses. He is in charge of the Group’s people transformation, with a signature transformation program called “Limitless Opportunities”\r\n\n\rFrom 2006 until 2014 Dr. Agapol served as Executive Vice President and Head of Strategy & Transformation at TMB Bank and doubling as Head of Corporate Governance and Company Secretary from 2012-2014, as Head of Human Resources from 2011 to 2012 and as Head of Retail Operations in 2010\r\n\n\rDr. Agapol began his career with The Boston Consulting Group (BCG) where he worked with leading companies in Southeast Asia on their strategies and transformations from 1997 to 2006\r\n\n\rHe is on the board of multiple companies and is a distinguished member with the Thai Institute of Directors\r\n\n\rDr. Agapol holds a Ph.D. degree in Systems Science from the Tokyo Institute of Technology and undergraduate degree in electrical engineering from Chulalongkorn University"
+  - bio: >-
+      Dr. Agapol Na Songkhla is Chief People Officer and Executive Vice
+      President of Human Capital Group at Thai Beverage (ThaiBev), ASEAN’s
+      leading conglomerate in beverages and food businesses. He is in charge of
+      the Group’s people transformation, with a signature transformation program
+      called “Limitless Opportunities”.
+
+
+      From 2006 until 2014 Dr. Agapol served as Executive Vice President and
+      Head of Strategy & Transformation at TMB Bank and doubling as Head of
+      Corporate Governance and Company Secretary from 2012-2014, as Head of
+      Human Resources from 2011 to 2012 and as Head of Retail Operations in
+      2010.
+
+
+      Dr. Agapol began his career with The Boston Consulting Group (BCG) where
+      he worked with leading companies in Southeast Asia on their strategies and
+      transformations from 1997 to 2006.
+
+
+      He is on the board of multiple companies and is a distinguished member
+      with the Thai Institute of Directors.
+
+
+      Dr. Agapol holds a Ph.D. degree in Systems Science from the Tokyo
+      Institute of Technology and undergraduate degree in electrical engineering
+      from Chulalongkorn University.
     coachName: Agapol Na Songkhla
   - bio: "Aicha S. Evans is corporate vice president and general manager of the Communications and Devices Group at Intel Corporation. She is responsible for driving wireless engineering for multi-comm products and Intel platforms, including modems, RF, Wi-Fi, GPS, Bluetooth, NFC, FM, LTE, WLAN/WWAN as well as emerging wireless technologies to lead this industry going forward.\r\n\n\rPreviously Evans was the general manager of the Wireless Platform Research and Development Group where managed the engineering, software, hardware, strategic planning, and product test teams responsible for providing wireless connectivity ingredients and solutions for all Intel platforms.\r\n\n\rEvans joined Intel in 2006 as a software integration and test manager. She held a number of management positions responsible for Intel’s wireless efforts including software engineering and support for customers deploying WiMAX networks in multiple geographies. Additionally, she worked in Israel managing WiFi engineering and product lines. Prior to Intel, Evans spent 10 years in various engineering management positions at Rockwell Semiconductors, Conexant and Skyworks.\r\n\n\rEvans received a bachelor’s degree in computer engineering from The George Washington University in 1996."
     coachName: Aicha Evans
@@ -477,48 +503,8 @@ coachList:
     coachName: Anu Oza
   - bio: "Asheesh is the President and CEO of Junior Achievement (JA) Worldwide, one of the largest NGOs in the world dedicated to educating young people about financial literacy, entrepreneurship and workforce readiness. With offices in over 100 countries, JA serves more than 10 million young people annually with programs designed to activate youth for the future of jobs.\r\n\nAsheesh is an accomplished technology entrepreneur, having served as CEO of Covestor (acquired by Interactive Brokers) and CircleLending (acquired by Virgin Group).  He began his career as a consultant at the Monitor Group followed by the World Bank.\r\n\n\rAsheesh is actively involved in the World Economic Forum as a member of the Civil Service Advisory Council and the Global Agenda Council for the Future of Education, Gender, and Work. Now living in Boston, he is a JA ​alumnus first exposed to entrepreneurship as a teenager participating in the JA Company Program. ​ His experiences as an entrepreneur and leader were chronicled in case studies at Babson College and at Harvard Business School. Asheesh is a graduate of the Wharton School and Oxford University, where he was a Commonwealth Scholar.\r\n\n\rAsheesh aspires to bring human capital development and management coaching to JA’s leadership around the world. His approach to enabling leaders to realize their full potential is to focus on being empathetic to their unique challenges in each local and regional market. JA is now the largest distribution network to reach young people in the world, so the opportunity to improve the effectiveness of the organization is substantial and impactful.\r\n\n\rAsheesh is a sought-after speaker for leadership conferences, technology conferences, and in the media. He has served as a co-chair of the World Economic Forum in Latin America, a speaker at numerous conferences including the WEF Annual Meeting in Davos and several technology gatherings in the US, India, Europe, and Africa, and a commentator in the media including the Wall Street Journal, New York Times, NPR, and PBS. Speaker fees are donated to Junior Achievement Worldwide and related organizations."
     coachName: Asheesh Advani
-  - bio: >-
-      Ayse Birsel has been designing award-winning products for over 20 years.
-      She is the co-founder of Birsel + Seck, an innovative design studio in New
-      York that partners with leading brands and Fortune 500 companies,
-      including Colgate Palmolive, Converse, GE, Herman Miller, Nissan, Staples,
-      Target, Tiffany & Co, Toyota, on design, design thinking, strategy and
-      innovation projects.
-
-
-      Called affectionately by the press the “Queen of Toilets” and “Queen Bee”
-      for her bathroom designs and office systems respectively, she brings new
-      solutions to old problems by thinking differently, using her
-      user-centered, humanistic design approach and her process,
-      Deconstruction:ReconstructionTM.
-
-
-      Ayse is also known for her acclaimed workshops, Design the Life You Love,
-      the foundation of her book, published by Ten Speed Press, an imprint of
-      Penguin Random House, in October 2015.
-
-
-      Ayse is the recipient of numerous design awards including the IDEA Gold
-      Award, ID Magazine Award, the Young Designer Award from the Brooklyn
-      Museum of Art, and the Athena Award for Excellence in Furniture Design
-      from Rhode Island School of Design. She is a speaker at international
-      conferences—notably the Aspen Design Conference, IDSA and AIGA
-      Conferences, the Indaba Conference, Design Management Institute, 99U, The
-      Feast and Fast Company Innovation Conferences.
-
-
-      She is a Fulbright Scholar with a master’s degree in Industrial Design
-      from Pratt Institute and is a graduate of Middle East Technical University
-      in Ankara, Turkey. Her work can be found in the permanent collections of
-      the Museum of Modern Art, Cooper Hewitt National Design Museum and
-      Philadelphia Museum of Art. Ayse teaches at Products of Design Department
-      at SVA (School of Visual Arts) and is on the board of IDSA (Industrial
-      Designers Society of America). She lives in New York, with her husband and
-      partner Bibi Seck and their 3 kids.
+  - bio: "Ayse Birsel has been designing award-winning products for over 20 years. She is the co-founder of Birsel + Seck, an innovative design studio in New York that partners with leading brands and Fortune 500 companies, including Colgate Palmolive, Converse, GE, Herman Miller, Nissan, Staples, Target, Tiffany & Co, Toyota, on design, design thinking, strategy and innovation projects.\r\n\n\rCalled affectionately by the press the “Queen of Toilets” and “Queen Bee” for her bathroom designs and office systems respectively, she brings new solutions to old problems by thinking differently, using her user-centered, humanistic design approach and her process, Deconstruction:ReconstructionTM.\r\n\n\rAyse is also known for her acclaimed workshops, Design the Life You Love, the foundation of her book, published by Ten Speed Press, an imprint of Penguin Random House, in October 2015.\r\n\n\rAyse is the recipient of numerous design awards including the IDEA Gold Award, ID Magazine Award, the Young Designer Award from the Brooklyn Museum of Art, and the Athena Award for Excellence in Furniture Design from Rhode Island School of Design. She is a speaker at international conferences—notably the Aspen Design Conference, IDSA and AIGA Conferences, the Indaba Conference, Design Management Institute, 99U, The Feast and Fast Company Innovation Conferences.\r\n\n\rShe is a Fulbright Scholar with a master’s degree in Industrial Design from Pratt Institute and is a graduate of Middle East Technical University in Ankara, Turkey. Her work can be found in the permanent collections of the Museum of Modern Art, Cooper Hewitt National Design Museum and Philadelphia Museum of Art. Ayse teaches at Products of Design Department at SVA (School of Visual Arts) and is on the board of IDSA (Industrial Designers Society of America). She lives in New York, with her husband and partner Bibi Seck and their 3 kids."
     coachName: Ayse Birsel
-    links:
-      linkedin: ''
-      website: ''
   - bio: "Bernard (Bernie) Banks is a noted expert on the subjects of leadership and organizational change. Currently, he is the Associate Dean for Leadership Development and a Clinical Professor of Management at Northwestern University’s Kellogg School of Management. As an Associate Dean, Bernie possesses responsibility for leader development integration across the school’s global portfolio of programs.\r\n\n\rBernie retired from the Army as a Brigadier General in 2016 after having successfully led West Point’s Department of Behavioral Sciences & Leadership from 2012-2016. In addition to having studied leadership extensively, he has led multiple military units ranging in size from 10 to 500 people. In 1995, Bernie was selected from over 40,000 officers to receive the Army’s top award for entry-level managers (General Douglas MacArthur Leadership Award). In 2006, the Apache Helicopter unit he was leading in South Korea was designated as the top Apache Helicopter unit globally in the U.S. Army’s annual best aviation unit competition.\r\n\n\rA West Point graduate, Bernie is broadly educated. He holds graduates degrees from Northwestern, Columbia, and Harvard Universities. Additionally, he earned his Ph.D. in social-organizational psychology from Columbia University. Bernie’s work has been published in a variety of outlets (e.g., Harvard Business Review, Military Psychology, New York Times). Furthermore, he has worked extensively with organizations across all sectors concerning their leader development efforts (e.g., Procter and Gamble, Mercedes Benz, General Electric, IBM, 7-Eleven, The US Forest Service, International Chiefs of Police).\r\n\n\rAn active member of several civic and professional organizations (e.g., The Chicago Club, Harvard Club of NYC, Community Solutions of NYC, USO of Illinois, West Point Society of Chicago), Bernie is deeply invested in his community.\r\n\n\rAreas of Expertise\r\n\n\rLeader Development\r\n\nOrganizational Change\r\n\nOrganizational Culture"
     coachName: Bernark Banks
   - bio: "Dr. Beverly Kaye, Founder of Career Systems International, is recognized internationally as one of the most knowledgeable and practical professionals in the areas of career development, employee engagement and retention. She received the Distinguished Contribution Award from ATD and the Thought Leader Award from The Association of Learning Providers (ISA).\r\n\n\rBeverly has spent years researching corporate strategies for developing, retaining and engaging knowledge workers. Her bestselling book, Love ‘Em or Lose ‘Em: Getting Good People to Stay, co-authored with Sharon Jordan-Evans, has sold over 750,000 copies in 25 languages. Help Them Grow or Watch Them Go: Career Conversations Employees Want, co-authored with Julie Winkle Giulioni, was published in 2012. In 2015 she co-authored Hello Stay Interviews, Goodbye Talent Loss: A Manager’s Playbook and her newest book, Up Is Not the Only Way:  Rethinking Career Mobility, was published in September 2017."
@@ -543,8 +529,77 @@ coachList:
     coachName: Chester Elton
   - bio: "CNN anchor Chris Cuomo covers international events and breaking news for CNN. He anchors CNN’s morning show “New Day” with co-anchor Alisyn Camerota. NEW DAY airs every weekday, from 6am to 9am EST— on CNN.\r\n\n\rBefore joining CNN, Cuomo was the co-anchor of “20/20,” the Emmy Award-winning ABC Newsmagazine, and Chief Law and Justice Correspondent for ABC News. He formerly co-anchored “Good Morning America,” where he covered international breaking news as the primary reporter.\r\n\n\rChris is the recipient of multiple journalism awards. His profile on 12-year-old poet Mattie Stepanek on “Good Morning America” was awarded a News Emmy. He has received Polk and Peabody awards for his team coverage throughout the years, and the Edward R. Murrow award for his work covering breaking news.\r\n\n\rCuomo is a graduate of Fordham University School of Law, and received his undergraduate degree from Yale University."
     coachName: Chris Cuomo
-  - bio: "For 25+ years, Chris has been in the leadership development world. He has worked with and coached hundreds of key leaders and successful people develop leadership to become even more effective.\r\n\n\rChris’s coaching style is direct and well-defined around the Goldsmith Stakeholder Centered Coaching® Process he co-developed with Frank Wagner and Marshall Goldsmith. Chris has coached leaders in Fortune 100, 500, 1000 companies, as well as in start ups and not for profits. The common denominator for all the individuals Chris works with is, they are all successful, high-potential leaders whose organizations want to accelerate their development by having them work closely with a seasoned, leadership coach. \r\n\nActual coaching engagements results and after Action Reviews\r\n\nGerard Iman mini survey and AAR\r\n\nJack Clarkson’s mini survey and AAR\r\n\nKerry Peters mini survey and AAR\r\n\nTom Lee mini survey and AAR\r\n\nCoaching Testimonials scroll down page to One to One Results\r\n\n\rChris has taught management and leadership courses In the UCLA Technical Manager Program and at  Gonzaga University in Florence, Italy.\r\n\n\rChris is a much sought after Keynote speaker:  Topics and videos\r\n\nKeynotes  \r\n\nStakeholder Centered Coaching®  certification  \r\n\nMarshall Goldsmith: Stakeholder Centered Coaching\r\n\n\rMarshall Goldsmith’s endorsement of Chris Coffey:\r\n\n“My partner, Chris Coffey, helps individuals and teams achieve and sustain outstanding results. In addition, he is clearly one of the world’s best keynote speakers and trainers in the area of coaching, leadership development, and teamwork. He provides a rare combination of being entertaining and dynamic while providing advice and stories from his extensive coaching experience that is both practical and applicable. He is a person that I trust to lead the Stakeholder Centered Coaching®  certification process for our behavioral coaches!” \r\n\n\rAUTHOR : THE NEW IQ: LEADING UP ,DOWN, AND ACROSS USING INNOVATIVE QUESTIONS\r\n\n\rAmazon IQ\r\n\n\rVisit Chris Coffey’s Personal Website: WWW.ChristopherCoffey.com\r\n\nContact Information: Email:Chris@ChristopherCoffey.com\r\n\nPhone: (310) 452-3340 | Cell: (310) 650-2438"
+  - bio: >-
+      For 25+ years, Chris has been in the leadership development world. He has
+      worked with and coached hundreds of key leaders and successful people
+      develop leadership to become even more effective.
+
+
+      Chris’s coaching style is direct and well-defined around the Goldsmith
+      Stakeholder Centered Coaching® Process he co-developed with Frank Wagner
+      and Marshall Goldsmith. Chris has coached leaders in Fortune 100, 500,
+      1000 companies, as well as in start ups and not for profits. The common
+      denominator for all the individuals Chris works with is, they are all
+      successful, high-potential leaders whose organizations want to accelerate
+      their development by having them work closely with a seasoned, leadership
+      coach. 
+
+
+      Actual coaching engagements results and after Action Reviews
+
+
+      Gerard Iman mini survey and AAR
+
+
+      Jack Clarkson’s mini survey and AAR
+
+
+      Kerry Peters mini survey and AAR
+
+
+      Tom Lee mini survey and AAR
+
+
+      Coaching Testimonials scroll down page to One to One Results
+
+
+      Chris has taught management and leadership courses In the UCLA Technical
+      Manager Program and at  Gonzaga University in Florence, Italy.
+
+
+      Chris is a much sought after Keynote speaker:  Topics and videos
+
+
+      Keynotes  
+
+
+      Stakeholder Centered Coaching®  certification  
+
+
+      Marshall Goldsmith: Stakeholder Centered Coaching
+
+
+      Marshall Goldsmith’s endorsement of Chris Coffey:
+
+
+      “My partner, Chris Coffey, helps individuals and teams achieve and sustain
+      outstanding results. In addition, he is clearly one of the world’s best
+      keynote speakers and trainers in the area of coaching, leadership
+      development, and teamwork. He provides a rare combination of being
+      entertaining and dynamic while providing advice and stories from his
+      extensive coaching experience that is both practical and applicable. He is
+      a person that I trust to lead the Stakeholder Centered Coaching® 
+      certification process for our behavioral coaches!” 
+
+
+      AUTHOR : THE NEW IQ: LEADING UP ,DOWN, AND ACROSS USING INNOVATIVE
+      QUESTIONS
+
+
+      Amazon IQ
     coachName: Chris Coffey
+    links:
+      website: www.ChristopherCoffey.com
   - bio: "Claire Diaz-Ortiz is an author, speaker, and technology innovator who has been named one of the 100 Most Creative People in Business by Fast Company. Claire was an early employee at Twitter, where she spent five and a years leading social innovation.\r\n\n\rIn Claire’s time at Twitter, she was called everything from “The Woman Who Got the Pope on Twitter” (Wired) and “Twitter’s Pontiff Recruitment Chief” (The Washington Post) to a “Force for Good“ (Forbes) and “One of the Most Generous People in Social Media” (Fast Company).\r\n\n\rClaire is the award-winning author of eight books that have been translated into more than ten languages, including One Minute Mentoring: How to Find and Work with a Mentor – and How You’ll Benefit from Being One, Twitter for Good: Change the World One Tweet at a Time, Design Your Day: Be More Productive, Set Better Goals, and Live Life on Purpose, and Hope Runs: An American Tourist, a Kenyan Boy, a Journey of Redemption.\r\n\n\rShe is a frequent international speaker on social media, business and innovation and has been invited to deliver keynotes and trainings at organizations like the Vatican, the US State Department, Verizon, South by Southwest, TEDX, and many others.\r\n\n\rShe writes a popular business blog at ClaireDiazOrtiz.com and serves as a LinkedIn Influencer, one of a select group of several hundred global leaders chosen to provide original content on the LinkedIn platform.\r\n\n\rClaire holds an MBA from Oxford University, where she was a Skoll Foundation Scholar for Social Entrepreneurship, and has a B.A. and an M.A. in Anthropology from Stanford University.\r\n\n\rShe is the co-founder of Hope Runs, a non-profit organization operating in AIDS orphanages in Kenya.\r\n\n\rShe has appeared widely in major television and print news sources such as CNN, BBC, Time, Newsweek, The New York Times, Good Morning America, The Today Show, The Washington Post, Fortune, Forbes, Fast Company, and many others.\r\n\n\rRead more about her at ClaireDiazOrtiz.com or via @claire on Twitter."
     coachName: Claire Diaz-Ortiz
   - bio: "Clark Callahan is Managing Director, Custom Programs at Harvard Business School Executive Education. In that capacity, he manages a portfolio of executive education client relationships, business development, program design and delivery, and coordinates the activities of the Custom Programs team.\r\n\n\rClark also serves on the board of directors of UNICON, the university-based executive education consortium where he was co-chair in 2014-15 and chair in 2015-16. Clark is certified in Marshall Goldsmith’s Stakeholder Centered Coaching method, and brings those practices and principles to all of his client work.\r\n\n\rBefore joining Harvard in 2016, Clark led the growth and transformation of Executive Education at the Tuck School of Business at Dartmouth College since 2003. Prior to Tuck, Clark was Managing Director of Strategic Management Group (SMG) UK-Europe (now BTS), a leading provider of simulation-based executive education. He was responsible for SMG’s UK and Europe sales and delivery operations and served on the parent company’s executive committee. Before joining SMG, Clark spent eight years at the Wharton School of the University of Pennsylvania. He held a number of posts including director of the Wharton Small Business Development Center, which advises early-stage companies, and lecturer in entrepreneurial management.\r\n\n\rClark holds a master’s degree in government administration from the University of Pennsylvania and a bachelor of arts from Franklin & Marshall College. He and his wife are happily transitioning back to city life in Boston, where one of their two adult daughters also lives."
@@ -590,8 +645,33 @@ coachList:
     coachName: Denise Pirrotii Hummel
   - bio: "Diane M. Ryan is the Associate Dean for Programs and Administration in the Jonathan M. Tisch College of Civic Life at Tufts University. As the only university-wide initiative of its kind, the mission of Tisch College is to prepare students for a\r lifetime of engagement in civic life, to study civic life and its intersections with public and private institutions, and to promote practices that strengthen civic life in the United States and around the world. Dr. Ryan oversees a portfolio of programs and curricula that service the entire undergraduate and graduate student body as well as provide resources for faculty research and professional development.\r\n\n\rPrior to joining Tufts, Diane was an Academy Professor, Director of the Eisenhower Leader Development Program with Columbia University and Acting Deputy Department Head in the Department of Behavioral Sciences and Leadership at the United States Military Academy, West Point, NY where she served for nine years. During her 29-year career as an active-duty U.S. Army officer she served in a variety of command and staff assignments both stateside and abroad.\r\n\n\rDiane is a noted expert in leader development and mentoring. During her last combat assignment with the 1st Cavalry Division in Baghdad, Iraq she founded a US-Iraqi partnership for military women and worked with a number of NGOs on peace and security initiatives. More recently she served as a strategy consultant to the Commander of U.S. Army Pacific designing leader development exchange programs for several key U.S. partners. Diane retired from the Army in 2017 at the rank of Colonel."
     coachName: Diane Ryan
-  - bio: "For the last 10 years, Divya has worked in Human Resources at technology start ups, including Facebook and Eventbrite. The first HR hire at Facebook (growing the company from 200-4,000) Divya held the role of Global people programs manager and HR Business Partner to the CFO, Head of Online Sales and General Counsel. While there, she coached dozens of leaders, from young professionals at the beginning of their careers to C-level executives with decades of experience.\r\n\n\rIn 20015, Divya started Brave Coaching, a leadership coaching practice focused on helping entrepreneurs and executives who are taking on increased leadership roles for the first time. Clients include CEO’s, Directors and VP’s of Product, Growth, Engineering, Design and Marketing.\r\n\n\rDivya brings a blend of her expertise in people strategy along with several coaching models she’s learned over the years to support her clients. She is currently pursuing a certification in Integral Coaching and has been trained by the Coaches Training Institute and the Conscious Leadership Group.\r\n\n\rDivya currently lives in San Francisco. \r\n\n\rlinkedin.com/in/divyasilbermann"
+  - bio: >-
+      For the last 10 years, Divya has worked in Human Resources at technology
+      start ups, including Facebook and Eventbrite. The first HR hire at
+      Facebook (growing the company from 200-4,000) Divya held the role of
+      Global people programs manager and HR Business Partner to the CFO, Head of
+      Online Sales and General Counsel. While there, she coached dozens of
+      leaders, from young professionals at the beginning of their careers to
+      C-level executives with decades of experience.
+
+
+      In 20015, Divya started Brave Coaching, a leadership coaching practice
+      focused on helping entrepreneurs and executives who are taking on
+      increased leadership roles for the first time. Clients include CEO’s,
+      Directors and VP’s of Product, Growth, Engineering, Design and Marketing.
+
+
+      Divya brings a blend of her expertise in people strategy along with
+      several coaching models she’s learned over the years to support her
+      clients. She is currently pursuing a certification in Integral Coaching
+      and has been trained by the Coaches Training Institute and the Conscious
+      Leadership Group.
+
+
+      Divya currently lives in San Francisco.
     coachName: Divya Silbermann
+    links:
+      linkedin: divyasilbermann
   - bio: "Donnie is the founder and CEO of London Business Growth, a business coaching and mentoring firm based in London UK and is also partnered with the worlds number one business coaching firm ActionCOACH who coach small to medium enterprises in over 60 countries.\r\n\n\rDonnie’s core purpose is to help business owners and entrepreneurs create better results in their lives through: better use of their time, developing growth strategies, leveraged systemisation of the business operation and developing winning teams.\r\n\n\rAs an award winning business coach, he has added substantial value to his clients’ businesses both in increased revenue and decreased costs using the latest management, technological and motivational techniques obtained through his past experiences spanning several large corporates, running his own and selling businesses, and his overall passion for continuous education and growth.\r\n\n\rHis clients often achieve double and triple digit growth accomplished through improvements in strategic planning, sales & marketing, collaborative team work, systems and process development and driving the right culture across the business which not only supports but also sustains such growth whilst enhancing the customer experience, the brand and value of the business.\r\n\n\rDonnie is a natural people person and someone who easily builds strong relationships in understanding and valuing cultural differences that make each one of us unique. He understands both the bird’s eye view through to the actual plans that deliver real solutions to business problems. He has a natural ability to align others to be part of the overall journey and has a strong desire to help others to reach their true potential.\r\n\n\rHe has a passion for emerging technologies and education, having received a BSc (Hons) in Business Computing from City University, London in 1999 and MSc in Information Management from Brunel University, London in 2002. He is also a Member & Chartered IT Professional with the British Computer Society, a certified Master Practitioner in Business Neuro-Linguistic Programming (NLP) endorsed by the Society of NLP, a practitioner in Emotional Freedom Technique, Prince 2, ITIL v2/v3, Six Sigma, Lean Sigma and DISC psychometric profiling. In his spare time, he is known to be helping people in his local community and his overall passion is traveling where he aims to visit at least one new country each year."
     coachName: Donnie Dhillon
   - bio: "Dorie Clark is a marketing strategy consultant, professional speaker, and frequent contributor to the Harvard Business Review and Entrepreneur magazine. She is the author of Entrepreneurial You from Harvard Business Review Press. Her previous books include Reinventing You and Stand Out, which was named the #1 Leadership Book of 2015 by Inc. magazine, one of the Top 10 Business Books of the Year by Forbes, and was a Washington Post bestseller.\r\n\n\rThe New York Times has described her as an “expert at self-reinvention and helping others make changes in their lives,” and she has been recognized as a “branding expert” by the Associated Press, Inc., and Fortune magazine.\r\n\n\rShe consults and speaks for a diverse range of clients, including Google, the World Bank, the Bill and Melinda Gates Foundation, the Ford Foundation, Yale University, the Mount Sinai Medical Center, and the U.S. National Park Service.\r\n\n\rClark, a former presidential campaign spokeswoman, is an adjunct professor of business administration at Duke University’s Fuqua School of Business. She has taught marketing and communications at Tufts University, Suffolk University, Emerson College, HEC-Paris, IE Business School in Madrid, Babson College, the University of North Carolina’s Kenan-Flagler School of Business, Smith College Executive Education, and Nazarbayev University in Kazakhstan. She was named one of Inc. magazine’s “100 Great Leadership Speakers for Your Next Conference,” and recognized in Forbes as one of “25 Professional Networking Experts to Watch in 2015.” \r\n\n\rShe has guest lectured at universities including Harvard Business School, the Harvard Kennedy School, Stanford University’s Graduate School of Business, the University of Pennsylvania’s Wharton School, the MIT Sloan School of Management, the University of California-Berkeley’s Haas School of Business, Georgetown, NYU, and the University of Michigan. Her work has been published in The Harvard Business Review Guide to Getting the Right Job, The Harvard Business Review Guide to Networking, The Harvard Business Review Guide to Office Politics, and The Harvard Business Review Guide to Dealing with Conflict. She is quoted frequently in the worldwide media, including NPR, the BBC, and MSNBC.\r\n\n\rA former New England Press Association award-winning journalist, Clark is the director of the environmental documentary film The Work of 1000. At age 14, Clark entered Mary Baldwin College’s Program for the Exceptionally Gifted. At 18, she graduated Phi Beta Kappa from Smith College, and two years later received a Master of Theological Studies from Harvard Divinity School. She is also a producer of a multiple Grammy-winning jazz album. You can learn more at dorieclark.com and download her free 42-page Stand Out Self-Assessment Workbook."
