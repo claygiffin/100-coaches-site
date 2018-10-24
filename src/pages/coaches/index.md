@@ -503,8 +503,77 @@ coachList:
     coachName: Chester Elton
   - bio: "CNN anchor Chris Cuomo covers international events and breaking news for CNN. He anchors CNN’s morning show “New Day” with co-anchor Alisyn Camerota. NEW DAY airs every weekday, from 6am to 9am EST— on CNN.\r\n\n\rBefore joining CNN, Cuomo was the co-anchor of “20/20,” the Emmy Award-winning ABC Newsmagazine, and Chief Law and Justice Correspondent for ABC News. He formerly co-anchored “Good Morning America,” where he covered international breaking news as the primary reporter.\r\n\n\rChris is the recipient of multiple journalism awards. His profile on 12-year-old poet Mattie Stepanek on “Good Morning America” was awarded a News Emmy. He has received Polk and Peabody awards for his team coverage throughout the years, and the Edward R. Murrow award for his work covering breaking news.\r\n\n\rCuomo is a graduate of Fordham University School of Law, and received his undergraduate degree from Yale University."
     coachName: Chris Cuomo
-  - bio: "For 25+ years, Chris has been in the leadership development world. He has worked with and coached hundreds of key leaders and successful people develop leadership to become even more effective.\r\n\n\rChris’s coaching style is direct and well-defined around the Goldsmith Stakeholder Centered Coaching® Process he co-developed with Frank Wagner and Marshall Goldsmith. Chris has coached leaders in Fortune 100, 500, 1000 companies, as well as in start ups and not for profits. The common denominator for all the individuals Chris works with is, they are all successful, high-potential leaders whose organizations want to accelerate their development by having them work closely with a seasoned, leadership coach. \r\n\nActual coaching engagements results and after Action Reviews\r\n\nGerard Iman mini survey and AAR\r\n\nJack Clarkson’s mini survey and AAR\r\n\nKerry Peters mini survey and AAR\r\n\nTom Lee mini survey and AAR\r\n\nCoaching Testimonials scroll down page to One to One Results\r\n\n\rChris has taught management and leadership courses In the UCLA Technical Manager Program and at  Gonzaga University in Florence, Italy.\r\n\n\rChris is a much sought after Keynote speaker:  Topics and videos\r\n\nKeynotes  \r\n\nStakeholder Centered Coaching®  certification  \r\n\nMarshall Goldsmith: Stakeholder Centered Coaching\r\n\n\rMarshall Goldsmith’s endorsement of Chris Coffey:\r\n\n“My partner, Chris Coffey, helps individuals and teams achieve and sustain outstanding results. In addition, he is clearly one of the world’s best keynote speakers and trainers in the area of coaching, leadership development, and teamwork. He provides a rare combination of being entertaining and dynamic while providing advice and stories from his extensive coaching experience that is both practical and applicable. He is a person that I trust to lead the Stakeholder Centered Coaching®  certification process for our behavioral coaches!” \r\n\n\rAUTHOR : THE NEW IQ: LEADING UP ,DOWN, AND ACROSS USING INNOVATIVE QUESTIONS\r\n\n\rAmazon IQ\r\n\n\rVisit Chris Coffey’s Personal Website: WWW.ChristopherCoffey.com\r\n\nContact Information: Email:Chris@ChristopherCoffey.com\r\n\nPhone: (310) 452-3340 | Cell: (310) 650-2438"
+  - bio: >-
+      For 25+ years, Chris has been in the leadership development world. He has
+      worked with and coached hundreds of key leaders and successful people
+      develop leadership to become even more effective.
+
+
+      Chris’s coaching style is direct and well-defined around the Goldsmith
+      Stakeholder Centered Coaching® Process he co-developed with Frank Wagner
+      and Marshall Goldsmith. Chris has coached leaders in Fortune 100, 500,
+      1000 companies, as well as in start ups and not for profits. The common
+      denominator for all the individuals Chris works with is, they are all
+      successful, high-potential leaders whose organizations want to accelerate
+      their development by having them work closely with a seasoned, leadership
+      coach. 
+
+
+      Actual coaching engagements results and after Action Reviews
+
+
+      Gerard Iman mini survey and AAR
+
+
+      Jack Clarkson’s mini survey and AAR
+
+
+      Kerry Peters mini survey and AAR
+
+
+      Tom Lee mini survey and AAR
+
+
+      Coaching Testimonials scroll down page to One to One Results
+
+
+      Chris has taught management and leadership courses In the UCLA Technical
+      Manager Program and at  Gonzaga University in Florence, Italy.
+
+
+      Chris is a much sought after Keynote speaker:  Topics and videos
+
+
+      Keynotes  
+
+
+      Stakeholder Centered Coaching®  certification  
+
+
+      Marshall Goldsmith: Stakeholder Centered Coaching
+
+
+      Marshall Goldsmith’s endorsement of Chris Coffey:
+
+
+      “My partner, Chris Coffey, helps individuals and teams achieve and sustain
+      outstanding results. In addition, he is clearly one of the world’s best
+      keynote speakers and trainers in the area of coaching, leadership
+      development, and teamwork. He provides a rare combination of being
+      entertaining and dynamic while providing advice and stories from his
+      extensive coaching experience that is both practical and applicable. He is
+      a person that I trust to lead the Stakeholder Centered Coaching® 
+      certification process for our behavioral coaches!” 
+
+
+      AUTHOR : THE NEW IQ: LEADING UP ,DOWN, AND ACROSS USING INNOVATIVE
+      QUESTIONS
+
+
+      Amazon IQ
     coachName: Chris Coffey
+    links:
+      website: www.ChristopherCoffey.com
   - bio: "Claire Diaz-Ortiz is an author, speaker, and technology innovator who has been named one of the 100 Most Creative People in Business by Fast Company. Claire was an early employee at Twitter, where she spent five and a years leading social innovation.\r\n\n\rIn Claire’s time at Twitter, she was called everything from “The Woman Who Got the Pope on Twitter” (Wired) and “Twitter’s Pontiff Recruitment Chief” (The Washington Post) to a “Force for Good“ (Forbes) and “One of the Most Generous People in Social Media” (Fast Company).\r\n\n\rClaire is the award-winning author of eight books that have been translated into more than ten languages, including One Minute Mentoring: How to Find and Work with a Mentor – and How You’ll Benefit from Being One, Twitter for Good: Change the World One Tweet at a Time, Design Your Day: Be More Productive, Set Better Goals, and Live Life on Purpose, and Hope Runs: An American Tourist, a Kenyan Boy, a Journey of Redemption.\r\n\n\rShe is a frequent international speaker on social media, business and innovation and has been invited to deliver keynotes and trainings at organizations like the Vatican, the US State Department, Verizon, South by Southwest, TEDX, and many others.\r\n\n\rShe writes a popular business blog at ClaireDiazOrtiz.com and serves as a LinkedIn Influencer, one of a select group of several hundred global leaders chosen to provide original content on the LinkedIn platform.\r\n\n\rClaire holds an MBA from Oxford University, where she was a Skoll Foundation Scholar for Social Entrepreneurship, and has a B.A. and an M.A. in Anthropology from Stanford University.\r\n\n\rShe is the co-founder of Hope Runs, a non-profit organization operating in AIDS orphanages in Kenya.\r\n\n\rShe has appeared widely in major television and print news sources such as CNN, BBC, Time, Newsweek, The New York Times, Good Morning America, The Today Show, The Washington Post, Fortune, Forbes, Fast Company, and many others.\r\n\n\rRead more about her at ClaireDiazOrtiz.com or via @claire on Twitter."
     coachName: Claire Diaz-Ortiz
   - bio: "Clark Callahan is Managing Director, Custom Programs at Harvard Business School Executive Education. In that capacity, he manages a portfolio of executive education client relationships, business development, program design and delivery, and coordinates the activities of the Custom Programs team.\r\n\n\rClark also serves on the board of directors of UNICON, the university-based executive education consortium where he was co-chair in 2014-15 and chair in 2015-16. Clark is certified in Marshall Goldsmith’s Stakeholder Centered Coaching method, and brings those practices and principles to all of his client work.\r\n\n\rBefore joining Harvard in 2016, Clark led the growth and transformation of Executive Education at the Tuck School of Business at Dartmouth College since 2003. Prior to Tuck, Clark was Managing Director of Strategic Management Group (SMG) UK-Europe (now BTS), a leading provider of simulation-based executive education. He was responsible for SMG’s UK and Europe sales and delivery operations and served on the parent company’s executive committee. Before joining SMG, Clark spent eight years at the Wharton School of the University of Pennsylvania. He held a number of posts including director of the Wharton Small Business Development Center, which advises early-stage companies, and lecturer in entrepreneurial management.\r\n\n\rClark holds a master’s degree in government administration from the University of Pennsylvania and a bachelor of arts from Franklin & Marshall College. He and his wife are happily transitioning back to city life in Boston, where one of their two adult daughters also lives."
@@ -550,8 +619,33 @@ coachList:
     coachName: Denise Pirrotii Hummel
   - bio: "Diane M. Ryan is the Associate Dean for Programs and Administration in the Jonathan M. Tisch College of Civic Life at Tufts University. As the only university-wide initiative of its kind, the mission of Tisch College is to prepare students for a\r lifetime of engagement in civic life, to study civic life and its intersections with public and private institutions, and to promote practices that strengthen civic life in the United States and around the world. Dr. Ryan oversees a portfolio of programs and curricula that service the entire undergraduate and graduate student body as well as provide resources for faculty research and professional development.\r\n\n\rPrior to joining Tufts, Diane was an Academy Professor, Director of the Eisenhower Leader Development Program with Columbia University and Acting Deputy Department Head in the Department of Behavioral Sciences and Leadership at the United States Military Academy, West Point, NY where she served for nine years. During her 29-year career as an active-duty U.S. Army officer she served in a variety of command and staff assignments both stateside and abroad.\r\n\n\rDiane is a noted expert in leader development and mentoring. During her last combat assignment with the 1st Cavalry Division in Baghdad, Iraq she founded a US-Iraqi partnership for military women and worked with a number of NGOs on peace and security initiatives. More recently she served as a strategy consultant to the Commander of U.S. Army Pacific designing leader development exchange programs for several key U.S. partners. Diane retired from the Army in 2017 at the rank of Colonel."
     coachName: Diane Ryan
-  - bio: "For the last 10 years, Divya has worked in Human Resources at technology start ups, including Facebook and Eventbrite. The first HR hire at Facebook (growing the company from 200-4,000) Divya held the role of Global people programs manager and HR Business Partner to the CFO, Head of Online Sales and General Counsel. While there, she coached dozens of leaders, from young professionals at the beginning of their careers to C-level executives with decades of experience.\r\n\n\rIn 20015, Divya started Brave Coaching, a leadership coaching practice focused on helping entrepreneurs and executives who are taking on increased leadership roles for the first time. Clients include CEO’s, Directors and VP’s of Product, Growth, Engineering, Design and Marketing.\r\n\n\rDivya brings a blend of her expertise in people strategy along with several coaching models she’s learned over the years to support her clients. She is currently pursuing a certification in Integral Coaching and has been trained by the Coaches Training Institute and the Conscious Leadership Group.\r\n\n\rDivya currently lives in San Francisco. \r\n\n\rlinkedin.com/in/divyasilbermann"
+  - bio: >-
+      For the last 10 years, Divya has worked in Human Resources at technology
+      start ups, including Facebook and Eventbrite. The first HR hire at
+      Facebook (growing the company from 200-4,000) Divya held the role of
+      Global people programs manager and HR Business Partner to the CFO, Head of
+      Online Sales and General Counsel. While there, she coached dozens of
+      leaders, from young professionals at the beginning of their careers to
+      C-level executives with decades of experience.
+
+
+      In 20015, Divya started Brave Coaching, a leadership coaching practice
+      focused on helping entrepreneurs and executives who are taking on
+      increased leadership roles for the first time. Clients include CEO’s,
+      Directors and VP’s of Product, Growth, Engineering, Design and Marketing.
+
+
+      Divya brings a blend of her expertise in people strategy along with
+      several coaching models she’s learned over the years to support her
+      clients. She is currently pursuing a certification in Integral Coaching
+      and has been trained by the Coaches Training Institute and the Conscious
+      Leadership Group.
+
+
+      Divya currently lives in San Francisco.
     coachName: Divya Silbermann
+    links:
+      linkedin: divyasilbermann
   - bio: "Donnie is the founder and CEO of London Business Growth, a business coaching and mentoring firm based in London UK and is also partnered with the worlds number one business coaching firm ActionCOACH who coach small to medium enterprises in over 60 countries.\r\n\n\rDonnie’s core purpose is to help business owners and entrepreneurs create better results in their lives through: better use of their time, developing growth strategies, leveraged systemisation of the business operation and developing winning teams.\r\n\n\rAs an award winning business coach, he has added substantial value to his clients’ businesses both in increased revenue and decreased costs using the latest management, technological and motivational techniques obtained through his past experiences spanning several large corporates, running his own and selling businesses, and his overall passion for continuous education and growth.\r\n\n\rHis clients often achieve double and triple digit growth accomplished through improvements in strategic planning, sales & marketing, collaborative team work, systems and process development and driving the right culture across the business which not only supports but also sustains such growth whilst enhancing the customer experience, the brand and value of the business.\r\n\n\rDonnie is a natural people person and someone who easily builds strong relationships in understanding and valuing cultural differences that make each one of us unique. He understands both the bird’s eye view through to the actual plans that deliver real solutions to business problems. He has a natural ability to align others to be part of the overall journey and has a strong desire to help others to reach their true potential.\r\n\n\rHe has a passion for emerging technologies and education, having received a BSc (Hons) in Business Computing from City University, London in 1999 and MSc in Information Management from Brunel University, London in 2002. He is also a Member & Chartered IT Professional with the British Computer Society, a certified Master Practitioner in Business Neuro-Linguistic Programming (NLP) endorsed by the Society of NLP, a practitioner in Emotional Freedom Technique, Prince 2, ITIL v2/v3, Six Sigma, Lean Sigma and DISC psychometric profiling. In his spare time, he is known to be helping people in his local community and his overall passion is traveling where he aims to visit at least one new country each year."
     coachName: Donnie Dhillon
   - bio: "Dorie Clark is a marketing strategy consultant, professional speaker, and frequent contributor to the Harvard Business Review and Entrepreneur magazine. She is the author of Entrepreneurial You from Harvard Business Review Press. Her previous books include Reinventing You and Stand Out, which was named the #1 Leadership Book of 2015 by Inc. magazine, one of the Top 10 Business Books of the Year by Forbes, and was a Washington Post bestseller.\r\n\n\rThe New York Times has described her as an “expert at self-reinvention and helping others make changes in their lives,” and she has been recognized as a “branding expert” by the Associated Press, Inc., and Fortune magazine.\r\n\n\rShe consults and speaks for a diverse range of clients, including Google, the World Bank, the Bill and Melinda Gates Foundation, the Ford Foundation, Yale University, the Mount Sinai Medical Center, and the U.S. National Park Service.\r\n\n\rClark, a former presidential campaign spokeswoman, is an adjunct professor of business administration at Duke University’s Fuqua School of Business. She has taught marketing and communications at Tufts University, Suffolk University, Emerson College, HEC-Paris, IE Business School in Madrid, Babson College, the University of North Carolina’s Kenan-Flagler School of Business, Smith College Executive Education, and Nazarbayev University in Kazakhstan. She was named one of Inc. magazine’s “100 Great Leadership Speakers for Your Next Conference,” and recognized in Forbes as one of “25 Professional Networking Experts to Watch in 2015.” \r\n\n\rShe has guest lectured at universities including Harvard Business School, the Harvard Kennedy School, Stanford University’s Graduate School of Business, the University of Pennsylvania’s Wharton School, the MIT Sloan School of Management, the University of California-Berkeley’s Haas School of Business, Georgetown, NYU, and the University of Michigan. Her work has been published in The Harvard Business Review Guide to Getting the Right Job, The Harvard Business Review Guide to Networking, The Harvard Business Review Guide to Office Politics, and The Harvard Business Review Guide to Dealing with Conflict. She is quoted frequently in the worldwide media, including NPR, the BBC, and MSNBC.\r\n\n\rA former New England Press Association award-winning journalist, Clark is the director of the environmental documentary film The Work of 1000. At age 14, Clark entered Mary Baldwin College’s Program for the Exceptionally Gifted. At 18, she graduated Phi Beta Kappa from Smith College, and two years later received a Master of Theological Studies from Harvard Divinity School. She is also a producer of a multiple Grammy-winning jazz album. You can learn more at dorieclark.com and download her free 42-page Stand Out Self-Assessment Workbook."
