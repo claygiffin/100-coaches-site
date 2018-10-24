@@ -59,7 +59,7 @@ export class HomePageTemplate extends React.Component {
                 node.frontmatter.coachList.map(coach => (
                   <CoachThumb 
                     coach={coach} 
-                    key={coach.coachName} 
+                    key={`${coach.coachName} ${coach.jobTitle}`} 
                     onClick={this.handleCoachClick}
                   />
                 ))

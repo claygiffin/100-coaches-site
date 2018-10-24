@@ -173,7 +173,7 @@ export class CoachesPageTemplate extends React.Component {
         </div>
         <section className="coach-list" >
           {this.state.filteredCoaches.map(coach => (
-            <div className="coach-wrap" key={coach.coachName} >
+            <div className="coach-wrap" key={`${coach.coachName} ${coach.jobTitle}`} >
               <CoachThumb 
                 coach={coach} 
               />
