@@ -479,5 +479,107 @@ coachList:
     coachName: Asheesh Advani
   - bio: "Ayse Birsel has been designing award-winning products for over 20 years. She is the co-founder of Birsel + Seck, an innovative design studio in New York that partners with leading brands and Fortune 500 companies, including Colgate Palmolive, Converse, GE, Herman Miller, Nissan, Staples, Target, Tiffany & Co, Toyota, on design, design thinking, strategy and innovation projects.\r\n\n\rCalled affectionately by the press the “Queen of Toilets” and “Queen Bee” for her bathroom designs and office systems respectively, she brings new solutions to old problems by thinking differently, using her user-centered, humanistic design approach and her process, Deconstruction:ReconstructionTM.\r\n\n\rAyse is also known for her acclaimed workshops, Design the Life You Love, the foundation of her book, published by Ten Speed Press, an imprint of Penguin Random House, in October 2015.\r\n\n\rAyse is the recipient of numerous design awards including the IDEA Gold Award, ID Magazine Award, the Young Designer Award from the Brooklyn Museum of Art, and the Athena Award for Excellence in Furniture Design from Rhode Island School of Design. She is a speaker at international conferences—notably the Aspen Design Conference, IDSA and AIGA Conferences, the Indaba Conference, Design Management Institute, 99U, The Feast and Fast Company Innovation Conferences.\r\n\n\rShe is a Fulbright Scholar with a master’s degree in Industrial Design from Pratt Institute and is a graduate of Middle East Technical University in Ankara, Turkey. Her work can be found in the permanent collections of the Museum of Modern Art, Cooper Hewitt National Design Museum and Philadelphia Museum of Art. Ayse teaches at Products of Design Department at SVA (School of Visual Arts) and is on the board of IDSA (Industrial Designers Society of America). She lives in New York, with her husband and partner Bibi Seck and their 3 kids."
     coachName: Ayse Birsel
+  - bio: "Bernard (Bernie) Banks is a noted expert on the subjects of leadership and organizational change. Currently, he is the Associate Dean for Leadership Development and a Clinical Professor of Management at Northwestern University’s Kellogg School of Management. As an Associate Dean, Bernie possesses responsibility for leader development integration across the school’s global portfolio of programs.\r\n\n\rBernie retired from the Army as a Brigadier General in 2016 after having successfully led West Point’s Department of Behavioral Sciences & Leadership from 2012-2016. In addition to having studied leadership extensively, he has led multiple military units ranging in size from 10 to 500 people. In 1995, Bernie was selected from over 40,000 officers to receive the Army’s top award for entry-level managers (General Douglas MacArthur Leadership Award). In 2006, the Apache Helicopter unit he was leading in South Korea was designated as the top Apache Helicopter unit globally in the U.S. Army’s annual best aviation unit competition.\r\n\n\rA West Point graduate, Bernie is broadly educated. He holds graduates degrees from Northwestern, Columbia, and Harvard Universities. Additionally, he earned his Ph.D. in social-organizational psychology from Columbia University. Bernie’s work has been published in a variety of outlets (e.g., Harvard Business Review, Military Psychology, New York Times). Furthermore, he has worked extensively with organizations across all sectors concerning their leader development efforts (e.g., Procter and Gamble, Mercedes Benz, General Electric, IBM, 7-Eleven, The US Forest Service, International Chiefs of Police).\r\n\n\rAn active member of several civic and professional organizations (e.g., The Chicago Club, Harvard Club of NYC, Community Solutions of NYC, USO of Illinois, West Point Society of Chicago), Bernie is deeply invested in his community.\r\n\n\rAreas of Expertise\r\n\n\rLeader Development\r\n\nOrganizational Change\r\n\nOrganizational Culture"
+    coachName: Bernark Banks
+  - coachName: Beverly Kaye
+  - coachName: Bill Simpson
+  - coachName: Bob Nelson
+  - coachName: Bonita Thompson
+  - coachName: Brown Johnson
+  - coachName: Bryan Miller
+  - coachName: Cara Juicharern
+  - coachName: Carol Kauffman
+  - coachName: Caroline Santiago
+  - coachName: Chester Elton
+  - coachName: Chris Cuomo
+  - coachName: Chris Coffey
+  - coachName: Claire Diaz-Ortiz
+  - coachName: Clark Callahan
+  - coachName: Darek Lenart
+  - coachName: Dave Meltzer
+  - coachName: David Allen
+  - coachName: David B. Peterson
+  - coachName: David Burkus
+  - coachName: David Gallimore
+  - coachName: David Nour
+  - coachName: Deanne Kissinger
+  - coachName: Deborah Borg
+  - coachName: Deepa Prahalad
+  - coachName: Denise Pirrotii Hummel
+  - coachName: Diane Ryan
+  - coachName: Divya Silbermann
+  - coachName: Donnie Dhillon
+  - coachName: Dorie Clark
+  - coachName: Douglas J. Winnie
+  - coachName: Edy Greenblatt
+  - coachName: Eric Schurenberg
+  - coachName: Erica Dhawan
+  - coachName: Everett Alexander
+  - coachName: Feyzi Fatehi
+  - coachName: Fiona Macaulay
+  - coachName: Frances Hesselbein
+  - coachName: Frank Wagner
+  - coachName: Fred Hassan
+  - coachName: Gabriela Teasdale
+  - coachName: Garry Ridge
+  - coachName: George Daley
+  - coachName: Gianpiero Petriglieri
+  - coachName: Gregory Enjalbert
+  - coachName: Hal Gregersen
+  - coachName: Harry Kraemer
+  - coachName: Hermina Ibarra
+  - coachName: Himanshu Saxena
+  - coachName: Hortense le Gentil
+  - coachName: Howard Morgan
+  - coachName: Howard Prager
+  - coachName: Hubert Joly
+  - coachName: James Downing
+  - coachName: Jasmin Thompson
+  - coachName: Jeff Khun
+  - coachName: Jeff Slovin
+  - coachName: Jim Citrin
+  - coachName: Jim Yong Kim
+  - coachName: John Noseworthy
+  - coachName: Judith E. Glaser
+  - coachName: Julie Carrier
+  - coachName: Julie Rosenberg
+  - coachName: Kathleen Wilson-Thompson
+  - coachName: Keith Ferrazzi
+  - coachName: Kevin Koch
+  - coachName: Laine Joelson Cohen
+  - coachName: Linda Sharkey
+  - coachName: Liz Smith
+  - coachName: Liz Wiseman
+  - coachName: Louis Carter
+  - coachName: Luke Joerger
+  - coachName: Marcia Blenko
+  - coachName: Mark C. Thompson
+  - coachName: Mark Parsells
+  - coachName: Mark Tercek
+  - coachName: Martin Lindstrom
+  - coachName: Michael Bungay Stanier
+  - coachName: Michel Kripalan
+  - coachName: Mike Sursock
+  - coachName: Mitchell Carmichael
+  - coachName: Mo Kasti
+  - coachName: Molly Tschang
+  - coachName: Patricia Gorton
+  - coachName: Paul Corona
+  - coachName: Paul Hill
+  - coachName: Pawel Motyl
+  - coachName: Peter Bregman
+  - coachName: Peter Chee
+  - coachName: Philippe Grall
+  - coachName: Pooneh Mohajer
+  - coachName: Prakash Raman
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 ---
 
