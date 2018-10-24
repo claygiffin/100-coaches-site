@@ -124,7 +124,7 @@ export class CoachesPageTemplate extends React.Component {
     let filteredCoaches = [];
     matches.forEach(match => {
       this.state.allCoaches.forEach(coach => {
-        coach.tags.filter(tag => tag === match).length > 0 && filteredCoaches.push(coach);
+        coach.tags && coach.tags.filter(tag => tag === match).length > 0 && filteredCoaches.push(coach);
       });
     });
     this.setState({
