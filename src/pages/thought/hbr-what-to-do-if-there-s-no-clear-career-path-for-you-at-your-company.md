@@ -1,6 +1,6 @@
 ---
 templateKey: thought-post
-title: HBR - What to Do If There's No Clear Career Path for You at Your Company
+title: 'HBR: What to Do If There''s No Clear Career Path for You at Your Company'
 url: >-
   https://hbr.org/2018/09/what-to-do-if-theres-no-clear-career-path-for-you-at-your-company
 author: Dorie Clark
