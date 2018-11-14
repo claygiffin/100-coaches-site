@@ -454,7 +454,7 @@ coachList:
       > _—David Allen, author of Getting Things Done_
     coachName: Michael Bungay Stanier
     jobTitle: Senior Partner at Box of Crayons
-    photo: /uploads/michael-bungay-stanier.jpg
+    photo: /uploads/Michael Bungay Stanier.jpg
     tags:
       - Executive Coach
       - Author
