@@ -850,7 +850,71 @@ coachList:
     coachName: Tony Marx
   - bio: "Wendy Greeson is an innovative and results driven talent management professional with a successful record of leading large-scale initiatives and creating development programs that focus on building leadership bench strength. With over 20 years of experience, she has consistently managed high profile projects with tight deadlines, defined budgets, and competing agendas.\r\n\n\rWendy has a MS in Training and Development and a BA in Communications from Eastern Illinois University. She was also selected to participate in a 2-year study on Emotional Intelligence through the University of Illinois in Chicago and has traveled as far as Hong Kong to facilitate leadership development programs.\r\n\n\rWhile at Arthur J. Gallagher, Wendy was recognized for her extensive work with Harvard Business Publishing. As a result, Gallagher’s leadership program was highlighted in a Harvard client success story. Additionally, the program received several Leadership Excellence awards starting in 2015 with Best in Class – Large Company. In 2016 the program was recognized as the #1 Best Sales/Leadership Program, #3 Best Senior/Experienced Leader Program, #5 Best Global Leadership Program.\r\n\n\rWendy joined Cielo in 2017 and is the Vice President, Global Learning & Development. Throughout the course of her career, she has consistently demonstrated the ability to think strategically and execute with impact, while pursuing her life-long passion to help others learn, lead, and grow."
     coachName: Wendy Greeson
-  - bio: "‘Making Change Happen’ is the foundation based on which Will provides top executives with effective business solutions and practical leadership applications that deliver measurable results for their specific organizational challenges. Will has 20 years of in-depth experience in executive positions and managing businesses in Europe and Asia. Currently he is the Practice Leader for Asia and Europe at Marshall Goldsmith Stakeholder Centered Coaching and in this position he also coaches numerous CEOs and other top level executives.\r\n\n\rWill is known as the “Coaches Coach” and is one of the first Master Certified Coaches at Marshall Goldsmith Stakeholder Centered Coaching. For over two decades he has been working with executive teams to measurably improve their leadership and organizational effectiveness. He has held several positions in general management and business management at multinational companies in Europe and Asia and he also serves at the board of several multinationals in Asia. Furthermore he travels the globe training executive coaches and business leaders in using Marshall’s methodology.\r\n\n\rClients consistently commend his results driven personality combined with his confident, energetic and friendly character. A good listener and problem solver with in depth business knowledge and cross cultural understanding, he has also been recognized for his creative and analytical skills, and most of his executive clients hold international positions in a wide range of industries at Fortune 500 Cos across Asia and Europe such as Coca Cola, GSK, Novartis, McDonalds, Philips, ING, Philip Morris, BAT, LG, Standard Chartered Bank, Bayer, Syngenta, AON Hewitt and SC Johnson.\r\n\n\rOriginally from the Netherlands, Will has been living and working in Asia since the early nineties. He holds a Master of Science degree in Technology Management from the Eindhoven University of Technology in the Netherlands and a Master degree in Business Administration from IMD, in Switzerland, which has been consistently ranked among the world’s top MBA schools. Will has earned a number of well recognized professional HR development accreditations in the field of leadership, executive coaching and assessments by reputed international organizations such as:\r\n\n* Marshall Goldsmith Stakeholder Centered Coaching (Master Certified Coach (MCC)\r\n* Global Leader of the Future by Marshall Goldsmith\r\n* Organizational leadership development assessments from Human Synergistics\r\n* Emotional intelligence leadership from Daniel Goleman / Hay Group\r\n* 7 Habits of Highly Effective People from FranklinCovey\r\n* Team collaboration &amp; managing diversity from Belbin\r\n* Personality typing tools such as MBTI from CPP and Predictive Index from PI International\rStress and performance management from HeartMath\r\n* Will has co-authored various books with Marshall Goldsmith and others such as:\r\n  * \rCoaches Handbook for Marshall Goldsmith Stakeholder Centered Coaching\r\n  * Global Leader of the Future by Marshall Goldsmith – Assessment Guidebook for Certified Professionals\r\n  * Taking the Stage: Breakthrough Stories from Women Leaders"
+  - bio: >-
+      ‘Making Change Happen’ is the foundation based on which Will provides top
+      executives with effective business solutions and practical leadership
+      applications that deliver measurable results for their specific
+      organizational challenges. Will has 20 years of in-depth experience in
+      executive positions and managing businesses in Europe and Asia. Currently
+      he is the Practice Leader for Asia and Europe at Marshall Goldsmith
+      Stakeholder Centered Coaching and in this position he also coaches
+      numerous CEOs and other top level executives.
+
+
+      Will is known as the “Coaches Coach” and is one of the first Master
+      Certified Coaches at Marshall Goldsmith Stakeholder Centered Coaching. For
+      over two decades he has been working with executive teams to measurably
+      improve their leadership and organizational effectiveness. He has held
+      several positions in general management and business management at
+      multinational companies in Europe and Asia and he also serves at the board
+      of several multinationals in Asia. Furthermore he travels the globe
+      training executive coaches and business leaders in using Marshall’s
+      methodology.
+
+
+      Clients consistently commend his results driven personality combined with
+      his confident, energetic and friendly character. A good listener and
+      problem solver with in depth business knowledge and cross cultural
+      understanding, he has also been recognized for his creative and analytical
+      skills, and most of his executive clients hold international positions in
+      a wide range of industries at Fortune 500 Cos across Asia and Europe such
+      as Coca Cola, GSK, Novartis, McDonalds, Philips, ING, Philip Morris, BAT,
+      LG, Standard Chartered Bank, Bayer, Syngenta, AON Hewitt and SC Johnson.
+
+
+      Originally from the Netherlands, Will has been living and working in Asia
+      since the early nineties. He holds a Master of Science degree in
+      Technology Management from the Eindhoven University of Technology in the
+      Netherlands and a Master degree in Business Administration from IMD, in
+      Switzerland, which has been consistently ranked among the world’s top MBA
+      schools. Will has earned a number of well recognized professional HR
+      development accreditations in the field of leadership, executive coaching
+      and assessments by reputed international organizations such as:
+
+
+      * Marshall Goldsmith Stakeholder Centered Coaching (Master Certified Coach
+      (MCC)
+
+      * Global Leader of the Future by Marshall Goldsmith
+
+      * Organizational leadership development assessments from Human
+      Synergistics
+
+      * Emotional intelligence leadership from Daniel Goleman / Hay Group
+
+      * 7 Habits of Highly Effective People from FranklinCovey
+
+      * Team collaboration &amp; managing diversity from Belbin
+
+      * Personality typing tools such as MBTI from CPP and Predictive Index from
+      PI International
+        Stress and performance management from HeartMath
+      * Will has co-authored various books with Marshall Goldsmith and others
+      such as:
+        * 
+        Coaches Handbook for Marshall Goldsmith Stakeholder Centered Coaching
+        * Global Leader of the Future by Marshall Goldsmith – Assessment Guidebook for Certified Professionals
+        * Taking the Stage: Breakthrough Stories from Women Leaders
     coachName: Will Linssen
 ---
 
