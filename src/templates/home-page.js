@@ -74,7 +74,7 @@ export class HomePageTemplate extends React.Component {
           </section>
           <section id="thought-leadership">
             <h2>Thought Leadership</h2>
-            <Carousel slidesToShow={3} id="thought-leadership-carousel" viewAll="/" >
+            <Carousel slidesToShow={3} id="thought-leadership-carousel" >
               {this.props.thoughts.map(({ node }) => (
                 <ThoughtThumb key={node.frontmatter.title} thought={node.frontmatter} />
               ))}
