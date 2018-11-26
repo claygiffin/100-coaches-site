@@ -1274,14 +1274,13 @@ footer.site-footer {
 .lightbox {
   @extend %absolute-fill;
   position: fixed;
-  opacity:0;
-  visibility: hidden;
   text-align: center;
   z-index: 99;
   @include transform(translate3D(0, 0, 0));
   -webkit-backface-visibility: hidden;
   -webkit-perspective: 1000;
-  @include transition(.3s all ease-in);
+  background-color: rgba(white, 0);
+  @include transition(.1s background-color ease);
   .lightbox-wrapper {
     @extend %absolute-fill;
     position: fixed;
@@ -1298,11 +1297,13 @@ footer.site-footer {
       -webkit-backface-visibility: hidden;
       -webkit-perspective: 1000;
       @include transform(translate3D(0,0,0));
+      opacity: 0;
+      @include transition(.3s opacity ease);
       background: white;
       margin: 2rem 0 3rem;
       position: relative;
       z-index: 10;
-      box-shadow: 0 1vw 5vw rgba(0,0,0,.1), 0 0 0.75vw rgba(0,0,0,.05);
+      box-shadow: 0 1vw 5vw rgba(0,0,0,.1), 0 0 0 1px rgba(0,0,0,.05);
       @include inline-flex;
       @include flex-direction(column);
       .lightbox-content {
@@ -1369,29 +1370,22 @@ footer.site-footer {
 
 body.lightbox-open {
   overflow: hidden;
+  #content {
+    pointer-events: none;
+  }
   .lightbox {
-    opacity: 1;
-    visibility: visible;
-  }
-  .page-content, .site-footer{
-    @include filter(blur(10px));
-    opacity: .25;
-  }
-  .navbar {
-    @include filter(blur(10px));
+    background-color: rgba(#f2f2f2, .95);
+    .lightbox-wrapper .lightbox-container {
+      opacity: 1;
+    }
   }
   video {
     visibility: hidden;
   }
 }
 
-#content {
-  @include transition(.3s filter linear );
-}
-
 
 // Keyframes
-
 @keyframes fadeIn {
   0% {
     opacity: 0;
