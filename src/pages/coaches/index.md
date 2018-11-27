@@ -80,9 +80,8 @@ coachList:
       website: ''
     photo: /uploads/frances-hesselbein.jpg
     tags:
-      - Iconic Leader
       - Author
-      - Entrepreneur
+      - Iconic Leader
       - Non-Profit
   - bio: >-
       Alan Mulally served as president and chief executive officer of The Ford
@@ -144,9 +143,9 @@ coachList:
     jobTitle: Former CEO of The Ford Motor Company
     photo: /uploads/alan_mulally.jpg
     tags:
+      - Speaker
       - Iconic Leader
-      - Entrepreneur
-      - Corporate Leader
+      - Corporate Executive
   - bio: >-
       Jim Yong Kim, M.D., Ph.D., is the 12th President of the World Bank Group.
       Soon after he assumed his position in July 2012, the organization
