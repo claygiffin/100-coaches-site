@@ -226,9 +226,10 @@ coachList:
       website: 'http://blog.strategyzer.com/'
     photo: /uploads/alexander-osterwalder.jpg
     tags:
-      - Thinkers 50
-      - Speaker
+      - Author
       - Entrepreneur
+      - Speaker
+      - Thinker
   - bio: >-
       Rita Gunther McGrath is a globally recognized expert on strategy,
       innovation, and growth with an emphasis on corporate entrepreneurship. Her
