@@ -336,9 +336,9 @@ coachList:
       website: herminiaibarra.com
     photo: /uploads/ibarra-photo.jpg
     tags:
-      - Thinkers 50
       - Author
-      - Educator
+      - Non-Profit
+      - Speaker
   - bio: >-
       Recognized as one of the 50 leading business thinkers in the world by
       Thinkers50. Whitney Johnson is an expert on disruptive innovation and
@@ -412,10 +412,11 @@ coachList:
       website: ''
     photo: /uploads/whitney-johnson.jpg
     tags:
-      - Thinkers 50
+      - Author
+      - Entrepreneur
       - Executive Coach
       - Speaker
-      - Author
+      - Thinker
   - bio: >-
       Michael Bungay Stanier is the Senior Partner of Box of Crayons, a company
       that helps organizations do less Good Work and more Great Work. Box of
@@ -457,9 +458,9 @@ coachList:
     jobTitle: Senior Partner at Box of Crayons
     photo: /uploads/Michael Bungay Stanier.jpg
     tags:
-      - Executive Coach
       - Author
-      - Entrepreneur
+      - Speaker
+      - Thinker
   - bio: >-
       Dr. Agapol Na Songkhla is Chief People Officer and Executive Vice
       President of Human Capital Group at Thai Beverage (ThaiBev), ASEAN’s
