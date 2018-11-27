@@ -297,9 +297,9 @@ coachList:
     jobTitle: 'Globally recognized expert on strategy, innovation, and growth'
     photo: /uploads/rita_mcgrath_headshot.jpg
     tags:
-      - Thinkers 50
       - Author
-      - Entrepreneur
+      - Speaker
+      - Thinker
   - bio: >-
       Thinkers 50 #9 Management Thinker – 2015, #1 Leadership Thinker 2013,
       author and Professor at INSEAD.
