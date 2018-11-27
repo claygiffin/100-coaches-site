@@ -171,10 +171,11 @@ coachList:
       Kim has received a MacArthur “Genius” Fellowship, was recognized as one of
       America’s “25 Best Leaders” by U.S. News & World Report, and was named one
       of TIME magazine’s “100 Most Influential People in the World.”
-    coachName: Kim Yong Kim
+    coachName: Jim Yong Kim
     jobTitle: President of the World Bank Group
     photo: /uploads/jim-yong-kim.jpg
     tags:
+      - Corporate Executive
       - Iconic Leader
       - Non-Profit
   - bio: >-
