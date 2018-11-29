@@ -748,6 +748,11 @@ coachList:
       - Thinker
   - bio: "David Burkus is a best-selling author, a sought after speaker, and business school professor. In 2017, he was named as one of the world’s top business thought leaders by Thinkes50\r\n\n\rHis forthcoming book, Friend of a Friend, offers readers a new perspective on how to grow their networks and build key connections—one based on the science of human behavior, not rote networking advice. He is also the author of Under New Management and The Myths of Creativity. David is a regular contributor to Harvard Business Review and his work has been featured in Fast Company, the Financial Times, Inc magazine, Bloomberg BusinessWeek, and CBS This Morning.\r\n\n\rDavid’s innovative views on leadership have earned him invitations to speak to leaders from a variety of organizations. He’s delivered keynote speeches and workshops for Fortune 500 companies such as Microsoft, Google, and Stryker and governmental and military leaders at the U.S. Naval Academy and Naval Postgraduate School. His TED talk has been viewed over 1.5 million times.\r\n\n\rWhen he’s not speaking or writing, David is in the classroom. He is associate professor of leadership and innovation at Oral Roberts University where he was recently named one of the nation’s “Top 40 Under 40 Professors Who Inspire.”\r\n\n\rDavid lives outside of Tulsa with his wife and their two boys."
     coachName: David Burkus
+    links:
+      facebook: drdavidburkus/
+      linkedin: davidburkus/
+      twitter: davidburkus
+      website: davidburkus.com
     photo: /uploads/david-burkus.jpg
     tags:
       - Author
