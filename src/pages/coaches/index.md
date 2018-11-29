@@ -1146,7 +1146,6 @@ coachList:
     tags:
       - Corporate Executive
       - Executive Coach
-    coachName: Michel Kripalani
     photo: /uploads/Michael-kripalani.jpg
   - bio: "Mike Sursock, Managing Director‐ Operations Group, currently leads a team that supports investments across the Baring Private Equity portfolio of companies, pre and post investment. Prior to joining Baring, Mr. Sursock was CEO of KKR Capstone for Asia Pacific, where he drove value creation in businesses spanning mining, financial services, industrials, logistics, dairy, FMCG and a wide range of other sectors across the region.\r\n\n\rHe has had deep operational experience in his roles as COO Asia Pacific and VP‐ Global Sales Operations for Motorola.\r\n\nMike came to Asia with Mars, where he had previously spent 20 years with roles in Marketing, Sales, Human Resources, Manufacturing and General Management across Europe. His most recent role at Mars was as President and General Manager of Greater China, leading a team devising and implementing broad‐based strategies which resulted in growing market share to 60 percent of the China market.\r\n\n\rMike is a member of ATTA (Asia Turnaround and Transformation Association) and holds a B.Sc. Honors in Mechanical and Production Engineering from the University of Leeds and an MBA in Marketing from the University of Bradford. Additionally Mike is an Advisor and Speaker at the Tuck School of Leadership Dartmouth, and a member of its Asia Advisory Board."
     coachName: Mike Sursock
@@ -1289,7 +1288,6 @@ coachList:
       Dr. Pritchett is a past-president of the Dallas Psychological Association.
       Currently he serves on the board of directors for the Park Cities
       Historical and Preservation Society.
-    photo: /uploads/Praveen-K-Kopalle.jpg
     tags:
       - Author
       - Executive Coach
@@ -1334,7 +1332,6 @@ coachList:
     coachName: Rob Mackenie
     tags:
       - Corporate Executive
-    coachName: Rob Mackenzie
     photo: /uploads/rob-mckenzie.jpg
   - bio: "Ronald Miles, Jr. (Ronnie) is an HR/OD strategic business partner who collaborates with senior-level business leaders, key stakeholders, and colleagues. He assesses organizational capabilities, develops and execute strategies and, builds competencies aimed at helping leaders maximize contributions of their people. His areas of expertise include talent management, performance management, Hi-Po talent identification, leadership development, diversity/inclusion, workforce planning and succession planning. Over the years, he has worked in higher education, federal government, non-profit and private sectors.\r\n\n\rCurrently, Ronnie works as Manager, Organizational Development at the Federal Reserve Board. In this role, he is responsible for employee engagement, talent management, performance management, talking talent and team development efforts which support human capital strategies that focus on attracting, retaining and developing human capital.\r\n\n\rPrior to the Federal Reserve Board, Ronnie was a Global HR Business Partner at EMD Millipore serving as a trusted advisor for delivering HR solutions to business leaders in R&D, marketing, and product management functions in the US, Europe, and Asia with total annual revenue of €400+M. His efforts led to the reduction in actual negative growth, improvement in cross-functional operations, and an increase in employee engagement.\r\n\n\rBefore EMD Millipore, Ronnie served as a senior-level OD partner at Fannie Mae, Waste Management, and other organizations. His strategic accomplishments are highlighted by leading efforts that include: developing a talent management framework to recruit, retain and develop talent; identifying and retaining Hi-Po talent and; identifying redundancies, reducing inefficiencies in business operations and improving ROI through employee engagement, team development, and executive coaching.\r\n\n\rRonnie earned a BA in Economics and Sociology/Anthropology from St. Mary’s College of Maryland, an MS in Applied Industrial/Organizational Psychology from the University of Baltimore, a graduate certificate in the Fellows of Change Management from Johns Hopkins University and, an executive coaching certificate from Georgetown University. In addition, he has several professional certifications and accreditations.\r\n\n\rlinkedin.com/in/ronaldmilesjr/"
     coachName: Ronnie Miles
