@@ -1,7 +1,7 @@
 {
   "name": "100-coaches-gatsby-netlify-cms",
   "description": "Custom theme for 100 Coaches",
-  "version": "1.0",
+  "version": "1.0.0",
   "author": "Clay Giffin",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
