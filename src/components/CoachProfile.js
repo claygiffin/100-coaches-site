@@ -37,7 +37,7 @@ export default class CoachProfile extends React.Component {
               {coach.links &&
                 <>
                   { coach.links.website && <a className="website icon" href={`//${coach.links.website.replace(/(^\w+:|^)\/\//, '')}`} title="Website" target="_blank" rel="noopener noreferrer" ><span className="hidden">{coach.links.website.replace(/(^\w+:|^)\/\//, '')}</span></a> }
-                  { coach.links.linkedin && <a className="linkedin icon" href={`https://linkedin.com/${coach.links.linkedin}`} title="LinkedIn" target="_blank" rel="noopener noreferrer" ><span className="hidden">LinkedIn Profile</span></a> }
+                  { coach.links.linkedin && <a className="linkedin icon" href={`https://linkedin.com/in/${coach.links.linkedin}`} title="LinkedIn" target="_blank" rel="noopener noreferrer" ><span className="hidden">LinkedIn Profile</span></a> }
                   { coach.links.twitter && <a className="twitter icon" href={`https://twitter.com/${coach.links.twitter}`} title="Twitter" target="_blank" rel="noopener noreferrer" ><span className="hidden">@{coach.links.twitter}</span></a> }
                   { coach.links.facebook && <a className="facebook icon" href={`https://facebook.com/${coach.links.facebook}`} title="Facebook" target="_blank" rel="noopener noreferrer" ><span className="hidden">Facebook Profile</span></a> }
                   { coach.links.instagram && <a className="instagram icon" href={`https://instagram.com/${coach.links.instagram}`} title="Instagram" target="_blank" rel="noopener noreferrer" ><span className="hidden">@{coach.links.instagram}</span></a> }
