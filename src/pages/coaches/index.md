@@ -219,7 +219,7 @@ coachList:
       Constellation, a global not-for-profit organization aiming to make
       HIV/AIDS and Malaria history.
     coachName: Alexander Osterwalder
-    jobTitle: Co-founder of Strategyzer
+    jobTitle: Co-Founder of Strategyzer
     links:
       facebook: osterwalder
       twitter: AlexOsterwalder
@@ -515,6 +515,12 @@ coachList:
       - Thinker
   - bio: "Antonio Nieto-Rodriguez (antonionietorodriguez.com) is the world’s leading champion of Project Management and Strategy Implementation. He is the creator of concepts such as the “Hierarchy of Purpose” featured by Harvard Business Review, or the Project Manifesto; which argues that Projects are the lingua franca of the business and personal worlds from the C-suite to managing your career or relationships.\r\n\nAntonio’s research and global impact in modern management have been recognized by Thinkers50 with the prestigious award “Ideas into Practice“.\r\n\n\rA pioneer and leading authority in teaching strategy execution and project management to senior executives at top Business Schools; currently visiting professor at Duke CE, Instituto de Empresa, Solvay, Vlerick, Ecole des Ponts and Skolkovo.\r\n\n\rAuthor of the best-selling book “The Focused Organization” and a regular writer in several business magazines such as Harvard Business Review, Dialogue, Rotman Magazine, Singapore Institute of Management, CIO.com.\r\n\n\rHe is a much in-demand speaker at events worldwide, Antonio has presented at more than 160 conferences over the past 15 years, regularly evaluated as the best speaker. European Business Summit, Gartner Summit, TEDx, and EU Cohesion Policy Conference with EU President Donald Tusk; are some of the events he has delivered inspirational speeches.\r\n\n\rAntonio is Director of the Program Management Office at GlaxoSmithKline Vaccines and past Board Chairman of the Project Management Institute, the largest non-profit in the area of project management, with more than 800.000 worldwide.\r\n\n\rPreviously he worked as Head of Project Portfolio Management at BNP Paribas Fortis. Prior he was Head of Post-Merger Integration at Fortis Bank, leading the largest takeover in financial service history: the acquisition of ABN AMRO. He also worked for ten years at PricewaterhouseCoopers, becoming the global lead practitioner for project and change management.\r\n\n\rBorn in Madrid, Spain, and educated in Germany, Mexico, Italy and the United States, Antonio is an Economists; has an MBA from London Business School; and Insead’s International Director Program. He is fluent in five languages.\r\n\n\rantonionietorodriguez.com"
     coachName: Antonio Nieto-Rodriguez
+    jobTitle: World Champion Projects and Project Management
+    links:
+      facebook: antonio.nieto.5439
+      linkedin: antonionietorodriguez
+      twitter: ANietoRodriguez
+      website: www.antonionietorodriguez.com
     photo: /uploads/antonio-nieto-rodriguez.jpg
     tags:
       - Author
