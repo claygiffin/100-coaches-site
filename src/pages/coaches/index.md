@@ -927,6 +927,8 @@ coachList:
       - Iconic Leader
   - bio: "Gabriela Teasdale is the President at Fundación Transformación PY. Transformation Paraguay is a non profit organization that works with The John Maxwell leadership foundation in a national project in Paraguay. The objective of this social initiative is to train 10% of the population in values and leadership principles. We do the training in the seven strengths of a country, government, business, education, culture, media, religion and family. The slogan of the project is “transformation is in me” because we believe that if you can transform yourself you can transform your country.\r\n\n\rGabriela also serves as the CEO of Paraguay Leadership Team. As owner and director of Paraguay Leadership Team, a professional Training, Coaching & Communication business in Paraguay, Gabriela works with The John Maxwell Team and Equip Leadership Inc. She represents JMT and Equip Leadership in Paraguay, and provides professional development and leadership training."
     coachName: Gabriela Teasdale
+    links:
+      linkedin: gabriela-teasdale-63056950
     photo: /uploads/Gabriela-Teasdale.jpg
     tags:
       - Executive Coach
