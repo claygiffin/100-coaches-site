@@ -455,7 +455,11 @@ coachList:
 
       > _—David Allen, author of Getting Things Done_
     coachName: Michael Bungay Stanier
-    jobTitle: Senior Partner at Box of Crayons
+    jobTitle: 'Founder of Box of Crayons, Author of The Coaching Habit'
+    links:
+      linkedin: michaelbungaystanier
+      twitter: boxofcrayons.com
+      website: boxofcrayons.com/blog/
     photo: /uploads/Michael Bungay Stanier.jpg
     tags:
       - Author
@@ -749,8 +753,8 @@ coachList:
   - bio: "David Burkus is a best-selling author, a sought after speaker, and business school professor. In 2017, he was named as one of the world’s top business thought leaders by Thinkes50\r\n\n\rHis forthcoming book, Friend of a Friend, offers readers a new perspective on how to grow their networks and build key connections—one based on the science of human behavior, not rote networking advice. He is also the author of Under New Management and The Myths of Creativity. David is a regular contributor to Harvard Business Review and his work has been featured in Fast Company, the Financial Times, Inc magazine, Bloomberg BusinessWeek, and CBS This Morning.\r\n\n\rDavid’s innovative views on leadership have earned him invitations to speak to leaders from a variety of organizations. He’s delivered keynote speeches and workshops for Fortune 500 companies such as Microsoft, Google, and Stryker and governmental and military leaders at the U.S. Naval Academy and Naval Postgraduate School. His TED talk has been viewed over 1.5 million times.\r\n\n\rWhen he’s not speaking or writing, David is in the classroom. He is associate professor of leadership and innovation at Oral Roberts University where he was recently named one of the nation’s “Top 40 Under 40 Professors Who Inspire.”\r\n\n\rDavid lives outside of Tulsa with his wife and their two boys."
     coachName: David Burkus
     links:
-      facebook: drdavidburkus/
-      linkedin: davidburkus/
+      facebook: drdavidburkus
+      linkedin: davidburkus
       twitter: davidburkus
       website: davidburkus.com
     photo: /uploads/david-burkus.jpg
@@ -857,6 +861,9 @@ coachList:
       - Executive Coach
   - bio: "Dorie Clark is a marketing strategy consultant, professional speaker, and frequent contributor to the Harvard Business Review and Entrepreneur magazine. She is the author of Entrepreneurial You from Harvard Business Review Press. Her previous books include Reinventing You and Stand Out, which was named the #1 Leadership Book of 2015 by Inc. magazine, one of the Top 10 Business Books of the Year by Forbes, and was a Washington Post bestseller.\r\n\n\rThe New York Times has described her as an “expert at self-reinvention and helping others make changes in their lives,” and she has been recognized as a “branding expert” by the Associated Press, Inc., and Fortune magazine.\r\n\n\rShe consults and speaks for a diverse range of clients, including Google, the World Bank, the Bill and Melinda Gates Foundation, the Ford Foundation, Yale University, the Mount Sinai Medical Center, and the U.S. National Park Service.\r\n\n\rClark, a former presidential campaign spokeswoman, is an adjunct professor of business administration at Duke University’s Fuqua School of Business. She has taught marketing and communications at Tufts University, Suffolk University, Emerson College, HEC-Paris, IE Business School in Madrid, Babson College, the University of North Carolina’s Kenan-Flagler School of Business, Smith College Executive Education, and Nazarbayev University in Kazakhstan. She was named one of Inc. magazine’s “100 Great Leadership Speakers for Your Next Conference,” and recognized in Forbes as one of “25 Professional Networking Experts to Watch in 2015.” \r\n\n\rShe has guest lectured at universities including Harvard Business School, the Harvard Kennedy School, Stanford University’s Graduate School of Business, the University of Pennsylvania’s Wharton School, the MIT Sloan School of Management, the University of California-Berkeley’s Haas School of Business, Georgetown, NYU, and the University of Michigan. Her work has been published in The Harvard Business Review Guide to Getting the Right Job, The Harvard Business Review Guide to Networking, The Harvard Business Review Guide to Office Politics, and The Harvard Business Review Guide to Dealing with Conflict. She is quoted frequently in the worldwide media, including NPR, the BBC, and MSNBC.\r\n\n\rA former New England Press Association award-winning journalist, Clark is the director of the environmental documentary film The Work of 1000. At age 14, Clark entered Mary Baldwin College’s Program for the Exceptionally Gifted. At 18, she graduated Phi Beta Kappa from Smith College, and two years later received a Master of Theological Studies from Harvard Divinity School. She is also a producer of a multiple Grammy-winning jazz album. You can learn more at dorieclark.com and download her free 42-page Stand Out Self-Assessment Workbook."
     coachName: Dorie Clark
+    jobTitle: >-
+      Keynote Speaker, Marketing Strategy Consultant, and Adjunct Professor,
+      Duke University Fuqua School of Business
     photo: /uploads/dorie-clark.jpg
     tags:
       - Author
@@ -886,6 +893,14 @@ coachList:
       - Corporate Executive
   - bio: "Erica Dhawan is the world’s leading authority on Connectional Intelligence and the Founder & CEO of Cotential.\r\n\n\rThrough speaking, training and consulting, she teaches business leaders innovative strategies that increase value for clients, deliver results and ensure competitiveness. \r\n\n\rShe is the co-author of the bestselling book Get Big Things Done: The Power of Connectional Intelligence. Erica was named by Thinkers50 as “The Oprah of Management Ideas” and featured as one of the emerging management thinkers most likely to shape the future of business. She hosts the award winning podcast Masters of Leadership.\r\n\n\rErica speaks on global stages ranging from the World Economic Forum at Davos to companies such as Fedex, Pepsico, and McGraw Hill Financial. Erica writes for Harvard Business Review, Forbes, Fast Company and the Huffington Post.\r\n\n\rErica also serves as a board member to Lufthansa Innovation Hub. Previously, she worked at Lehman Brothers and Barclays Capital. She has a MPA from Harvard University, a MBA from MIT Sloan, and a BS in Economics from The Wharton School. Learn more at ericadhawan.com and cotentialgroup.com"
     coachName: Erica Dhawan
+    jobTitle: >-
+      World's Foremost Expert on Connectional Intelligence, Keynote Speaker and
+      Author of Get Big Things Done
+    links:
+      facebook: ericadhawan
+      linkedin: ericadhawan
+      twitter: edhawan
+      website: ericadhawan.com/blog
     photo: /uploads/erica_dhawan.jpg
     tags:
       - Author
@@ -904,6 +919,7 @@ coachList:
       - Corporate Executive
   - bio: "Fiona is a social entrepreneur, educator and field builder committed to helping people achieve their potential. She works at the intersection of innovation, leadership and global development.\r\n\n\rFiona is the Founder of WILD (Women Innovators and Leaders Development Institute) that support successful women to be even more successful through target courses and leadership coaching. She's the convener of the nationally recognized Forum to Advance Women's Leadership in Global Development (taking place May 14, 2019 in Washington DC www.theWILDNetwork.org/2019Forum).\r\n\n\rFiona is part of the less than 1% of U.S. female business owners to scale her business to multi-million annual revenues (all while maintaining a double bottom-line!). A seasoned social innovator, Fiona scaled, a for-profit social enterprise dedicated to economic growth that did business across 100+ countries. She also founded the leading global platform that disseminates evidence-based scalable solutions to increase youth employment, entrepreneurship and financial inclusion. A recognized entrepreneurship/employment subject matter expert, Fiona has 20 years of experience working with clients that include: World Bank, JP Morgan, MasterCard Foundation, Rockefeller Foundation, Microsoft, USAID, Citi, Plan. In the academic world, Fiona serves as an Entrepreneur-in-Residence at Georgetown University's McDonough School of Business where she teaches, mentors and coaches students and faculty across the campus. She's also a Senior Fellow at Georgetown University's Beeck Center for Social Innovation + Impact. Follow her on twitter: @F_Macaulay and connect via www.Linkedin.com/in/FionaMacaulay"
     coachName: Fiona Macaulay
+    jobTitle: 'Founder, WILD Institute (Women Innovators and Leaders)'
     photo: /uploads/fiona-macaulay.jpg
     tags:
       - Entrepreneur
@@ -922,12 +938,18 @@ coachList:
       - Iconic Leader
   - bio: "Gabriela Teasdale is the President at Fundación Transformación PY. Transformation Paraguay is a non profit organization that works with The John Maxwell leadership foundation in a national project in Paraguay. The objective of this social initiative is to train 10% of the population in values and leadership principles. We do the training in the seven strengths of a country, government, business, education, culture, media, religion and family. The slogan of the project is “transformation is in me” because we believe that if you can transform yourself you can transform your country.\r\n\n\rGabriela also serves as the CEO of Paraguay Leadership Team. As owner and director of Paraguay Leadership Team, a professional Training, Coaching & Communication business in Paraguay, Gabriela works with The John Maxwell Team and Equip Leadership Inc. She represents JMT and Equip Leadership in Paraguay, and provides professional development and leadership training."
     coachName: Gabriela Teasdale
+    links:
+      linkedin: gabriela-teasdale-63056950
     photo: /uploads/Gabriela-Teasdale.jpg
     tags:
       - Executive Coach
       - Non-Profit
   - bio: "Marshall Goldsmith Certified Coach, Leader, author, mentor, coach.\r\n\n\rGarry Ridge joined WD-40 Company in 1987 and held various leadership positions their before being appointed CEO in 1997. He is also an adjunct professor at the University of San Diego where he teaches leadership development, talent management & succession planning. He believes that in the long term, values are arguably the most important aspect of working at WD-40 Company. In 2009, he co-authored a book with Ken Blanchard titled “Helping People Win at Work: A Business Philosophy called “Don’t Mark My Paper, Help Me Get an A.”\r\n\n\rA native of Sydney, Mr. Ridge holds a certificate in Modern Retailing and wholesale distribution and a Master of Science in Executive Leadership from the University of San Diego.\r\n\n\rWebsite – www.thelearningmoment.net"
     coachName: Garry Ridge
+    links:
+      linkedin: garryridge
+      twitter: learningmoment
+      website: thelearningmoment.net/blogs/
     photo: /uploads/Garry-Ridge.jpg
     tags:
       - Author
@@ -968,7 +990,91 @@ coachList:
     tags:
       - Corporate Executive
       - Executive Coach
-  - bio: "Himanshu is the Founder & CEO of Center of Strategic Mindset (COSM ™), a Thought Leadership and Consulting organization, focused on advising boards on Strategy, People and Risk. He is a C-Suite Executive Coach who works with Promoters, Boards, CXOs and top leaders in the disciplines of managing strategy, driving execution; implementing Balanced Scorecard and developing top leadership. In the past, he has been the Advisor and Coach in Residence with two leading Pharma businesses. He is currently consulting a Big 4, a large Indian Global conglomerate, a leading financial company, a chemical company, a logistics company and many more. Prior to COSM, he headed Strategy Alignment, Balanced Scorecard and Leadership Development at Tata Consultancy Services (TCS). He instituted an integral coaching model based on Eastern & Western Philosophy.  At TCS, he was responsible for making Strategy Everyone’s Job, strengthening organic Leadership and driving culture of coaching. He successfully implemented Balanced Scorecard and won TCS the Balanced Scorecard Hall of Fame Award, for strategy execution. He was also recognized as BSC Professional of the year 2012 by Dr. Robert Kaplan & David Norton. Himanshu was also appointed as the Business Coach for ‘Industry Vertical Heads’ for a Global Innovation Program under Prof Vijay Govindarajan, Tuck School of Business. Himanshu’s three most significant organizational pursuits included expanding the ‘Imagination of the Organization’ developing ‘Strategic Thinking’ among Top Leaders’ and enabling ‘Big Picture Envisioning’. Himanshu excels in Scenario Planning, War Gaming and Art of Questioning for future creation. He operates at the intersection of strategy, leadership & coaching, a rare differentiator. He has excellent mindshare with leading management thinkers such as Gary Hamel, Vijay Govindarajan, Marshall Goldsmith, Roger Martin and Joel barker and has co-authored blogs and articles with some of them. With more than 3000 coaching hours with senior leaders, he is a sought-after coach and key-note speaker. He has coached a large number of top leaders, CEOs & MDs of different organizations, globally. \r\n\n\rHimanshu has driven multiple and significantly-complex transformation initiatives leading to customer experience. As a change architect, he has the knack of ascertaining the hidden intricacies pertaining to people, processes and systems that impacts the productivity as well as operational excellence. Prior to TCS, Himanshu founded Mavrik Consulting focused on Strategy, Leadership Development & Leading Change. The journey of entrepreneurship was preceded by significant tenures in United Nations International Staff (Chief People Officer in UN, Africa), Armed Forces and a short stint as a Geologist, at the beginning of his career. In his 29 years of journey, he has held significant leadership assignments in Strategy, Operations and Leadership Development. He holds Masters in Strategy, Geology and is an MBA in International Business from IIFT, Delhi. His accreditations include: –\r\n\n* \rDesign Thinking from HPI (Hasso Plattner Institute), Potsdam Germany\r\n* Certified Independent Director from Directors Club\r\n* Certified C-Suite Executive Coach\r\n* Global Innovation Leadership & Leadership and Strategic Impact, Tuck Business School\r\n* Developing Global Business Strategy, Wharton Leadership Program\r\n* Blue Ocean Strategy, Blue Ocean Institute, Insead\r\n* Balanced Scorecard, Palladium (Kaplan – Norton)\r\n* Leadership Architect & Hi-Pot Master Class from Lominger, Korn/Ferry International\r\n* Crucial Conversation, Vital Smarts\r\n\nHe is a constant learner, practice-leader & a prolific speaker on Strategy, Leadership, Innovation; Paradigms; Organizational Immunity and Leading Change. He is a regular speaker at GE-Tuck Leadership Roundtable at Crotonville, Bloomberg; GE Digital Learning Summit and many other global summits. He also advises Ivey League institutions on curriculums for Executive Education, based on his industry insights. He regularly writes in leading journals & portals, delivers key note address in global forums and teaches as a visiting faculty in leading B-Schools.  Himanshu is now committed to replicate above success in organizations seeking aspirational growth; scale-expansion and reinvention and/or the ones that are struggling with issues that are hampering it."
+  - bio: >-
+      Himanshu is the Founder & CEO of Center of Strategic Mindset (COSM ™), a
+      Thought Leadership and Consulting organization, focused on advising boards
+      on Strategy, People and Risk. He is a C-Suite Executive Coach who works
+      with Promoters, Boards, CXOs and top leaders in the disciplines of
+      managing strategy, driving execution; implementing Balanced Scorecard and
+      developing top leadership. In the past, he has been the Advisor and Coach
+      in Residence with two leading Pharma businesses. He is currently
+      consulting a Big 4, a large Indian Global conglomerate, a leading
+      financial company, a chemical company, a logistics company and many more.
+      Prior to COSM, he headed Strategy Alignment, Balanced Scorecard and
+      Leadership Development at Tata Consultancy Services (TCS). He instituted
+      an integral coaching model based on Eastern & Western Philosophy.  At TCS,
+      he was responsible for making Strategy Everyone’s Job, strengthening
+      organic Leadership and driving culture of coaching. He successfully
+      implemented Balanced Scorecard and won TCS the Balanced Scorecard Hall of
+      Fame Award, for strategy execution. He was also recognized as BSC
+      Professional of the year 2012 by Dr. Robert Kaplan & David Norton.
+      Himanshu was also appointed as the Business Coach for ‘Industry Vertical
+      Heads’ for a Global Innovation Program under Prof Vijay Govindarajan, Tuck
+      School of Business. Himanshu’s three most significant organizational
+      pursuits included expanding the ‘Imagination of the Organization’
+      developing ‘Strategic Thinking’ among Top Leaders’ and enabling ‘Big
+      Picture Envisioning’. Himanshu excels in Scenario Planning, War Gaming and
+      Art of Questioning for future creation. He operates at the intersection of
+      strategy, leadership & coaching, a rare differentiator. He has excellent
+      mindshare with leading management thinkers such as Gary Hamel, Vijay
+      Govindarajan, Marshall Goldsmith, Roger Martin and Joel barker and has
+      co-authored blogs and articles with some of them. With more than 3000
+      coaching hours with senior leaders, he is a sought-after coach and
+      key-note speaker. He has coached a large number of top leaders, CEOs & MDs
+      of different organizations, globally. 
+
+
+      Himanshu has driven multiple and significantly-complex transformation
+      initiatives leading to customer experience. As a change architect, he has
+      the knack of ascertaining the hidden intricacies pertaining to people,
+      processes and systems that impacts the productivity as well as operational
+      excellence. Prior to TCS, Himanshu founded Mavrik Consulting focused on
+      Strategy, Leadership Development & Leading Change. The journey of
+      entrepreneurship was preceded by significant tenures in United Nations
+      International Staff (Chief People Officer in UN, Africa), Armed Forces and
+      a short stint as a Geologist, at the beginning of his career. In his 29
+      years of journey, he has held significant leadership assignments in
+      Strategy, Operations and Leadership Development. He holds Masters in
+      Strategy, Geology and is an MBA in International Business from IIFT,
+      Delhi. His accreditations include: –
+
+
+      * 
+
+
+      Design Thinking from HPI (Hasso Plattner Institute), Potsdam Germany
+
+
+      * Certified Independent Director from Directors Club
+
+      * Certified C-Suite Executive Coach
+
+      * Global Innovation Leadership & Leadership and Strategic Impact, Tuck
+      Business School
+
+      * Developing Global Business Strategy, Wharton Leadership Program
+
+      * Blue Ocean Strategy, Blue Ocean Institute, Insead
+
+      * Balanced Scorecard, Palladium (Kaplan – Norton)
+
+      * Leadership Architect & Hi-Pot Master Class from Lominger, Korn/Ferry
+      International
+
+      * Crucial Conversation, Vital Smarts
+
+
+      He is a constant learner, practice-leader & a prolific speaker on
+      Strategy, Leadership, Innovation; Paradigms; Organizational Immunity and
+      Leading Change. He is a regular speaker at GE-Tuck Leadership Roundtable
+      at Crotonville, Bloomberg; GE Digital Learning Summit and many other
+      global summits. He also advises Ivey League institutions on curriculums
+      for Executive Education, based on his industry insights. He regularly
+      writes in leading journals & portals, delivers key note address in global
+      forums and teaches as a visiting faculty in leading B-Schools.  Himanshu
+      is now committed to replicate above success in organizations seeking
+      aspirational growth; scale-expansion and reinvention and/or the ones that
+      are struggling with issues that are hampering it.
     coachName: Himanshu Saxena
     photo: /uploads/Himanshu Photo I.jpg
     tags:
@@ -1038,6 +1144,8 @@ coachList:
       - Non-Profit
   - bio: "Judith E. Glaser is an Organizational Anthropologist. She is one of the most pioneering and innovative change agents, consultants and executive coaches, in the consulting and coaching industry and is the world’s leading authority on Conversational Intelligence®, WE-centric Leadership, and Neuro-Innovation, and is a best-selling author of 7 business books including her newest best seller – Conversational Intelligence: How Great Leaders Build Trust and Get Extraordinary Results. Through the application of ‘the Neuroscience of WE®, to business challenges, Judith shows CEOs and their teams how to elevate levels of engagement, collaboration and innovation to positively impact the bottom line.\r\n\n\rJudith is the founder and CEO of Benchmark Communications, Inc., and the Chairman of The Creating WE Institute with over thirty five years of business experience working with CEOs and their teams in establishing WE-centric cultures poised to strategically handle business challenges in the face of moving targets. Her transformational approaches using neuroscience and anthropology enable leaders to raise their Conversational Intelligence® and build agile and higher performing individuals and teams poised to impact the bottom line and top line results in their organizations.\r\n\n\rShe has appeared on CBS Morning News with Charlie Rose & Gayle King, NBC’s Today Show, ABC World News, The Fox News Channel, The Martha Stewart Show and the Family Network talking about We-Centric Leadership and Cultural Transformation.\r\n\n\rShe is frequently quoted on her revolutionary workplace approaches in the New York Times, The Wall Street Journal, Crain’s, Harvard Business Review, The Huffington Post, Entrepreneur Magazine, AMA World, etc. and is a contributing Editor for Executive Excellence Magazine. Judith was awarded Woman of the Year in NYC in 2006; she was inducted into the Temple University Gallery of Success in 2006, and the Drexel University Distinguished Alumni Award in 2011. In 2016 Judith was selected by Ben Croft, CEO of WBECS, to launch Conversational Intelligence® for Coaches globally."
     coachName: Judith E. Glaser
+    links:
+      twitter: creatingwe
     photo: /uploads/Judith glaser.jpg
     tags:
       - Author
@@ -1104,6 +1212,15 @@ coachList:
       - Thinker
   - bio: "Louis Carter is an organization psychologist and one of the top advisors to C-level executives of major companies such as Kimberly Clark, Federal Reserve Bank of NY, Saudi Aramco, Duke Energy, Humana, Shire, Jazz Pharmaceuticals, Key Bank, QBE, Cigna, Nokia, AbbVie, J&J, WestRock, Gilead Sciences, Battelle, Madison Square Gar- den, CIT, Goodyear, and many more helping them transform themselves and their organizations into an environment where employees love and want to produce the best results for their company.\r\n\n\rHe is the author of over 10 books on best practices in leadership development and talent management including Change Champion’s Field Guide, Best Practices in Leadership Development and Organization Change and Best Practices in Talent Management. He is a proud member of the MG 100 Coaches project chosen from over 12,000 coaches by his longtime men- tor Marshall Goldsmith. Louis is the recipient of ELearning! Magazine’s Trailblazer Award, HR Tech Conference’s Top Products Award, and Leader- ship Excellence Magazine’s Best in Leadership Development for his work as found- er and CEO of Best Practice Institute and the creator of the rst anytime 360-degree feedback tool based on feed- forward and appreciative dialogue, skillrater.\r\n\n\rLouis Carter founded Best Practice Institute in 2001 while obtaining his graduate degree from Columbia University. He facilitated drum circles in New York City after 9-11 to help rebuild the community. He further developed this concept into the BPI Senior Executive Board, a bench- mark research consortium comprised of C-levels from F500s who want to transform themselves and their organizations through best practices in leadership and organization development.\r\n\n\rHis newest book, In Great Company: How to spark emotional connectedness and peak performance will be released at the end of 2018.\r\n\n\rHe has spoken to the Prime Minister of the UAE’s HR Lighthouse Initiative, Pentagon and UN officials, and various international conferences on his work and research. He has been a drummer for over 5 bands throughout the past 30 years and volunteers to drum for community drum circles and children’s centers."
     coachName: Louis Carter
+    jobTitle: >-
+      CEO, Best Practice Institute, CEO executive coach, and author of over 10
+      books including his latest, In Great Company: how to spark peak
+      performance by creating an emotionally connected workplace.
+    links:
+      facebook: bestpracticeinstitute
+      linkedin: louiscarter
+      twitter: louislcarter
+      website: www.louiscarter.com
     photo: /uploads/louis-carter.jpg
     tags:
       - Author
@@ -1190,6 +1307,9 @@ coachList:
       - Speaker
   - bio: "Paul Sean Hill spent 25 years in NASA’s iconic Mission Control, learning and living the values he now evangelizes.  After a career leading human spaceflight operations – from the Mission Control Room to the executive level – he offers a candid and passionate insider’s look at the leadership values and culture that have been critical for their “impossible” wins for decades. \r\n\n\rAs the executive who is credited with revolutionizing the leadership environment in Mission Control’s management ranks, he can show leaders how to apply the same core ideas and values to their own challenges and boost team performance in any industry and business. \r\n\n\rBeyond the rocket science and leadership theory, he shows how these deliberate values are the enablers in solving “impossible” problems at all levels.  Through his book Leadership from the Mission Control Room to the Boardroom, leadership workshops, and keynote addresses, anyone can learn how Mission Control does it, and more importantly, how to enable a leadership environment that inherently strengthens team performance in in your own organization.  Paul has inspired leaders across many industries, including:  Shell, Texas A&M University, Google, Citi Group, J.P. Morgan Chase, The Conference Board of Canada, and Texas Education Service Center Regions 15 and 18. \r\n\n\rAs NASA’s Director of Mission Operations from 2007 through 2014, Paul was responsible for all aspects of human spaceflight mission planning, training, and Mission Control.  In this role, Paul led a critical leadership transformation, dramatically reduced costs, and increased capability, all while still conducting highly successful missions in space.\r\n\n\rBefore this, he held a number of senior leadership positions including Deputy Manager of the Extravehicular Activity Office, Manager of Shuttle Operations, and Deputy Director of Mission Operations.  Paul served as a Space Shuttle and International Space Station Flight Director leading flight preparation and execution from Mission Control for 24 missions from 1996 through 2005, with his final assignment as the Lead Flight Director for the return-to-flight after the Space Shuttle Columbia accident. Prior to NASA, he was a U.S. Air Force Captain and satellite operations officer.\rHis professional awards include the Presidential Rank Award of Meritorious Executive, two NASA Outstanding Leadership Medals, NASA Distinguished Service Medal, NASA Exceptional Service Medal, Rotary National Award for Space Achievement – Stellar Award, and recognition as an Outstanding Aerospace Engineer by the Aerospace Alumni Academy of Texas A&M University.\r\n\n\rPaul is a member of the Texas A&M University Aerospace Engineering Advisory Board and the Texas A&M University – Galveston Board of Visitors.  He is also a member of Marshall Goldsmith’s 100 Coaches.\r\n\n\rPaul holds Bachelor and Master of Science degrees in Aerospace Engineering from Texas A&M University where he was a member of the Corps of Cadets. He lives in League City, Texas where he and his wife raised two extraordinary, Texas Aggie daughters.\r\n\n\rFind Paul and Atlas Executive Consulting at:\r\n\n\rpshill@AtlasExec.com     AtlasExec.com\r\n\n\rLinkedin.com/in/PaulHillLeadership/     Facebook.com/MissionControlLeadership"
     coachName: Paul Hill
+    links:
+      facebook: MissionControlLeadership
+      linkedin: paulhillleadership
     photo: /uploads/Paul-sean-hill.jpg
     tags:
       - Author
@@ -1204,6 +1324,11 @@ coachList:
       - Speaker
   - bio: "PETER BREGMAN is the CEO of Bregman Partners, which helps people and organizations get massive traction on what they care about most. Peter has advised CEOs and senior leaders in many of the world’s premier organizations, including Allianz, American Express, Pearson, Brunswick Group, Goldman Sachs, Morgan Stanley, Deutsche Bank, JPMorgan Chase, FEI, GE Capital, Merck, Clear Channel, Nike, UNICEF, and many others.\r\n\n\rHe is the host of the Bregman Leadership Podcast, short conversations with thought leaders focused on ideas that people can use to become more powerful and courageous leaders, and the author of three books:\r\n\n\rFour Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work, a New York Post top pick for your career in 2015.\r\n\nThe Wall Street Journal bestseller 18 Minutes: Find Your Focus, Master Distraction, and Getthe Right Things Done, winner of the Gold medal from the Axiom Business Book awards, named the best business book of the year on NPR, and selected by Publisher’s Weekly and the New York Post as a top 10 business book. \r\n\nPoint B: A Short Guide to Leading a Big Change.\r\n\nPeter has also contributed to five other books. Featured on PBS, ABC and CNN, Peter is a regular contributor to Harvard Business Review, Psychology Today, and Forbes, and his articles and commentary have appeared frequently in Bloomberg BusinessWeek, Fast Company, The Financial Times, CNN, NPR, and FOX Business News.\r\n\n\rPeter earned his B.A. from Princeton University and his M.B.A. from Columbia University. He can be reached at pbregman@bregmanpartners.com."
     coachName: Peter Bregman
+    links:
+      facebook: PeterBregmanAdvisor/
+      linkedin: peterbregman
+      twitter: peterbregman
+      website: bregmanpartners.com/articles/
     photo: /uploads/peter-bregman.jpg
     tags:
       - Author
@@ -1229,6 +1354,8 @@ coachList:
       - Corporate Executive
   - bio: "Prakash is currently in Executive Development at LinkedIn, where he brings practical tools that leaders can use daily to help recognize and achieve their potential. He coaches, facilitates, and conducts workshops focused on leading through values, connection and the shared human experience.\r\n\n\rPrakash’s experience and background prior to LinkedIn enables him to take a unique, and actionable approach to developing leaders. From beginning his career on Wall Street, to globally scaling a non-profit, to managing the P&L for the Oreo Cookie brand, Prakash has successfully worked through key business problems, providing a business-rooted perspective when working with leaders.  Prakash graduated with honors from Rice University while playing Division 1 tennis, and holds an MBA from the Kellogg School of Management."
     coachName: Prakash Raman
+    links:
+      linkedin: prakash-raman
     photo: /uploads/Prakash-Raman.jpg
     tags:
       - Entrepreneur
@@ -1294,6 +1421,7 @@ coachList:
       Dr. Pritchett is a past-president of the Dallas Psychological Association.
       Currently he serves on the board of directors for the Park Cities
       Historical and Preservation Society.
+    coachName: 'Price Pritchett '
     photo: /uploads/Price-Pritchett.jpg
     tags:
       - Author
@@ -1435,6 +1563,11 @@ coachList:
       - Thinker
   - bio: "Tasha Eurich is an organizational psychologist, researcher, and New York Times best-selling author. As Principal of the Eurich Group, she has built a reputation as a fresh, modern voice in the business world by pairing her scientific grounding in human behavior with a practical approach to improvement. Over her 15-plus-year career, she’s helped thousands of professionals—from Fortune 500 executives to early stage entrepreneurs—improve their self-awareness and success.\r\n\n\rWith a PhD in Industrial-Organizational Psychology and BAs in Theater and Psychology, Dr. Eurich has contributed to The Guardian, Entrepreneur, The Huffington Post, TED.com and CNBC.com, and has been featured in outlets like Business Insider, Fortune, Forbes, The New York Times, Fast Company, and New York Magazine. She has been named a “Top 100 Thought Leader” by Trust Across America, a “Leader to Watch” by the American Management Association, and one of Denver Business Journal’s “40 Under 40.” Her TEDxMileHigh talk has been viewed more than one million times.\r\n\n\rDr. Eurich’s first book, Bankable Leadership, debuted on the New York Times best-seller list. Her latest book, INSIGHT, delves into the connection between our self-awareness—what she calls the meta-skill of the twenty-first century—and performance and success, both in and out of the workplace. Hailed as a “bold, exhilarating take on self-improvement” by Success Magazine and a “fascinating read” by The Guardian, INSIGHT was recently named an Editor’s Choice by 800-CEO-READ."
     coachName: Tasha Eurich
+    links:
+      facebook: TashaEurich
+      linkedin: tashaeurich
+      twitter: tashaeurich
+      website: www.psychologytoday.com/us/experts/tasha-eurich-phd
     photo: /uploads/tasha-eurich.jpg
     tags:
       - Author
