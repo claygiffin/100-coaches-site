@@ -1212,6 +1212,9 @@ coachList:
       - Speaker
   - bio: "Paul Sean Hill spent 25 years in NASA’s iconic Mission Control, learning and living the values he now evangelizes.  After a career leading human spaceflight operations – from the Mission Control Room to the executive level – he offers a candid and passionate insider’s look at the leadership values and culture that have been critical for their “impossible” wins for decades. \r\n\n\rAs the executive who is credited with revolutionizing the leadership environment in Mission Control’s management ranks, he can show leaders how to apply the same core ideas and values to their own challenges and boost team performance in any industry and business. \r\n\n\rBeyond the rocket science and leadership theory, he shows how these deliberate values are the enablers in solving “impossible” problems at all levels.  Through his book Leadership from the Mission Control Room to the Boardroom, leadership workshops, and keynote addresses, anyone can learn how Mission Control does it, and more importantly, how to enable a leadership environment that inherently strengthens team performance in in your own organization.  Paul has inspired leaders across many industries, including:  Shell, Texas A&M University, Google, Citi Group, J.P. Morgan Chase, The Conference Board of Canada, and Texas Education Service Center Regions 15 and 18. \r\n\n\rAs NASA’s Director of Mission Operations from 2007 through 2014, Paul was responsible for all aspects of human spaceflight mission planning, training, and Mission Control.  In this role, Paul led a critical leadership transformation, dramatically reduced costs, and increased capability, all while still conducting highly successful missions in space.\r\n\n\rBefore this, he held a number of senior leadership positions including Deputy Manager of the Extravehicular Activity Office, Manager of Shuttle Operations, and Deputy Director of Mission Operations.  Paul served as a Space Shuttle and International Space Station Flight Director leading flight preparation and execution from Mission Control for 24 missions from 1996 through 2005, with his final assignment as the Lead Flight Director for the return-to-flight after the Space Shuttle Columbia accident. Prior to NASA, he was a U.S. Air Force Captain and satellite operations officer.\rHis professional awards include the Presidential Rank Award of Meritorious Executive, two NASA Outstanding Leadership Medals, NASA Distinguished Service Medal, NASA Exceptional Service Medal, Rotary National Award for Space Achievement – Stellar Award, and recognition as an Outstanding Aerospace Engineer by the Aerospace Alumni Academy of Texas A&M University.\r\n\n\rPaul is a member of the Texas A&M University Aerospace Engineering Advisory Board and the Texas A&M University – Galveston Board of Visitors.  He is also a member of Marshall Goldsmith’s 100 Coaches.\r\n\n\rPaul holds Bachelor and Master of Science degrees in Aerospace Engineering from Texas A&M University where he was a member of the Corps of Cadets. He lives in League City, Texas where he and his wife raised two extraordinary, Texas Aggie daughters.\r\n\n\rFind Paul and Atlas Executive Consulting at:\r\n\n\rpshill@AtlasExec.com     AtlasExec.com\r\n\n\rLinkedin.com/in/PaulHillLeadership/     Facebook.com/MissionControlLeadership"
     coachName: Paul Hill
+    links:
+      facebook: MissionControlLeadership
+      linkedin: paulhillleadership
     photo: /uploads/Paul-sean-hill.jpg
     tags:
       - Author
@@ -1226,6 +1229,11 @@ coachList:
       - Speaker
   - bio: "PETER BREGMAN is the CEO of Bregman Partners, which helps people and organizations get massive traction on what they care about most. Peter has advised CEOs and senior leaders in many of the world’s premier organizations, including Allianz, American Express, Pearson, Brunswick Group, Goldman Sachs, Morgan Stanley, Deutsche Bank, JPMorgan Chase, FEI, GE Capital, Merck, Clear Channel, Nike, UNICEF, and many others.\r\n\n\rHe is the host of the Bregman Leadership Podcast, short conversations with thought leaders focused on ideas that people can use to become more powerful and courageous leaders, and the author of three books:\r\n\n\rFour Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work, a New York Post top pick for your career in 2015.\r\n\nThe Wall Street Journal bestseller 18 Minutes: Find Your Focus, Master Distraction, and Getthe Right Things Done, winner of the Gold medal from the Axiom Business Book awards, named the best business book of the year on NPR, and selected by Publisher’s Weekly and the New York Post as a top 10 business book. \r\n\nPoint B: A Short Guide to Leading a Big Change.\r\n\nPeter has also contributed to five other books. Featured on PBS, ABC and CNN, Peter is a regular contributor to Harvard Business Review, Psychology Today, and Forbes, and his articles and commentary have appeared frequently in Bloomberg BusinessWeek, Fast Company, The Financial Times, CNN, NPR, and FOX Business News.\r\n\n\rPeter earned his B.A. from Princeton University and his M.B.A. from Columbia University. He can be reached at pbregman@bregmanpartners.com."
     coachName: Peter Bregman
+    links:
+      facebook: PeterBregmanAdvisor/
+      linkedin: peterbregman
+      twitter: peterbregman
+      website: bregmanpartners.com/articles/
     photo: /uploads/peter-bregman.jpg
     tags:
       - Author
@@ -1251,6 +1259,8 @@ coachList:
       - Corporate Executive
   - bio: "Prakash is currently in Executive Development at LinkedIn, where he brings practical tools that leaders can use daily to help recognize and achieve their potential. He coaches, facilitates, and conducts workshops focused on leading through values, connection and the shared human experience.\r\n\n\rPrakash’s experience and background prior to LinkedIn enables him to take a unique, and actionable approach to developing leaders. From beginning his career on Wall Street, to globally scaling a non-profit, to managing the P&L for the Oreo Cookie brand, Prakash has successfully worked through key business problems, providing a business-rooted perspective when working with leaders.  Prakash graduated with honors from Rice University while playing Division 1 tennis, and holds an MBA from the Kellogg School of Management."
     coachName: Prakash Raman
+    links:
+      linkedin: prakash-raman
     photo: /uploads/Prakash-Raman.jpg
     tags:
       - Entrepreneur
@@ -1457,6 +1467,11 @@ coachList:
       - Thinker
   - bio: "Tasha Eurich is an organizational psychologist, researcher, and New York Times best-selling author. As Principal of the Eurich Group, she has built a reputation as a fresh, modern voice in the business world by pairing her scientific grounding in human behavior with a practical approach to improvement. Over her 15-plus-year career, she’s helped thousands of professionals—from Fortune 500 executives to early stage entrepreneurs—improve their self-awareness and success.\r\n\n\rWith a PhD in Industrial-Organizational Psychology and BAs in Theater and Psychology, Dr. Eurich has contributed to The Guardian, Entrepreneur, The Huffington Post, TED.com and CNBC.com, and has been featured in outlets like Business Insider, Fortune, Forbes, The New York Times, Fast Company, and New York Magazine. She has been named a “Top 100 Thought Leader” by Trust Across America, a “Leader to Watch” by the American Management Association, and one of Denver Business Journal’s “40 Under 40.” Her TEDxMileHigh talk has been viewed more than one million times.\r\n\n\rDr. Eurich’s first book, Bankable Leadership, debuted on the New York Times best-seller list. Her latest book, INSIGHT, delves into the connection between our self-awareness—what she calls the meta-skill of the twenty-first century—and performance and success, both in and out of the workplace. Hailed as a “bold, exhilarating take on self-improvement” by Success Magazine and a “fascinating read” by The Guardian, INSIGHT was recently named an Editor’s Choice by 800-CEO-READ."
     coachName: Tasha Eurich
+    links:
+      facebook: TashaEurich
+      linkedin: tashaeurich
+      twitter: tashaeurich
+      website: www.psychologytoday.com/us/experts/tasha-eurich-phd
     photo: /uploads/tasha-eurich.jpg
     tags:
       - Author
