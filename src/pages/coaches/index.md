@@ -750,7 +750,7 @@ coachList:
     coachName: David Burkus
     links:
       facebook: drdavidburkus/
-      linkedin: davidburkus/
+      linkedin: davidburkus
       twitter: davidburkus
       website: davidburkus.com
     photo: /uploads/david-burkus.jpg
