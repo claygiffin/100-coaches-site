@@ -1334,6 +1334,7 @@ coachList:
       Dr. Pritchett is a past-president of the Dallas Psychological Association.
       Currently he serves on the board of directors for the Park Cities
       Historical and Preservation Society.
+    coachName: 'Price Pritchett '
     photo: /uploads/Price-Pritchett.jpg
     tags:
       - Author
