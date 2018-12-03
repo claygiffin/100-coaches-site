@@ -990,7 +990,91 @@ coachList:
     tags:
       - Corporate Executive
       - Executive Coach
-  - bio: "Himanshu is the Founder & CEO of Center of Strategic Mindset (COSM ™), a Thought Leadership and Consulting organization, focused on advising boards on Strategy, People and Risk. He is a C-Suite Executive Coach who works with Promoters, Boards, CXOs and top leaders in the disciplines of managing strategy, driving execution; implementing Balanced Scorecard and developing top leadership. In the past, he has been the Advisor and Coach in Residence with two leading Pharma businesses. He is currently consulting a Big 4, a large Indian Global conglomerate, a leading financial company, a chemical company, a logistics company and many more. Prior to COSM, he headed Strategy Alignment, Balanced Scorecard and Leadership Development at Tata Consultancy Services (TCS). He instituted an integral coaching model based on Eastern & Western Philosophy.  At TCS, he was responsible for making Strategy Everyone’s Job, strengthening organic Leadership and driving culture of coaching. He successfully implemented Balanced Scorecard and won TCS the Balanced Scorecard Hall of Fame Award, for strategy execution. He was also recognized as BSC Professional of the year 2012 by Dr. Robert Kaplan & David Norton. Himanshu was also appointed as the Business Coach for ‘Industry Vertical Heads’ for a Global Innovation Program under Prof Vijay Govindarajan, Tuck School of Business. Himanshu’s three most significant organizational pursuits included expanding the ‘Imagination of the Organization’ developing ‘Strategic Thinking’ among Top Leaders’ and enabling ‘Big Picture Envisioning’. Himanshu excels in Scenario Planning, War Gaming and Art of Questioning for future creation. He operates at the intersection of strategy, leadership & coaching, a rare differentiator. He has excellent mindshare with leading management thinkers such as Gary Hamel, Vijay Govindarajan, Marshall Goldsmith, Roger Martin and Joel barker and has co-authored blogs and articles with some of them. With more than 3000 coaching hours with senior leaders, he is a sought-after coach and key-note speaker. He has coached a large number of top leaders, CEOs & MDs of different organizations, globally. \r\n\n\rHimanshu has driven multiple and significantly-complex transformation initiatives leading to customer experience. As a change architect, he has the knack of ascertaining the hidden intricacies pertaining to people, processes and systems that impacts the productivity as well as operational excellence. Prior to TCS, Himanshu founded Mavrik Consulting focused on Strategy, Leadership Development & Leading Change. The journey of entrepreneurship was preceded by significant tenures in United Nations International Staff (Chief People Officer in UN, Africa), Armed Forces and a short stint as a Geologist, at the beginning of his career. In his 29 years of journey, he has held significant leadership assignments in Strategy, Operations and Leadership Development. He holds Masters in Strategy, Geology and is an MBA in International Business from IIFT, Delhi. His accreditations include: –\r\n\n* \rDesign Thinking from HPI (Hasso Plattner Institute), Potsdam Germany\r\n* Certified Independent Director from Directors Club\r\n* Certified C-Suite Executive Coach\r\n* Global Innovation Leadership & Leadership and Strategic Impact, Tuck Business School\r\n* Developing Global Business Strategy, Wharton Leadership Program\r\n* Blue Ocean Strategy, Blue Ocean Institute, Insead\r\n* Balanced Scorecard, Palladium (Kaplan – Norton)\r\n* Leadership Architect & Hi-Pot Master Class from Lominger, Korn/Ferry International\r\n* Crucial Conversation, Vital Smarts\r\n\nHe is a constant learner, practice-leader & a prolific speaker on Strategy, Leadership, Innovation; Paradigms; Organizational Immunity and Leading Change. He is a regular speaker at GE-Tuck Leadership Roundtable at Crotonville, Bloomberg; GE Digital Learning Summit and many other global summits. He also advises Ivey League institutions on curriculums for Executive Education, based on his industry insights. He regularly writes in leading journals & portals, delivers key note address in global forums and teaches as a visiting faculty in leading B-Schools.  Himanshu is now committed to replicate above success in organizations seeking aspirational growth; scale-expansion and reinvention and/or the ones that are struggling with issues that are hampering it."
+  - bio: >-
+      Himanshu is the Founder & CEO of Center of Strategic Mindset (COSM ™), a
+      Thought Leadership and Consulting organization, focused on advising boards
+      on Strategy, People and Risk. He is a C-Suite Executive Coach who works
+      with Promoters, Boards, CXOs and top leaders in the disciplines of
+      managing strategy, driving execution; implementing Balanced Scorecard and
+      developing top leadership. In the past, he has been the Advisor and Coach
+      in Residence with two leading Pharma businesses. He is currently
+      consulting a Big 4, a large Indian Global conglomerate, a leading
+      financial company, a chemical company, a logistics company and many more.
+      Prior to COSM, he headed Strategy Alignment, Balanced Scorecard and
+      Leadership Development at Tata Consultancy Services (TCS). He instituted
+      an integral coaching model based on Eastern & Western Philosophy.  At TCS,
+      he was responsible for making Strategy Everyone’s Job, strengthening
+      organic Leadership and driving culture of coaching. He successfully
+      implemented Balanced Scorecard and won TCS the Balanced Scorecard Hall of
+      Fame Award, for strategy execution. He was also recognized as BSC
+      Professional of the year 2012 by Dr. Robert Kaplan & David Norton.
+      Himanshu was also appointed as the Business Coach for ‘Industry Vertical
+      Heads’ for a Global Innovation Program under Prof Vijay Govindarajan, Tuck
+      School of Business. Himanshu’s three most significant organizational
+      pursuits included expanding the ‘Imagination of the Organization’
+      developing ‘Strategic Thinking’ among Top Leaders’ and enabling ‘Big
+      Picture Envisioning’. Himanshu excels in Scenario Planning, War Gaming and
+      Art of Questioning for future creation. He operates at the intersection of
+      strategy, leadership & coaching, a rare differentiator. He has excellent
+      mindshare with leading management thinkers such as Gary Hamel, Vijay
+      Govindarajan, Marshall Goldsmith, Roger Martin and Joel barker and has
+      co-authored blogs and articles with some of them. With more than 3000
+      coaching hours with senior leaders, he is a sought-after coach and
+      key-note speaker. He has coached a large number of top leaders, CEOs & MDs
+      of different organizations, globally. 
+
+
+      Himanshu has driven multiple and significantly-complex transformation
+      initiatives leading to customer experience. As a change architect, he has
+      the knack of ascertaining the hidden intricacies pertaining to people,
+      processes and systems that impacts the productivity as well as operational
+      excellence. Prior to TCS, Himanshu founded Mavrik Consulting focused on
+      Strategy, Leadership Development & Leading Change. The journey of
+      entrepreneurship was preceded by significant tenures in United Nations
+      International Staff (Chief People Officer in UN, Africa), Armed Forces and
+      a short stint as a Geologist, at the beginning of his career. In his 29
+      years of journey, he has held significant leadership assignments in
+      Strategy, Operations and Leadership Development. He holds Masters in
+      Strategy, Geology and is an MBA in International Business from IIFT,
+      Delhi. His accreditations include: –
+
+
+      * 
+
+
+      Design Thinking from HPI (Hasso Plattner Institute), Potsdam Germany
+
+
+      * Certified Independent Director from Directors Club
+
+      * Certified C-Suite Executive Coach
+
+      * Global Innovation Leadership & Leadership and Strategic Impact, Tuck
+      Business School
+
+      * Developing Global Business Strategy, Wharton Leadership Program
+
+      * Blue Ocean Strategy, Blue Ocean Institute, Insead
+
+      * Balanced Scorecard, Palladium (Kaplan – Norton)
+
+      * Leadership Architect & Hi-Pot Master Class from Lominger, Korn/Ferry
+      International
+
+      * Crucial Conversation, Vital Smarts
+
+
+      He is a constant learner, practice-leader & a prolific speaker on
+      Strategy, Leadership, Innovation; Paradigms; Organizational Immunity and
+      Leading Change. He is a regular speaker at GE-Tuck Leadership Roundtable
+      at Crotonville, Bloomberg; GE Digital Learning Summit and many other
+      global summits. He also advises Ivey League institutions on curriculums
+      for Executive Education, based on his industry insights. He regularly
+      writes in leading journals & portals, delivers key note address in global
+      forums and teaches as a visiting faculty in leading B-Schools.  Himanshu
+      is now committed to replicate above success in organizations seeking
+      aspirational growth; scale-expansion and reinvention and/or the ones that
+      are struggling with issues that are hampering it.
     coachName: Himanshu Saxena
     photo: /uploads/Himanshu Photo I.jpg
     tags:
@@ -1128,7 +1212,10 @@ coachList:
       - Thinker
   - bio: "Louis Carter is an organization psychologist and one of the top advisors to C-level executives of major companies such as Kimberly Clark, Federal Reserve Bank of NY, Saudi Aramco, Duke Energy, Humana, Shire, Jazz Pharmaceuticals, Key Bank, QBE, Cigna, Nokia, AbbVie, J&J, WestRock, Gilead Sciences, Battelle, Madison Square Gar- den, CIT, Goodyear, and many more helping them transform themselves and their organizations into an environment where employees love and want to produce the best results for their company.\r\n\n\rHe is the author of over 10 books on best practices in leadership development and talent management including Change Champion’s Field Guide, Best Practices in Leadership Development and Organization Change and Best Practices in Talent Management. He is a proud member of the MG 100 Coaches project chosen from over 12,000 coaches by his longtime men- tor Marshall Goldsmith. Louis is the recipient of ELearning! Magazine’s Trailblazer Award, HR Tech Conference’s Top Products Award, and Leader- ship Excellence Magazine’s Best in Leadership Development for his work as found- er and CEO of Best Practice Institute and the creator of the rst anytime 360-degree feedback tool based on feed- forward and appreciative dialogue, skillrater.\r\n\n\rLouis Carter founded Best Practice Institute in 2001 while obtaining his graduate degree from Columbia University. He facilitated drum circles in New York City after 9-11 to help rebuild the community. He further developed this concept into the BPI Senior Executive Board, a bench- mark research consortium comprised of C-levels from F500s who want to transform themselves and their organizations through best practices in leadership and organization development.\r\n\n\rHis newest book, In Great Company: How to spark emotional connectedness and peak performance will be released at the end of 2018.\r\n\n\rHe has spoken to the Prime Minister of the UAE’s HR Lighthouse Initiative, Pentagon and UN officials, and various international conferences on his work and research. He has been a drummer for over 5 bands throughout the past 30 years and volunteers to drum for community drum circles and children’s centers."
     coachName: Louis Carter
-    jobTitle: " 100 Coaches Bio Document 100 Coaches Bio Document 50% 16  CEO, Best Practice Institute, CEO executive coach, and author of over 10 books including his latest, In Great Company: how to spark peak performance by creating an emotionally connected workplace. Screen reader support enabled.      \t\t\t\t  CEO, Best Practice Institute, CEO executive coach, and author of over 10 books including his latest, In Great Company: how to spark peak performance by creating an emotionally connected workplace."
+    jobTitle: >-
+      CEO, Best Practice Institute, CEO executive coach, and author of over 10
+      books including his latest, In Great Company: how to spark peak
+      performance by creating an emotionally connected workplace.
     links:
       facebook: bestpracticeinstitute
       linkedin: louiscarter
