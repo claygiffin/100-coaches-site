@@ -38,7 +38,7 @@ collections:
             widget: list
             fields:
               - {label: Name, name: coachName, widget: string, hint: 'Name must be unique'}
-              - {label: Professional Title, name: jobTitle, widget: string, hint: 'Limit 75 characters', pattern: ['^.{1,75}$', 'Limit 75 characters']}
+              - {label: Professional Title, name: jobTitle, widget: string, hint: 'Limit 75 characters', pattern: ['^.{0,75}$', 'Limit 75 characters']}
               - {label: Photo, name: photo, widget: image}
               - {label: Bio, name: bio, widget: markdown, buttons: [bold, italic, link, bulleted-list, numbered-list, quote, heading-two]}
               - {label: Tags, name: tags, widget: list}
