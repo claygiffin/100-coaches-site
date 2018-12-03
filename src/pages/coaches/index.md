@@ -935,6 +935,10 @@ coachList:
       - Non-Profit
   - bio: "Marshall Goldsmith Certified Coach, Leader, author, mentor, coach.\r\n\n\rGarry Ridge joined WD-40 Company in 1987 and held various leadership positions their before being appointed CEO in 1997. He is also an adjunct professor at the University of San Diego where he teaches leadership development, talent management & succession planning. He believes that in the long term, values are arguably the most important aspect of working at WD-40 Company. In 2009, he co-authored a book with Ken Blanchard titled “Helping People Win at Work: A Business Philosophy called “Don’t Mark My Paper, Help Me Get an A.”\r\n\n\rA native of Sydney, Mr. Ridge holds a certificate in Modern Retailing and wholesale distribution and a Master of Science in Executive Leadership from the University of San Diego.\r\n\n\rWebsite – www.thelearningmoment.net"
     coachName: Garry Ridge
+    links:
+      linkedin: garryridge
+      twitter: learningmoment
+      website: thelearningmoment.net/blogs/
     photo: /uploads/Garry-Ridge.jpg
     tags:
       - Author
