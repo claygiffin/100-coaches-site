@@ -886,6 +886,11 @@ coachList:
       - Corporate Executive
   - bio: "Erica Dhawan is the world’s leading authority on Connectional Intelligence and the Founder & CEO of Cotential.\r\n\n\rThrough speaking, training and consulting, she teaches business leaders innovative strategies that increase value for clients, deliver results and ensure competitiveness. \r\n\n\rShe is the co-author of the bestselling book Get Big Things Done: The Power of Connectional Intelligence. Erica was named by Thinkers50 as “The Oprah of Management Ideas” and featured as one of the emerging management thinkers most likely to shape the future of business. She hosts the award winning podcast Masters of Leadership.\r\n\n\rErica speaks on global stages ranging from the World Economic Forum at Davos to companies such as Fedex, Pepsico, and McGraw Hill Financial. Erica writes for Harvard Business Review, Forbes, Fast Company and the Huffington Post.\r\n\n\rErica also serves as a board member to Lufthansa Innovation Hub. Previously, she worked at Lehman Brothers and Barclays Capital. She has a MPA from Harvard University, a MBA from MIT Sloan, and a BS in Economics from The Wharton School. Learn more at ericadhawan.com and cotentialgroup.com"
     coachName: Erica Dhawan
+    links:
+      facebook: ericadhawan
+      linkedin: ericadhawan
+      twitter: edhawan
+      website: ericadhawan.com/blog
     photo: /uploads/erica_dhawan.jpg
     tags:
       - Author
