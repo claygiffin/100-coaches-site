@@ -63,7 +63,10 @@ exports.createPages = ({ actions, graphql }) => {
     posts.forEach(edge => {
       if (_.get(edge, `node.frontmatter.coachList`)) {
         edge.node.frontmatter.coachList.forEach(coachProfile => {
-          coachProfiles = coachProfiles.concat(coachProfile)
+          // Only add coach to list if the coachName field is filled in
+          if (coachProfile.coachName) {
+            coachProfiles = coachProfiles.concat(coachProfile)
+          }
         })
       }
     })
