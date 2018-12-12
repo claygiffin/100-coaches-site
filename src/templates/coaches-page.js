@@ -29,18 +29,33 @@ const tags = [
     matches: [
       'Coach',
       'Executive Coach',
+      'CEO Coach',
+    ],
+  },
+  {
+    name: 'Consultants',
+    matches: [
+      'Consultant',
+      'Corporate Consultant',
     ],
   },
   {
     name: 'Authors',
     matches: [
       'Author',
+      'Writer',
     ],
   },
   {
     name: 'Speakers',
     matches: [
       'Speaker',
+    ],
+  },
+  {
+    name: 'Iconic Leaders',
+    matches: [
+      'Iconic Leader',
     ],
   },
   {
@@ -54,12 +69,6 @@ const tags = [
     matches: [
       'Non-Profit',
       'Nonprofit'
-    ],
-  },
-  {
-    name: 'Iconic Leaders',
-    matches: [
-      'Iconic Leader',
     ],
   },
 ]
@@ -125,7 +134,7 @@ export class CoachesPageTemplate extends React.Component {
     let filteredCoaches = [];
     matches.forEach(match => {
       this.state.allCoaches.forEach(coach => {
-        coach.tags && coach.tags.filter(tag => tag === match).length > 0 && filteredCoaches.push(coach);
+        coach.tags && coach.tags.filter(tag => tag.toUpperCase() === match.toUpperCase()).length > 0 && filteredCoaches.push(coach);
       });
     });
     this.setState({
