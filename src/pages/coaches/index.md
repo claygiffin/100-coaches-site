@@ -223,14 +223,16 @@ coachList:
       Constellation, a global not-for-profit organization aiming to make
       HIV/AIDS and Malaria history.
     coachName: Alexander Osterwalder
-    jobTitle: Co-Founder of Strategyzer
+    jobTitle: Co-Founder Strategyzer
     links:
       facebook: osterwalder
+      linkedin: osterwalder
       twitter: AlexOsterwalder
-      website: 'http://blog.strategyzer.com/'
+      website: blog.strategyzer.com/
     photo: /uploads/alexander-osterwalder.jpg
     tags:
       - Author
+      - Consultant
       - Entrepreneur
       - Speaker
       - Thinker
