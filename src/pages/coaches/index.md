@@ -1918,11 +1918,17 @@ coachList:
       - Thinker
   - bio: "Taavo has been selected as an advisor to the 15 Coaches program to tap into his depth and breadth of leadership know-how. Taavo has spent the last 15 years working with over 300 of the top executives and business thinkers in the world,\r\n\n\rHas developed and sold a successful Leadership Development company and is currently an advisor to CEOs, an executive coach and leadership speaker. Taavo is certified in both Individual and Team Stakeholder Centered Coaching and now joins the 15 Coaches team as a coaching and leadership advisor.\r\n\n\rABOUT TAAVO\r\n\nTaavo Godtfredsen is a recognized consultant, executive coach, advisor to CEO’s and keynote speaker to audiences around the world on how today’s leaders achieve high performance. Taavo has spent more than 20 years in the leadership development field as a successful business leader and practitioner. He has traveled the world interviewing and collaborating with hundreds of the most recognized CEOs, best-selling business authors and top business school faculty. With both a breadth of experience and depth of knowledge in the leadership development field, Taavo has remained on the cutting edge, continuously working with executives as they adapt to changing business environment and the global economy. As a pragmatist, Taavo’s methodology zeroes in on the most innovative and time efficient leadership actions to yield the greatest impact.\r\n\n\rTaavo was the originator of Five@5:00TM and co-created the Leadership Development ChannelTM. He was the Executive Producer & Vice President for Leadership Solutions at Skillsoft. Previously, Taavo was a partner at Targeted Learning Corporation, a private company acquired by Skillsoft. Taavo began his career at Linkage Inc. and held various senior roles leading both functions and business units. Taavo is a trained and experienced Executive Coach and holds an MBA from Babson College."
     coachName: Taavo Godtfredsen
+    jobTitle: 'CEO Advisor, Executive Coach, Keynote Speaker'
+    links:
+      linkedin: taavo-godtfredsen-b948013b
     photo: /uploads/Taavo-Godtfredsen.jpg
     tags:
       - Executive Coach
   - bio: "Tal Ben-Shahar is the co-founder and Chief Content Officer of the Happiness Studies Academy. He taught two of the largest course in Harvard University’s history on “Positive Psychology” and the “The Psychology of Leadership.”\r\n\n\rTal consults and lectures around the world to executives in multi-national corporations, the general public, and at-risk populations. Topics include leadership, education, ethics, happiness, self-esteem, resilience, goal setting, and mindfulness. He is the author of the international best sellers Happier, Being Happy, Choose the Life You Want, and The Joy of Leadership, which have been translated into more than 25 languages. He is also the co-founder of Potentialife and Happier.TV.\r\n\n\rAn avid sportsman, Tal won the U.S. Intercollegiate and Israeli National squash championships. Today, for exercise, he swims, dances, and practices yoga. He obtained his PhD in Organizational Behavior and BA in Philosophy and Psychology from Harvard."
     coachName: Tal Ben Shahar
+    jobTitle: Founder at Happiness Studies Academy
+    links:
+      linkedin: tal-ben-shahar-09943aa7
     photo: /uploads/tal-ben.jpg
     tags:
       - Author
@@ -1930,6 +1936,11 @@ coachList:
       - Thinker
   - bio: "Tamara J. Erickson is a McKinsey Award-winning author and a widely-respected authority on leadership, the changing workforce, collaboration and innovation, and the nature of work in intelligent organizations. She has five times been named one of the 50 most influential living management thinkers in the world by Thinkers50, the respected ranking of global business thinkers. \r\n\n\rErickson is an Adjunct Professor, Organisational Behaviour, at London Business School, where she has designed and directs the school’s premier leadership programme for senior-most executives, Leading Businesses into the Future.  An experienced executive and global advisor, Erickson has also served on the Board of Directors of two Fortune 500 corporations. She holds a BA degree from the University of Chicago and an MBA from the Harvard Graduate School of Business Administration."
     coachName: Tammy Erickson
+    jobTitle: >-
+      Adjunct Professor, Organisational Behaviour at London Business School --
+      and Founder and CEO, Tammy Erickson Associates
+    links:
+      linkedin: tamara-j-tammy-erickson-16b662/
     photo: /uploads/tammy-erickson.jpg
     tags:
       - Author
@@ -1937,6 +1948,9 @@ coachList:
       - Thinker
   - bio: "Tasha Eurich is an organizational psychologist, researcher, and New York Times best-selling author. As Principal of the Eurich Group, she has built a reputation as a fresh, modern voice in the business world by pairing her scientific grounding in human behavior with a practical approach to improvement. Over her 15-plus-year career, she’s helped thousands of professionals—from Fortune 500 executives to early stage entrepreneurs—improve their self-awareness and success.\r\n\n\rWith a PhD in Industrial-Organizational Psychology and BAs in Theater and Psychology, Dr. Eurich has contributed to The Guardian, Entrepreneur, The Huffington Post, TED.com and CNBC.com, and has been featured in outlets like Business Insider, Fortune, Forbes, The New York Times, Fast Company, and New York Magazine. She has been named a “Top 100 Thought Leader” by Trust Across America, a “Leader to Watch” by the American Management Association, and one of Denver Business Journal’s “40 Under 40.” Her TEDxMileHigh talk has been viewed more than one million times.\r\n\n\rDr. Eurich’s first book, Bankable Leadership, debuted on the New York Times best-seller list. Her latest book, INSIGHT, delves into the connection between our self-awareness—what she calls the meta-skill of the twenty-first century—and performance and success, both in and out of the workplace. Hailed as a “bold, exhilarating take on self-improvement” by Success Magazine and a “fascinating read” by The Guardian, INSIGHT was recently named an Editor’s Choice by 800-CEO-READ."
     coachName: Tasha Eurich
+    jobTitle: >-
+      New York Times Best-Selling Author, Organizational Psychologist, Executive
+      Coach, Keynote Speaker
     links:
       facebook: TashaEurich
       linkedin: tashaeurich
@@ -1950,11 +1964,21 @@ coachList:
       - Thinker
   - bio: "Telisa Yancy is the Chief Marketing Officer at American Family Insurance, a Fortune 300 company. Ms. Yancy was elevated to the new role after successfully transforming the consumer marketing efforts of the company while serving as the Vice President of Marketing. Ms. Yancy joined American Family Insurance in January of 2009 after a successful career in the automotive, retail, restaurant, media innovation and consulting industries.\r\n\n\rIn her role, Ms. Yancy leads all consumer marketing efforts for the company including digital, social media and nontraditional advertising avenues to build the brand. In 2011, Ms. Yancy and her team spearheaded a re-positioning of the 85 year old company with a Silver Effie Award winning campaign that changed the conversation in the hyper-competitive consumer insurance industry.\r\n\n\rTelisa holds an MBA from Kellogg Graduate School of Business, Northwestern University and a Bachelor’s Degree in Business Administration from the University of Illinois at Urbana- Champaign College of Business and Commerce."
     coachName: Telisa Yancy
+    jobTitle: >-
+      Chief Marketing Officer & Executive champion of Growth & Innovation; 2016
+      Ebony Power 100; 2017 Adage Woman to Watch
+    links:
+      linkedin: telisa-yancy-423a653
     photo: /uploads/telisa_yancy.jpg
     tags:
       - Corporate Executive
   - bio: "Terry Jackson is a highly accomplished, experienced and dynamic Executive Advisor, Thought Leader, and Organizational Consultant. Terry is a Coach and Consultant for US State Department International Information Program. Terry’s passion and purpose is helping others improve their quality of life and achieve performance excellence.\r\n\n\rTerry is the COO (co-founder) of JCG Consulting Group LLC. JCG Consulting Group partners with Executives and Organizations to align Strategy, People, and Processes to optimize the Human Experience and sustain Peak Business Performance. Our proprietary methodologies increase Profit and Productivity, help manage change and reduce organizational cost. \r\n\n\rTerry is a visionary with 25+ years of progressive leadership development experience in sales, marketing, operations management, and business consulting within startups and Fortune 10 companies. Terry holds a Ph.D. in Leadership and Organizational Change. Terry is an authority in Leadership Development, Diversity and Inclusion, Emotional Intelligence and its use to create high levels of employee engagement and sustained performance.\r\n\n\rTerry has demonstrated success in catapulting sales, expanding existing markets, building strategic business relationships, and developing professionals.  Terry has extensive experience in P&L management, new product launches, corporate turnarounds, brand management, contract negotiations, auditing, people development, and several process improvement methodologies.\r\n\n\rTerry has worked with and consulted for companies such giants as Norfolk Southern Corp, ExxonMobil, Bristol Meyers Squibb, New York Life, Anthem, McDonald's, Valassis, Dell-EMC, PioneerSol, Bahria University, Lahore University of Management Science, NED University, National Incubation Center, HIVE, KITE Incubator, and FedEx. Terry is currently engaged with the Pakistan government on several major consulting projects.\r\n\n\rTerry has led large scale consulting and coaching engagements in the following industries: Education, Financial, Petroleum, Telecommunications, State and Federal Government, Retail and Consumer Package Goods."
     coachName: Terry Jackson
+    jobTitle: >-
+      Certified Executive Coach at Marshall Goldsmith Stakeholder Centered
+      Coaching
+    links:
+      linkedin: terence-jackson-ph-d-57618410
     photo: /uploads/Terry_Jackson.jpg
     tags:
       - Author
@@ -1963,16 +1987,23 @@ coachList:
       - Speaker
   - bio: "Tom Kolditz is the founding Director of the Doerr Institute for New Leaders at Rice University—the most comprehensive, evidence-based, university-wide leader development program in the world. \r\n\n\rHe also designed the core Leader Development Program at the Yale School of Management, served as the chairman of the Department of Behavioral Sciences and Leadership at West Point, and was the founding director of the West Point Leadership Center. \r\n\n\rA highly experienced leader, Brigadier General Kolditz has more than 28 years in leadership positions, serving on four continents in his 34 years of military service.  He received the Distinguished Service Medal, the Army’s highest award for service, is a Fellow in the American Psychological Association, and is a member of the Academy of Management.\r\n\n\rHis book, titled In Extremis Leadership: Leading as if Your Life Depended on It, was based on more than 175 interviews taken on the ground in Iraq during combat operations. Dr. Kolditz has published in the Proceedings of the National Academy of Sciences and the proceedings of the World Economic Forum’s Annual Meeting of the New Champions.\r\n\n\rHe has been named as a leadership Thought Leader by the Leader to Leader Institute and as a Top Leader Development Professional by Leadership Excellence. In 2017, he received the Warren Bennis Award for Excellence in Leadership. He holds a BA from Vanderbilt University, three master’s degrees, and a PhD in social psychology from the University of Missouri."
     coachName: Tom Kolditz
+    jobTitle: 'Executive Director, Doerr Institute for New Leaders at Rice University'
+    links:
+      linkedin: tom-kolditz-7116a3
     photo: /uploads/Kolditz Doerr Institute Headshot.jpg
     tags:
       - Non-Profit
   - bio: "Since 2011, Anthony W. Marx has led The New York Public Library, the nation’s largest public library system with 18 million visits per year. At NYPL, he has expanded the Library’s role as an education provider, creating new after-school programs for children and teens, expanding English language, citizenship, computer and coding classes, and improving programming for all ages at NYPL’s 88 neighborhood branches. Under his leadership, the Library has increased access to e-books, partnered with the City’s public schools to enable millions of books to circulate directly to teachers and students, and launched a pilot to provide internet access in low income homes to redress the digital divide. Research materials are being digitized and new collections acquired, on-site storage, research facilities and more great staff being added.\r\n\n\rFrom 2003 to 2011, Marx served as president of Amherst College in Massachusetts, where low-income student enrollment tripled during his tenure. Before Amherst, Marx was a political science professor and director of undergraduate studies at Columbia University, a Guggenheim Fellow, and had worked on education in South Africa in the 1980s. Marx has a BA from Yale, an MPA from the Woodrow Wilson School at Princeton University, and a PhD, also from Princeton."
     coachName: Tony Marx
+    jobTitle: President of The New York Public Library
     photo: /uploads/tony-marx.jpg
     tags:
       - Non-Profit
   - bio: "Wendy Greeson is an innovative and results driven talent management professional with a successful record of leading large-scale initiatives and creating development programs that focus on building leadership bench strength. With over 20 years of experience, she has consistently managed high profile projects with tight deadlines, defined budgets, and competing agendas.\r\n\n\rWendy has a MS in Training and Development and a BA in Communications from Eastern Illinois University. She was also selected to participate in a 2-year study on Emotional Intelligence through the University of Illinois in Chicago and has traveled as far as Hong Kong to facilitate leadership development programs.\r\n\n\rWhile at Arthur J. Gallagher, Wendy was recognized for her extensive work with Harvard Business Publishing. As a result, Gallagher’s leadership program was highlighted in a Harvard client success story. Additionally, the program received several Leadership Excellence awards starting in 2015 with Best in Class – Large Company. In 2016 the program was recognized as the #1 Best Sales/Leadership Program, #3 Best Senior/Experienced Leader Program, #5 Best Global Leadership Program.\r\n\n\rWendy joined Cielo in 2017 and is the Vice President, Global Learning & Development. Throughout the course of her career, she has consistently demonstrated the ability to think strategically and execute with impact, while pursuing her life-long passion to help others learn, lead, and grow."
     coachName: Wendy Greeson
+    jobTitle: 'Executive Coach, principle consultant, Amplify Your Talent'
+    links:
+      linkedin: wendygreeson
     photo: /uploads/Wendy-Greeson.jpg
     tags:
       - Corporate Executive
@@ -2043,6 +2074,11 @@ coachList:
         * Global Leader of the Future by Marshall Goldsmith – Assessment Guidebook for Certified Professionals
         * Taking the Stage: Breakthrough Stories from Women Leaders
     coachName: Will Linssen
+    jobTitle: >-
+      Marshall Goldsmith Coaching Practice Leader for APAC & Europe and Master
+      Certified Coach
+    links:
+      linkedin: wlinssen
     photo: /uploads/will-linssen.jpg
     tags:
       - Executive Coach
