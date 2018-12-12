@@ -427,6 +427,7 @@ coachList:
     photo: /uploads/whitney-johnson.jpg
     tags:
       - Author
+      - Consultant
       - Entrepreneur
       - Executive Coach
       - Speaker
@@ -477,6 +478,7 @@ coachList:
     photo: /uploads/Michael Bungay Stanier.jpg
     tags:
       - Author
+      - Consultant
       - Speaker
       - Thinker
   - bio: >-
@@ -540,6 +542,7 @@ coachList:
     photo: /uploads/annie-mcknee.jpg
     tags:
       - Author
+      - Consultant
       - Executive Coach
       - Speaker
       - Thinker
@@ -587,6 +590,7 @@ coachList:
     photo: /uploads/ayse-birsel.jpg
     tags:
       - Author
+      - Consultant
       - Speaker
       - Thinker
   - bio: "Bernard (Bernie) Banks is a noted expert on the subjects of leadership and organizational change. Currently, he is the Associate Dean for Leadership Development and a Clinical Professor of Management at Northwestern University’s Kellogg School of Management. As an Associate Dean, Bernie possesses responsibility for leader development integration across the school’s global portfolio of programs.\r\n\n\rBernie retired from the Army as a Brigadier General in 2016 after having successfully led West Point’s Department of Behavioral Sciences & Leadership from 2012-2016. In addition to having studied leadership extensively, he has led multiple military units ranging in size from 10 to 500 people. In 1995, Bernie was selected from over 40,000 officers to receive the Army’s top award for entry-level managers (General Douglas MacArthur Leadership Award). In 2006, the Apache Helicopter unit he was leading in South Korea was designated as the top Apache Helicopter unit globally in the U.S. Army’s annual best aviation unit competition.\r\n\n\rA West Point graduate, Bernie is broadly educated. He holds graduates degrees from Northwestern, Columbia, and Harvard Universities. Additionally, he earned his Ph.D. in social-organizational psychology from Columbia University. Bernie’s work has been published in a variety of outlets (e.g., Harvard Business Review, Military Psychology, New York Times). Furthermore, he has worked extensively with organizations across all sectors concerning their leader development efforts (e.g., Procter and Gamble, Mercedes Benz, General Electric, IBM, 7-Eleven, The US Forest Service, International Chiefs of Police).\r\n\n\rAn active member of several civic and professional organizations (e.g., The Chicago Club, Harvard Club of NYC, Community Solutions of NYC, USO of Illinois, West Point Society of Chicago), Bernie is deeply invested in his community.\r\n\n\rAreas of Expertise\r\n\n\rLeader Development\r\n\nOrganizational Change\r\n\nOrganizational Culture"
@@ -642,6 +646,7 @@ coachList:
     photo: /uploads/bonita-thompson.jpg
     tags:
       - Author
+      - Consultant
       - Executive Coach
       - Speaker
   - bio: "Brown Johnson is the Executive Vice President and Creative Director at Sesame Workshop. Johnson is responsible for the development and production of the Workshop’s domestic television content, as well as creative services.\r\n\n\rJohnson is an award-winning producer of some of the most successful children’s programs. Before joining the Workshop, she served as President of Animation and Preschool Entertainment at Nickelodeon where she managed development and production of more than 200 episodes of programming each year. Johnson pioneered the interactive format of the groundbreaking preschool programs Dora the Explorer and Blue’s Clues. She also conceived and oversaw the development of the Nickelodeon preschool block featuring hit shows including Go Diego Go!, Yo Gabba Gabba!, Team UmiZoomi, The Backyardigans, and Ni Hao Kai Lan. Johnson led the creative development to extend the preschool block online and through retail. Many of the programs she created and managed showcase characters of diverse ethnicities. Her focus on the development of multi-ethnic children’s media spurred Johnson to create fellowships in writing and art to grow the next generation of diverse creators.\r\n\n\rIn Johnson’s more than 20 years with Nickelodeon, she received multiple Emmy awards, Television Critics Awards, Peabody Awards, Imagen and NAACP Image Awards. Johnson serves on the advisory board of Peter Gabriel’s WITNESS foundation, the board of governors of We Are Family Foundation, the Ambassador Council of the Geena Davis Institute on Gender in Media and is a graduate student mentor for the USC John C. Hensch Division of Animation and Digital Arts.\r\n\n\rJohnson resides in New York and has one daughter."
@@ -697,6 +702,7 @@ coachList:
     photo: /uploads/chester-elton.jpg
     tags:
       - Author
+      - Consultant
       - Executive Coach
       - Speaker
       - Thinker
@@ -846,6 +852,7 @@ coachList:
     photo: /uploads/david-peterson.jpg
     tags:
       - Author
+      - Consultant
       - Corporate Executive
       - Executive Coach
       - Speaker
@@ -928,6 +935,7 @@ coachList:
     photo: /uploads/PRAHALAD-DEEPA.jpg
     tags:
       - Author
+      - Consultant
       - Executive Coach
       - Speaker
       - Thinker
@@ -939,6 +947,7 @@ coachList:
     photo: /uploads/denise-pirrotti-hummel.jpg
     tags:
       - Author
+      - Consultant
       - Executive Coach
       - Speaker
   - bio: "Diane M. Ryan is the Associate Dean for Programs and Administration in the Jonathan M. Tisch College of Civic Life at Tufts University. As the only university-wide initiative of its kind, the mission of Tisch College is to prepare students for a\r lifetime of engagement in civic life, to study civic life and its intersections with public and private institutions, and to promote practices that strengthen civic life in the United States and around the world. Dr. Ryan oversees a portfolio of programs and curricula that service the entire undergraduate and graduate student body as well as provide resources for faculty research and professional development.\r\n\n\rPrior to joining Tufts, Diane was an Academy Professor, Director of the Eisenhower Leader Development Program with Columbia University and Acting Deputy Department Head in the Department of Behavioral Sciences and Leadership at the United States Military Academy, West Point, NY where she served for nine years. During her 29-year career as an active-duty U.S. Army officer she served in a variety of command and staff assignments both stateside and abroad.\r\n\n\rDiane is a noted expert in leader development and mentoring. During her last combat assignment with the 1st Cavalry Division in Baghdad, Iraq she founded a US-Iraqi partnership for military women and worked with a number of NGOs on peace and security initiatives. More recently she served as a strategy consultant to the Commander of U.S. Army Pacific designing leader development exchange programs for several key U.S. partners. Diane retired from the Army in 2017 at the rank of Colonel."
@@ -1003,6 +1012,7 @@ coachList:
     photo: /uploads/dorie-clark.jpg
     tags:
       - Author
+      - Consultant
       - Entrepreneur
       - Executive Coach
       - Speaker
@@ -1025,6 +1035,7 @@ coachList:
     photo: /uploads/Edy-greenblatt.jpg
     tags:
       - Author
+      - Consultant
       - Executive Coach
   - bio: >-
       Eric Schurenberg is the president and editor-in-chief of Inc. Before
@@ -1051,6 +1062,7 @@ coachList:
     photo: /uploads/erica_dhawan.jpg
     tags:
       - Author
+      - Consultant
       - Entrepreneur
       - Speaker
       - Thinker
@@ -1075,6 +1087,7 @@ coachList:
       linkedin: fionamacaulay
     photo: /uploads/fiona-macaulay.jpg
     tags:
+      - Consultant
       - Entrepreneur
       - Executive Coach
       - Non-Profit
@@ -1272,6 +1285,7 @@ coachList:
       linkedin: hortense-le-gentil-0a712a3
     photo: /uploads/Hortense Le Gentil.jpg
     tags:
+      - Consultant
       - Executive Coach
   - bio: "As an executive coach, Howard Morgan has worked with international executives to successfully drive organizational change initiatives. He was named as one of the 50 top coaches globally, has been recognized as one of five coaches with “a proven track record of success” and has published several books. \r\n\n\rHoward has worked with over 1000 CEO and Executive Team members from more than 50 countries and from a diverse industry base including Chemical, Information Technology, Financial Services, Media, Retail and Real Estate.  His work with these teams and individuals has become focused in recent years on two main practice areas.  First, he helps leaders improve corporate and executive performance through maximizing their leadership potential within diverse international teams/groups.\r\n\n\rSecond, he helps executives transition to new organizations/roles with the maximum impact and the minimum of disruption.  Howard’s profound understanding of executive leadership comes from 17 years as a line executive and executive vice president in the consumer goods, telecommunication, government and healthcare industries. He has operated major businesses with full profit and loss responsibility; managed the people side of mergers and acquisitions; led international expansions and start-ups; and gained the respect of unions and corporations when negotiating agreements in volatile labor environments. He knows what it means to structure an organization, lead people and manage a business to exceed quarterly objectives. This practical background, along with an understanding of the politics of leadership and the competitive pressures of today’s global marketplace, is reflected in the roll-up-your-sleeves coaching style he utilizes with executives.\r\n\n\rHoward is one of the founders of HRM Possibilities (with Marshall and Ron Campbell) and Founding Partner of the 50 Top Coaches organization. He specializes in executive coaching as a strategic change management tool leading to improved customer / employee satisfaction and overall corporate performance. He has worked with the executive committees of many the worlds’ largest organizations. Howard holds an MBA from Simon Fraser University and has completed advanced studies at the University of Michigan. He currently serves on three Boards of Directors and can be reached at howardjmorgan.com"
     coachName: Howard Morgan
@@ -1377,6 +1391,7 @@ coachList:
     photo: /uploads/Julie-carrier.jpg
     tags:
       - Author
+      - Consultant
       - Executive Coach
       - Speaker
   - bio: "Julie Rosenberg, MD, is a physician executive and experienced healthcare leader who oversees global drug development programs in the pharmaceutical industry. In addition, Julie has devoted the last 15 years to the in-depth study and practice of yoga. She received her advanced teaching certification from Down Under Yoga in Boston in 2015, under the tutelage of Natasha Rizopoulos. She lives in Connecticut and Florida and is the author of Beyond the Mat: Achieve Focus, Presence, and Enlightened Leadership Through the Principles and Practice of Yoga (Da Capo / Hachette Books 2017).\r\n\n\rJulie views yoga as preventive medicine. She teaches yoga primarily “beyond the mat,” helping individuals and groups to apply the principles and practice of yoga to their daily lives and to support their overall health and well-being, to achieve greater success, and to become more effective leaders. She is honored to be among the Marshall Goldsmith 100 coaches.\r\n\n\rJulie has become a highly sought-after keynote speaker for top corporations, patient groups, and premier resorts and health spas. Her specialty is helping individuals and groups overcome the challenges, complexities and uncertainties of the modern world by enhancing their personal power to do so. She offers essential tools that can be used during the course of an average day, ranging from breathing techniques to simple at-your-desk meditation exercises and yoga postures. She is available for both private consultation and speaking engagements. For more information and to book speaking engagements, please contact her at authorjulierosenberg@gmail.com."
@@ -1461,6 +1476,7 @@ coachList:
     photo: /uploads/Liz-Wiseman.jpg
     tags:
       - Author
+      - Consultant
       - Executive Coach
       - Speaker
       - Thinker
@@ -1503,6 +1519,7 @@ coachList:
     photo: /uploads/Thompson_Mark.jpg
     tags:
       - Author
+      - Consultant
       - Executive Coach
       - Speaker
   - bio: "Mark Parsells is Chairman and CEO of Montpelier Ventures, a management consulting and executive coaching firm. He has senior level management experience in Fortune 20 companies and has run several mid to early stage private equity backed companies. He is a Marshall Goldsmith Stakeholder Certified Coach and is a member of the MG100 Executive Coach group.\r\n\n\rHe has been Chairman and Chief Executive Officer of three private equity backed FinTech companies: Global Debt Registry (MHR); Regulatory Datacorp (Bain Capital/Goldman Sachs) and Fusura (AIG/Prudential).\r\n\n\rMark was President of Citibank Online, the #1 ranked online bank in the US at the time, and ran Citi’s Global Online Banking Technology in 53 countries.\r\n\n\rHe also ran a multi-billion-dollar division at Bank One where he increased profit in his group from $60M to $220M in 24 months. In addition, he was Bank One’s first Chief Privacy Officer.\r\n\n\rAt American Express, he founded the Government Services card acceptance division which grew to more than $1 Billion in charge volume. He concurrently served as the Chief Compliance Officer of the $105B American Express division that managed relationships with merchants that accepted the Card for payments.\r\n\n\rHe has broad experience in running online and highly technical businesses. He has been a successful CEO, President, COO, Chairman, and Corporate Director on more than 20 public, private and non-profit boards. He is a veteran corporate operating manager as well as a start-up and turn-around expert."
@@ -1534,6 +1551,7 @@ coachList:
     photo: /uploads/Martin-lindsrom.jpg
     tags:
       - Author
+      - Consultant
       - Entrepreneur
       - Speaker
       - Thinker
@@ -1579,6 +1597,7 @@ coachList:
       linkedin: mollytschang
     photo: /uploads/molly-tschang.jpg
     tags:
+      - Consultant
       - Executive Coach
   - bio: "Patricia Gorton is the Director of Global Leadership and Talent Development at Depository Trust and Clearing Corporation (DTCC) where she has spent the last ten years leading talent, learning, organizational development and change projects for the organization. She focuses on performance enhancing solutions for employees whether for targeted groups in a leadership program or for individuals engaging in activities that drive development such as mentoring, learning and coaching. Leaders value her support around talent analysis and succession planning to build a strong leadership pipeline to reach future business needs.\r\n\n\rShe joined the company in 2008 from Citi where she spent seven years there as an SVP in both marketing and business development roles for their global payments, online banking and credit card divisions. Prior to Citi, she was the founder of an online retailer that raised $90 million from an IPO with backing from GE Capital, Intel and Accenture. This business expertise is the commercial lens from which she drives behavioral and organizational change at DTCC. She can structure global, scalable solutions that are cost effective, results oriented and well- designed that delivers business impact.\r\n\n\rTricia graduated with an honors degree in Economics from the University of Rochester and received her MBA from the Ross School of Business at the University of Michigan. While at Michigan, she won an innovation award voted by the student body and spoke at commencement. Tricia loves skiing, ice hockey, cooking, dancing, music, writing poetry and traveling. She recently trekked to Kilimanjaro!"
     coachName: Patricia Gorton
@@ -1638,6 +1657,7 @@ coachList:
     photo: /uploads/peter-bregman.jpg
     tags:
       - Author
+      - Consultant
       - Executive Coach
       - Speaker
       - Thinker
@@ -1751,6 +1771,7 @@ coachList:
     photo: /uploads/Price-Pritchett.jpg
     tags:
       - Author
+      - Consultant
       - Executive Coach
       - Speaker
       - Thinker
@@ -1847,6 +1868,7 @@ coachList:
     photo: /uploads/Sandy-ogg.jpg
     tags:
       - Author
+      - Consultant
       - Entrepreneur
       - Executive Coach
       - Speaker
@@ -1900,6 +1922,7 @@ coachList:
       linkedin: sergey-sirotenko-492170115
     photo: /uploads/sergey-sirotenko.jpg
     tags:
+      - Consultant
       - Entrepreneur
       - Executive Coach
   - bio: "Soon Loo is CEO of the Brunei Economic Development Board which is Brunei government’s central statutory body to grow and diversify Brunei’s economy by attracting investment into the nation. Most recently, he was CEO of Darussalam Enterprise, Brunei’s central government agency for developing entrepreneurship for the nation. He was also a founding chairman of Seri Venture Capital, an investment firm that invests in Brunei companies that have ambitions in regional expansion. He represented Brunei in the APEC Business Advisory Council (ABAC) for 2016-2017.\r\n\n\rSoon has been serving on board of directors of public and private companies in Brunei, China, and Singapore — including formerly being the chairman and board member of a publicly listed Asian company that went IPO for US$1.5 billion of market capitalization. Soon was a Regional Vice President for the AXA Group in the Asia-Pacific where he worked on business development and strategy for the regional office that oversaw the AXA Group companies in 11 countries, with a total annual business of US$9.5 billion.\r\n\n\rSoon started his career in technology and co-founded a technology company in Silicon Valley that raised over US$37 million of venture capital. The firm went on to be recognized as a top 20 leading emerging technology company for the Red Herring Magazine’s NDA conference.\r\n\n\rIn his personal capacity, Soon has been an adjunct faculty in universities in the region, including Singapore Management University, Nanyang Technological University, University of Brunei Darussalam, and Universiti Technologi Brunei of which he served on the international advisory panel. He co-founded the Passion Unleashed Talk Series in Singapore that features leaders including minister of state, chairmen of listed companies, celebrities, world’s extreme endurance race athletes, and climbers of Mt Everest.\r\n\n\rSoon was awarded the “Ten Outstanding Young Persons of The World” (TOYP) award 2013-14 organized by Junior Chamber International (JCI). Soon holds an MBA from the Harvard Business School."
@@ -1920,6 +1943,7 @@ coachList:
     photo: /uploads/srikumar_rao.jpg
     tags:
       - Author
+      - Consultant
       - Executive Coach
       - Speaker
   - bio: "Stew is Wharton’s Practice Professor of Management, having founded both the Wharton Leadership Program and the Wharton Work/Life Integration Project. He has been recognized repeatedly as both one of HR’s Most Influential International Thinkers and one of the “world’s top business thinkers” by Thinkers50.  He won Thinkers50’s Distinguished Achievement Award in the talent management field.  Working Mother chose him as one of America’s 25 most influential men to have made things better for working parents and the Families and Work Institute honored him with its Work Life Legacy Award. \r\n\n\rHis bestselling books, both in numerous languages, are Leading the Life You Want: Skills for Integrating Work and Life (2014) and Total Leadership: Better Leader, Richer Life (2008), which describes his world-renowned Total Leadership program. An award-winning teacher, The New York Times cited the “rock star adoration” he inspires in students. While on leave from Wharton in mid-career, Stew served at Ford Motor Company for 2.5 years as the senior executive responsible for global leadership development.  He serves on boards, consults with organizations, and gives inspiring, interactive keynotes worldwide.  Stew is host of the popular national radio show, Work and Life, on SiriusXM Wharton Business Radio (weekly at 7 PM Eastern)  episodes of which are available as free podcasts at workandlifepodcast.com."
@@ -1977,6 +2001,7 @@ coachList:
     photo: /uploads/tasha-eurich.jpg
     tags:
       - Author
+      - Consultant
       - Executive Coach
       - Speaker
       - Thinker
