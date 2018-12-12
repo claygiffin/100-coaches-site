@@ -71,11 +71,11 @@ coachList:
       enhanced edition of Peter Drucker’s The Five Most Important Questions:
       Enduring Wisdom for Today’s Leaders.
     coachName: Frances Hesselbein
-    jobTitle: 'Former CEO of Girl Scouts of America, Editor of Leader to Leader Journal'
+    jobTitle: Chairman at Leader to Leader Institute
     links:
       facebook: ''
       instagram: ''
-      linkedin: ''
+      linkedin: frances-hesselbein-8b707512
       twitter: ToServeIsToLive
       website: ''
     photo: /uploads/frances-hesselbein.jpg
@@ -140,7 +140,9 @@ coachList:
       Management from the Massachusetts Institute of Technology as an Alfred P.
       Sloan Fellow.
     coachName: Alan Mulally
-    jobTitle: Former CEO of The Ford Motor Company
+    jobTitle: CEO Retired at Ford
+    links:
+      linkedin: alan-mulally-29017a130
     photo: /uploads/alan_mulally.jpg
     tags:
       - Corporate Executive
@@ -172,7 +174,9 @@ coachList:
       America’s “25 Best Leaders” by U.S. News & World Report, and was named one
       of TIME magazine’s “100 Most Influential People in the World.”
     coachName: Jim Yong Kim
-    jobTitle: President of the World Bank Group
+    jobTitle: President at The World Bank
+    links:
+      linkedin: jimyongkim
     photo: /uploads/jim-yong-kim.jpg
     tags:
       - Corporate Executive
