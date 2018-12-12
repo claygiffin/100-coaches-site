@@ -40,16 +40,16 @@ const tags = [
     ],
   },
   {
+    name: 'Speakers',
+    matches: [
+      'Speaker',
+    ],
+  },
+  {
     name: 'Authors',
     matches: [
       'Author',
       'Writer',
-    ],
-  },
-  {
-    name: 'Speakers',
-    matches: [
-      'Speaker',
     ],
   },
   {
