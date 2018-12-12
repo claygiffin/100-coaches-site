@@ -300,7 +300,11 @@ coachList:
       College and the Columbia School of International and Public Affairs. She
       is married and is proud to be the mother of two delightful grownups.
     coachName: Rita McGrath
-    jobTitle: 'Globally recognized expert on strategy, innovation, and growth'
+    jobTitle: >-
+      Globally recognized expert on strategy, innovation, and creating growth
+      under uncertain conditions.
+    links:
+      linkedin: ritamcgrath
     photo: /uploads/rita_mcgrath_headshot.jpg
     tags:
       - Author
@@ -337,8 +341,9 @@ coachList:
       designed for managers moving into broader leadership roles and speaks
       internationally on leadership, talent management, and women’s careers.
     coachName: Herminia Ibarra
-    jobTitle: Chaired Professor at INSEAD
+    jobTitle: Professor of Organizational Behavior
     links:
+      linkedin: herminia-ibarra-4455411a
       website: herminiaibarra.com
     photo: /uploads/ibarra-photo.jpg
     tags:
@@ -461,7 +466,7 @@ coachList:
 
       > _—David Allen, author of Getting Things Done_
     coachName: Michael Bungay Stanier
-    jobTitle: 'Founder of Box of Crayons, Author of The Coaching Habit'
+    jobTitle: 'Founder of Box of Crayons, author of The Coaching Habit'
     links:
       linkedin: michaelbungaystanier
       twitter: boxofcrayons.com
@@ -499,11 +504,17 @@ coachList:
       Institute of Technology and undergraduate degree in electrical engineering
       from Chulalongkorn University.
     coachName: Agapol Na Songkhla
+    jobTitle: Chief People Officer at Thai Beverage PLC
+    links:
+      linkedin: agapol-na-songkhla-2b22ba28
     photo: /uploads/agapol-na-songkhla.jpg
     tags:
       - Corporate Executive
   - bio: "Aicha S. Evans is corporate vice president and general manager of the Communications and Devices Group at Intel Corporation. She is responsible for driving wireless engineering for multi-comm products and Intel platforms, including modems, RF, Wi-Fi, GPS, Bluetooth, NFC, FM, LTE, WLAN/WWAN as well as emerging wireless technologies to lead this industry going forward.\r\n\n\rPreviously Evans was the general manager of the Wireless Platform Research and Development Group where managed the engineering, software, hardware, strategic planning, and product test teams responsible for providing wireless connectivity ingredients and solutions for all Intel platforms.\r\n\n\rEvans joined Intel in 2006 as a software integration and test manager. She held a number of management positions responsible for Intel’s wireless efforts including software engineering and support for customers deploying WiMAX networks in multiple geographies. Additionally, she worked in Israel managing WiFi engineering and product lines. Prior to Intel, Evans spent 10 years in various engineering management positions at Rockwell Semiconductors, Conexant and Skyworks.\r\n\n\rEvans received a bachelor’s degree in computer engineering from The George Washington University in 1996."
     coachName: Aicha Evans
+    jobTitle: 'Senior Vice President and Chief Strategy Officer, Intel Corporation'
+    links:
+      linkedin: aicha-evans-4365731
     photo: /uploads/aicha-evans.jpg
     tags:
       - Corporate Executive
