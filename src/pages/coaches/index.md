@@ -682,6 +682,9 @@ coachList:
       - Executive Coach
   - bio: "For the past four years, Chester Elton has been ranked in the top 30 Global Gurus for Leadership and #10 for Organizational Culture. He is co-author of 5 New York Times bestselling business books, including The Carrot Principle, The Orange Revolution and All In. His books have sold over 1.5 million copies and have been translated in over 30 languages.\r\n\n\rElton is the co-author of 10 books on leadership and culture with his friend Adrian Gostick. Their next book “The Best Team Wins” will be a major release with Simon & Schuster on February 13, 2018. Some of Elton’s other books include: Managing with Carrots, The 24 Carrot Manager, A Carrot a Day and The Invisible Employee. As a LinkedIn Influencer, he has over 480,000 followers and his posts have reached millions. Elton has a weekly segment on WCBS Radio, in New York City, that highlights good news in business and what many organizations are doing to honor their employees and impact their communities in a positive way.\r\n\n\rElton is a regular guest lecturer at Cornell University’s masters program in HR as well as Fordham University’s MBA program at the Gabelli School of Business. He also guest lectures at BYU where he is a proud alumnus of the Tanner School of Business.\r\n\n\rA volunteer worker over the last 4 years for his church, Elton is dedicated to working with inner city youth where he is a teacher and mentor to several young men between the ages of 12-18 in East Orange, New Jersey.\r\n\n\rElton is the co-founder of The Culture Works; an international training company that helps organizations of all sizes create the culture they need to succeed. www.thecultureworks.com. Elton is proud to be on the advisory board for Camp Corral, a non-profit organization that provides summer camp each year for children of wounded and fallen military hero’s. www.campcorral.org\r\n\n\rWhat he is most proud of is to be the father of 4 exceptional children and proud grandfather to Lucas Elton who is 2 1⁄2 years old! Happily married for 34 years to the lovely Heidi Olsen Elton, there isn’t a luckier man on the planet!\r\n\n\rChester@chesterelton.com • chesterelton.com"
     coachName: Chester Elton
+    jobTitle: 'Author of "The Best Team Wins" & "All In," NY Times Best-Seller'
+    links:
+      linkedin: chesterelton
     photo: /uploads/chester-elton.jpg
     tags:
       - Author
@@ -690,6 +693,9 @@ coachList:
       - Thinker
   - bio: "CNN anchor Chris Cuomo covers international events and breaking news for CNN. He anchors CNN’s morning show “New Day” with co-anchor Alisyn Camerota. NEW DAY airs every weekday, from 6am to 9am EST— on CNN.\r\n\n\rBefore joining CNN, Cuomo was the co-anchor of “20/20,” the Emmy Award-winning ABC Newsmagazine, and Chief Law and Justice Correspondent for ABC News. He formerly co-anchored “Good Morning America,” where he covered international breaking news as the primary reporter.\r\n\n\rChris is the recipient of multiple journalism awards. His profile on 12-year-old poet Mattie Stepanek on “Good Morning America” was awarded a News Emmy. He has received Polk and Peabody awards for his team coverage throughout the years, and the Edward R. Murrow award for his work covering breaking news.\r\n\n\rCuomo is a graduate of Fordham University School of Law, and received his undergraduate degree from Yale University."
     coachName: Chris Cuomo
+    jobTitle: Anchor on Cuomo Prime Time at CNN
+    links:
+      linkedin: chris-cuomo-158a1b164
     photo: /uploads/chris-cuomo.jpg
     tags:
       - Corporate Executive
@@ -763,7 +769,11 @@ coachList:
 
       Amazon IQ
     coachName: Chris Coffey
+    jobTitle: >-
+      Master Certified Coach & Practice Leader (Americas) at Marshall Goldsmith
+      Stakeholder Centered Coaching
     links:
+      linkedin: coachchriscoffey
       website: www.ChristopherCoffey.com
     photo: /uploads/chris-coffey.jpg
     tags:
