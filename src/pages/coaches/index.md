@@ -1081,6 +1081,9 @@ coachList:
       - Iconic Leader
   - bio: "Gabriela Teasdale is the President at Fundación Transformación PY. Transformation Paraguay is a non profit organization that works with The John Maxwell leadership foundation in a national project in Paraguay. The objective of this social initiative is to train 10% of the population in values and leadership principles. We do the training in the seven strengths of a country, government, business, education, culture, media, religion and family. The slogan of the project is “transformation is in me” because we believe that if you can transform yourself you can transform your country.\r\n\n\rGabriela also serves as the CEO of Paraguay Leadership Team. As owner and director of Paraguay Leadership Team, a professional Training, Coaching & Communication business in Paraguay, Gabriela works with The John Maxwell Team and Equip Leadership Inc. She represents JMT and Equip Leadership in Paraguay, and provides professional development and leadership training."
     coachName: Gabriela Teasdale
+    jobTitle: >-
+      Author, Coach & Trainer - President at Fundación Transformación PY - CEO
+      of Pro Lider Training
     links:
       linkedin: gabriela-teasdale-63056950
     photo: /uploads/Gabriela-Teasdale.jpg
@@ -1089,6 +1092,7 @@ coachList:
       - Non-Profit
   - bio: "Marshall Goldsmith Certified Coach, Leader, author, mentor, coach.\r\n\n\rGarry Ridge joined WD-40 Company in 1987 and held various leadership positions their before being appointed CEO in 1997. He is also an adjunct professor at the University of San Diego where he teaches leadership development, talent management & succession planning. He believes that in the long term, values are arguably the most important aspect of working at WD-40 Company. In 2009, he co-authored a book with Ken Blanchard titled “Helping People Win at Work: A Business Philosophy called “Don’t Mark My Paper, Help Me Get an A.”\r\n\n\rA native of Sydney, Mr. Ridge holds a certificate in Modern Retailing and wholesale distribution and a Master of Science in Executive Leadership from the University of San Diego.\r\n\n\rWebsite – www.thelearningmoment.net"
     coachName: Garry Ridge
+    jobTitle: 'WD-40 Company CEO - Leader, Author, Mentor, Coach'
     links:
       linkedin: garryridge
       twitter: learningmoment
@@ -1101,12 +1105,18 @@ coachList:
       - Speaker
   - bio: "George Q. Daley, MD, PhD is Dean of Harvard Medical School and the Caroline Shields Walker Professor of Medicine. He is also Professor of Biological Chemistry and Molecular Pharmacology. Prior to becoming Dean he was the Robert A. Stranahan Professor of Pediatrics and director of the Pediatric Stem Cell Transplantation Program at Dana-Farber/Boston Children’s Cancer and Blood Disorders Center and a Howard Hughes Medical Institute investigator.\r\n\n\rDaley received his AB, magna cum laude, from Harvard (1982), a PhD in biology from MIT (1989), working with Nobel laureate David Baltimore, and his MD, summa cum laude, from Harvard Medical School (1991). Daley pursued clinical training in internal medicine at Massachusetts General Hospital, where he served as chief resident (1994-1995), and a clinical fellowship in heme/onc at Brigham and Women’s Hospital and Children’s.\r\n\n\rHe was a founding executive committee member of the Harvard Stem Cell Institute, served as president of the International Society for Stem Cell Research (2007-2008), and anchored the special task forces that produced the society’s guidelines for stem cell research and clinical translation (2006, 2008, 2016). Daley’s research uses mouse and human disease models to study cancer and blood disorders.\r\n\n\rDaley has been elected to the National Academy of Medicine, the American Society for Clinical Investigation, the American Association of Physicians, the American Pediatric Societies, the American Academy of Arts and Sciences and the American Association for the Advancement of Science. He was an inaugural winner of the NIH Director’s Pioneer Award, and has won the E. Donnall Thomas Prize of the American Society of Hematology."
     coachName: George Daley
+    jobTitle: Dean of the Faculty of Medicine at Harvard Medical School
+    links:
+      linkedin: george-q-daley-md-phd-9528718
     photo: /uploads/george-daley.jpg
     tags:
       - Corporate Executive
       - Non-Profit
   - bio: "Gianpiero Petriglieri is Associate Professor of Organisational Behaviour at INSEAD. A medical doctor and psychiatrist by training, his award-winning research, teaching, and coaching focus on what it means, and what it takes, to become a leader.\r\n\n\rHis work is particularly concerned with helping people live, lead, and learn in the age of “nomadic professionalism,” in which many of us have deep bonds to our work but loose affiliations to our organizations, and authenticity and mobility have replaced loyalty and advancement as hallmarks of virtue and success.\r\n\n\rBuilding on his research, Gianpiero has refined a unique approach to experiential leadership development that aims to deepen and accelerate the development of individual leaders as well as to broaden and strengthen leadership communities within and across organisations. At INSEAD, he directs the Management Acceleration Programme, the school’s flagship executive programme for emerging leaders, and chairs the initiative for Learning Innovation and Teaching Excellence.\r\n\n\rGianpiero has chaired the World Economic Forum’s Global Agenda Council on new models of leadership, and was recently named one of the 50 most influential management thinkers in the world by Thinkers50. His research appears in top academic journals and he writes regularly for the Harvard Business Review,  where his essays have been included among the “ideas that shaped management” for four of the past five years. \r\n\n\rAlongside the Management Acceleration Programme, Gianpiero directs customized leadership development programmes for multinationals in a variety of industries. He also speaks widely on how to develop and exercise leadership in fast-changing, uncertain and diverse workplaces.\r\n\n\rYou can find out more on his website, and follow him on Twitter and LinkedIn."
     coachName: Gianpiero Petriglieri
+    jobTitle: Associate Professor of Organisational Behaviour at INSEAD
+    links:
+      linkedin: gpetriglieri
     photo: /uploads/gianpiero-petriglieri.jpg
     tags:
       - Author
