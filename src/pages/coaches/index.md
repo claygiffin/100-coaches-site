@@ -1005,6 +1005,11 @@ coachList:
       - Executive Coach
   - bio: "Dr. Edy Greenblatt, PCC  is a transformational coach-educator, resilience pioneer, integration visionary, and entrepreneur.  As Founder and President of Execu-Care Coaching & Consulting, Inc. she creates radically innovative interdisciplinary, multi-method interventions that help leaders, teams, and organizations learn, grow, laugh, and energize while they rise to meet demanding performance goals.  Her Blended Solutions can include interactive classroom sessions, aerial arts and flying trapeze, embodied and peer coaching, world dance, WATSU, coach supervision, interactive online support, and offsite resilience retreats. \r\n\n\rConcurrently, she is faculty at two of the world’s top executive education institutions – Center for Creative Leadership and the DeSautels Centre for Integrative Thinking at the Rotman School of Management, University of Toronto.  Previously, Dr. Edy served on faculties at UCLA and USC’s Marshall School of Business and as a management consultant and organizational practice specialist at McKinsey & Co..\r\n\n\rDr. Edy holds a joint Ph.D. in Organizational Behavior from Harvard Business School and Harvard University (Psychology & Sociology), master’s degrees in Dance Ethnology (UCLA) and Psychology (Harvard), and a bachelor’s degree in World Arts & Cultures/Dance (UCLA). \r\n\n\rHer pioneering research at Harvard and subsequent award-winning book Restore Yourself:  The Antidote for Professional Exhaustion (on resilience and energy in 24/7 work environments) have shaped team effectiveness, organizational results, women’s leadership, and strategic HR initiatives at companies such as McKinsey & Co., DaVita Healthcare, and Mattel.\r\n\n\rDr. Edy is an entertaining and sought-after speaker, change agent, coach, and coach supervisor, dividing her time between Santa Monica (USA), Ra’anana (Israel), and Toronto (Canada).  In her free time, she mentors children, dances, swims, studies WATSU and aerial silks, and, more often than one might expect, sleeps.  She is currently launching the Strategic Vacation project, which aligns the needs of leaders, work teams, families, corporate finances, and the global travel and tourism industry to improve everyone’s well-being and bottom line. She is committed to helping heal the world through integrating and energizing mind and body."
     coachName: Edy Greenblatt
+    jobTitle: >-
+      Resilience Pioneer ∙ Embodied Leadership ∙ Coach Supervisor ∙ Founder,
+      Restoration Vacation ∙ Executive Energizer
+    links:
+      linkedin: dredygreenblatt
     photo: /uploads/Edy-greenblatt.jpg
     tags:
       - Author
@@ -1015,6 +1020,9 @@ coachList:
       managing editor of Money Magazine. As a writer, he is a winner of a Loeb
       and a National Magazine Award.
     coachName: Eric Schurenberg
+    jobTitle: CEO at Mansueto Ventures
+    links:
+      linkedin: ericschurenberg
     photo: /uploads/Eric-Schurenberg.jpg
     tags:
       - Corporate Executive
@@ -1041,12 +1049,17 @@ coachList:
       - Corporate Executive
   - bio: "Feyzi Fatehi is a technology visionary, inventor, innovator and entrepreneur. As a Silicon Valley veteran of a Fortune 100 and multiple disruptive technology start-ups, he currently serves as the CEO of Corent Technology – a company that was named among the 10 Most Valuable Cloud Solution Providers in 2017.\r\n\n\rFeyzi has studied at Cambridge, Princeton, UT Austin and UCLA and has given talks at Harvard Business School, Wharton, Stanford and around the globe. He was recognized as 2017 Entrepreneur of the Year by the Orange County Business Journal.\r\n\n\rAs an avid supporter of education, Feyzi serves as an advisor to UCLA Anderson School of Management, UC Irvine Samueli School of Engineering, and the Beall Center for Innovation and Entrepreneurship. He also serves as a CEO mentor and coach at two California technology incubators: EvoNexus and the UCI Applied Innovation Institute.\r\n\n\rFeyzi has been interviewed and quoted by Harvard Business Review, Forbes, CEO Magazine, and Start-up Grind – Google for Entrepreneurs, on the topics of 10X innovation, and his entrepreneurship philosophy – an integrated leadership framework for life and business.\r\n\n\rFeyzi lives in Laguna Niguel, California, and is currently working on three books: The Soft Skills Are the Hard Skills; “What” Got You Here, “How” will Get You There! and Inspiring the Culture of 10X Innovation and Entrepreneurship Within Any Organization. He is a sought-after speaker on these topics and as a coach and mentor to entrepreneurial CEOs."
     coachName: Feyzi Fatehi
+    jobTitle: 'CEO, Corent Technology, Inc.'
+    links:
+      linkedin: feyzifatehi
     photo: /uploads/Feyzi-Fatehi.jpg
     tags:
       - Corporate Executive
   - bio: "Fiona is a social entrepreneur, educator and field builder committed to helping people achieve their potential. She works at the intersection of innovation, leadership and global development.\r\n\n\rFiona is the Founder of WILD (Women Innovators and Leaders Development Institute) that support successful women to be even more successful through target courses and leadership coaching. She's the convener of the nationally recognized Forum to Advance Women's Leadership in Global Development (taking place May 14, 2019 in Washington DC www.theWILDNetwork.org/2019Forum).\r\n\n\rFiona is part of the less than 1% of U.S. female business owners to scale her business to multi-million annual revenues (all while maintaining a double bottom-line!). A seasoned social innovator, Fiona scaled, a for-profit social enterprise dedicated to economic growth that did business across 100+ countries. She also founded the leading global platform that disseminates evidence-based scalable solutions to increase youth employment, entrepreneurship and financial inclusion. A recognized entrepreneurship/employment subject matter expert, Fiona has 20 years of experience working with clients that include: World Bank, JP Morgan, MasterCard Foundation, Rockefeller Foundation, Microsoft, USAID, Citi, Plan. In the academic world, Fiona serves as an Entrepreneur-in-Residence at Georgetown University's McDonough School of Business where she teaches, mentors and coaches students and faculty across the campus. She's also a Senior Fellow at Georgetown University's Beeck Center for Social Innovation + Impact. Follow her on twitter: @F_Macaulay and connect via www.Linkedin.com/in/FionaMacaulay"
     coachName: Fiona Macaulay
     jobTitle: 'Founder, WILD Institute (Women Innovators and Leaders)'
+    links:
+      linkedin: fionamacaulay
     photo: /uploads/fiona-macaulay.jpg
     tags:
       - Entrepreneur
@@ -1054,6 +1067,9 @@ coachList:
       - Non-Profit
   - bio: "Frank’s consulting career started at The Center For Leadership Studies with Paul Hersey in the late 1970’s. He then became a partner and director at Keilty, Goldsmith & Boone. With Marshall Goldsmith, Frank co-developed the highly successful Excellent Manager Program originally for IBM, and then many other Fortune 100 Companies. Marshall asked Frank to oversee the design and training of coaches in using his principles and methods of helping successful leaders improve.\r\n\n\rHe has written: The Power of Total Commitment; and is lead author for: The Stakeholder Centered Coach’s Playbook; and, The Team Stakeholder Centered Coaching Playbook.\r\n\n\rFor more information visit his website at: frank.sccoaching.com"
     coachName: Frank Wagner
+    jobTitle: Marshall Goldsmith Stakeholder Centered Coaching
+    links:
+      linkedin: coachfrank
     photo: /uploads/frank-wagner.jpg
     tags:
       - Executive Coach
