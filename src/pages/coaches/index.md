@@ -1619,7 +1619,7 @@ coachList:
     coachName: Pawel Motyl
     jobTitle: >-
       Author of a best-selling book on decision-making, speaker, coach,
-      consultant. 
+      consultant
     links:
       linkedin: pawelmotyl
     photo: /uploads/Pawel-Motyl.jpg
