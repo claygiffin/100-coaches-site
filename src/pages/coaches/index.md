@@ -1468,8 +1468,7 @@ coachList:
     coachName: Louis Carter
     jobTitle: >-
       CEO, Best Practice Institute, CEO executive coach, and author of over 10
-      books including his latest, In Great Company: how to spark peak
-      performance by creating an emotionally connected workplace.
+      books including his latest, In Great Company
     links:
       facebook: bestpracticeinstitute
       linkedin: louiscarter
