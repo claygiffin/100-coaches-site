@@ -8,8 +8,8 @@ class Navbar extends React.Component {
     super(props);
 
     this.state = {
-      logo: logoKnockout,
-      home: true
+      logo: logoDefault,
+      home: false,
     }
 
     this.toggleNav = this.toggleNav.bind(this);

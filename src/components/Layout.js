@@ -5,12 +5,14 @@ import Navbar from '../components/Navbar'
 import './all.scss'
 
 const TemplateWrapper = ({children, title}) => (
-  <div id="content">
+  <>
     <Helmet title={title} ><html lang="en" /></Helmet>
     <Navbar />
-    {children}
-    <Footer />
-  </div>  
+    <div id="content">
+      {children}
+      <Footer />
+    </div>  
+  </>
 )
 
 
