@@ -1,7 +1,14 @@
 ---
 templateKey: coaches-page
-title: |
-  The coaches lorem ipsum comet dolor et cetera
+title: >
+  The 100 Coaches, selected by Marshall, are each highly accomplished and
+  compassionate people, each one committed to using their talents to make good
+  people and organizations better and paying it forward. Together, they create a
+  unique spectrum of talent including the world’s leading executive coaches,
+  consultants, speakers, authors, iconic leaders, entrepreneurs and non-profit
+  leaders. Browse to enjoy the breadth of members or select a section to see the
+  depth in each area. If you are looking for a particular solution please feel
+  free to call 212.877.4277 or email scott@100coaches.org. Thank you!
 coachList:
   - bio: >-
       One of the most highly respected experts in the field of contemporary
@@ -237,120 +244,6 @@ coachList:
       - Speaker
       - Thinker
   - bio: >-
-      Rita Gunther McGrath is a globally recognized expert on strategy,
-      innovation, and growth with an emphasis on corporate entrepreneurship. Her
-      work and ideas help CEOs and senior executives chart a pathway to success
-      in today’s rapidly changing and volatile environments. McGrath is highly
-      valued for her rare ability to connect research to business problems and
-      in 2016 received the “Theory to Practice” award at the [Vienna Strategy
-      Forum](http://www.strategieforum.at/).
-
-
-      Recognized as one of the top 10 management thinkers by global management
-      award [Thinkers50](http://thinkers50.com/t50-ranking/2015-2/) in 2017,
-      2015 and 2013, McGrath also received the award for outstanding achievement
-      in the Strategy category. She is a highly sought after speaker at
-      corporate events, such as the Yale CEO Summit, the Innosight CEO Summit
-      and at the World Economic Forum meeting in Davos. McGrath has also been
-      inducted into the Strategic Management Society “Fellows” in recognition of
-      her impact on the field.
-
-
-      McGrath is often cited in the press, including the Wall Street Journal,
-      New York Times, Washington Post, Financial Times, and NPR’s Marketplace.
-      She maintains an active social media presence, and has been rated one of
-      the 25 smartest women to follow on Twitter by [Fast Company
-      Magazine](http://www.fastcompany.com/3016225/dialed/25-of-the-smartest-women-on-twitter).
-      She consistently appears in rankings of the top business school professors
-      to follow on Twitter. McGrath was voted HR Magazine’s Most Influential
-      International Thinker, writes regularly for Fortune magazine’s [online
-      edition](http://www.fastcompany.com/3016225/dialed/25-of-the-smartest-women-on-twitter),
-      is a regular contributor to the Wall Street Journal’s [The
-      Experts](http://blogs.wsj.com/experts/tag/rita-gunther-mcgrath/) column
-      and blogs regularly at HBR.org.
-
-
-      McGrath is one of the most widely published authors in the [Harvard
-      Business Review](https://hbr.org/search?term=rita%2520mcgrath), including
-      the best-selling “Discovery Driven Planning” (1995), which was recognized
-      as an early articulation of today’s “lean” startup philosophy and has been
-      praised by Clayton Christensen as ‘one of the most important ideas in
-      management – ever.’ Her related book, Discovery Driven Growth: A
-      Breakthrough Process to Reduce Risk and Seize Opportunity (2009) is a deep
-      dive into how to put the technique to work. Her next project, tentatively
-      entitled Discovery Driven Advantage examines how companies can build true
-      proficiency in innovation.
-
-
-      McGrath’s best-selling book, The End of Competitive Advantage: How to Keep
-      Your Strategy Moving as Fast as Your Business, was recognized by
-      Strategy+Business as the #1 business book of the year. She has co-authored
-      two more books: MarketBusters: 40 Strategic Moves that Drive Exceptional
-      Business Growth (2005); and The Entrepreneurial Mindset (2000), all
-      published by Harvard Business Review Press.MarketBusters has been
-      translated into ten languages and was named one of the [best business
-      books](http://www.strategy-business.com/article/00223a) of 2005 by
-      Strategy+Business.
-
-
-      Rita joined the faculty of Columbia Business School in 1993. Prior to life
-      in academia, she was an IT director, worked in the political arena, and
-      founded two startups. She received her Ph.D. from the Wharton School,
-      University of Pennsylvania and has degrees with honors from Barnard
-      College and the Columbia School of International and Public Affairs. She
-      is married and is proud to be the mother of two delightful grownups.
-    coachName: Rita McGrath
-    jobTitle: >-
-      Globally recognized expert on strategy, innovation, and creating growth
-      under uncertain conditions.
-    links:
-      linkedin: ritamcgrath
-    photo: /uploads/rita_mcgrath_headshot.jpg
-    tags:
-      - Author
-      - Speaker
-      - Thinker
-  - bio: >-
-      Thinkers 50 #9 Management Thinker – 2015, #1 Leadership Thinker 2013,
-      author and Professor at INSEAD.
-
-
-      Herminia Ibarra is the Cora Chaired Professor of Leadership and Learning,
-      and Professor of Organisational Behaviour at INSEAD. Prior to joining
-      INSEAD she served on the Harvard Business School faculty for thirteen
-      years. She is a member of the World Economic Forum Global Agenda Councils,
-      a judge for the Financial Times and McKinsey Business Book of the Year
-      Award, and Chairs the Visiting Committee of the Harvard Business School.
-      Thinkers 50 ranked Ibarra #8 among the most influential business gurus in
-      the world.
-
-
-      Professor Ibarra is an expert on professional and leadership development.
-      Her most recent book, Act Like a Leader, Think Like a Leader (Harvard
-      Business School Press, 2015), explains how to step up to a bigger
-      leadership role. Her best-selling book, Working Identity: Unconventional
-      Strategies for Reinventing Your Career (HBSP, 2003) describes how people
-      reinvent their careers.
-
-
-      Ibarra is the author of numerous articles in the Harvard Business Review,
-      Administrative Science Quarterly, Academy of Management Review, Academy of
-      Management Journal, and Organization Science and writes frequently for
-      business media including The Wall Street Journal, Financial Times, and New
-      York Times. She directs Leadership Transition, an executive program
-      designed for managers moving into broader leadership roles and speaks
-      internationally on leadership, talent management, and women’s careers.
-    coachName: Herminia Ibarra
-    jobTitle: Professor of Organizational Behavior
-    links:
-      linkedin: herminia-ibarra-4455411a
-      website: herminiaibarra.com
-    photo: /uploads/ibarra-photo.jpg
-    tags:
-      - Author
-      - Non-Profit
-      - Speaker
-  - bio: >-
       Recognized as one of the 50 leading business thinkers in the world by
       Thinkers50. Whitney Johnson is an expert on disruptive innovation and
       personal disruption; specifically, a framework which she codified in the
@@ -481,6 +374,156 @@ coachList:
       - Consultant
       - Speaker
       - Thinker
+  - bio: "Aicha S. Evans is corporate vice president and general manager of the Communications and Devices Group at Intel Corporation. She is responsible for driving wireless engineering for multi-comm products and Intel platforms, including modems, RF, Wi-Fi, GPS, Bluetooth, NFC, FM, LTE, WLAN/WWAN as well as emerging wireless technologies to lead this industry going forward.\r\n\n\rPreviously Evans was the general manager of the Wireless Platform Research and Development Group where managed the engineering, software, hardware, strategic planning, and product test teams responsible for providing wireless connectivity ingredients and solutions for all Intel platforms.\r\n\n\rEvans joined Intel in 2006 as a software integration and test manager. She held a number of management positions responsible for Intel’s wireless efforts including software engineering and support for customers deploying WiMAX networks in multiple geographies. Additionally, she worked in Israel managing WiFi engineering and product lines. Prior to Intel, Evans spent 10 years in various engineering management positions at Rockwell Semiconductors, Conexant and Skyworks.\r\n\n\rEvans received a bachelor’s degree in computer engineering from The George Washington University in 1996."
+    coachName: Aicha Evans
+    jobTitle: 'Senior Vice President and Chief Strategy Officer, Intel Corporation'
+    links:
+      linkedin: aicha-evans-4365731
+    photo: /uploads/aicha-evans.jpg
+    tags:
+      - Corporate Executive
+      - Speaker
+  - bio: "Alisa is an executive coach who works with senior executives and high potential leaders to help them create positive permanent shifts in their leadership impact and the results they achieve.  In addition to executives in large established companies, she works with Founder/CEOs and executive teams of start-ups to help them improve their leadership, scale the company, and support them in learning key leadership and communication skills. She also leads workshops and speaks on a variety of topics. Her areas of expertise include: Executive Presence; Power, Influence & Charisma; Decision-making; and Corporate Politics.\r\n\nPrior to starting her coaching practice, Alisa was CFO of Clarivergent Technology Partners and head of strategic partnerships at Corporate Alumni. She was a strategy consultant at PricewaterhouseCoopers and The Monitor Group. A CPA, Alisa earned her MBA from Cornell University where she was awarded the Fried Fellowship for Leadership and Academic Excellence. Alisa is known for her high energy and enthusiasm along with her practical, results-oriented approach. She was selected as one of the Top 10 Coaches in Boston by Women’s Business, which called her “absolutely brilliant” and “a super hero.”\r\n\nAlisa is a member of the Cornell Entrepreneurship Advisory Board. She is on the faculty of the “Runway” program at Cornell Tech – an accelerator which focuses on helping post-docs commercialize their research and build companies. She is an angel investor in and advisor to a number of start-ups both in the US and developing countries.\r\n\n\rAlisa is a regular invited lecturer at Harvard University and Cornell University as well as in the Naval War College’s accelerated leadership program. She is a coach for the Linkage Global Institute for Leadership Development and for political leaders from areas of conflict at the Center for Inclusive Security at Harvard University. Alisa a columnist and “Expert” for Worth Magazine and was featured in the book “Reinventing You,” by Dorie Clark. Alisa has been quoted in publications such as the New York Times, the Wall St. Journal, and various other regional and national business publications.\r\n\n\rAlisa has a passionate interest in health, wellness and fitness and has a particular love for running and cycling, especially when combined with scenic travel. She is a fearless cook of ethnic food. She loves all sorts of culture, especially music and theater, and will occasionally burst into song without warning.\r\n\n\rLocated in New York City, Alisa’s current and former clients include: Venmo, Foursquare, Timehop, Bloomberg LLP, Dell, Hitachi Data Systems, Tory Burch, Pfizer, Johnson & Johnson, Novartis, Taro Pharmaceuticals, Association of British Pharmaceuticals Industry (ABPI) , Fidelity, Standard Chartered Bank, Citibank, UBS, SilverLake, KPMG, PricewaterhouseCoopers, Sony Music, Harvard University, and The New York Times Company."
+    coachName: Alisa Cohn
+    jobTitle: NYC Executive Coach for CEOs & Founders
+    links:
+      linkedin: alisacohn/
+    photo: /uploads/alisa-cohn.jpg
+    tags:
+      - Executive Coach
+      - Entrepreneur
+      - Speaker
+  - bio: "Antonio Nieto-Rodriguez (antonionietorodriguez.com) is the world’s leading champion of Project Management and Strategy Implementation. He is the creator of concepts such as the “Hierarchy of Purpose” featured by Harvard Business Review, or the Project Manifesto; which argues that Projects are the lingua franca of the business and personal worlds from the C-suite to managing your career or relationships.\r\n\nAntonio’s research and global impact in modern management have been recognized by Thinkers50 with the prestigious award “Ideas into Practice“.\r\n\n\rA pioneer and leading authority in teaching strategy execution and project management to senior executives at top Business Schools; currently visiting professor at Duke CE, Instituto de Empresa, Solvay, Vlerick, Ecole des Ponts and Skolkovo.\r\n\n\rAuthor of the best-selling book “The Focused Organization” and a regular writer in several business magazines such as Harvard Business Review, Dialogue, Rotman Magazine, Singapore Institute of Management, CIO.com.\r\n\n\rHe is a much in-demand speaker at events worldwide, Antonio has presented at more than 160 conferences over the past 15 years, regularly evaluated as the best speaker. European Business Summit, Gartner Summit, TEDx, and EU Cohesion Policy Conference with EU President Donald Tusk; are some of the events he has delivered inspirational speeches.\r\n\n\rAntonio is Director of the Program Management Office at GlaxoSmithKline Vaccines and past Board Chairman of the Project Management Institute, the largest non-profit in the area of project management, with more than 800.000 worldwide.\r\n\n\rPreviously he worked as Head of Project Portfolio Management at BNP Paribas Fortis. Prior he was Head of Post-Merger Integration at Fortis Bank, leading the largest takeover in financial service history: the acquisition of ABN AMRO. He also worked for ten years at PricewaterhouseCoopers, becoming the global lead practitioner for project and change management.\r\n\n\rBorn in Madrid, Spain, and educated in Germany, Mexico, Italy and the United States, Antonio is an Economists; has an MBA from London Business School; and Insead’s International Director Program. He is fluent in five languages.\r\n\n\rantonionietorodriguez.com"
+    coachName: Antonio Nieto-Rodriguez
+    jobTitle: World Champion Projects and Project Management
+    links:
+      facebook: antonio.nieto.5439
+      linkedin: antonionietorodriguez
+      twitter: ANietoRodriguez
+      website: www.antonionietorodriguez.com
+    photo: /uploads/antonio-nieto-rodriguez.jpg
+    tags:
+      - Author
+      - Consultant
+      - Corporate Executive
+      - Executive Coach
+      - Non-Profit
+      - Speaker
+      - Thinker
+  - bio: >-
+      Rita Gunther McGrath is a globally recognized expert on strategy,
+      innovation, and growth with an emphasis on corporate entrepreneurship. Her
+      work and ideas help CEOs and senior executives chart a pathway to success
+      in today’s rapidly changing and volatile environments. McGrath is highly
+      valued for her rare ability to connect research to business problems and
+      in 2016 received the “Theory to Practice” award at the [Vienna Strategy
+      Forum](http://www.strategieforum.at/).
+
+
+      Recognized as one of the top 10 management thinkers by global management
+      award [Thinkers50](http://thinkers50.com/t50-ranking/2015-2/) in 2017,
+      2015 and 2013, McGrath also received the award for outstanding achievement
+      in the Strategy category. She is a highly sought after speaker at
+      corporate events, such as the Yale CEO Summit, the Innosight CEO Summit
+      and at the World Economic Forum meeting in Davos. McGrath has also been
+      inducted into the Strategic Management Society “Fellows” in recognition of
+      her impact on the field.
+
+
+      McGrath is often cited in the press, including the Wall Street Journal,
+      New York Times, Washington Post, Financial Times, and NPR’s Marketplace.
+      She maintains an active social media presence, and has been rated one of
+      the 25 smartest women to follow on Twitter by [Fast Company
+      Magazine](http://www.fastcompany.com/3016225/dialed/25-of-the-smartest-women-on-twitter).
+      She consistently appears in rankings of the top business school professors
+      to follow on Twitter. McGrath was voted HR Magazine’s Most Influential
+      International Thinker, writes regularly for Fortune magazine’s [online
+      edition](http://www.fastcompany.com/3016225/dialed/25-of-the-smartest-women-on-twitter),
+      is a regular contributor to the Wall Street Journal’s [The
+      Experts](http://blogs.wsj.com/experts/tag/rita-gunther-mcgrath/) column
+      and blogs regularly at HBR.org.
+
+
+      McGrath is one of the most widely published authors in the [Harvard
+      Business Review](https://hbr.org/search?term=rita%2520mcgrath), including
+      the best-selling “Discovery Driven Planning” (1995), which was recognized
+      as an early articulation of today’s “lean” startup philosophy and has been
+      praised by Clayton Christensen as ‘one of the most important ideas in
+      management – ever.’ Her related book, Discovery Driven Growth: A
+      Breakthrough Process to Reduce Risk and Seize Opportunity (2009) is a deep
+      dive into how to put the technique to work. Her next project, tentatively
+      entitled Discovery Driven Advantage examines how companies can build true
+      proficiency in innovation.
+
+
+      McGrath’s best-selling book, The End of Competitive Advantage: How to Keep
+      Your Strategy Moving as Fast as Your Business, was recognized by
+      Strategy+Business as the #1 business book of the year. She has co-authored
+      two more books: MarketBusters: 40 Strategic Moves that Drive Exceptional
+      Business Growth (2005); and The Entrepreneurial Mindset (2000), all
+      published by Harvard Business Review Press.MarketBusters has been
+      translated into ten languages and was named one of the [best business
+      books](http://www.strategy-business.com/article/00223a) of 2005 by
+      Strategy+Business.
+
+
+      Rita joined the faculty of Columbia Business School in 1993. Prior to life
+      in academia, she was an IT director, worked in the political arena, and
+      founded two startups. She received her Ph.D. from the Wharton School,
+      University of Pennsylvania and has degrees with honors from Barnard
+      College and the Columbia School of International and Public Affairs. She
+      is married and is proud to be the mother of two delightful grownups.
+    coachName: Rita McGrath
+    jobTitle: >-
+      Globally recognized expert on strategy, innovation, and creating growth
+      under uncertain conditions.
+    links:
+      linkedin: ritamcgrath
+    photo: /uploads/rita_mcgrath_headshot.jpg
+    tags:
+      - Author
+      - Speaker
+      - Thinker
+  - bio: >-
+      Thinkers 50 #9 Management Thinker – 2015, #1 Leadership Thinker 2013,
+      author and Professor at INSEAD.
+
+
+      Herminia Ibarra is the Cora Chaired Professor of Leadership and Learning,
+      and Professor of Organisational Behaviour at INSEAD. Prior to joining
+      INSEAD she served on the Harvard Business School faculty for thirteen
+      years. She is a member of the World Economic Forum Global Agenda Councils,
+      a judge for the Financial Times and McKinsey Business Book of the Year
+      Award, and Chairs the Visiting Committee of the Harvard Business School.
+      Thinkers 50 ranked Ibarra #8 among the most influential business gurus in
+      the world.
+
+
+      Professor Ibarra is an expert on professional and leadership development.
+      Her most recent book, Act Like a Leader, Think Like a Leader (Harvard
+      Business School Press, 2015), explains how to step up to a bigger
+      leadership role. Her best-selling book, Working Identity: Unconventional
+      Strategies for Reinventing Your Career (HBSP, 2003) describes how people
+      reinvent their careers.
+
+
+      Ibarra is the author of numerous articles in the Harvard Business Review,
+      Administrative Science Quarterly, Academy of Management Review, Academy of
+      Management Journal, and Organization Science and writes frequently for
+      business media including The Wall Street Journal, Financial Times, and New
+      York Times. She directs Leadership Transition, an executive program
+      designed for managers moving into broader leadership roles and speaks
+      internationally on leadership, talent management, and women’s careers.
+    coachName: Herminia Ibarra
+    jobTitle: Professor of Organizational Behavior
+    links:
+      linkedin: herminia-ibarra-4455411a
+      website: herminiaibarra.com
+    photo: /uploads/ibarra-photo.jpg
+    tags:
+      - Author
+      - Non-Profit
+      - Speaker
   - bio: >-
       Dr. Agapol Na Songkhla is Chief People Officer and Executive Vice
       President of Human Capital Group at Thai Beverage (ThaiBev), ASEAN’s
@@ -515,25 +558,6 @@ coachList:
     photo: /uploads/agapol-na-songkhla.jpg
     tags:
       - Corporate Executive
-  - bio: "Aicha S. Evans is corporate vice president and general manager of the Communications and Devices Group at Intel Corporation. She is responsible for driving wireless engineering for multi-comm products and Intel platforms, including modems, RF, Wi-Fi, GPS, Bluetooth, NFC, FM, LTE, WLAN/WWAN as well as emerging wireless technologies to lead this industry going forward.\r\n\n\rPreviously Evans was the general manager of the Wireless Platform Research and Development Group where managed the engineering, software, hardware, strategic planning, and product test teams responsible for providing wireless connectivity ingredients and solutions for all Intel platforms.\r\n\n\rEvans joined Intel in 2006 as a software integration and test manager. She held a number of management positions responsible for Intel’s wireless efforts including software engineering and support for customers deploying WiMAX networks in multiple geographies. Additionally, she worked in Israel managing WiFi engineering and product lines. Prior to Intel, Evans spent 10 years in various engineering management positions at Rockwell Semiconductors, Conexant and Skyworks.\r\n\n\rEvans received a bachelor’s degree in computer engineering from The George Washington University in 1996."
-    coachName: Aicha Evans
-    jobTitle: 'Senior Vice President and Chief Strategy Officer, Intel Corporation'
-    links:
-      linkedin: aicha-evans-4365731
-    photo: /uploads/aicha-evans.jpg
-    tags:
-      - Corporate Executive
-      - Speaker
-  - bio: "Alisa is an executive coach who works with senior executives and high potential leaders to help them create positive permanent shifts in their leadership impact and the results they achieve.  In addition to executives in large established companies, she works with Founder/CEOs and executive teams of start-ups to help them improve their leadership, scale the company, and support them in learning key leadership and communication skills. She also leads workshops and speaks on a variety of topics. Her areas of expertise include: Executive Presence; Power, Influence & Charisma; Decision-making; and Corporate Politics.\r\n\nPrior to starting her coaching practice, Alisa was CFO of Clarivergent Technology Partners and head of strategic partnerships at Corporate Alumni. She was a strategy consultant at PricewaterhouseCoopers and The Monitor Group. A CPA, Alisa earned her MBA from Cornell University where she was awarded the Fried Fellowship for Leadership and Academic Excellence. Alisa is known for her high energy and enthusiasm along with her practical, results-oriented approach. She was selected as one of the Top 10 Coaches in Boston by Women’s Business, which called her “absolutely brilliant” and “a super hero.”\r\n\nAlisa is a member of the Cornell Entrepreneurship Advisory Board. She is on the faculty of the “Runway” program at Cornell Tech – an accelerator which focuses on helping post-docs commercialize their research and build companies. She is an angel investor in and advisor to a number of start-ups both in the US and developing countries.\r\n\n\rAlisa is a regular invited lecturer at Harvard University and Cornell University as well as in the Naval War College’s accelerated leadership program. She is a coach for the Linkage Global Institute for Leadership Development and for political leaders from areas of conflict at the Center for Inclusive Security at Harvard University. Alisa a columnist and “Expert” for Worth Magazine and was featured in the book “Reinventing You,” by Dorie Clark. Alisa has been quoted in publications such as the New York Times, the Wall St. Journal, and various other regional and national business publications.\r\n\n\rAlisa has a passionate interest in health, wellness and fitness and has a particular love for running and cycling, especially when combined with scenic travel. She is a fearless cook of ethnic food. She loves all sorts of culture, especially music and theater, and will occasionally burst into song without warning.\r\n\n\rLocated in New York City, Alisa’s current and former clients include: Venmo, Foursquare, Timehop, Bloomberg LLP, Dell, Hitachi Data Systems, Tory Burch, Pfizer, Johnson & Johnson, Novartis, Taro Pharmaceuticals, Association of British Pharmaceuticals Industry (ABPI) , Fidelity, Standard Chartered Bank, Citibank, UBS, SilverLake, KPMG, PricewaterhouseCoopers, Sony Music, Harvard University, and The New York Times Company."
-    coachName: Alisa Cohn
-    jobTitle: NYC Executive Coach for CEOs & Founders
-    links:
-      linkedin: alisacohn/
-    photo: /uploads/alisa-cohn.jpg
-    tags:
-      - Executive Coach
-      - Entrepreneur
-      - Speaker
   - bio: "Dr. Annie McKee is an executive coach and advisor to leaders of Fortune/FTSE 500 companies, governments and NGOs around the globe. Annie is committed to a person-centered approach that enables leaders to develop their emotional intelligence, enhance their strategic thinking and abilities, and build their the capacity to create cultures where everyone—and the enterprise—can  thrive. \r\n\n\rIn addition, she is a Senior Fellow at the University of Pennsylvania where she teaches and leads the PennCLO Executive Doctoral program.\r\n\n\rAnnie is the bestselling coauthor of three books published by Harvard Business Review Press: Primal Leadership, with Daniel Goleman and Richard Boyatzis (2002/2014); Resonant Leadership, with Richard Boyatzis (2005), and Becoming a Resonant Leader, with Richard Boyatzis and Frances Johnston (2008). She is also the author of Management: A Focus on Leaders (Pearson/Prentice Hall 2014) and her newest book, How to be Happy at Work: The Power of Purpose, Hope and Friendship, will be released by Harvard Business Review Press on September 5, 2017."
     coachName: Annie McKee
     jobTitle: 'Author, Speaker, Senior Fellow at the University of Pennsylvania'
@@ -544,23 +568,6 @@ coachList:
       - Author
       - Consultant
       - Executive Coach
-      - Speaker
-      - Thinker
-  - bio: "Antonio Nieto-Rodriguez (antonionietorodriguez.com) is the world’s leading champion of Project Management and Strategy Implementation. He is the creator of concepts such as the “Hierarchy of Purpose” featured by Harvard Business Review, or the Project Manifesto; which argues that Projects are the lingua franca of the business and personal worlds from the C-suite to managing your career or relationships.\r\n\nAntonio’s research and global impact in modern management have been recognized by Thinkers50 with the prestigious award “Ideas into Practice“.\r\n\n\rA pioneer and leading authority in teaching strategy execution and project management to senior executives at top Business Schools; currently visiting professor at Duke CE, Instituto de Empresa, Solvay, Vlerick, Ecole des Ponts and Skolkovo.\r\n\n\rAuthor of the best-selling book “The Focused Organization” and a regular writer in several business magazines such as Harvard Business Review, Dialogue, Rotman Magazine, Singapore Institute of Management, CIO.com.\r\n\n\rHe is a much in-demand speaker at events worldwide, Antonio has presented at more than 160 conferences over the past 15 years, regularly evaluated as the best speaker. European Business Summit, Gartner Summit, TEDx, and EU Cohesion Policy Conference with EU President Donald Tusk; are some of the events he has delivered inspirational speeches.\r\n\n\rAntonio is Director of the Program Management Office at GlaxoSmithKline Vaccines and past Board Chairman of the Project Management Institute, the largest non-profit in the area of project management, with more than 800.000 worldwide.\r\n\n\rPreviously he worked as Head of Project Portfolio Management at BNP Paribas Fortis. Prior he was Head of Post-Merger Integration at Fortis Bank, leading the largest takeover in financial service history: the acquisition of ABN AMRO. He also worked for ten years at PricewaterhouseCoopers, becoming the global lead practitioner for project and change management.\r\n\n\rBorn in Madrid, Spain, and educated in Germany, Mexico, Italy and the United States, Antonio is an Economists; has an MBA from London Business School; and Insead’s International Director Program. He is fluent in five languages.\r\n\n\rantonionietorodriguez.com"
-    coachName: Antonio Nieto-Rodriguez
-    jobTitle: World Champion Projects and Project Management
-    links:
-      facebook: antonio.nieto.5439
-      linkedin: antonionietorodriguez
-      twitter: ANietoRodriguez
-      website: www.antonionietorodriguez.com
-    photo: /uploads/antonio-nieto-rodriguez.jpg
-    tags:
-      - Author
-      - Consultant
-      - Corporate Executive
-      - Executive Coach
-      - Non-Profit
       - Speaker
       - Thinker
   - bio: "Anu Oza has over 25 years of international experience in Leadership Development, Diversity and Inclusion and CSR.\r\n\n\rA graduate of Harvard, the London School of Economics and the Tata Institute of Social Sciences, she has blended her dual interests in Human Potential and Public Policy by working across the private, government and non-profit sectors.\r\n\n\rShe has held Senior Executive positions in both consulting and industry. She led the leadership development practice and functions at both Mercer and Accenture, and was Head of Human Resources for Foster Wheeler, a leading Engineering company. Additionally, she worked with Unilever in India and in the UK.\r\n\n\rHer non-profit and government work has included consulting with the UNFPA for their first ever conference of Public-Private Partnerships and consulting for the UN Global Compact. She has been selected by the Government of India to be amongst the first batch of trainers and facilitators on CSR, after the Government made CSR spend mandatory for organizations in specific categories\r\n\n\rHer passion for coaching stems from her deep interest in the art, science and practice of leadership. She believes that both leadership development and coaching involve leading with questions as much as, if not more than directing with answers. Additionally, she believes that leadership development and coaching need to be able to help clients face realities, discard old identities, renegotiate both inner and outer loyalties that may or may not be serving her and much more.\r\n\n\rAnu’s current work involves working extensively with women and men in the fields of diversity and inclusion. She has trained or coached over three thousand people in this field. Her work with women focusses on helping them become aware of and grounded in their value, thereby breaking their “inner glass ceiling”. She also works with them on increasing their impact and influence through better negotiation and navigation of organizational power and politics\r\n\n\rAnu is one of the few people in India who have written about what corporates can do to facilitate broader social inclusion through CSR initiatives and other HR practices that can address some of the most deeply rooted, rigid social hierarchies.\r\n\n\rShe enjoys teaching and especially treasures her experiences of leading sessions at the MS Swaminathan Research Foundation, Harvard University and Columbia University."
