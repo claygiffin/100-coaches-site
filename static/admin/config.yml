@@ -122,12 +122,12 @@ collections:
           - {label: Template Key, name: templateKey, widget: hidden, default: contact-page}
           - {label: Title, name: title, widget: string}
           - {label: Lede, name: lede, widget: text}
-          # - {label: Email Address, name: email, widget: string}
-          # - {label: Phone Number, name: phone, widget: string}
-          # - label: Services
-          #   name: services
-          #   widget: list
-          #   fields:
-          #     - {label: Service Title, name: title, widget: string}
-          #     - {label: Service Description, name: description, widget: markdown, buttons: [bold, italic, link, bulleted-list, numbered-list, quote]}
-          #     - {label: Affiliated Coach, name: coach, widget: relation, collection: coaches, searchFields: coachName, valueField: coachName}
+          - {label: Email Address, name: email, widget: string}
+          - {label: Phone Number, name: phone, widget: string}
+          - label: Services
+            name: services
+            widget: list
+            fields:
+              - {label: Service Title, name: title, widget: string}
+              - {label: Service Description, name: description, widget: markdown, buttons: [bold, italic, link, bulleted-list, numbered-list, quote]}
+              - {label: Affiliated Coach, name: coach, widget: relation, collection: coaches, searchFields: coachList->coachName, valueField: coachName}
