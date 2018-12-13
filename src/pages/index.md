@@ -43,7 +43,7 @@ education:
     very habits that helped women early in their careers can hinder them as they
     move up. Simply put, what got you here won't get you there . . . and you
     might not even realize your blind spots until it's too late. 
-  url: 'https://www.amazon.com/Marshall-Goldsmith/e/B001ILIAKC'
+  url: 'Link: http://a.co/d/9l2sOxZ'
 institute:
   headline: Lorem ipsum comet dolor consectetur sit vatar ametius
   linkText: Learn More
