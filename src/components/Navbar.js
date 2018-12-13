@@ -62,6 +62,9 @@ class Navbar extends React.Component {
           <Link className="navbar-item" activeClassName="active" to="/coaches">
             The Coaches
           </Link>
+          <Link className="navbar-item" activeClassName="active" to="/contact">
+            Work With Us
+          </Link>
         </div>
     </nav>
     )

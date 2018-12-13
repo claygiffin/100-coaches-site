@@ -26,6 +26,7 @@ ContactPage.propTypes = {
 
 export class ContactPageTemplate extends React.Component {
   render() {
+    const phoneUnformatted = this.props.phone.split(/[\D,]+/).join('');
     return (
       <div id="about-page" className="page-content">
         <h1>
@@ -34,6 +35,8 @@ export class ContactPageTemplate extends React.Component {
         <p className="intro-text">
           {this.props.lede}
         </p>
+        <h3><span>email: </span><a href={`mailto: ${this.props.email}`}>{this.props.email}</a></h3>
+        <h3><span>phone: </span><a href={`tel: ${phoneUnformatted}`}>{this.props.phone}</a></h3>
       </div>
     )
   }
@@ -47,7 +50,13 @@ export const ContactPageQuery = graphql`
       frontmatter {
         title
         lede
-
+        email
+        phone
+        services {
+          title
+          description
+          coach
+        }
       }
     }
   }
