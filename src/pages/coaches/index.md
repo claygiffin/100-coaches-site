@@ -1,14 +1,7 @@
 ---
 templateKey: coaches-page
-title: >
-  The 100 Coaches, selected by Marshall, are each highly accomplished and
-  compassionate people, each one committed to using their talents to make good
-  people and organizations better and paying it forward. Together, they create a
-  unique spectrum of talent including the world’s leading executive coaches,
-  consultants, speakers, authors, iconic leaders, entrepreneurs and non-profit
-  leaders. Browse to enjoy the breadth of members or select a section to see the
-  depth in each area. If you are looking for a particular solution please feel
-  free to call 212.877.4277 or email scott@100coaches.org. Thank you!
+title: |
+  The coaches lorem ipsum comet dolor et cetera
 coachList:
   - bio: >-
       One of the most highly respected experts in the field of contemporary
