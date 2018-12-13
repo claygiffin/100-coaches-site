@@ -5,8 +5,8 @@ lede: >
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit, sed
   do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-email: loremipsum@gmail.com
-phone: 12345798
+email: info@100coaches.com
+phone: 212.877.4277
 services:
   - coach: Whitney Johnson
     description: >-
