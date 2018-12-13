@@ -6,7 +6,7 @@ lede: >
   incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit, sed
   do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 email: info@100coaches.com
-phone: '''212.877.4277'''
+phone: Test number not a number
 services:
   - coach: Whitney Johnson
     description: >-
