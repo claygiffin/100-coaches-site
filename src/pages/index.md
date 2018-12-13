@@ -22,12 +22,12 @@ consultancy:
   linkText: Get Started
   text: >-
     100 Coaches(tm) include some the world's most effective consultants in all
-    areas of employee and customer growth and engagement. They create a unique
-    spectrum of talent who give speeches, deliver workshops and lead
-    transformation. By having so many talented people in our group, we make it
-    easy for you to find the right solution which may include out unique ability
-    to bring together multiple world class resources. If you are interested to
-    learn more, let's get started!
+    areas of employee and customer growth and engagement. We offer a unique
+    spectrum of professionals who give speeches, deliver workshops and lead
+    transformation. With so many talented people in our group, we make it easier
+    to find the right solution which may include our unique ability to bring
+    together multiple world class resources. If you are interested to learn
+    more, let's get started!
 education:
   headline: >-
     Many of the 100 Coaches(TM) are best selling authors here are a few of our
