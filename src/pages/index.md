@@ -30,13 +30,20 @@ consultancy:
     to bring together multiple world class resources. If you are interested to
     learn more, let's get started!
 education:
-  headline: Books lorem ipsum comet dolor consectetur sit vatar
+  headline: >-
+    Many of the 100 Coaches(TM) are best selling authors here are a few of our
+    recent releases
   image: /uploads/marshall-books@2x.png
   linkText: Order Now
   text: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna.
-  url: www.example.com
+    Leadership expert Sally Helgesen and bestselling leadership coach Marshall
+    Goldsmith have trained thousands of high achievers--men and women--to reach
+    even greater heights. Again and again, they see that women face specific and
+    different roadblocks from men as they advance in the workplace. In fact, the
+    very habits that helped women early in their careers can hinder them as they
+    move up. Simply put, what got you here won't get you there . . . and you
+    might not even realize your blind spots until it's too late. 
+  url: 'https://www.amazon.com/Marshall-Goldsmith/e/B001ILIAKC'
 institute:
   headline: Lorem ipsum comet dolor consectetur sit vatar ametius
   linkText: Learn More
