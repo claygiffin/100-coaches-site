@@ -130,4 +130,13 @@ collections:
             fields:
               - {label: Service Title, name: title, widget: string}
               - {label: Service Description, name: description, widget: markdown, buttons: [bold, italic, link, bulleted-list, numbered-list, quote]}
-              - {label: Affiliated Coach, name: coach, widget: relation, collection: coaches, searchFields: coachList.coachName, valueField: coachName}
+              - label: Affiliated Coach
+                name: coach
+                # widget: relation
+                # collection: coaches
+                # searchFields: [coachList->coachName]
+                # valueField: coachList->coachName
+                widget: relation
+                collection: thought
+                searchFields: ["author"]
+                valueField: "author"
