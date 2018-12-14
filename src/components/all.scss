@@ -1293,9 +1293,9 @@ footer.site-footer {
   .service {
     @extend %col-10;
     @include flexbox;
-    margin: 6rem 0 0;
+    margin: 9rem 0 0;
     &:last-child {
-      margin-bottom: 9rem;
+      margin-bottom: 12rem;
     }
     .coach-wrap {
       width: 27.5%;
