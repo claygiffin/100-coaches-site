@@ -27,7 +27,7 @@ consultancy:
     together multiple world class resources.
 education:
   headline: >-
-    Many of the 100 Coaches(TM) are best selling authors here are a few of our
+    Many of the 100 Coaches are also best-selling authors. Here are a few of our
     recent releases
   image: /uploads/marshall-books@2x.png
   linkText: Order Now
