@@ -3,31 +3,28 @@ templateKey: home-page
 intro:
   linkText: Read Our Story
   text: >-
-    100 Coaches(tm) offers services, events, online courses and other
-    opportunities to inspire, develop, and energize leaders for the future. We
-    amplify the collective impact of our exclusive community to improve the
-    world. 
+    100 Coaches offers services, events, online courses and other opportunities
+    to inspire, develop, and energize leaders for the future. We amplify the
+    collective impact of our exclusive community to improve the world. 
 coaches:
   headline: Our Members
   text: >-
-    R>The 100 Coaches are each highly accomplished and compassionate people,
-    each one committed to using their talents to make good people and
-    organizations better. Together, we create a unique spectrum of talent
-    including the world’s leading executive coaches, consultants, speakers,
-    authors, iconic leaders, entrepreneurs and non-profit leaders. Browse to
-    enjoy the breadth of members or select a section to see the depth in each
-    area. 
+    The 100 Coaches are each highly accomplished and compassionate people, each
+    one committed to using their talents to make good people and organizations
+    better. Together, we create a unique spectrum of talent including the
+    world’s leading executive coaches, consultants, speakers, authors, iconic
+    leaders, entrepreneurs and non-profit leaders. Browse to enjoy the breadth
+    of members or select a section to see the depth in each area. 
 consultancy:
   headline: Work With Us
-  linkText: Get Started
+  linkText: Work with us
   text: >-
-    100 Coaches(tm) include some the world's most effective consultants in all
-    areas of employee and customer growth and engagement. We offer a unique
-    spectrum of professionals who give speeches, deliver workshops and lead
+    100 Coaches include some the world's most effective consultants in all areas
+    of employee and customer growth and engagement. We offer a unique spectrum
+    of professionals who give speeches, deliver workshops, and lead
     transformation. With so many talented people in our group, we make it easier
     to find the right solution which may include our unique ability to bring
-    together multiple world class resources. If you are interested to learn
-    more, let's get started!
+    together multiple world class resources.
 education:
   headline: >-
     Many of the 100 Coaches(TM) are best selling authors here are a few of our
