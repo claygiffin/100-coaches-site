@@ -13,8 +13,7 @@ coaches:
     one committed to using their talents to make good people and organizations
     better. Together, we create a unique spectrum of talent including the
     world’s leading executive coaches, consultants, speakers, authors, iconic
-    leaders, entrepreneurs and non-profit leaders. Browse to enjoy the breadth
-    of members or select a section to see the depth in each area. 
+    leaders, entrepreneurs and non-profit leaders.
 consultancy:
   headline: Work With Us
   linkText: Work with us
