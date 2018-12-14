@@ -28,6 +28,7 @@ ContactPage.propTypes = {
 export class ContactPageTemplate extends React.Component {
   render() {
     const phoneUnformatted = this.props.phone.split(/[\D,]+/).join('');
+    const Description = markdownContent
     return (
       <div id="contact-page" className="page-content">
         <h1>
@@ -45,7 +46,7 @@ export class ContactPageTemplate extends React.Component {
             <div className="service" key={service.title}>
               <div className="service-text">
                 <h2>{service.title}</h2>
-                <p>{service.description}</p>
+                <Description content={service.description} />
               </div>
               <div className="coach-wrap">
                 <div className="coach">

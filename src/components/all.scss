@@ -1314,6 +1314,11 @@ footer.site-footer {
           display: none;
         }
       }
+      p {
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
     }
   }
 }
