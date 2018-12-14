@@ -65,6 +65,13 @@ $sizeList: 12 13 15 16 18 21 24 30 36 72;
   }
 }
 
+%col-10 {
+  width: 78.75vw;
+  @media screen and (max-width: $tb * 1px) {
+    width: 90vw;
+  }
+}
+
 %col-12 {
   width: 95vw;
   @media screen and (max-width: $tb * 1px) {
@@ -1265,6 +1272,49 @@ footer.site-footer {
       }
     }
       
+  }
+}
+
+#contact-page {
+  .contact-link
+  {
+    span {
+      color: #aaa;
+    }
+    a {
+      text-decoration: none;
+      color: $green;
+      @include transition(color .2s ease);
+      &:hover {
+        color: $greenLight;
+      }
+    }
+  }
+  .service {
+    @extend %col-10;
+    @include flexbox;
+    margin: 6rem 0 0;
+    &:last-child {
+      margin-bottom: 9rem;
+    }
+    .coach-wrap {
+      width: 27.5%;
+      @include order(1);
+    }
+    .service-text {
+      width: 72.5%;
+      padding-left: 3rem;
+      @include order(2);
+      h2 {
+        margin-top: 0;
+        margin-bottom: .5em;
+        text-align: left;
+        @include align-items(flex-start);
+        &:after {
+          display: none;
+        }
+      }
+    }
   }
 }
 
