@@ -201,7 +201,7 @@ h4 {
 h5 {
   @include effraStack;
   @extend %font-16;
-  font-weight: 300;
+  font-weight: 400;
   font-style: italic;
   margin: .25em 0;
 }
@@ -1300,6 +1300,9 @@ footer.site-footer {
     .coach-wrap {
       width: 27.5%;
       @include order(1);
+      @media screen and (max-width: $mb * 1px) {
+        display: none;
+      }
     }
     .service-text {
       width: 72.5%;
@@ -1318,6 +1321,10 @@ footer.site-footer {
         &:last-child {
           margin-bottom: 0;
         }
+      }
+      @media screen and (max-width: $mb * 1px) {
+        width: 100%;
+        padding: 0;
       }
     }
   }
