@@ -16,7 +16,7 @@ coaches:
     leaders, entrepreneurs and non-profit leaders.
 consultancy:
   headline: Work With Us
-  linkText: Let's Get Started
+  linkText: Work with us
   text: >-
     100 Coaches include some the world's most effective consultants in all areas
     of employee and customer growth and engagement. We offer a unique spectrum
@@ -38,7 +38,7 @@ education:
     very habits that helped women early in their careers can hinder them as they
     move up. Simply put, what got you here won't get you there... and you might
     not even realize your blind spots until it's too late. 
-  url: 'Link: http://a.co/d/9l2sOxZ'
+  url: 'http://a.co/d/9l2sOxZ'
 institute:
   headline: Lorem ipsum comet dolor consectetur sit vatar ametius
   linkText: Learn More
