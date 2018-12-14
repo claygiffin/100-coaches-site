@@ -33,12 +33,12 @@ education:
   linkText: Order Now
   text: >-
     Leadership expert Sally Helgesen and bestselling leadership coach Marshall
-    Goldsmith have trained thousands of high achievers--men and women--to reach
+    Goldsmith have trained thousands of high achievers—men and women—to reach
     even greater heights. Again and again, they see that women face specific and
     different roadblocks from men as they advance in the workplace. In fact, the
     very habits that helped women early in their careers can hinder them as they
-    move up. Simply put, what got you here won't get you there . . . and you
-    might not even realize your blind spots until it's too late. 
+    move up. Simply put, what got you here won't get you there... and you might
+    not even realize your blind spots until it's too late. 
   url: 'Link: http://a.co/d/9l2sOxZ'
 institute:
   headline: Lorem ipsum comet dolor consectetur sit vatar ametius
