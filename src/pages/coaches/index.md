@@ -1,7 +1,9 @@
 ---
 templateKey: coaches-page
-title: |
-  The coaches lorem ipsum comet dolor et cetera
+title: >
+  The 100 Coaches are a unique spectrum of talent including the world’s leading
+  executive coaches, consultants, speakers, authors, iconic leaders,
+  entrepreneurs and non-profit leaders.
 coachList:
   - bio: >-
       One of the most highly respected experts in the field of contemporary
