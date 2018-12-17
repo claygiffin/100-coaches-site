@@ -25,7 +25,9 @@ consultancy:
     to find the right solution which may include our unique ability to bring
     together multiple world class resources.
 education:
-  headline: Great new thinking from MG100 author Sally Helgesen and Marshall!
+  headline: >-
+    Great new thinking from Sally Helgesen and Marshall on how women can get
+    there!
   image: /uploads/marshall-books@2x.png
   linkText: Order Now
   text: >-
