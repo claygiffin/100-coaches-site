@@ -25,9 +25,7 @@ consultancy:
     to find the right solution which may include our unique ability to bring
     together multiple world class resources.
 education:
-  headline: >-
-    Many of the 100 Coaches are also best-selling authors. Here are a few of our
-    recent releases
+  headline: Great new thinking from MG100 author Sally Helgesen and Marshall!
   image: /uploads/marshall-books@2x.png
   linkText: Order Now
   text: >-
