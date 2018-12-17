@@ -102,13 +102,15 @@ export class HomePageTemplate extends React.Component {
             </div>
             <div className="text" >
               <p>{this.props.institute.text}</p>
-              <a className="text-link" 
-                href={`//${this.props.institute.url.replace(/(^\w+:|^)\/\//, '')}`} 
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                {this.props.institute.linkText}
-              </a>
+              {this.props.institute.linkText &&                
+                <a className="text-link" 
+                  href={`//${this.props.institute.url.replace(/(^\w+:|^)\/\//, '')}`} 
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {this.props.institute.linkText}
+                </a>
+              }
             </div>
           </section>
         </div>
