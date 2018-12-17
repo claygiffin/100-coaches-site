@@ -9,8 +9,8 @@ intro:
 coaches:
   headline: Our Members
   text: >-
-    The 100 Coaches are each highly accomplished and compassionate people, each
-    one committed to using their talents to make good people and organizations
+    100 Coaches are highly accomplished and compassionate people, each one
+    committed to using their talents to make good people and organizations
     better. Together, we create a unique spectrum of talent including the
     world’s leading executive coaches, consultants, speakers, authors, iconic
     leaders, entrepreneurs and non-profit leaders.
