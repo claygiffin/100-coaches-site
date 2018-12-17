@@ -70,7 +70,7 @@ export class HomePageTemplate extends React.Component {
           <section id="consultancy">
             <h2>{this.props.consultancy.headline}</h2>
             <div className="intro-text">{this.props.consultancy.text}</div>
-            <Link to="/" className="cta-link">{this.props.consultancy.linkText}</Link>
+            <Link to="/contact" className="cta-link">{this.props.consultancy.linkText}</Link>
           </section>
           <section id="thought-leadership">
             <h2>Thought Leadership</h2>
