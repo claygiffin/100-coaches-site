@@ -77,7 +77,7 @@ export default class CoachProfile extends React.Component {
             <div className="tags">          
               {coach.tags && coach.tags.map((tag, i) => <h6 key={i}>{tag}</h6>)}
             </div>
-            {coach.tags.filter(tag => hireTags.includes(tag)).length > 0 ? <a className="contact-link cta-link" href={`mailto:info@100coaches.com?subject=Inquiry to work with ${coach.coachName}`} target="_blank" rel="noopener noreferrer"><h6>Work with {firstName}</h6></a> : <span className="divider"></span>}
+            {coach.tags && coach.tags.filter(tag => hireTags.includes(tag)).length > 0 ? <a className="contact-link cta-link" href={`mailto:info@100coaches.com?subject=Inquiry to work with ${coach.coachName}`} target="_blank" rel="noopener noreferrer"><h6>Work with {firstName}</h6></a> : <span className="divider"></span>}
             <div className="bio">
               <Bio content={coach.bio} />
             </div>   
