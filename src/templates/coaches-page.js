@@ -43,6 +43,7 @@ const tags = [
     name: 'Speakers',
     matches: [
       'Speaker',
+      'Public Speaker'
     ],
   },
   {

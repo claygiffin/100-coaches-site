@@ -3,6 +3,16 @@ import {markdownContent} from '../components/Content'
 import Helmet from 'react-helmet'
 import {Portal} from 'react-portal';
 
+const hireTags = [
+  'Coach',
+  'Executive Coach',
+  'CEO Coach',
+  'Consultant',
+  'Corporate Consultant',
+  'Speaker',
+  'Public Speaker'
+]
+
 export default class CoachProfile extends React.Component {
 
   constructor(props) {
@@ -28,6 +38,7 @@ export default class CoachProfile extends React.Component {
 
   render() {
     const { coach } = this.props;
+    const firstName = coach.coachName.split(' ')[0];
     const Bio = markdownContent;
     return (
         <div className="coach-profile">
@@ -65,8 +76,8 @@ export default class CoachProfile extends React.Component {
             </h5>
             <div className="tags">          
               {coach.tags && coach.tags.map((tag, i) => <h6 key={i}>{tag}</h6>)}
-              <span className="divider"></span>
             </div>
+            {coach.tags.filter(tag => hireTags.includes(tag)).length > 0 ? <a className="contact-link cta-link" href={`mailto:info@100coaches.com?subject=Inquiry to work with ${coach.coachName}`} target="_blank" rel="noopener noreferrer"><h6>Work with {firstName}</h6></a> : <span className="divider"></span>}
             <div className="bio">
               <Bio content={coach.bio} />
             </div>   

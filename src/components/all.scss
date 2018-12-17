@@ -265,6 +265,7 @@ section {
 
 .cta-link {
   @include linear-gradient(55deg, $goldDark, $gold);
+  background-repeat: no-repeat;
   color: white;
   font-weight: 400;
   text-decoration: none;
@@ -695,8 +696,6 @@ footer.site-footer {
   .coach-profile {
     .profile-content {
       @extend %col-8;
-      @include inline-flex;
-      @include flex-direction(column);      
     }
     @media screen and (max-width: $tb * 1px) {
       .profile-content {
@@ -789,9 +788,18 @@ footer.site-footer {
         display: inline-block;
         margin: 0 1em;
       }
-      .divider:after {
-        margin: 2.25rem 0;
+    }
+    .contact-link {
+      padding: .75em 1.25em;
+      margin: 2.25rem 0;
+      display: inline-block;
+      h6 {
+        margin: 0;
+        color: white;
       }
+    }
+    .divider:after {
+      margin: 2.25rem 0;
     }
     .bio {
       h2 {
@@ -1491,6 +1499,7 @@ body.lightbox-open {
   }
   body.lightbox-open {
     overflow: auto;
+    nav.navbar,
     #content {
       display: none;
     }
@@ -1549,7 +1558,8 @@ body.lightbox-open {
       width: 100% !important;
       padding: 0;
       display: block !important;
-      .divider {
+      .divider,
+      .contact-link {
         display: none;
       }
       .tags {
