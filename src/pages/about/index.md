@@ -14,12 +14,14 @@ video:
   title: What is 100 Coaches?
   url: 'https://www.youtube.com/watch?v=jqe5XWzBHt0'
 ---
-## Pay it forward lorem ipsum
+## It started with an idea to pay it forward
 
-Aadipiscing elit. Nulla at eros leo. Nullam tincidunt, tellus ut ornare tristique, nisi mi viverra erat, ut congue leo dolor accumsan magna. Vivamus tempor efficitur leo sollicitudin hendrerit. Suspendisse sit amet venenatis urna. Integer efficitur mi odio. Pellentesque at lorem in ligula sagittis condimentum eget sed orci. Vivamus tincidunt, velit tempus egestas lobortis, felis leo placerat lorem, vitae ullamcorper est felis eleifend magna. Donec cursus dui vitae est faucibus, vitae efficitur enim porttitor. Nam tristique orci id orci fringilla, sit amet elementum sem efficitur. Fusce non porttitor est, a auctor purus. Vivamus eget neque sit amet libero venenatis sagittis. 
+A couple of years ago, I attended a program led by my wonderful friend Ayse Birsel, one of the world’s top designers, called Design the Life You Love. At the program, Ayse asked us to write down the names of our heroes. I wrote down Frances Hesselbein (former CEO of the Girl Scouts and recipient of the Presidential Medal of Freedom), Alan Mulally (former CEO of Ford and CEO of the year in the United States), Dr. Jim Kim (President of the World Bank), Peter Drucker (founder of modern management), Paul Hersey (noted author, teacher, and personal mentor of mine), and Warren Bennis (one of the world’s greatest leadership thinkers of his time). Then Ayse asked us to describe what made us think of them as heroes. I wrote that they were all “great teachers” and “very generous.” She then challenged us to “be more like them” in designing the lives we love.
 
-Fusce cursus elementum lobortis. Vivamus in diam eros. Pellentesque dignissim congue lorem eget luctus. Phasellus ut lobortis dui. Duis quis sem diam. Vestibulum molestie non quam sit amet accumsan. Nam fermentum iaculis neque vitae egestas. Donec sit amet egestas tellus, nec vestibulum ante. Suspendisse mauris lorem, ultricies a risus a, cursus tristique risus. 
+It was from this fantastic program that I came up with the idea to teach 15 people everything I know at no charge. In return, these 15 would ‘pay if forward’ by doing the same thing for 15 others, for free. I was inspired to do this by the many great teachers and leaders who have so generously helped me – without ever asking for anything in return. It is my way of recognizing the amazing contributions they have made in my life.
 
-## Comet dolor sit amet vatar
+I made a 30-second video about the project for LinkedIn. It ended up becoming the most widely viewed video in the history of LinkedIn. I am amazed that so far more than 16,000 people have applied to be part of 100 Coaches. I have been very humbled and inspired by this overwhelming response!
 
-Integer efficitur mi odio. Pellentesque at lorem in ligula sagittis condimentum eget sed orci. Vivamus tincidunt, velit tempus egestas lobortis, felis leo placerat lorem, vitae ullamcorper est felis eleifend magna. Donec cursus dui vitae est faucibus, vitae efficitur enim porttitor. Nam tristique orci id orci fringilla, sit amet elementum sem efficitur. Fusce non porttitor est, a auctor purus. Pellentesque dignissim congue lorem eget luctus. Phasellus ut lobortis dui. Duis quis sem diam. Vestibulum molestie non quam sit amet accumsan. Nam fermentum iaculis neque vitae egestas. Donec sit amet egestas tellus, nec vestibulum ante. Suspendisse mauris lorem, ultricies a risus a, cursus tristique risus.
+## Welcoming the 100 Coaches
+
+This amazing group of individuals are some of the top people in their fields. They represent leaders in their own worlds with a diversity of interests that relate to the topic of coaching.
