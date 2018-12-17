@@ -26,8 +26,8 @@ consultancy:
     together multiple world class resources.
 education:
   headline: >-
-    Many of the 100 Coaches are also best-selling authors. Here are a few of our
-    recent releases
+    Great new thinking from Sally Helgesen and Marshall on how women can get
+    there!
   image: /uploads/marshall-books@2x.png
   linkText: Order Now
   text: >-
