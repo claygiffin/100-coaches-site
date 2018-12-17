@@ -40,11 +40,9 @@ education:
     not even realize your blind spots until it's too late. 
   url: 'http://a.co/d/9l2sOxZ'
 institute:
-  headline: Lorem ipsum comet dolor consectetur sit vatar ametius
-  linkText: Learn More
-  text: >-
-    If you are one of the 100 Coaches, lorem ipsum dolor sit amet, consectetur
-    adipiscing elit, sed do eiusmod tempor:
-  url: www.example.com
+  headline: ''
+  linkText: ''
+  text: ''
+  url: ''
 ---
 
