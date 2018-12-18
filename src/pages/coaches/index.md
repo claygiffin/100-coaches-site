@@ -236,6 +236,19 @@ coachList:
       - Entrepreneur
       - Speaker
       - Thinker
+  - bio: "* First Chief of Staff reporting to Founder & Chairman Charles ‘Chuck’ Schwab.\r\n* Founding Director & Coach for Sir Richard Branson’s Entrepreneurship Centres.\r\n* Founding Advisor & Board Member, Stanford Univ Realtime Venture Design Lab\r\n\n\rMark C. Thompson is a senior operating executive and New York Times bestselling author with 30+ years coaching senior executives, including leadership teams working directly for founders Steve Jobs, Richard Branson, Charles Schwab, FitBit founder Eric Friedman, and Pinterest founders Ben Silbermann and Evan Sharpe. He is a founding member of World Bank President Jim Kim’s Leadership Advisory Board, and served as a Governor for the Investment Securities Council at the World Economic Forum in Davos.  He is a founding director of Sir Richard Branson’s Virgin Unite Entrepreneurship Centres. The Virgin group has over 350 companies.\r\n\n\rMark was Chairman of Rioport, which popularized the MP-3 player before iTunes. He was a founding Board member of Esurance, which was sold to Allstate Insurance. He was a founding Board member of Interwoven during the Nasdaq IPO and then sold to HP.  He was Chairman of the Integration, which was sold to Silicon Labs. At his alma mater, Stanford University, Mark was a founding advisor of Stanford’s Real-Time Venture Design Lab and served as a Visiting Scholar for seven years. He was a board member of the John F. Kennedy University Institute for Entrepreneurial Leadership, where he received the institute’s first ever Lifetime Achievement Award.\r\n\n\rMark was an operating executive at Charles Schwab reporting to the Chairman, Charles ‘Chuck’ Schwab. Mark was on the team that launched Schwab as an NYSE IPO, and he was the first Retail & Institutional Investor Relations Officer, first Chief Customer Experience Officer and Executive Producer of Schwab.com, and Chief Communications Officer. www.MarkCThompson.com"
+    coachName: Mark C. Thompson
+    jobTitle: >-
+      NYT Bestselling Author/Coach: Amex, Lyft, Pinterest, Pfizer, Schwab,
+      Intel, Virgin, IOC/Harvard
+    links:
+      linkedin: successmatters
+    photo: /uploads/Thompson_Mark.jpg
+    tags:
+      - Author
+      - Consultant
+      - Executive Coach
+      - Speaker
   - bio: >-
       Recognized as one of the 50 leading business thinkers in the world by
       Thinkers50. Whitney Johnson is an expert on disruptive innovation and
@@ -376,6 +389,17 @@ coachList:
     tags:
       - Corporate Executive
       - Speaker
+  - bio: "Ayse Birsel has been designing award-winning products for over 20 years. She is the co-founder of Birsel + Seck, an innovative design studio in New York that partners with leading brands and Fortune 500 companies, including Colgate Palmolive, Converse, GE, Herman Miller, Nissan, Staples, Target, Tiffany & Co, Toyota, on design, design thinking, strategy and innovation projects.\r\n\n\rCalled affectionately by the press the “Queen of Toilets” and “Queen Bee” for her bathroom designs and office systems respectively, she brings new solutions to old problems by thinking differently, using her user-centered, humanistic design approach and her process, Deconstruction:ReconstructionTM.\r\n\n\rAyse is also known for her acclaimed workshops, Design the Life You Love, the foundation of her book, published by Ten Speed Press, an imprint of Penguin Random House, in October 2015.\r\n\n\rAyse is the recipient of numerous design awards including the IDEA Gold Award, ID Magazine Award, the Young Designer Award from the Brooklyn Museum of Art, and the Athena Award for Excellence in Furniture Design from Rhode Island School of Design. She is a speaker at international conferences—notably the Aspen Design Conference, IDSA and AIGA Conferences, the Indaba Conference, Design Management Institute, 99U, The Feast and Fast Company Innovation Conferences.\r\n\n\rShe is a Fulbright Scholar with a master’s degree in Industrial Design from Pratt Institute and is a graduate of Middle East Technical University in Ankara, Turkey. Her work can be found in the permanent collections of the Museum of Modern Art, Cooper Hewitt National Design Museum and Philadelphia Museum of Art. Ayse teaches at Products of Design Department at SVA (School of Visual Arts) and is on the board of IDSA (Industrial Designers Society of America). She lives in New York, with her husband and partner Bibi Seck and their 3 kids."
+    coachName: Ayse Birsel
+    jobTitle: 'Co-founder of Birsel + Seck, author of Design the Life You Love'
+    links:
+      linkedin: aysebirsel
+    photo: /uploads/ayse-birsel.jpg
+    tags:
+      - Author
+      - Consultant
+      - Speaker
+      - Thinker
   - bio: "Alisa is an executive coach who works with senior executives and high potential leaders to help them create positive permanent shifts in their leadership impact and the results they achieve.  In addition to executives in large established companies, she works with Founder/CEOs and executive teams of start-ups to help them improve their leadership, scale the company, and support them in learning key leadership and communication skills. She also leads workshops and speaks on a variety of topics. Her areas of expertise include: Executive Presence; Power, Influence & Charisma; Decision-making; and Corporate Politics.\r\n\nPrior to starting her coaching practice, Alisa was CFO of Clarivergent Technology Partners and head of strategic partnerships at Corporate Alumni. She was a strategy consultant at PricewaterhouseCoopers and The Monitor Group. A CPA, Alisa earned her MBA from Cornell University where she was awarded the Fried Fellowship for Leadership and Academic Excellence. Alisa is known for her high energy and enthusiasm along with her practical, results-oriented approach. She was selected as one of the Top 10 Coaches in Boston by Women’s Business, which called her “absolutely brilliant” and “a super hero.”\r\n\nAlisa is a member of the Cornell Entrepreneurship Advisory Board. She is on the faculty of the “Runway” program at Cornell Tech – an accelerator which focuses on helping post-docs commercialize their research and build companies. She is an angel investor in and advisor to a number of start-ups both in the US and developing countries.\r\n\n\rAlisa is a regular invited lecturer at Harvard University and Cornell University as well as in the Naval War College’s accelerated leadership program. She is a coach for the Linkage Global Institute for Leadership Development and for political leaders from areas of conflict at the Center for Inclusive Security at Harvard University. Alisa a columnist and “Expert” for Worth Magazine and was featured in the book “Reinventing You,” by Dorie Clark. Alisa has been quoted in publications such as the New York Times, the Wall St. Journal, and various other regional and national business publications.\r\n\n\rAlisa has a passionate interest in health, wellness and fitness and has a particular love for running and cycling, especially when combined with scenic travel. She is a fearless cook of ethnic food. She loves all sorts of culture, especially music and theater, and will occasionally burst into song without warning.\r\n\n\rLocated in New York City, Alisa’s current and former clients include: Venmo, Foursquare, Timehop, Bloomberg LLP, Dell, Hitachi Data Systems, Tory Burch, Pfizer, Johnson & Johnson, Novartis, Taro Pharmaceuticals, Association of British Pharmaceuticals Industry (ABPI) , Fidelity, Standard Chartered Bank, Citibank, UBS, SilverLake, KPMG, PricewaterhouseCoopers, Sony Music, Harvard University, and The New York Times Company."
     coachName: Alisa Cohn
     jobTitle: NYC Executive Coach for CEOs & Founders
@@ -403,6 +427,17 @@ coachList:
       - Non-Profit
       - Speaker
       - Thinker
+  - bio: "Bonita Thompson is the creator of the “What’s Next?” Game, a coaching process that helps players walk through what is important to them and then apply those key motivators toward what’s coming up next. The “What’s Next?” Game helps players make their values, their priorities in a fun playful way.\r\n\n\rBonita has been a leading innovator in HR for over 25 years for several major international corporations including: Bank of America, Genentech, Levi Strauss, Pacific Telesis, Varian and Catellus.\r\n\n\rShe is a New York Times bestselling author of ADMIRED: 21 Ways to Double Your Value. She lectures globally and has taught leadership and management courses at John F. Kennedy University and The Institute of Coaching.\r\n\n\rBonita earned an MBA at the University of California Berkeley’s Haas School of Business, and a BA in Industrial Psychology from San Jose State University. She also holds an Honorary PhD from Mount Mary College.\r\n\n\rBonita is passionate about education and making learning useful and engaging. She is co-creator of Storybook Math, an innovative way of teaching foundational math making it playful and fun. She has also created curriculum aimed at making learning engaging called Create, Build, Solve."
+    coachName: Bonita Thompson
+    jobTitle: Coach and Speaker
+    links:
+      linkedin: bonitathompson
+    photo: /uploads/bonita-thompson.jpg
+    tags:
+      - Author
+      - Consultant
+      - Executive Coach
+      - Speaker
   - bio: >-
       Rita Gunther McGrath is a globally recognized expert on strategy,
       innovation, and growth with an emphasis on corporate entrepreneurship. Her
@@ -477,6 +512,17 @@ coachList:
       - Author
       - Speaker
       - Thinker
+  - bio: "Asheesh is the President and CEO of Junior Achievement (JA) Worldwide, one of the largest NGOs in the world dedicated to educating young people about financial literacy, entrepreneurship and workforce readiness. With offices in over 100 countries, JA serves more than 10 million young people annually with programs designed to activate youth for the future of jobs.\r\n\nAsheesh is an accomplished technology entrepreneur, having served as CEO of Covestor (acquired by Interactive Brokers) and CircleLending (acquired by Virgin Group).  He began his career as a consultant at the Monitor Group followed by the World Bank.\r\n\n\rAsheesh is actively involved in the World Economic Forum as a member of the Civil Service Advisory Council and the Global Agenda Council for the Future of Education, Gender, and Work. Now living in Boston, he is a JA ​alumnus first exposed to entrepreneurship as a teenager participating in the JA Company Program. ​ His experiences as an entrepreneur and leader were chronicled in case studies at Babson College and at Harvard Business School. Asheesh is a graduate of the Wharton School and Oxford University, where he was a Commonwealth Scholar.\r\n\n\rAsheesh aspires to bring human capital development and management coaching to JA’s leadership around the world. His approach to enabling leaders to realize their full potential is to focus on being empathetic to their unique challenges in each local and regional market. JA is now the largest distribution network to reach young people in the world, so the opportunity to improve the effectiveness of the organization is substantial and impactful.\r\n\n\rAsheesh is a sought-after speaker for leadership conferences, technology conferences, and in the media. He has served as a co-chair of the World Economic Forum in Latin America, a speaker at numerous conferences including the WEF Annual Meeting in Davos and several technology gatherings in the US, India, Europe, and Africa, and a commentator in the media including the Wall Street Journal, New York Times, NPR, and PBS. Speaker fees are donated to Junior Achievement Worldwide and related organizations."
+    coachName: Asheesh Advani
+    jobTitle: CEO at JA Worldwide
+    links:
+      linkedin: asheeshadvani
+      twitter: asheeshadvani
+    photo: /uploads/asheesh-advani.jpg
+    tags:
+      - Corporate Executive
+      - Non-Profit
+      - Speaker
   - bio: >-
       Thinkers 50 #9 Management Thinker – 2015, #1 Leadership Thinker 2013,
       author and Professor at INSEAD.
@@ -571,28 +617,6 @@ coachList:
     photo: /uploads/anu-oza.jpg
     tags:
       - Executive Coach
-  - bio: "Asheesh is the President and CEO of Junior Achievement (JA) Worldwide, one of the largest NGOs in the world dedicated to educating young people about financial literacy, entrepreneurship and workforce readiness. With offices in over 100 countries, JA serves more than 10 million young people annually with programs designed to activate youth for the future of jobs.\r\n\nAsheesh is an accomplished technology entrepreneur, having served as CEO of Covestor (acquired by Interactive Brokers) and CircleLending (acquired by Virgin Group).  He began his career as a consultant at the Monitor Group followed by the World Bank.\r\n\n\rAsheesh is actively involved in the World Economic Forum as a member of the Civil Service Advisory Council and the Global Agenda Council for the Future of Education, Gender, and Work. Now living in Boston, he is a JA ​alumnus first exposed to entrepreneurship as a teenager participating in the JA Company Program. ​ His experiences as an entrepreneur and leader were chronicled in case studies at Babson College and at Harvard Business School. Asheesh is a graduate of the Wharton School and Oxford University, where he was a Commonwealth Scholar.\r\n\n\rAsheesh aspires to bring human capital development and management coaching to JA’s leadership around the world. His approach to enabling leaders to realize their full potential is to focus on being empathetic to their unique challenges in each local and regional market. JA is now the largest distribution network to reach young people in the world, so the opportunity to improve the effectiveness of the organization is substantial and impactful.\r\n\n\rAsheesh is a sought-after speaker for leadership conferences, technology conferences, and in the media. He has served as a co-chair of the World Economic Forum in Latin America, a speaker at numerous conferences including the WEF Annual Meeting in Davos and several technology gatherings in the US, India, Europe, and Africa, and a commentator in the media including the Wall Street Journal, New York Times, NPR, and PBS. Speaker fees are donated to Junior Achievement Worldwide and related organizations."
-    coachName: Asheesh Advani
-    jobTitle: CEO at JA Worldwide
-    links:
-      linkedin: asheeshadvani
-      twitter: asheeshadvani
-    photo: /uploads/asheesh-advani.jpg
-    tags:
-      - Corporate Executive
-      - Non-Profit
-      - Speaker
-  - bio: "Ayse Birsel has been designing award-winning products for over 20 years. She is the co-founder of Birsel + Seck, an innovative design studio in New York that partners with leading brands and Fortune 500 companies, including Colgate Palmolive, Converse, GE, Herman Miller, Nissan, Staples, Target, Tiffany & Co, Toyota, on design, design thinking, strategy and innovation projects.\r\n\n\rCalled affectionately by the press the “Queen of Toilets” and “Queen Bee” for her bathroom designs and office systems respectively, she brings new solutions to old problems by thinking differently, using her user-centered, humanistic design approach and her process, Deconstruction:ReconstructionTM.\r\n\n\rAyse is also known for her acclaimed workshops, Design the Life You Love, the foundation of her book, published by Ten Speed Press, an imprint of Penguin Random House, in October 2015.\r\n\n\rAyse is the recipient of numerous design awards including the IDEA Gold Award, ID Magazine Award, the Young Designer Award from the Brooklyn Museum of Art, and the Athena Award for Excellence in Furniture Design from Rhode Island School of Design. She is a speaker at international conferences—notably the Aspen Design Conference, IDSA and AIGA Conferences, the Indaba Conference, Design Management Institute, 99U, The Feast and Fast Company Innovation Conferences.\r\n\n\rShe is a Fulbright Scholar with a master’s degree in Industrial Design from Pratt Institute and is a graduate of Middle East Technical University in Ankara, Turkey. Her work can be found in the permanent collections of the Museum of Modern Art, Cooper Hewitt National Design Museum and Philadelphia Museum of Art. Ayse teaches at Products of Design Department at SVA (School of Visual Arts) and is on the board of IDSA (Industrial Designers Society of America). She lives in New York, with her husband and partner Bibi Seck and their 3 kids."
-    coachName: Ayse Birsel
-    jobTitle: 'Co-founder of Birsel + Seck, author of Design the Life You Love'
-    links:
-      linkedin: aysebirsel
-    photo: /uploads/ayse-birsel.jpg
-    tags:
-      - Author
-      - Consultant
-      - Speaker
-      - Thinker
   - bio: "Bernard (Bernie) Banks is a noted expert on the subjects of leadership and organizational change. Currently, he is the Associate Dean for Leadership Development and a Clinical Professor of Management at Northwestern University’s Kellogg School of Management. As an Associate Dean, Bernie possesses responsibility for leader development integration across the school’s global portfolio of programs.\r\n\n\rBernie retired from the Army as a Brigadier General in 2016 after having successfully led West Point’s Department of Behavioral Sciences & Leadership from 2012-2016. In addition to having studied leadership extensively, he has led multiple military units ranging in size from 10 to 500 people. In 1995, Bernie was selected from over 40,000 officers to receive the Army’s top award for entry-level managers (General Douglas MacArthur Leadership Award). In 2006, the Apache Helicopter unit he was leading in South Korea was designated as the top Apache Helicopter unit globally in the U.S. Army’s annual best aviation unit competition.\r\n\n\rA West Point graduate, Bernie is broadly educated. He holds graduates degrees from Northwestern, Columbia, and Harvard Universities. Additionally, he earned his Ph.D. in social-organizational psychology from Columbia University. Bernie’s work has been published in a variety of outlets (e.g., Harvard Business Review, Military Psychology, New York Times). Furthermore, he has worked extensively with organizations across all sectors concerning their leader development efforts (e.g., Procter and Gamble, Mercedes Benz, General Electric, IBM, 7-Eleven, The US Forest Service, International Chiefs of Police).\r\n\n\rAn active member of several civic and professional organizations (e.g., The Chicago Club, Harvard Club of NYC, Community Solutions of NYC, USO of Illinois, West Point Society of Chicago), Bernie is deeply invested in his community.\r\n\n\rAreas of Expertise\r\n\n\rLeader Development\r\n\nOrganizational Change\r\n\nOrganizational Culture"
     coachName: Bernard Banks
     jobTitle: >-
@@ -638,17 +662,6 @@ coachList:
       - Executive Coach
       - Speaker
       - Thinker
-  - bio: "Bonita Thompson is the creator of the “What’s Next?” Game, a coaching process that helps players walk through what is important to them and then apply those key motivators toward what’s coming up next. The “What’s Next?” Game helps players make their values, their priorities in a fun playful way.\r\n\n\rBonita has been a leading innovator in HR for over 25 years for several major international corporations including: Bank of America, Genentech, Levi Strauss, Pacific Telesis, Varian and Catellus.\r\n\n\rShe is a New York Times bestselling author of ADMIRED: 21 Ways to Double Your Value. She lectures globally and has taught leadership and management courses at John F. Kennedy University and The Institute of Coaching.\r\n\n\rBonita earned an MBA at the University of California Berkeley’s Haas School of Business, and a BA in Industrial Psychology from San Jose State University. She also holds an Honorary PhD from Mount Mary College.\r\n\n\rBonita is passionate about education and making learning useful and engaging. She is co-creator of Storybook Math, an innovative way of teaching foundational math making it playful and fun. She has also created curriculum aimed at making learning engaging called Create, Build, Solve."
-    coachName: Bonita Thompson
-    jobTitle: Coach and Speaker
-    links:
-      linkedin: bonitathompson
-    photo: /uploads/bonita-thompson.jpg
-    tags:
-      - Author
-      - Consultant
-      - Executive Coach
-      - Speaker
   - bio: "Brown Johnson is the Executive Vice President and Creative Director at Sesame Workshop. Johnson is responsible for the development and production of the Workshop’s domestic television content, as well as creative services.\r\n\n\rJohnson is an award-winning producer of some of the most successful children’s programs. Before joining the Workshop, she served as President of Animation and Preschool Entertainment at Nickelodeon where she managed development and production of more than 200 episodes of programming each year. Johnson pioneered the interactive format of the groundbreaking preschool programs Dora the Explorer and Blue’s Clues. She also conceived and oversaw the development of the Nickelodeon preschool block featuring hit shows including Go Diego Go!, Yo Gabba Gabba!, Team UmiZoomi, The Backyardigans, and Ni Hao Kai Lan. Johnson led the creative development to extend the preschool block online and through retail. Many of the programs she created and managed showcase characters of diverse ethnicities. Her focus on the development of multi-ethnic children’s media spurred Johnson to create fellowships in writing and art to grow the next generation of diverse creators.\r\n\n\rIn Johnson’s more than 20 years with Nickelodeon, she received multiple Emmy awards, Television Critics Awards, Peabody Awards, Imagen and NAACP Image Awards. Johnson serves on the advisory board of Peter Gabriel’s WITNESS foundation, the board of governors of We Are Family Foundation, the Ambassador Council of the Geena Davis Institute on Gender in Media and is a graduate student mentor for the USC John C. Hensch Division of Animation and Digital Arts.\r\n\n\rJohnson resides in New York and has one daughter."
     coachName: Brown Johnson
     jobTitle: 'EVP creative director, Sesame Workshop'
@@ -1501,19 +1514,6 @@ coachList:
       - Author
       - Executive Coach
       - Non-Profit
-  - bio: "* First Chief of Staff reporting to Founder & Chairman Charles ‘Chuck’ Schwab.\r\n* Founding Director & Coach for Sir Richard Branson’s Entrepreneurship Centres.\r\n* Founding Advisor & Board Member, Stanford Univ Realtime Venture Design Lab\r\n\n\rMark C. Thompson is a senior operating executive and New York Times bestselling author with 30+ years coaching senior executives, including leadership teams working directly for founders Steve Jobs, Richard Branson, Charles Schwab, FitBit founder Eric Friedman, and Pinterest founders Ben Silbermann and Evan Sharpe. He is a founding member of World Bank President Jim Kim’s Leadership Advisory Board, and served as a Governor for the Investment Securities Council at the World Economic Forum in Davos.  He is a founding director of Sir Richard Branson’s Virgin Unite Entrepreneurship Centres. The Virgin group has over 350 companies.\r\n\n\rMark was Chairman of Rioport, which popularized the MP-3 player before iTunes. He was a founding Board member of Esurance, which was sold to Allstate Insurance. He was a founding Board member of Interwoven during the Nasdaq IPO and then sold to HP.  He was Chairman of the Integration, which was sold to Silicon Labs. At his alma mater, Stanford University, Mark was a founding advisor of Stanford’s Real-Time Venture Design Lab and served as a Visiting Scholar for seven years. He was a board member of the John F. Kennedy University Institute for Entrepreneurial Leadership, where he received the institute’s first ever Lifetime Achievement Award.\r\n\n\rMark was an operating executive at Charles Schwab reporting to the Chairman, Charles ‘Chuck’ Schwab. Mark was on the team that launched Schwab as an NYSE IPO, and he was the first Retail & Institutional Investor Relations Officer, first Chief Customer Experience Officer and Executive Producer of Schwab.com, and Chief Communications Officer. www.MarkCThompson.com"
-    coachName: Mark C. Thompson
-    jobTitle: >-
-      NYT Bestselling Author/Coach: Amex, Lyft, Pinterest, Pfizer, Schwab,
-      Intel, Virgin, IOC/Harvard
-    links:
-      linkedin: successmatters
-    photo: /uploads/Thompson_Mark.jpg
-    tags:
-      - Author
-      - Consultant
-      - Executive Coach
-      - Speaker
   - bio: "Mark Parsells is Chairman and CEO of Montpelier Ventures, a management consulting and executive coaching firm. He has senior level management experience in Fortune 20 companies and has run several mid to early stage private equity backed companies. He is a Marshall Goldsmith Stakeholder Certified Coach and is a member of the MG100 Executive Coach group.\r\n\n\rHe has been Chairman and Chief Executive Officer of three private equity backed FinTech companies: Global Debt Registry (MHR); Regulatory Datacorp (Bain Capital/Goldman Sachs) and Fusura (AIG/Prudential).\r\n\n\rMark was President of Citibank Online, the #1 ranked online bank in the US at the time, and ran Citi’s Global Online Banking Technology in 53 countries.\r\n\n\rHe also ran a multi-billion-dollar division at Bank One where he increased profit in his group from $60M to $220M in 24 months. In addition, he was Bank One’s first Chief Privacy Officer.\r\n\n\rAt American Express, he founded the Government Services card acceptance division which grew to more than $1 Billion in charge volume. He concurrently served as the Chief Compliance Officer of the $105B American Express division that managed relationships with merchants that accepted the Card for payments.\r\n\n\rHe has broad experience in running online and highly technical businesses. He has been a successful CEO, President, COO, Chairman, and Corporate Director on more than 20 public, private and non-profit boards. He is a veteran corporate operating manager as well as a start-up and turn-around expert."
     coachName: Mark Parsells
     jobTitle: >-
