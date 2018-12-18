@@ -45,7 +45,21 @@ services:
       was founded in 2011 by Adrian Gostick and Chester Elton, the New York
       Times bestselling authors of The Carrot Principle and All In.
     title: 'Employee Attraction/Retention: The Culture Works®'
-  - {}
+  - coach: Peter Bregman
+    description: >-
+      This cutting-edge leadership training is based on one of the core
+      learnings of Peter’s 30 years of experience working with CEOs and senior
+      leaders at some of the world’s premier organizations: if you are willing
+      to feel everything, you can do anything. At this highest levels, leaders
+      don’t fail to act powerfully because of a gap in knowledge or ability.
+      They fail to respond forcefully because they are unwilling to feel the
+      challenging emotions leadership requires. This training is designed to
+      develop four qualities that the most effective leaders demonstrate:
+      confidence in self, connection to others, commitment to purpose, and most
+      importantly, Emotional Courage. It is not about simulations. It’s about
+      real progress on real issues that will help leaders grow as individuals to
+      move their organizations forward.
+    title: 'Emotional Courage Training: Bregman Partners'
   - {}
 ---
 
