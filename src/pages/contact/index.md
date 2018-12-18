@@ -60,6 +60,14 @@ services:
       real progress on real issues that will help leaders grow as individuals to
       move their organizations forward.
     title: 'Emotional Courage Training: Bregman Partners'
-  - {}
+  - coach: Peter Bregman
+    description: >-
+      The Big Arrow is a proven, proprietary coaching process and framework to
+      align your team and get everyone working effectively together to achieve
+      shared results. It is a new approach to coaching in organizations that put
+      each coaching relationship into an organizational context so organizations
+      can count on their coaching investment driving the outcomes that are most
+      important to them.
+    title: 'Team Alignment: Bregman Partners'
 ---
 
