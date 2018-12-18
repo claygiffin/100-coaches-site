@@ -1,10 +1,12 @@
 ---
 templateKey: contact-page
-title: 100 Coaches consectetur adipiscing elit
+title: Working with 100 Coaches
 lede: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit, sed
-  do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+  100 Coaches strives to bring together a curated selection of the world's
+  leading business thinkers, practitioners and coaches making it easier to find
+  the solutions you need. Below is a selection of our coaching and consulting
+  offerings, please reach out so that we can help find the solution that is
+  right for you.
 email: info@100coaches.com
 phone: 212.877.4277
 services:
