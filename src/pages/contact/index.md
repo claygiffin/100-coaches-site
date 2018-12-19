@@ -21,7 +21,7 @@ services:
 
       Former President & CEO, Boeing Commercial Airplanes, Boeing Information,
       Space and Defense Systems, and The Ford Motor Company
-    title: 'Working Together: Alan Mulally'
+    title: 'Speaking about Working Together: Alan Mulally'
   - coach: Mark Thompson
     description: >-
       COFOUNDING 12 FIRMS WITH $25 BILLION VALUE: From Esurance.com to
