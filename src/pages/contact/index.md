@@ -99,5 +99,8 @@ services:
       can count on their coaching investment driving the outcomes that are most
       important to them.
     title: 'Team Alignment: Bregman Partners'
+  - coach: Sandy Ogg
+    description: "If you’re a CEO, chances are somewhat slim that you know exactly which roles in your organization are absolutely critical to realizing your company’s value agenda, who you have in them, and how well they are doing.\_Often CEOs believe their job is to set direction and strategy, to orchestrate execution and manage performance. Talent is largely the domain of human resources and the CHRO; value is predominantly the domain of finance and the CFO. Or are they? Rarely do we three C-suite leaders—the CEO, CFO and CHRO—come together to flag the specific roles in our company  that drive value. And even if we do, it is even more rare that we monitor the incumbents in those specific roles for their contributions to value, their level of engagement, and their capacity. Yet their contributions are what we are relying on to secure our performance today and make future growth possible."
+    title: 'Connecting Talent to Value: Sandy Ogg'
 ---
 
