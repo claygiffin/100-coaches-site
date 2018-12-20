@@ -12,15 +12,17 @@ phone: 212.877.4277
 services:
   - coach: Alan Mulally
     description: >-
+
+
+      Former President & CEO, Boeing Commercial Airplanes, Boeing Information,
+      Space and Defense Systems, and The Ford Motor Company
+
+
       Renowned for his strategic and operational leadership and working
       together, Alan Mulally transformed a struggling Ford Motor Company into
       one of the world’s leading automobile companies and the #1 automobile
       brand in the United States. Mulally led the transformation of Boeing into
       the #1 commercial airplane company and aerospace company in the world.
-
-
-      Former President & CEO, Boeing Commercial Airplanes, Boeing Information,
-      Space and Defense Systems, and The Ford Motor Company
     title: 'Speaking about Working Together: Alan Mulally'
   - coach: Mark C. Thompson
     description: >-
