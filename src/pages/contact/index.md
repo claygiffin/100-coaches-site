@@ -12,45 +12,46 @@ phone: 212.877.4277
 services:
   - coach: Alan Mulally
     description: >-
-      Former President & CEO, Boeing Commercial Airplanes, Boeing Information,
-      Space and Defense Systems, and The Ford Motor Company
-
-
       Renowned for his strategic and operational leadership and working
       together, Alan Mulally transformed a struggling Ford Motor Company into
       one of the world’s leading automobile companies and the #1 automobile
       brand in the United States. Mulally led the transformation of Boeing into
       the #1 commercial airplane company and aerospace company in the world.
+
+
+      Former President & CEO, Boeing Commercial Airplanes, Boeing Information,
+      Space and Defense Systems, and The Ford Motor Company
     title: 'Speaking about Working Together: Alan Mulally'
-  - coach: Mark C. Thompson
+  - coach: Mark Thompson
     description: >-
-      COFOUNDING 12 FIRMS WITH $25 BILLION VALUE: From Esurance.com to
+      **Cofounding 12 Firms With $25 Billion Value:** From Esurance.com to
       Interwoven.com: Forbes ‘Midas’ Touch List for Americas’ Top Venture
       Investors
 
 
-      WORLD’S #1 LEADERSHIP GROWTH COACH: CSuite Coaching @WorldBank @Pfizer
+      **World’s #1 Leadership Growth Coach:** CSuite Coaching @WorldBank @Pfizer
       @Virgin @Google @Apple @Lyft @Pinterest
 
 
-      LAUNCHED STANFORD UNIVERSITY REAL-TIME VENTURE DESIGN LAB: Founding
+      **Launched Stanford University Real-time Venture Design Lab:** Founding
       advisor to Stanford, JFK University, Virgin Entrepreneurship Centers
 
 
-      WORLD’S FIRST CXO: (CHIEF CUSTOMER EXPERIENCE OFFICER) Integrated Schwab’s
-      In-Person, In-Store, Online Schwab.com Experience
+      **World’s First Cxo: **(Chief Customer Experience Officer) Integrated
+      Schwab’s In-Person, In-Store, Online Schwab.com Experience
 
 
-      NY TIMES BESTSELLING AUTHOR & COLUMNIST @INC, @FORBES @FASTCOMPANY:
-      Success Built to Last, Now Build a Great Business, Fortune’s Most Admired
+      **Ny Times Bestselling Author & Columnist @Inc @Forbes @FastCompany:
+      **Success Built to Last, Now Build a Great Business, Fortune’s Most
+      Admired
 
 
-      AWARD-WINNING ADJUNCT FACULTY: @STANFORD @HARVARD @WORLD ECONOMIC FORUM
-      @WORLD BUSINESS FORUM
+      **Award-winning Adjunct Faculty:** @Stanford @Harvard @WorldEconomicForum
+      @WorldBusinessForum
 
 
-      TONY AWARD-WINNING BROADWAY PRODUCER: 11 Tony Nominations and 5 Tony Award
-      for plays like Disney’s Peter & The StarCatcher
+      **Tony Award-winning Broadway Producer:** 11 Tony Nominations and 5 Tony
+      Award for plays like Disney’s Peter & The StarCatcher
     title: 'America’s #1 Leadership Transformation Coach: Mark Thompson'
   - coach: Peter Bregman
     description: >-
