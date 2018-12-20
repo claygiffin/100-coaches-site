@@ -40,7 +40,12 @@ export class ContactPageTemplate extends React.Component {
         <h3 className="contact-link"><span>email: </span><a href={`mailto: ${this.props.email}`} target="_blank" rel="noopener noreferrer">{this.props.email}</a></h3>
         <h3 className="contact-link"><span>phone: </span><a href={`tel: ${phoneUnformatted}`}>{this.props.phone}</a></h3>
         {this.props.services.map(service => {
-          const thisCoach = this.props.coachList.filter(coach => coach.coachName.toUpperCase() === service.coach.toUpperCase())[0];
+          const coachFallback = {
+            coachName: `${service.coach}`,
+            jobTitle: 'PROFILE NOT FOUND',
+            photo: '',
+          }
+          const thisCoach = this.props.coachList.filter(coach => coach.coachName.toUpperCase() === service.coach.toUpperCase())[0] || coachFallback ;
           console.log(thisCoach);
           return(
             <div className="service" key={service.title}>

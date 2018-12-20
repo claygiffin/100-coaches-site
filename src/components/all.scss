@@ -1311,6 +1311,12 @@ footer.site-footer {
       @media screen and (max-width: $mb * 1px) {
         display: none;
       }
+      .coach {
+        cursor: default;
+        &:hover img {
+          opacity: 1;
+        }
+      }
     }
     .service-text {
       width: 72.5%;
