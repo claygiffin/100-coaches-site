@@ -151,6 +151,7 @@ h1 {
   text-transform: uppercase;
   text-align: center;
   letter-spacing: .1em;
+  word-spacing: .05em;
   color: $darkGray;
   margin: 1.5em 0 0;
   @extend %col-12;
@@ -168,7 +169,8 @@ h2 {
   font-weight: 400;
   text-transform: uppercase;
   text-align: center;
-  letter-spacing: .1em;
+  letter-spacing: .0875em;
+  word-spacing: .05em;
   color: $darkGray;
   margin: 1em 0 0;
   @include flexbox;
