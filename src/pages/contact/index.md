@@ -12,8 +12,6 @@ phone: 212.877.4277
 services:
   - coach: Alan Mulally
     description: >-
-
-
       Former President & CEO, Boeing Commercial Airplanes, Boeing Information,
       Space and Defense Systems, and The Ford Motor Company
 
