@@ -50,7 +50,7 @@ export class ContactPageTemplate extends React.Component {
           return(
             <div className="service" key={service.title}>
               <div className="service-text">
-                <h2>{service.title}</h2>
+                <h3>{service.title}</h3>
                 <Description content={service.description} />
               </div>
               <div className="coach-wrap">
