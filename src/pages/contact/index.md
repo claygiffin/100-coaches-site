@@ -21,7 +21,8 @@ services:
       one of the world’s leading automobile companies and the #1 automobile
       brand in the United States. Mulally led the transformation of Boeing into
       the #1 commercial airplane company and aerospace company in the world.
-    title: 'Speaking about Working Together: Alan Mulally'
+    provider: Alan Mulally
+    title: Speaking about Working Together
   - coach: Mark C. Thompson
     description: >-
       **Cofounding 12 Firms With $25 Billion Value:** From Esurance.com to
@@ -52,7 +53,8 @@ services:
 
       **Tony Award-winning Broadway Producer:** 11 Tony Nominations and 5 Tony
       Award for plays like Disney’s Peter & The StarCatcher
-    title: 'America’s #1 Leadership Transformation Coach: Mark Thompson'
+    provider: Mark Thompson
+    title: 'America’s #1 Leadership Transformation Coach'
   - coach: Peter Bregman
     description: >-
       This cutting-edge leadership training is based on one of the core
@@ -67,7 +69,8 @@ services:
       importantly, Emotional Courage. It is not about simulations. It’s about
       real progress on real issues that will help leaders grow as individuals to
       move their organizations forward.
-    title: 'Emotional Courage Training: Bregman Partners'
+    provider: Bregman Partners
+    title: Emotional Courage Training
   - coach: Chester Elton
     description: >-
       An innovator in solutions to Attract, Develop and Retain great employees,
@@ -79,7 +82,8 @@ services:
       individuals identify their unique blend of core motivators. The company
       was founded in 2011 by Adrian Gostick and Chester Elton, the New York
       Times bestselling authors of The Carrot Principle and All In.
-    title: 'Employee Attraction/Retention: The Culture Works®'
+    provider: The Culture Works®
+    title: Employee Attraction/Retention
   - coach: Alexander Osterwalder
     description: >-
       Over 5 million people use our Business Model Canvas. Join them by using
@@ -88,12 +92,12 @@ services:
       Academy and receive coaching through our Innovation Sprints. Smaller
       companies can take our Online Courses, use our Web App, and download free
       resources.
-    title: >-
-      Understand customers, create better products, and grow businesses:
-      Strategyzer
+    provider: Strategyzer
+    title: 'Understand customers, create better products, and grow businesses'
   - coach: Sandy Ogg
     description: "If you’re a CEO, chances are somewhat slim that you know exactly which roles in your organization are absolutely critical to realizing your company’s value agenda, who you have in them, and how well they are doing.\_Often CEOs believe their job is to set direction and strategy, to orchestrate execution and manage performance. Talent is largely the domain of human resources and the CHRO; value is predominantly the domain of finance and the CFO. Or are they? Rarely do we three C-suite leaders—the CEO, CFO and CHRO—come together to flag the specific roles in our company  that drive value. And even if we do, it is even more rare that we monitor the incumbents in those specific roles for their contributions to value, their level of engagement, and their capacity. Yet their contributions are what we are relying on to secure our performance today and make future growth possible."
-    title: 'Connecting Talent to Value: Sandy Ogg'
+    provider: Sandy Ogg
+    title: Connecting Talent to Value
   - coach: Peter Bregman
     description: >-
       The Big Arrow is a proven, proprietary coaching process and framework to
@@ -102,6 +106,7 @@ services:
       each coaching relationship into an organizational context so organizations
       can count on their coaching investment driving the outcomes that are most
       important to them.
-    title: 'Team Alignment: Bregman Partners'
+    provider: Bregman Partners
+    title: Team Alignment
 ---
 
