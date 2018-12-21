@@ -51,7 +51,8 @@ export class ContactPageTemplate extends React.Component {
             <div className="service" key={service.title}>
               <div className="service-text">
                 <h3>{service.title}</h3>
-                {service.provider && <h4>{service.provider}</h4>}
+                <h4>{service.provider}</h4>
+                {console.log(service.provider)}
                 <Description content={service.description} />
               </div>
               <div className="coach-wrap">
@@ -85,6 +86,7 @@ export const ContactPageQuery = graphql`
         phone
         services {
           title
+          provider
           description
           coach
         }

@@ -226,7 +226,7 @@ p {
   text-align: left;
   color: $midGray;
   b, strong {
-    font-weight: 500;
+    font-weight: 400;
   }
 }
 
@@ -1321,20 +1321,24 @@ footer.site-footer {
         &:hover img {
           opacity: 1;
         }
+        .info {
+          display: none;
+        }
       }
     }
     .service-text {
       width: 72.5%;
       padding-left: 3rem;
       @include order(2);
-      h2 {
+      h3 {
         margin-top: 0;
-        margin-bottom: .5em;
-        text-align: left;
-        @include align-items(flex-start);
-        &:after {
-          display: none;
-        }
+        margin-bottom: .375em;
+      }
+      h4 {
+        margin-top: 0;
+        margin-bottom: 1.375em;
+        color: $greenLight;
+        @extend %font-21;
       }
       p {
         line-height: 1.75;
