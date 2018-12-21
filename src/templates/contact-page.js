@@ -51,6 +51,7 @@ export class ContactPageTemplate extends React.Component {
             <div className="service" key={service.title}>
               <div className="service-text">
                 <h3>{service.title}</h3>
+                {service.provider && <h4>{service.provider}</h4>}
                 <Description content={service.description} />
               </div>
               <div className="coach-wrap">
