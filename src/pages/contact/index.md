@@ -24,33 +24,15 @@ services:
     title: 'Speaking about Working Together: Alan Mulally'
   - coach: Mark C. Thompson
     description: >-
-      COFOUNDING 12 FIRMS WITH $25 BILLION VALUE: From Esurance.com to
+      Mark COFOUNDING 12 FIRMS WITH $25 BILLION VALUE: From Esurance.com to
       Interwoven.com: Forbes ‘Midas’ Touch List for Americas’ Top Venture
-      Investors
-
-
-      WORLD’S #1 LEADERSHIP GROWTH COACH: CSuite Coaching @WorldBank @Pfizer
-      @Virgin @Google @Apple @Lyft @Pinterest
-
-
-      LAUNCHED STANFORD UNIVERSITY REAL-TIME VENTURE DESIGN LAB: Founding
-      advisor to Stanford, JFK University, Virgin Entrepreneurship Centers
-
-
-      WORLD’S FIRST CXO: (CHIEF CUSTOMER EXPERIENCE OFFICER) Integrated Schwab’s
-      In-Person, In-Store, Online Schwab.com Experience
-
-
-      NY TIMES BESTSELLING AUTHOR & COLUMNIST @INC, @FORBES @FASTCOMPANY:
-      Success Built to Last, Now Build a Great Business, Fortune’s Most Admired
-
-
-      AWARD-WINNING ADJUNCT FACULTY: @STANFORD @HARVARD @WORLD ECONOMIC FORUM
-      @WORLD BUSINESS FORUM
-
-
-      TONY AWARD-WINNING BROADWAY PRODUCER: 11 Tony Nominations and 5 Tony Award
-      for plays like Disney’s Peter & The StarCatcher
+      Investors. He is the WORLD’S #1 LEADERSHIP GROWTH COACH: CSuite Coaching
+      @WorldBank @Pfizer @Virgin @Google @Apple @Lyft @Pinterest and LAUNCHED
+      STANFORD UNIVERSITY REAL-TIME VENTURE DESIGN LAB: Founding advisor to
+      Stanford, JFK University, Virgin Entrepreneurship Centers. You may
+      recognize him as the NY TIMES BESTSELLING AUTHOR & COLUMNIST @INC, @FORBES
+      @FASTCOMPANY: Success Built to Last, Now Build a Great Business, Fortune’s
+      Most Admired
     title: 'America’s #1 Leadership Transformation Coach: Mark Thompson'
   - coach: Peter Bregman
     description: >-
