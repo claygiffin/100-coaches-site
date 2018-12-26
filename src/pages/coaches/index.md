@@ -1545,6 +1545,23 @@ coachList:
       - Entrepreneur
       - Speaker
       - Thinker
+  - bio: "Tasha Eurich is an organizational psychologist, researcher, and New York Times best-selling author. As Principal of the Eurich Group, she has built a reputation as a fresh, modern voice in the business world by pairing her scientific grounding in human behavior with a practical approach to improvement. Over her 15-plus-year career, she’s helped thousands of professionals—from Fortune 500 executives to early stage entrepreneurs—improve their self-awareness and success.\r\n\n\rWith a PhD in Industrial-Organizational Psychology and BAs in Theater and Psychology, Dr. Eurich has contributed to The Guardian, Entrepreneur, The Huffington Post, TED.com and CNBC.com, and has been featured in outlets like Business Insider, Fortune, Forbes, The New York Times, Fast Company, and New York Magazine. She has been named a “Top 100 Thought Leader” by Trust Across America, a “Leader to Watch” by the American Management Association, and one of Denver Business Journal’s “40 Under 40.” Her TEDxMileHigh talk has been viewed more than one million times.\r\n\n\rDr. Eurich’s first book, Bankable Leadership, debuted on the New York Times best-seller list. Her latest book, INSIGHT, delves into the connection between our self-awareness—what she calls the meta-skill of the twenty-first century—and performance and success, both in and out of the workplace. Hailed as a “bold, exhilarating take on self-improvement” by Success Magazine and a “fascinating read” by The Guardian, INSIGHT was recently named an Editor’s Choice by 800-CEO-READ."
+    coachName: Tasha Eurich
+    jobTitle: >-
+      New York Times Best-Selling Author, Organizational Psychologist, Executive
+      Coach, Keynote Speaker
+    links:
+      facebook: TashaEurich
+      linkedin: tashaeurich
+      twitter: tashaeurich
+      website: www.psychologytoday.com/us/experts/tasha-eurich-phd
+    photo: /uploads/tasha-eurich.jpg
+    tags:
+      - Author
+      - Consultant
+      - Executive Coach
+      - Speaker
+      - Thinker
   - bio: "Michel Kripalani is President & CEO of Oceanhouse Media, a leading developer and publisher of apps that uplift, educate and inspire. Oceanhouse Media has released over 500 mobile apps, the vast majority focused on bringing the works of prominent authors to mobile devices. In 2013, the company was ranked #114 on the Inc 500 Fastest Growing Private Companies list.\r\n\n\rMichel is a “digital tinkerer” at heart and is known for developing apps that help drive personal performance. Some of his more notable creations are “CommitTo3” and the daily coaching app “Mindset for Success”.\r\n\n\rOceanhouse Media is Michel’s third start-up. He found prior success with Presto Studios, a videogame development company that he co-founded and ran for 11 years. Presto Studios had numerous hits including “The Journeyman Project” series, “Myst 3: Exile” and many more. His first company, MOOV design, was founded in 1989 just after receiving his B.A. from UC San Diego. MOOV developed innovative interactive multimedia projects many years before these new technologies were mainstream. It was here that he was a design and programming lead on Verbum Interactive (the world’s first interactive, multimedia magazine).\r\n\n\rMichel is extremely active in Entrepreneurs’ Organization (EO) where he served as the San Diego Chapter President from 2015-16 and later on the US West Regional Council. He has been an Accelerator mentor, where the goal is to help early-stage entrepreneurs grow their businesses into larger, more sustainable ventures. He also completed the 3-year EO Entrepreneurial Masters Program at MIT and EO’s Global Leadership Academy in Washington D.C.\r\n\n\rAs someone who has strived for and found success in work, personal and family life, Michel has decided that it is time to give back. Even though he remains an active learner, his efforts are now transitioning to writing, coaching, teaching and lecturing."
     coachName: Michel Kripalan
     jobTitle: 'CEO, Entrepreneur'
@@ -1976,23 +1993,6 @@ coachList:
     photo: /uploads/tammy-erickson.jpg
     tags:
       - Author
-      - Speaker
-      - Thinker
-  - bio: "Tasha Eurich is an organizational psychologist, researcher, and New York Times best-selling author. As Principal of the Eurich Group, she has built a reputation as a fresh, modern voice in the business world by pairing her scientific grounding in human behavior with a practical approach to improvement. Over her 15-plus-year career, she’s helped thousands of professionals—from Fortune 500 executives to early stage entrepreneurs—improve their self-awareness and success.\r\n\n\rWith a PhD in Industrial-Organizational Psychology and BAs in Theater and Psychology, Dr. Eurich has contributed to The Guardian, Entrepreneur, The Huffington Post, TED.com and CNBC.com, and has been featured in outlets like Business Insider, Fortune, Forbes, The New York Times, Fast Company, and New York Magazine. She has been named a “Top 100 Thought Leader” by Trust Across America, a “Leader to Watch” by the American Management Association, and one of Denver Business Journal’s “40 Under 40.” Her TEDxMileHigh talk has been viewed more than one million times.\r\n\n\rDr. Eurich’s first book, Bankable Leadership, debuted on the New York Times best-seller list. Her latest book, INSIGHT, delves into the connection between our self-awareness—what she calls the meta-skill of the twenty-first century—and performance and success, both in and out of the workplace. Hailed as a “bold, exhilarating take on self-improvement” by Success Magazine and a “fascinating read” by The Guardian, INSIGHT was recently named an Editor’s Choice by 800-CEO-READ."
-    coachName: Tasha Eurich
-    jobTitle: >-
-      New York Times Best-Selling Author, Organizational Psychologist, Executive
-      Coach, Keynote Speaker
-    links:
-      facebook: TashaEurich
-      linkedin: tashaeurich
-      twitter: tashaeurich
-      website: www.psychologytoday.com/us/experts/tasha-eurich-phd
-    photo: /uploads/tasha-eurich.jpg
-    tags:
-      - Author
-      - Consultant
-      - Executive Coach
       - Speaker
       - Thinker
   - bio: "Telisa Yancy is the Chief Marketing Officer at American Family Insurance, a Fortune 300 company. Ms. Yancy was elevated to the new role after successfully transforming the consumer marketing efforts of the company while serving as the Vice President of Marketing. Ms. Yancy joined American Family Insurance in January of 2009 after a successful career in the automotive, retail, restaurant, media innovation and consulting industries.\r\n\n\rIn her role, Ms. Yancy leads all consumer marketing efforts for the company including digital, social media and nontraditional advertising avenues to build the brand. In 2011, Ms. Yancy and her team spearheaded a re-positioning of the 85 year old company with a Silver Effie Award winning campaign that changed the conversation in the hyper-competitive consumer insurance industry.\r\n\n\rTelisa holds an MBA from Kellogg Graduate School of Business, Northwestern University and a Bachelor’s Degree in Business Administration from the University of Illinois at Urbana- Champaign College of Business and Commerce."
