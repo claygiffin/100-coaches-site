@@ -25,15 +25,21 @@ services:
     title: Speaking about Working Together
   - coach: Mark C. Thompson
     description: >-
-      Mark COFOUNDING 12 FIRMS WITH $25 BILLION VALUE: From Esurance.com to
-      Interwoven.com: Forbes ‘Midas’ Touch List for Americas’ Top Venture
-      Investors. He is the WORLD’S #1 LEADERSHIP GROWTH COACH: CSuite Coaching
-      @WorldBank @Pfizer @Virgin @Google @Apple @Lyft @Pinterest and LAUNCHED
-      STANFORD UNIVERSITY REAL-TIME VENTURE DESIGN LAB: Founding advisor to
-      Stanford, JFK University, Virgin Entrepreneurship Centers. You may
-      recognize him as the NY TIMES BESTSELLING AUTHOR & COLUMNIST @INC, @FORBES
-      @FASTCOMPANY: Success Built to Last, Now Build a Great Business, Fortune’s
-      Most Admired
+      Dr. Thompson is an expert on executive leadership, business strategy, and
+      innovation who has spent over 25 years leading teams and building
+      companies from the ground up. He delivers actionable, valuable and
+      practical advice for leaders at all levels of an organization. Mark is a
+      leadership coach for the world’s fastest growing, most innovative
+      companies—from LYFT CEO & Cofounder Logan Green, Pinterest Cofounder Evan
+      Sharp and World Bank CEO Dr. Jim Kim, to founders Richard Branson, Steve
+      Jobs, Tony Robbins and Charles Schwab, for whom he served as the world’s
+      first CXO—Chief Customer Experience Officer. Mark is a founding advisor of
+      the Stanford Realtime Venture Design Lab, and a successful venture
+      capitalist over the last two decades. Mark was as an early investor in
+      companies like Facebook, Netflix and founding board member of Esurance. He
+      has been a Board Member for many well-known technology, biotech and retail
+      companies, including: Best Buy, Korn Ferry, and Interwoven (now owned by
+      HP).
     provider: Mark Thompson
     title: 'America’s #1 Leadership Transformation Coach'
   - coach: Peter Bregman
