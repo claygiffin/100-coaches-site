@@ -316,7 +316,7 @@ coachList:
     coachName: Whitney Johnson
     jobTitle: >-
       Innovation and disruption theorist, keynote speaker, best-selling author,
-      executive and performance coach
+      executive coach
     links:
       linkedin: whitneyjohnson
       twitter: johnsonwhitney
