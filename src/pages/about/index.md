@@ -8,7 +8,7 @@ lede: >
   in the workplace. They want what Dr. Goldsmith offers: practical and proven
   methods.
 video:
-  description: "100 Coaches is an organization that brings together many of the world's leading executive coaches, business thinker and the best leaders with the common purpose of making good executives better. We offers services\_and\_opportunities that amplify the collective\_impact of its members. Together, our goal is to prepare, develop,\_and\_energize inspired leaders for the future.\_"
+  description: "100 Coaches is an organization that brings together many of the world's leading executive coaches, top business thinkers and best leaders with the common purpose of making good executives better. We offers services\_and\_opportunities that amplify the collective\_impact of our members. Together, our goal is to prepare, develop,\_and\_energize inspired leaders for the future.\_"
   title: What is 100 Coaches?
   url: 'https://www.youtube.com/watch?v=jqe5XWzBHt0'
 ---
