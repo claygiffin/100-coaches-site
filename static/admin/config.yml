@@ -129,11 +129,10 @@ collections:
             widget: list
             fields:
               - {label: Service Title, name: title, widget: string}
-              - {label: Service Provider, name: provider, widget: string}
+              - {label: Service Provider, name: provider, widget: string, required: false}
               - {label: Service Description, name: description, widget: markdown, buttons: [bold, italic, link, bulleted-list, numbered-list, quote]}
               - label: Affiliated Coach
                 name: coach
-                # widget: string
                 widget: relation
                 collection: coaches
                 searchFields: 
