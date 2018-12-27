@@ -52,6 +52,19 @@ services:
       move their organizations forward.
     provider: Bregman Partners
     title: Emotional Courage Training
+  - coach: Dorie Clark
+    description: >-
+      Dorie Clark has been called an “expert at self-reinvention and helping
+      others make changes in their lives” by the New York Times. An author who
+      teaches at Duke University’s Fuqua School of Business, she offers
+      executive coaching for leaders around how to build their internal and
+      external influence. She also consults for companies and offers workshops
+      on the topics of: building your brand as a leader, mastering reinvention,
+      delivering powerful presentations, and how to think more
+      entrepreneurially. You can [download Dorie’s free 42-page Stand Out
+      self-assessment workbook.](https://dorieclark.com/join)
+    provider: Dorie Clark
+    title: Mastering Reinvention
   - coach: Chester Elton
     description: >-
       An innovator in solutions to Attract, Develop and Retain great employees,
@@ -89,18 +102,5 @@ services:
       important to them.
     provider: Bregman Partners
     title: Team Alignment
-  - coach: Dorie Clark
-    description: >-
-      Dorie Clark has been called an “expert at self-reinvention and helping
-      others make changes in their lives” by the New York Times. An author who
-      teaches at Duke University’s Fuqua School of Business, she offers
-      executive coaching for leaders around how to build their internal and
-      external influence. She also consults for companies and offers workshops
-      on the topics of: building your brand as a leader, mastering reinvention,
-      delivering powerful presentations, and how to think more
-      entrepreneurially. You can [download Dorie’s free 42-page Stand Out
-      self-assessment workbook.](https://dorieclark.com/join)
-    provider: Dorie Clark
-    title: Mastering Reinvention
 ---
 
