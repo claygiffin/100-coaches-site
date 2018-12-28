@@ -10,19 +10,16 @@ lede: >
 email: info@100coaches.com
 phone: 212.877.4277
 services:
-  - coach: Alan Mulally
+  - coach: Alexander Osterwalder
     description: >-
-      Former President & CEO, Boeing Commercial Airplanes, Boeing Information,
-      Space and Defense Systems, and The Ford Motor Company
-
-
-      Renowned for his strategic and operational leadership and working
-      together, Alan Mulally transformed a struggling Ford Motor Company into
-      one of the world’s leading automobile companies and the #1 automobile
-      brand in the United States. Mulally led the transformation of Boeing into
-      the #1 commercial airplane company and aerospace company in the world.
-    provider: Alan Mulally
-    title: Speaking about Working Together
+      Over 5 million people use our Business Model Canvas. Join them by using
+      our platform and services to clearly understand customers, create better
+      products, and grow businesses. Enterprise teams can train at our Cloud
+      Academy and receive coaching through our Innovation Sprints. Smaller
+      companies can take our Online Courses, use our Web App, and download free
+      resources.
+    provider: Strategyzer
+    title: 'Understand customers, create better products, and grow businesses'
   - coach: Mark C. Thompson
     description: >-
       Dr. Thompson is an expert on executive leadership, business strategy, and
@@ -42,6 +39,19 @@ services:
       HP).
     provider: Mark Thompson
     title: 'America’s #1 Leadership Transformation Coach'
+  - coach: Alan Mulally
+    description: >-
+      Former President & CEO, Boeing Commercial Airplanes, Boeing Information,
+      Space and Defense Systems, and The Ford Motor Company
+
+
+      Renowned for his strategic and operational leadership and working
+      together, Alan Mulally transformed a struggling Ford Motor Company into
+      one of the world’s leading automobile companies and the #1 automobile
+      brand in the United States. Mulally led the transformation of Boeing into
+      the #1 commercial airplane company and aerospace company in the world.
+    provider: Alan Mulally
+    title: Speaking about Working Together
   - coach: Peter Bregman
     description: >-
       This cutting-edge leadership training is based on one of the core
@@ -84,16 +94,6 @@ services:
       Times bestselling authors of The Carrot Principle and All In.
     provider: The Culture Works®
     title: Employee Attraction/Retention
-  - coach: Alexander Osterwalder
-    description: >-
-      Over 5 million people use our Business Model Canvas. Join them by using
-      our platform and services to clearly understand customers, create better
-      products, and grow businesses. Enterprise teams can train at our Cloud
-      Academy and receive coaching through our Innovation Sprints. Smaller
-      companies can take our Online Courses, use our Web App, and download free
-      resources.
-    provider: Strategyzer
-    title: 'Understand customers, create better products, and grow businesses'
   - coach: Sandy Ogg
     description: "If you’re a CEO, chances are somewhat slim that you know exactly which roles in your organization are absolutely critical to realizing your company’s value agenda, who you have in them, and how well they are doing.\_Often CEOs believe their job is to set direction and strategy, to orchestrate execution and manage performance. Talent is largely the domain of human resources and the CHRO; value is predominantly the domain of finance and the CFO. Or are they? Rarely do we three C-suite leaders—the CEO, CFO and CHRO—come together to flag the specific roles in our company  that drive value. And even if we do, it is even more rare that we monitor the incumbents in those specific roles for their contributions to value, their level of engagement, and their capacity. Yet their contributions are what we are relying on to secure our performance today and make future growth possible."
     provider: Sandy Ogg
