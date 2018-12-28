@@ -4,9 +4,9 @@ title: Working with 100 Coaches
 lede: >
   100 Coaches strives to bring together a curated selection of the world's
   leading business thinkers, practitioners and coaches making it easier to find
-  the solutions you need. Below is a selection of our coaching and consulting
-  offerings, please reach out so that we can help find the solution that is
-  right for you.
+  the solutions you need. Below is a small selection of our outstanding coaching
+  and consulting offering. Please reach out so that we can help find the
+  solution that is right for you.
 email: info@100coaches.com
 phone: 212.877.4277
 services:
