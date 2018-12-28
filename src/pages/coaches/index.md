@@ -314,9 +314,7 @@ coachList:
 
       > _—Eric Ries, bestselling author of The Lean Start-up_
     coachName: Whitney Johnson
-    jobTitle: >-
-      Innovation and disruption theorist, keynote speaker, best-selling author,
-      executive coach
+    jobTitle: 'Innovation and disruption theorist, speaker, author, executive coach'
     links:
       linkedin: whitneyjohnson
       twitter: johnsonwhitney
