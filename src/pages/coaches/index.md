@@ -1352,7 +1352,49 @@ coachList:
       - Corporate Executive
       - Executive Coach
       - Non-Profit
-  - bio: "Dr. Jeffrey Kuhn is a distinguished thinker, author, advisor, educator, and speaker with expertise uniquely positioned at the intersection of strategy, innovation and growth, and organizational renewal—the work of strategic leadership. He is a globally recognized thought leader and master teacher with deep intellectual substance and craft derived from decades of scholarly research and practical experience working with the world’s leading firms.\r\n\n\rDr. Kuhn’s research, teaching, and advisory work center on helping senior business leaders develop the capacity to think and lead strategically in dynamic market environments undergoing profound change. His unique immersive learning methodologies and insightful frameworks help senior leaders overcome the forces of short-termism and incrementalism to think broadly and imaginatively beyond the boundaries of the core business and unlock new market growth.\r\n\n\rDr. Kuhn has advised market-leading firms in a wide range of industries around the world and taught in corporate leadership development programs for Booz Allen Hamilton, Boeing, SAP, Chubb, Deloitte, Johnson & Johnson, SunPower, Novartis, Sanofi, KaiserPermanente, and The Ritz Carlton.\r\n\n\rDr. Kuhn’s research and writings on strategic mindsets and dynamic capabilities have garnered worldwide acclaim. He has published numerous articles on strategy, executive leadership, and organizational renewal and is the author of Beyond the Mirage: Strategic Leadership in the New Market Landscape. \r\n\n\rHe holds a doctorate in adult and organizational learning from Columbia University, and has served on the faculty of Columbia Business School, and Teachers College, Columbia University, and as a guest lecturer at The Wharton School and The U.S. Naval Postgraduate School. He is a founding member of the London-based Strategic Management Forum and a Fellow at the Royal Society of Arts. In 2017, Dr. Kuhn was inducted into Marshall Goldsmith 100 Coaches. \r\n\n\rDr. Kuhn is a former corporate executive and professional bassist. In his spare time, he is an internationally-ranked competitive road cyclist."
+  - bio: >-
+      Dr. Jeffrey Kuhn is a distinguished thinker, author, advisor, educator,
+      and speaker with expertise uniquely positioned at the intersection of
+      strategy, innovation and growth, and organizational renewal—the work of
+      strategic leadership. He is a globally recognized thought leader and
+      master teacher with deep intellectual substance and craft derived from
+      decades of scholarly research and practical experience working with the
+      world’s leading firms.
+
+
+      Dr. Kuhn’s research, teaching, and advisory work center on helping senior
+      business leaders develop the capacity to think and lead strategically in
+      dynamic market environments undergoing profound change. His unique
+      immersive learning methodologies and insightful frameworks help senior
+      leaders overcome the forces of short-termism and incrementalism to think
+      broadly and imaginatively beyond the boundaries of the core business and
+      unlock new market growth.
+
+
+      Dr. Kuhn has advised market-leading firms in a wide range of industries
+      around the world and taught in corporate leadership development programs
+      for Booz Allen Hamilton, Boeing, SAP, Chubb, Deloitte, Johnson & Johnson,
+      SunPower, Novartis, Sanofi, KaiserPermanente, and The Ritz Carlton.
+
+
+      Dr. Kuhn's research and writings on strategic capacity and dynamic
+      capabilities have garnered worldwide acclaim.  He has published numerous
+      articles on enterprise strategy, executive leadership, and organizational
+      renewal, and has book under development on strategic leadership in dynamic
+      market environments (LID Publishing, 2019).
+
+
+      He holds a doctorate in adult and organizational learning from Columbia
+      University, and has served on the faculty of Columbia Business School, and
+      Teachers College, Columbia University, and as a guest lecturer at The
+      Wharton School and The U.S. Naval Postgraduate School. He is a founding
+      member of the London-based Strategic Management Forum and a Fellow at the
+      Royal Society of Arts. In 2017, Dr. Kuhn was inducted into Marshall
+      Goldsmith 100 Coaches. 
+
+
+      Dr. Kuhn is a former corporate executive and professional bassist. In his
+      spare time, he is an internationally-ranked competitive road cyclist.
     coachName: Jeffrey Khun
     jobTitle: >-
       Distinguished thinker, author, advisor, educator, and speaker on strategic
