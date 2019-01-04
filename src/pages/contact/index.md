@@ -109,7 +109,7 @@ services:
     provider: Bregman Partners
     title: Team Alignment
   - coach: Michael Bungay Stanier
-    description: Test Description
-    title: Test Title
+    description: Test Description 1
+    title: Test Title 2
 ---
 
