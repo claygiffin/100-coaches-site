@@ -335,7 +335,7 @@ coachList:
       He’s the author of several books, including_ The Coaching Habit_ and _Do
       More Great Work._ Michael has written for or been featured in numerous
       publications including _Business Insider, Fast Company, Forbes, The Globe
-      & Mail _and_ The Huffington Post._
+      & Mail and_ The Huffington Post.
 
 
       At Box of Crayons, Michael and his team of facilitators teach 10-minute
