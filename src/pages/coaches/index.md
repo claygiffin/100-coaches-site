@@ -328,8 +328,8 @@ coachList:
       - Speaker
       - Thinker
   - bio: >-
-      ## MICHAEL IS THE FOUNDER AND CEO OF BOX OF CRAYONS, A COMPANY THAT HELPS
-      ORGANIZATIONS DO LESS GOOD WORK AND MORE GREAT WORK.
+      Michael is the founder and CEO of Box of Crayons, a company that helps
+      organizations do less good work and more great work. 
 
 
       He’s the author of several books, including_ The Coaching Habit_ and _Do
