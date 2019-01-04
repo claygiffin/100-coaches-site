@@ -328,42 +328,36 @@ coachList:
       - Speaker
       - Thinker
   - bio: >-
-      Michael Bungay Stanier is the Senior Partner of Box of Crayons, a company
-      that helps organizations do less Good Work and more Great Work. Box of
-      Crayons is best known for its coaching programs, which give busy managers
-      practical tools so they can coach in 10 minutes or less.
+      ## MICHAEL IS THE FOUNDER AND CEO OF BOX OF CRAYONS, A COMPANY THAT HELPS
+      ORGANIZATIONS DO LESS GOOD WORK AND MORE GREAT WORK.
 
 
-      On the way to founding Box of Crayons in 2002, Michael lived in Australia,
-      England, the United States and Canada, his current home.
+      He’s the author of several books, including_ The Coaching Habit_ and _Do
+      More Great Work._ Michael has written for or been featured in numerous
+      publications including _Business Insider, Fast Company, Forbes, The Globe
+      & Mail _and_ The Huffington Post._
 
 
-      He’s written two books that have each sold close to 100,000 copies, the
-      Wall Street Journal bestsellers _The Coaching Habit_ and _Do More Great
-      Work_. He’s proudest of End Malaria, a collection of essays about Great
-      Work by thought leaders that raised $400,000 for Malaria No More.
+      At Box of Crayons, Michael and his team of facilitators teach 10-minute
+      coaching so busy managers build stronger teams and get better results.
+      Clients come from all sectors and include Box, the United Nations, the
+      University Health Network and USAA. A sought-after speaker, Michael
+      regularly speaks to businesses and organizations and has delivered
+      keynotes at Leadership, HR and Learning & Development, conferences around
+      the world, including ATD, SHRM, IPL, HRPA and the Conference Board of
+      Canada.
 
 
-      To balance all this out, Michael was banned from his high school
-      graduation for “the balloon incident,” was sued by one of his law school
-      lecturers for defamation and managed to give himself a concussion while
-      digging a hole as a labourer.
+      Balancing out these moments of success, Michael was banned from his high
+      school graduation for “the balloon incident,” was sued by one of his Law
+      School lecturers for defamation, and his first published piece of writing
+      was a Mills & Boone short story called “The Male Delivery.”
 
 
-      He was the first Canadian Coach of the Year, is a Rhodes Scholar, and in
-      2016 was recognized as the #2 Coaching Guru in the world.
-
-
-      > If I had to pick a person to have dinner with, when I need to be prodded
-      and challenged and inspired to think about the things I really am
-      committed to think about for myself and what I’m doing, I’d pick Michael
-      Bungay Stanier. He has an ability to shake our tree and make us more
-      conscious and responsible about what we know but aren’t willing to admit
-      we know yet.
-
-      >
-
-      > _—David Allen, author of Getting Things Done_
+      Michael left Australia 25 years ago to be a Rhodes Scholar at Oxford
+      University, where his only significant achievement was falling in love
+      with a Canadian, which is why he now lives in Toronto, having spent time
+      in London and Boston. He was the first Canadian Coach of the Year.
     coachName: Michael Bungay Stanier
     jobTitle: 'Founder of Box of Crayons, author of The Coaching Habit'
     links:
@@ -2155,5 +2149,40 @@ coachList:
     photo: /uploads/will-linssen.jpg
     tags:
       - Executive Coach
+  - bio: >-
+      How do today’s best leaders accelerate business results? By engaging their
+      employees to execute on strategy, vision, and values. #1 bestselling
+      leadership author Adrian Gostick provides real solutions on managing
+      change, driving innovation, and leading high-performance teams. 
+
+
+      Gostick is a global workplace expert and thought leader in the fields of
+      corporate culture, leadership, and engagement. He is founder of the
+      training and consulting company The Culture Works and author of the #1 New
+      York Times, USA Today and Wall Street Journal bestsellers All In, The
+      Carrot Principle and The Best Team Wins. His books have been translated
+      into 30 languages and have sold 1.5 million copies around the world. 
+
+
+      As a leadership expert, he has been called “fascinating,” by Fortune
+      magazine and “creative and refreshing” by the New York Times. Gostick has
+      appeared on NBC’s Today Show and CNN, and is often quoted in The
+      Economist, Newsweek, and Wall Street Journal. If you Google the 30 Top
+      Leadership Gurus, he is on the list along side Jack Welch and Jim Collins.
+      His consulting clients include Danaher, Bank of America, Rolls Royce,
+      JELD-WEN and California Pizza Kitchen.
+    coachName: 'Adrian Gostick '
+    jobTitle: 'Bestselling Leadership Author | Organizational Culture Expert '
+    links:
+      linkedin: 'https://www.linkedin.com/in/adriangostick/'
+      twitter: adriangostick
+      website: www.adriangostick.com/
+    photo: /uploads/adrian-headshot.png
+    tags:
+      - Author
+      - Consultant
+      - Executive Coach
+      - Speaker
+      - Thinker
 ---
 
