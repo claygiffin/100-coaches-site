@@ -2149,7 +2149,28 @@ coachList:
     photo: /uploads/will-linssen.jpg
     tags:
       - Executive Coach
-  - bio: "How do today’s best leaders accelerate business results? By engaging their employees to execute on strategy, vision, and values. In his challenging, information-packed talks, #1 bestselling leadership author Adrian Gostick provides real solutions on managing change, driving innovation, and leading high-performance teams. \r\n\nGostick is a global workplace expert and thought leader in the fields of corporate culture, leadership, and engagement. He is founder of the training and consulting company The Culture Works and author of the #1 New York Times, USA Today and Wall Street Journal bestsellers All In, The Carrot Principle and The Best Team Wins. His books have been translated into 30 languages and have sold 1.5 million copies around the world. \r\n\nAs a leadership expert, he has been called “fascinating,” by Fortune magazine and “creative and refreshing” by the New York Times. Gostick has appeared on NBC’s Today Show and CNN, and is often quoted in The Economist, Newsweek, and Wall Street Journal. If you Google the 30 Top Leadership Gurus, he is on the list along side Jack Welch and Jim Collins. His consulting clients include Danaher, Bank of America, Rolls Royce, JELD-WEN and California Pizza Kitchen."
+  - bio: >-
+      How do today’s best leaders accelerate business results? By engaging their
+      employees to execute on strategy, vision, and values. #1 bestselling
+      leadership author Adrian Gostick provides real solutions on managing
+      change, driving innovation, and leading high-performance teams. 
+
+
+      Gostick is a global workplace expert and thought leader in the fields of
+      corporate culture, leadership, and engagement. He is founder of the
+      training and consulting company The Culture Works and author of the #1 New
+      York Times, USA Today and Wall Street Journal bestsellers All In, The
+      Carrot Principle and The Best Team Wins. His books have been translated
+      into 30 languages and have sold 1.5 million copies around the world. 
+
+
+      As a leadership expert, he has been called “fascinating,” by Fortune
+      magazine and “creative and refreshing” by the New York Times. Gostick has
+      appeared on NBC’s Today Show and CNN, and is often quoted in The
+      Economist, Newsweek, and Wall Street Journal. If you Google the 30 Top
+      Leadership Gurus, he is on the list along side Jack Welch and Jim Collins.
+      His consulting clients include Danaher, Bank of America, Rolls Royce,
+      JELD-WEN and California Pizza Kitchen.
     coachName: 'Adrian Gostick '
     jobTitle: 'Bestselling Leadership Author | Organizational Culture Expert '
     links:
