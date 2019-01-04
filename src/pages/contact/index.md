@@ -108,5 +108,9 @@ services:
       important to them.
     provider: Bregman Partners
     title: Team Alignment
+  - coach: Michael Bungay Stanier
+    description: Test Service description
+    provider: ''
+    title: Test Service
 ---
 
