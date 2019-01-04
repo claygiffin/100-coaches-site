@@ -46,11 +46,11 @@ collections:
                 name: links
                 widget: object
                 fields:
-                  - {label: Website, name: website, widget: string, hint: 'Website URL (ex: www.mysite.com)', required: false, default: "" }
-                  - {label: LinkedIn, name: linkedin, widget: string, hint: 'LinkedIn ID (found at the end of your LinkedIn profile URL)', pattern: ['^[a-zA-Z0-9_]{1,50}$', 'Invalid LinkedIn Username'], required: false, default: "" }
-                  - {label: Twitter, name: twitter, widget: string, hint: 'Twitter Handle (do not include "@" symbol)', pattern: ['^[a-zA-Z0-9_]{1,15}$', 'Invalid Twitter Username'], required: false, default: "" }
-                  - {label: Facebook, name: facebook, widget: string, hint: 'Facebook ID (found at the end of your Facebook profile URL)', pattern: ['^[a-zA-Z0-9_]{1,50}$', 'Invalid Facebook Username'], required: false, default: "" }
-                  - {label: Instagram, name: instagram, widget: string, hint: 'Instagram Handle (do not include "@" symbol)', pattern: ['^[a-zA-Z0-9_]{1,30}$', 'Invalid Instagram Username'], required: false, default: "" }
+                  - {label: Website, name: website, widget: string, hint: 'Website URL (ex: www.mysite.com)', required: false, default: '' }
+                  - {label: LinkedIn, name: linkedin, widget: string, hint: 'LinkedIn ID (found at the end of your LinkedIn profile URL)', pattern: ['^[a-zA-Z0-9_]{1,50}$', 'Invalid LinkedIn Username'], required: false, default: '' }
+                  - {label: Twitter, name: twitter, widget: string, hint: 'Twitter Handle (do not include "@" symbol)', pattern: ['^[a-zA-Z0-9_]{1,15}$', 'Invalid Twitter Username'], required: false, default: '' }
+                  - {label: Facebook, name: facebook, widget: string, hint: 'Facebook ID (found at the end of your Facebook profile URL)', pattern: ['^[a-zA-Z0-9_]{1,50}$', 'Invalid Facebook Username'], required: false, default: '' }
+                  - {label: Instagram, name: instagram, widget: string, hint: 'Instagram Handle (do not include "@" symbol)', pattern: ['^[a-zA-Z0-9_]{1,30}$', 'Invalid Instagram Username'], required: false, default: '' }
 
   - name: pages
     label: Pages
@@ -110,9 +110,9 @@ collections:
             name: video
             widget: object
             fields: 
-              - {label: Video URL, name: url, widget: string, hint: 'Example: https://www.youtube.com/watch?v=abcdefghijk123', default: "" }
-              - {label: Title, name: title, widget: string, default: "", required: false }
-              - {label: Description, name: description, widget: text, default: "", required: false }
+              - {label: Video URL, name: url, widget: string, hint: 'Example: https://www.youtube.com/watch?v=abcdefghijk123', default: '' }
+              - {label: Title, name: title, widget: string, default: '', required: false }
+              - {label: Description, name: description, widget: text, default: '', required: false }
           - {label: Body, name: body, widget: markdown, buttons: [bold, italic, link, bulleted-list, numbered-list, quote, heading-two]}
 
       - file: src/pages/contact/index.md
@@ -129,7 +129,7 @@ collections:
             widget: list
             fields:
               - {label: Service Title, name: title, widget: string}
-              - {label: Service Provider, name: provider, widget: string, required: false, default: ""}
+              - {label: Service Provider, name: provider, widget: string, required: false, default: ''}
               - {label: Service Description, name: description, widget: markdown, buttons: [bold, italic, link, bulleted-list, numbered-list, quote]}
               - label: Affiliated Coach
                 name: coach
