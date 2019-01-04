@@ -328,14 +328,14 @@ coachList:
       - Speaker
       - Thinker
   - bio: >-
-      **Michael is the founder and CEO of Box of Crayons, a company that helps
-      organizations do less good work and more great work. **
+      Michael is the founder and CEO of Box of Crayons, a company that helps
+      organizations do less good work and more great work. 
 
 
       He’s the author of several books, including_ The Coaching Habit_ and _Do
       More Great Work._ Michael has written for or been featured in numerous
       publications including _Business Insider, Fast Company, Forbes, The Globe
-      & Mail and_ The Huffington Post.
+      & Mail _and_ The Huffington Post._
 
 
       At Box of Crayons, Michael and his team of facilitators teach 10-minute
@@ -719,15 +719,6 @@ coachList:
       - Executive Coach
       - Speaker
       - Thinker
-  - bio: "CNN anchor Chris Cuomo covers international events and breaking news for CNN. He anchors CNN’s morning show “New Day” with co-anchor Alisyn Camerota. NEW DAY airs every weekday, from 6am to 9am EST— on CNN.\r\n\n\rBefore joining CNN, Cuomo was the co-anchor of “20/20,” the Emmy Award-winning ABC Newsmagazine, and Chief Law and Justice Correspondent for ABC News. He formerly co-anchored “Good Morning America,” where he covered international breaking news as the primary reporter.\r\n\n\rChris is the recipient of multiple journalism awards. His profile on 12-year-old poet Mattie Stepanek on “Good Morning America” was awarded a News Emmy. He has received Polk and Peabody awards for his team coverage throughout the years, and the Edward R. Murrow award for his work covering breaking news.\r\n\n\rCuomo is a graduate of Fordham University School of Law, and received his undergraduate degree from Yale University."
-    coachName: Chris Cuomo
-    jobTitle: Anchor on Cuomo Prime Time at CNN
-    links:
-      linkedin: chris-cuomo-158a1b164
-    photo: /uploads/chris-cuomo.jpg
-    tags:
-      - Corporate Executive
-      - Speaker
   - bio: >-
       How do today’s best leaders accelerate business results? By engaging their
       employees to execute on strategy, vision, and values. #1 bestselling
@@ -763,7 +754,16 @@ coachList:
       - Executive Coach
       - Speaker
       - Thinker
-    - bio: >-
+  - bio: "CNN anchor Chris Cuomo covers international events and breaking news for CNN. He anchors CNN’s morning show “New Day” with co-anchor Alisyn Camerota. NEW DAY airs every weekday, from 6am to 9am EST— on CNN.\r\n\n\rBefore joining CNN, Cuomo was the co-anchor of “20/20,” the Emmy Award-winning ABC Newsmagazine, and Chief Law and Justice Correspondent for ABC News. He formerly co-anchored “Good Morning America,” where he covered international breaking news as the primary reporter.\r\n\n\rChris is the recipient of multiple journalism awards. His profile on 12-year-old poet Mattie Stepanek on “Good Morning America” was awarded a News Emmy. He has received Polk and Peabody awards for his team coverage throughout the years, and the Edward R. Murrow award for his work covering breaking news.\r\n\n\rCuomo is a graduate of Fordham University School of Law, and received his undergraduate degree from Yale University."
+    coachName: Chris Cuomo
+    jobTitle: Anchor on Cuomo Prime Time at CNN
+    links:
+      linkedin: chris-cuomo-158a1b164
+    photo: /uploads/chris-cuomo.jpg
+    tags:
+      - Corporate Executive
+      - Speaker
+  - bio: >-
       For 25+ years, Chris has been in the leadership development world. He has
       worked with and coached hundreds of key leaders and successful people
       develop leadership to become even more effective.
