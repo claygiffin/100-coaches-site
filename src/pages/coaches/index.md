@@ -328,42 +328,36 @@ coachList:
       - Speaker
       - Thinker
   - bio: >-
-      Michael Bungay Stanier is the Senior Partner of Box of Crayons, a company
-      that helps organizations do less Good Work and more Great Work. Box of
-      Crayons is best known for its coaching programs, which give busy managers
-      practical tools so they can coach in 10 minutes or less.
+      ## MICHAEL IS THE FOUNDER AND CEO OF BOX OF CRAYONS, A COMPANY THAT HELPS
+      ORGANIZATIONS DO LESS GOOD WORK AND MORE GREAT WORK.
 
 
-      On the way to founding Box of Crayons in 2002, Michael lived in Australia,
-      England, the United States and Canada, his current home.
+      He’s the author of several books, including_ The Coaching Habit_ and _Do
+      More Great Work._ Michael has written for or been featured in numerous
+      publications including _Business Insider, Fast Company, Forbes, The Globe
+      & Mail _and_ The Huffington Post._
 
 
-      He’s written two books that have each sold close to 100,000 copies, the
-      Wall Street Journal bestsellers _The Coaching Habit_ and _Do More Great
-      Work_. He’s proudest of End Malaria, a collection of essays about Great
-      Work by thought leaders that raised $400,000 for Malaria No More.
+      At Box of Crayons, Michael and his team of facilitators teach 10-minute
+      coaching so busy managers build stronger teams and get better results.
+      Clients come from all sectors and include Box, the United Nations, the
+      University Health Network and USAA. A sought-after speaker, Michael
+      regularly speaks to businesses and organizations and has delivered
+      keynotes at Leadership, HR and Learning & Development, conferences around
+      the world, including ATD, SHRM, IPL, HRPA and the Conference Board of
+      Canada.
 
 
-      To balance all this out, Michael was banned from his high school
-      graduation for “the balloon incident,” was sued by one of his law school
-      lecturers for defamation and managed to give himself a concussion while
-      digging a hole as a labourer.
+      Balancing out these moments of success, Michael was banned from his high
+      school graduation for “the balloon incident,” was sued by one of his Law
+      School lecturers for defamation, and his first published piece of writing
+      was a Mills & Boone short story called “The Male Delivery.”
 
 
-      He was the first Canadian Coach of the Year, is a Rhodes Scholar, and in
-      2016 was recognized as the #2 Coaching Guru in the world.
-
-
-      > If I had to pick a person to have dinner with, when I need to be prodded
-      and challenged and inspired to think about the things I really am
-      committed to think about for myself and what I’m doing, I’d pick Michael
-      Bungay Stanier. He has an ability to shake our tree and make us more
-      conscious and responsible about what we know but aren’t willing to admit
-      we know yet.
-
-      >
-
-      > _—David Allen, author of Getting Things Done_
+      Michael left Australia 25 years ago to be a Rhodes Scholar at Oxford
+      University, where his only significant achievement was falling in love
+      with a Canadian, which is why he now lives in Toronto, having spent time
+      in London and Boston. He was the first Canadian Coach of the Year.
     coachName: Michael Bungay Stanier
     jobTitle: 'Founder of Box of Crayons, author of The Coaching Habit'
     links:
