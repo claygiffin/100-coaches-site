@@ -432,7 +432,7 @@ coachList:
     jobTitle: Coach and Speaker
     links:
       linkedin: bonitathompson
-    photo: /uploads/bonita-thompson.jpg
+    photo: /uploads/bonita-thompson-headshot.jpg
     tags:
       - Author
       - Consultant
