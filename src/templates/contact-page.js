@@ -8,7 +8,7 @@ export const ContactPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout title='100 Coaches | Our Story' >
+    <Layout title='100 Coaches | Work With Us' >
       <ContactPageTemplate
         title={post.frontmatter.title}
         lede={post.frontmatter.lede}
