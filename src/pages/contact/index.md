@@ -109,8 +109,19 @@ services:
     provider: Bregman Partners
     title: Team Alignment
   - coach: Michael Bungay Stanier
-    description: Test Service description
-    provider: ''
-    title: Test Service
+    description: >-
+      We help managers and leaders develop — and keep — the coaching habit. When
+      managers become more coach-like, coaching ceases to be a one-off formal
+      event and instead becomes a part of their everyday repertoire.
+
+
+      This innovative, award-winning program is an introduction to coaching
+      skills for managers and leaders. Beginning with a half-day session, The
+      Coaching Habit program shows busy managers how to slay the advice monster
+      so that they can say less, ask more and change the way they lead forever.
+      To ensure that it becomes an innate way of leading and interacting, we
+      deliver tools and accountability systems to get it “in their bones.”
+    provider: 'Box of Crayons: Michael Bungay Stanier'
+    title: THE COACHING HABIT®
 ---
 
