@@ -219,7 +219,7 @@ h6 {
 
 p {
   @include effraStack;
-  @extend %font-24;
+  @extend %font-21;
   line-height: 2;
   margin: 0 0 1.125em;
   font-weight: 300;
@@ -770,7 +770,7 @@ footer.site-footer {
   }
   .profile-content {
     box-sizing: border-box;
-    padding: 0 3rem 3rem;
+    padding: 0 3rem 6rem;
     @media screen and (max-width: $tb * 1px) {
       padding: 0 2rem 3rem;
     }
@@ -1082,7 +1082,7 @@ footer.site-footer {
       color: lighten($midLightGray, 10);
     }
     p {
-      @extend %font-21;
+      @extend %font-18;
       margin-bottom: .75em;
       line-height: 1.75;
       color: $midLightGray;
@@ -1485,9 +1485,16 @@ body.lightbox-open {
 
 // Print
 
+.print-only {
+  display: none;
+}
+
 @media print {
   html {
     font-size: 10pt !important;
+  }
+  .print-only {
+    display: block;
   }
   footer.site-footer {
     display:none;
@@ -1582,6 +1589,18 @@ body.lightbox-open {
       .tags {
         margin-bottom: 1.5rem;
       }
+    }
+    .contact-info {
+      position: absolute;
+      top: 0;
+      right: 0;
+      text-align: left;
+      h6 {
+        margin: .25em 0;
+      }
+    }
+    h6 {
+      color: $midGray;
     }
   }
   #profile-page {

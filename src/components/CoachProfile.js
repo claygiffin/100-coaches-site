@@ -82,6 +82,10 @@ export default class CoachProfile extends React.Component {
               <Bio content={coach.bio} />
             </div>   
           </div>
+          <div className="print-only contact-info">
+            <h6>email: info@100coaches.com</h6>
+            <h6>phone: 212.877.4277</h6>
+          </div>
           <Portal>
             <div className="notification copied">Link to <em>{coach.coachName}'s</em> profile has been copied to the clipboard.</div>
           </Portal>

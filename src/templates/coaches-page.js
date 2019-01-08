@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
+import { kebabCase } from 'lodash'
 import Layout from '../components/Layout'
 import CoachThumb from '../components/CoachThumb'
 import Carousel from '../components/Carousel'
@@ -60,6 +61,14 @@ const tags = [
     ],
   },
   {
+    name: 'Corporate Executives',
+    matches: [
+      'Corporate Executive',
+      'CEO',
+      'Executive',
+    ],
+  },
+  {
     name: 'Entrepreneurs',
     matches: [
       'Entrepreneur',
@@ -85,8 +94,8 @@ export class CoachesPageTemplate extends React.Component {
     super(props);
 
     this.state = {
-      allCoaches: [],
-      filteredCoaches: [],
+      allCoaches: this.props.coaches,
+      filteredCoaches: this.props.coaches,
       activeFilter: 'default',
     }
 
@@ -128,6 +137,8 @@ export class CoachesPageTemplate extends React.Component {
       filteredCoaches: coaches,
       activeFilter: 'default',
     });
+    let slug = `/coaches/`;
+    window.history.replaceState({page: 'all coaches'}, null, `${slug}`);
   }
 
   applyFilter(selectedTag) {
@@ -142,6 +153,8 @@ export class CoachesPageTemplate extends React.Component {
       filteredCoaches: filteredCoaches,
       activeFilter: selectedTag.name,
     })
+    let slug = `/coaches/#${kebabCase(selectedTag.name)}`;
+    window.history.replaceState({page: selectedTag.name}, null, `${slug}`);
   }
 
   render() {
@@ -196,7 +209,13 @@ export class CoachesPageTemplate extends React.Component {
   }
 
   componentDidMount() {
-    this.popAllCoaches();
+    if(window.location.hash){
+      tags.forEach(tag => {
+        kebabCase(tag.name) === kebabCase(window.location.hash) && this.applyFilter(tag);
+      })
+    } else {
+      this.popAllCoaches();
+    }
   }
 
 }

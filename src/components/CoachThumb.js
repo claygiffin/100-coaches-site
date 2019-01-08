@@ -41,13 +41,14 @@ export class CoachThumb extends React.Component {
     })
     let coachName = this.props.coach.coachName;
     window.localStorage.setItem('lightboxCloseURL', window.location.pathname );
+    window.location.hash ? window.localStorage.setItem('lightboxCloseHash', window.location.hash ) : window.localStorage.setItem('lightboxCloseHash', '' );
     let slug = `/coaches/${kebabCase(coachName)}/`;
     window.history.replaceState({page: coachName}, null, `${slug}`);
     setTimeout(() => {document.body.classList.add('lightbox-open')}, 10);
   }
 
   handleCoachClose(){
-    window.history.replaceState(null, null, window.localStorage.getItem('lightboxCloseURL'));
+    window.history.replaceState(null, null, `${window.localStorage.getItem('lightboxCloseURL')}${window.localStorage.getItem('lightboxCloseHash')}`);
     document.body.classList.remove('lightbox-open');
     setTimeout(() => {
       this.setState({

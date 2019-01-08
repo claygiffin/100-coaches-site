@@ -46,13 +46,11 @@ export class ContactPageTemplate extends React.Component {
             photo: '',
           }
           const thisCoach = this.props.coachList.filter(coach => coach.coachName.toUpperCase() === service.coach.toUpperCase())[0] || coachFallback ;
-          console.log(thisCoach);
           return(
             <div className="service" key={service.title}>
               <div className="service-text">
                 <h3>{service.title}</h3>
                 <h4>{service.provider}</h4>
-                {console.log(service.provider)}
                 <Description content={service.description} />
               </div>
               <div className="coach-wrap">
