@@ -639,7 +639,48 @@ coachList:
       - Executive Coach
       - Speaker
       - Thinker
-  - bio: "Bill Simpson is the Chief Executive Officer of Hershey Entertainment & Resorts Company, located in Hershey, Pennsylvania. Bill began his career with HE&R in 1996 as General Manager of the Hershey Lodge & Convention Center. During his time in Hershey, Bill served as Vice President of the Entertainment Group, overseeing all Park & Entertainment operations, including the Hershey Bears Hockey Club, and was President & Chief Operating Officer of the company for three years.\r\n\n\rA veteran of the lodging industry, Bill began his career with Hyatt Hotels Corporation with assignments in Phoenix, Louisville, San Antonio, and Birmingham. Bill continued his career with such notable operations as Kingsmill Resort, The Opryland Hotel in Nashville, and The Williamsburg Inn. Prior to arriving in Hershey, Bill spent five years with Quorum Hotels & Resorts.\r\n\nBill & his wife Holly reside in Hershey, PA, with daughter Ashleigh and son John."
+  - bio: >-
+      Bill is an experienced CEO and Board Director with 40 years in the
+      hospitality and entertainment industries. He worked with Hershey
+      Entertainment and Resorts Company for 21 years, serving as its CEO from
+      2013 until his retirement in January of 2018. Known for top line and
+      bottom line growth, Bill and his team achieved record financial results
+      during that time, increasing revenue by 20% and EBITDA by 46%. He is also
+      known for developing a strong organization that focuses on company
+      culture, team building, training and development, and succession planning.
+      Bill is a proven mentor and developer of leadership talent.
+
+
+      Bill has served, and continues to serve on for-profit and non-profit
+      Boards. Currently he is a member of the Execustar and Woodstock Resort
+      Company Boards.
+
+
+      Bill served on the Hershey Entertainment and Resorts Company Board from
+      2011. He was a two term member of the American Hotel & Lodging Association
+      Board of Directors, participating on their Audit and Resort Committees. He
+      also served as a Board Member for the Pennsylvania Chamber of Business and
+      Industry, the Ronald McDonald Children's Charities of Central
+      Pennsylvania, and the Dartmouth College Geisel School of Medicine.
+
+
+      Bill is a certified Executive Coach through the Marshall Goldsmith
+      Stakeholder Centered Coaching
+
+
+      Program and was selected as one of the first 25 coaches of the MG100.\
+
+      Visionary Leadership, Strategic Planning and Execution, Brand
+      Development,\
+
+      Enterprise Risk Management, Corporate Social Responsibility,
+      Budgeting/Forecasting,\
+
+      P&L Management, Board Director, Organizational Leadership,\
+
+      Employee Development, Industry Expert, Board Governance,\
+
+      Coach and Mentor, Strategic Leader, Contemporary Thinker.
     coachName: Bill Simpson
     jobTitle: >-
       Independent Board Director. Retired President & CEO Hershey Entertainment
