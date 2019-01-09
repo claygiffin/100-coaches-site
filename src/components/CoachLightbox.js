@@ -9,7 +9,7 @@ export class CoachLightbox extends React.Component {
       <Lightbox 
         isOpen={this.props.isOpen}
         onClose={this.props.onClose}
-        className='coach-profile' 
+        className={`coach-profile`}
       >
         <CoachProfile coach={this.props.coach} />
       </Lightbox>      

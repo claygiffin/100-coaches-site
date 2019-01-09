@@ -1,5 +1,5 @@
 ---
-templateKey: contact-page
+templateKey: services-page
 title: Working with 100 Coaches
 lede: >
   100 Coaches strives to bring together a curated selection of the world's

@@ -115,11 +115,11 @@ collections:
               - {label: Description, name: description, widget: text, default: '', required: false }
           - {label: Body, name: body, widget: markdown, buttons: [bold, italic, link, bulleted-list, numbered-list, quote, heading-two]}
 
-      - file: src/pages/contact/index.md
-        label: Contact
-        name: contact  
+      - file: src/pages/services/index.md
+        label: Services
+        name: services  
         fields:
-          - {label: Template Key, name: templateKey, widget: hidden, default: contact-page}
+          - {label: Template Key, name: templateKey, widget: hidden, default: services-page}
           - {label: Title, name: title, widget: string}
           - {label: Lede, name: lede, widget: text}
           - {label: Email Address, name: email, widget: string}

@@ -4,12 +4,12 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import {markdownContent} from '../components/Content'
 
-export const ContactPage = ({ data }) => {
+export const ServicesPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
     <Layout title='100 Coaches | Work With Us' >
-      <ContactPageTemplate
+      <ServicesPageTemplate
         title={post.frontmatter.title}
         lede={post.frontmatter.lede}
         email={post.frontmatter.email}
@@ -21,11 +21,11 @@ export const ContactPage = ({ data }) => {
   )
 }
 
-ContactPage.propTypes = {
+ServicesPage.propTypes = {
   data: PropTypes.object.isRequired,
 }
 
-export class ContactPageTemplate extends React.Component {
+export class ServicesPageTemplate extends React.Component {
   render() {
     const phoneUnformatted = this.props.phone.split(/[\D,]+/).join('');
     const Description = markdownContent
@@ -72,10 +72,10 @@ export class ContactPageTemplate extends React.Component {
   }
 }
 
-export default ContactPage
+export default ServicesPage
 
-export const ContactPageQuery = graphql`
-  query ContactPage($id: String!) {
+export const ServicesPageQuery = graphql`
+  query ServicesPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
