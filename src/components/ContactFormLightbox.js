@@ -67,20 +67,17 @@ export default class ContactFormLightbox extends React.Component {
         className={`contact-form ${this.props.className ? this.props.className : ''}`}
       >
         <h2>Work With Us</h2>
-        {this.state.submitted ? 
-          <div className="form-success">
-            <p>Thank you, your inquiry has been sent successfully.</p>
-            <button className="cta-link" onClick={this.handleClose} >Return to site</button>
-          </div>
-        :
-          <form name="contact" method="POST" data-netlify="true" onSubmit={this.handleSubmit} >
-            <input type="text" name="name" placeholder="Your name (required)" required={true} onChange={this.handleChange} />
-            <input type="email" name="email" placeholder="Your email address (required)" required={true} onChange={this.handleChange} />
-            <input type="text" name="subject" autoComplete="off" placeholder="Which coaches and/or services are you interested in?" defaultValue={this.props.subject} onChange={this.handleChange} />
-            <textarea name="message" placeholder="Additional notes" onChange={this.handleChange} ></textarea>
-            <button type="submit" className="cta-link" >Submit Inquiry</button>
-          </form>
-        }
+        <form name="contact" method="POST" data-netlify="true" onSubmit={this.handleSubmit} className={this.state.submitted ? 'hidden' : ''} >
+          <input type="text" name="name" placeholder="Your name (required)" required={true} onChange={this.handleChange} />
+          <input type="email" name="email" placeholder="Your email address (required)" required={true} onChange={this.handleChange} />
+          <input type="text" name="subject" autoComplete="off" placeholder="Which coaches and/or services are you interested in?" defaultValue={this.props.subject} onChange={this.handleChange} />
+          <textarea name="message" placeholder="Additional notes" onChange={this.handleChange} ></textarea>
+          <button type="submit" className="cta-link" >Submit Inquiry</button>
+        </form>
+        <div className={`form-success ${this.state.submitted ? '' : 'hidden'}`}>
+          <p>Thank you, your inquiry has been sent successfully.</p>
+          <button className="cta-link" onClick={this.handleClose} >Return to site</button>
+        </div>
       </Lightbox>      
     )
   }
