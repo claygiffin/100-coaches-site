@@ -493,6 +493,14 @@ nav.navbar {
             background: $greenLight;
           }
         }
+        .contact-link {
+          border: 1px solid $greenLight;
+          color: $greenLight;
+          &:hover {
+            color: $greenLight;
+            border-color: $greenLight;
+          }
+        }
       }
       z-index: 10;
     }
@@ -614,14 +622,13 @@ footer.site-footer {
     font-size: 1.25rem;
     text-transform: uppercase;
     letter-spacing: .05em;
-    a {
+    a, .contact-link {
       font-weight: 400;
       color: $gold;
       text-decoration: none;
       transition: .2s color ease;
-      .contact-link {
-        display: inline;
-      }
+      display: inline;
+      cursor: pointer;
       &:hover {
         color: $goldLight;
       }
@@ -1634,6 +1641,9 @@ body.lightbox-open {
     .navbar-list {
       display: none;
     }
+  }
+  #content {
+    min-height: none;
   }
   body.lightbox-open {
     overflow: auto;
