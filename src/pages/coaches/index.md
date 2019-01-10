@@ -666,21 +666,6 @@ coachList:
 
       Bill is a certified Executive Coach through the Marshall Goldsmith
       Stakeholder Centered Coaching
-
-
-      Program and was selected as one of the first 25 coaches of the MG100.\
-
-      Visionary Leadership, Strategic Planning and Execution, Brand
-      Development,\
-
-      Enterprise Risk Management, Corporate Social Responsibility,
-      Budgeting/Forecasting,\
-
-      P&L Management, Board Director, Organizational Leadership,\
-
-      Employee Development, Industry Expert, Board Governance,\
-
-      Coach and Mentor, Strategic Leader, Contemporary Thinker.
     coachName: Bill Simpson
     jobTitle: >-
       Independent Board Director. Retired President & CEO Hershey Entertainment
