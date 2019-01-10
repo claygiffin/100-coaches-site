@@ -1539,12 +1539,14 @@ body.lightbox-open {
   }
   &.multi-lightbox-open{
     .lightbox:not(.active) {
+      z-index: 99;
       .lightbox-wrapper .lightbox-container {
         opacity: 0;
       }
     }
     .lightbox.active {
       background-color: rgba(#f2f2f2, 0);
+      z-index: 999;
     }
   }
   video {
