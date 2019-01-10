@@ -5,6 +5,7 @@ import Layout from '../components/Layout'
 import CoachThumb from '../components/CoachThumb'
 import Carousel from '../components/Carousel'
 import Hero from '../components/Hero'
+import ContactFormLink from '../components/ContactFormLink'
 import ThoughtThumb from '../components/ThoughtThumb'
 import logoOnColor from '../assets/100Coaches_logo_onColor.svg'
 import videoMp4 from '../assets/GettyImages-178062441_3.mp4'
@@ -70,7 +71,7 @@ export class HomePageTemplate extends React.Component {
           <section id="consultancy">
             <h2>{this.props.consultancy.headline}</h2>
             <div className="intro-text">{this.props.consultancy.text}</div>
-            <Link to="/contact" className="cta-link">{this.props.consultancy.linkText}</Link>
+            <ContactFormLink className="cta-link" linkText="Work With Us" />
           </section>
           <section id="thought-leadership">
             <h2>Thought Leadership</h2>
