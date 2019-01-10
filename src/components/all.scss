@@ -585,6 +585,13 @@ nav.navbar {
   }
 }
 
+#content {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 .page-content {
   padding-top: 6rem;
   @include flexbox;

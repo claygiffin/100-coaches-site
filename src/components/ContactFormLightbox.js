@@ -70,8 +70,9 @@ export default class ContactFormLightbox extends React.Component {
         className={`contact-form ${this.props.className ? this.props.className : ''}`}
       >
         <h2>Work With Us</h2>
-        <form name="contact" method="POST" data-netlify="true" onSubmit={this.handleSubmit} className={this.state.submitted ? 'hidden' : ''} >
+        <form name="contact" method="post" data-netlify="true" onSubmit={this.handleSubmit} className={this.state.submitted ? 'hidden' : ''} data-netlify-honeypot="bot-field" >
           <input type="hidden" name="form-name" value="contact" /> 
+          <input type="hidden" name="bot-field" />
           <input type="text" name="name" value={name} placeholder="Your name (required)" required={true} onChange={this.handleChange} />
           <input type="email" name="email" value={email} placeholder="Your email address (required)" required={true} onChange={this.handleChange} />
           <input type="text" name="subject" value={subject} autoComplete="off" placeholder="Which coaches and/or services are you interested in?" onChange={this.handleChange} />
