@@ -23,7 +23,7 @@ export class Lightbox extends React.Component {
       <>
         {(this.props.isOpen || this.props.isLoaded) && (
           <Portal
-            node={document && document.getElementById('___gatsby')}
+            node={(typeof document !== "undefined") && document.getElementById('___gatsby')}
           >
             <div className={`lightbox ${this.props.className ? this.props.className : ''}`} style={(this.props.isLoaded && !this.props.isOpen) ? {display: 'none'} : {display: 'block'}}>
                 <div className="lightbox-wrapper" >
