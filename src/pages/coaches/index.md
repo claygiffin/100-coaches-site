@@ -666,21 +666,6 @@ coachList:
 
       Bill is a certified Executive Coach through the Marshall Goldsmith
       Stakeholder Centered Coaching
-
-
-      Program and was selected as one of the first 25 coaches of the MG100.\
-
-      Visionary Leadership, Strategic Planning and Execution, Brand
-      Development,\
-
-      Enterprise Risk Management, Corporate Social Responsibility,
-      Budgeting/Forecasting,\
-
-      P&L Management, Board Director, Organizational Leadership,\
-
-      Employee Development, Industry Expert, Board Governance,\
-
-      Coach and Mentor, Strategic Leader, Contemporary Thinker.
     coachName: Bill Simpson
     jobTitle: >-
       Independent Board Director. Retired President & CEO Hershey Entertainment
@@ -1807,7 +1792,29 @@ coachList:
     photo: /uploads/Pooneh-Mohajer.jpg
     tags:
       - Corporate Executive
-  - bio: "Prakash is currently in Executive Development at LinkedIn, where he brings practical tools that leaders can use daily to help recognize and achieve their potential. He coaches, facilitates, and conducts workshops focused on leading through values, connection and the shared human experience.\r\n\n\rPrakash’s experience and background prior to LinkedIn enables him to take a unique, and actionable approach to developing leaders. From beginning his career on Wall Street, to globally scaling a non-profit, to managing the P&L for the Oreo Cookie brand, Prakash has successfully worked through key business problems, providing a business-rooted perspective when working with leaders.  Prakash graduated with honors from Rice University while playing Division 1 tennis, and holds an MBA from the Kellogg School of Management."
+  - bio: >-
+      Prakash Raman serves as a high-performance coach and facilitator for
+      C-Suite executives. Prior to running his own business, he spent 5 years
+      leading Executive Development at LinkedIn, coaching and facilitating for
+      LinkedIn’s senior executives. He facilitates the Leading with Mindfulness
+      and Compassion MBA course at the Stanford Graduate School of Business, and
+      is a member of Marshall Goldsmith’s 100 Coaches initiative. 
+
+
+      Prakash’s focus on high-performance is driven from his corporate and
+      athletic experience. Prakash began his career on Wall Street as an
+      investment banker, and achieved success in a variety of business
+      functions, from globally scaling a non-profit, to managing the P&L for the
+      iconic Oreo Cookie brand, and running biz ops for a venture-backed
+      startup. Prior to his corporate career, Prakash played professional
+      tennis, achieved a top 10 ranking in the United States and still holds the
+      Texas record for the longest winning streak (2.5 years) and longest tenure
+      at #1 (6 years).
+
+
+      Prakash received his MBA from the Kellogg School of Management at
+      Northwestern, and his BA in Economics from Rice University, where he
+      played Division I tennis.
     coachName: Prakash Raman
     jobTitle: >-
       Helping leaders better understand themselves and bridge gaps with others
