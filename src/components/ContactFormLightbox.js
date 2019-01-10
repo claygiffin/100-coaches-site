@@ -32,6 +32,7 @@ export default class ContactFormLightbox extends React.Component {
         this.setState({
           submitted: true
         })
+        console.log(this.state);
       })
       .catch(error => alert(error));
 
@@ -60,6 +61,7 @@ export default class ContactFormLightbox extends React.Component {
   }
 
   render(){
+    const { name, email, subject, message } = this.state;
     return(
       <Lightbox 
         isOpen={this.props.isOpen}
@@ -70,10 +72,10 @@ export default class ContactFormLightbox extends React.Component {
         <h2>Work With Us</h2>
         <form name="contact" method="POST" data-netlify="true" onSubmit={this.handleSubmit} className={this.state.submitted ? 'hidden' : ''} >
           <input type="hidden" name="form-name" value="contact" /> 
-          <input type="text" name="name" placeholder="Your name (required)" required={true} onChange={this.handleChange} />
-          <input type="email" name="email" placeholder="Your email address (required)" required={true} onChange={this.handleChange} />
-          <input type="text" name="subject" autoComplete="off" placeholder="Which coaches and/or services are you interested in?" defaultValue={this.props.subject} onChange={this.handleChange} />
-          <textarea name="message" placeholder="Additional notes" onChange={this.handleChange} ></textarea>
+          <input type="text" name="name" value={name} placeholder="Your name (required)" required={true} onChange={this.handleChange} />
+          <input type="email" name="email" value={email} placeholder="Your email address (required)" required={true} onChange={this.handleChange} />
+          <input type="text" name="subject" value={subject} autoComplete="off" placeholder="Which coaches and/or services are you interested in?" onChange={this.handleChange} />
+          <textarea name="message" value={message} placeholder="Additional notes" onChange={this.handleChange} ></textarea>
           <button type="submit" className="cta-link" >Submit Inquiry</button>
         </form>
         <div className={`form-success ${this.state.submitted ? '' : 'hidden'}`}>
