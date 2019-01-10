@@ -64,7 +64,7 @@ export default class ContactFormLink extends React.Component {
     return(
       <>
         <div
-          className={`contact-link ${this.props.className}`}
+          className={`contact-link ${this.props.className ? this.props.className : ''}`}
           onClick={this.handleClick}
         >
           {this.props.linkText}

@@ -619,6 +619,9 @@ footer.site-footer {
       color: $gold;
       text-decoration: none;
       transition: .2s color ease;
+      .contact-link {
+        display: inline;
+      }
       &:hover {
         color: $goldLight;
       }
