@@ -21,9 +21,9 @@ export class Lightbox extends React.Component {
   render(){
     return (
       <>
-        {this.props.isOpen && (
+        {(this.props.isOpen || this.props.isLoaded) && (
           <Portal>
-            <div className={`lightbox ${this.props.className ? this.props.className : ''}`} >
+            <div className={`lightbox ${this.props.className ? this.props.className : ''}`} style={(this.props.isLoaded && !this.props.isOpen) ? {display: 'none'} : {display: 'block'}}>
                 <div className="lightbox-wrapper" >
                 <div className="wrapper-inner">
                   <div className="lightbox-container">
