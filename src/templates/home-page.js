@@ -98,9 +98,12 @@ export class HomePageTemplate extends React.Component {
             </div>
           </section>
           <section id="institute" >
+          {this.props.institute.headline &&
             <div className="headline">
               <h3>{this.props.institute.headline}</h3>
             </div>
+          }
+          {this.props.institute.text &&           
             <div className="text" >
               <p>{this.props.institute.text}</p>
               {this.props.institute.linkText &&                
@@ -113,6 +116,7 @@ export class HomePageTemplate extends React.Component {
                 </a>
               }
             </div>
+          }
           </section>
         </div>
       </>        

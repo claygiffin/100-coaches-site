@@ -32,7 +32,6 @@ export default class ContactFormLightbox extends React.Component {
         this.setState({
           submitted: true
         })
-        console.log(this.state);
       })
       .catch(error => alert(error));
 

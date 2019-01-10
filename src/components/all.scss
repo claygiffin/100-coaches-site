@@ -608,6 +608,27 @@ footer.site-footer {
   .site-logo {
     height: 3rem;
   }
+  .contact-info {
+    text-align: center;
+    margin: 1.5rem 0 0;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    a {
+      font-weight: 400;
+      color: $gold;
+      text-decoration: none;
+      transition: .2s color ease;
+      &:hover {
+        color: $goldLight;
+      }
+    }
+    span {
+      color: #777;
+      margin: 0 1rem;
+      cursor: default;
+    }
+  }
   .copyright {
     font-size: 1rem;
     text-transform: uppercase;
