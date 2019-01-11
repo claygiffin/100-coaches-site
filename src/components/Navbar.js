@@ -9,8 +9,8 @@ class Navbar extends React.Component {
     super(props);
 
     this.state = {
-      logo: logoDefault,
-      home: false,
+      logo: '',
+      transparent: false,
     }
 
     this.toggleNav = this.toggleNav.bind(this);
@@ -32,13 +32,12 @@ class Navbar extends React.Component {
   }
 
   setLogo() {
-    const isRoot = window.location.pathname === "/";
-    isRoot ? this.setState({logo: logoKnockout, home: true}) : this.setState({logo: logoDefault, home: false})
+    this.props.navTransparent ? this.setState({logo: logoKnockout, transparent: true}) : this.setState({logo: logoDefault, transparent: false})
   }
 
   handleScroll(){
     let nav = this.navbarRef.current;
-    if (window.scrollY > 30) {
+    if (window.scrollY > 30 || nav.classList.contains('activated')) {
       nav.classList.add('scrolled');
       this.setState({logo: logoDefault});
     } else {
@@ -47,9 +46,19 @@ class Navbar extends React.Component {
     }
   }
 
+  componentDidMount(){
+    this.setLogo();
+    this.handleScroll();
+    window.addEventListener('scroll', this.handleScroll);
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('scroll', this.handleScroll);
+  }
+
   render() {
     return (
-      <nav ref={this.navbarRef} className={`navbar ${this.state.home ? 'home' : 'interior'}`}>
+      <nav ref={this.navbarRef} className={`navbar ${this.state.transparent ? 'transparent' : 'white'}`}>
         <Link to="/" className="site-logo">
           <img src={this.state.logo} alt="Marshall Goldsmith 100 Coaches" className="logo" />
         </Link>
@@ -72,16 +81,6 @@ class Navbar extends React.Component {
         </div>
     </nav>
     )
-  }
-
-  componentDidMount(){
-    this.setLogo();
-    this.handleScroll();
-    window.addEventListener('scroll', this.handleScroll);
-  }
-
-  componentWillUnmount() {
-    window.removeEventListener('scroll', this.handleScroll);
   }
 }
 

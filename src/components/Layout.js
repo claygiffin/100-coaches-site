@@ -4,11 +4,11 @@ import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import './all.scss'
 
-const TemplateWrapper = ({children, title}) => (
+const TemplateWrapper = ({children, title, navTransparent}) => (
   <>
     <Helmet title={title} ><html lang="en" /></Helmet>
-    <Navbar />
-    <div id="content">
+    <Navbar navTransparent={navTransparent} />
+    <div id="content" className={navTransparent ? 'transparent-nav' : ''}>
       {children}
       <Footer />
     </div>  

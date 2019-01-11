@@ -18,7 +18,7 @@ export const HomePage = ({data}) => {
   const thoughts = data.thoughtQuery.edges
 
   return (
-    <Layout title={metaQuery.title} >
+    <Layout title={metaQuery.title} navTransparent >
       <HomePageTemplate 
         title={metaQuery.title}
         intro={page.frontmatter.intro}
@@ -46,7 +46,7 @@ export class HomePageTemplate extends React.Component {
     return (
       <>
         <div id="home-page" className="page-content">
-          <Hero videoMp4={videoMp4} videoOgg="" videoWebM="" >
+          <Hero video videoMp4={videoMp4} videoOgg="" videoWebM="" >
             <h1>{this.props.title}</h1>
             <img src={logoOnColor} alt={this.props.title} id="hero-logo"/>
             <div className="intro-text">{this.props.intro.text}</div>
