@@ -266,12 +266,17 @@ coachList:
       Thinkers50. Whitney Johnson is an expert on disruptive innovation and
       personal disruption; specifically, a framework which she codified in the
       critically-acclaimed book Disrupt Yourself: Putting the Power of
-      Disruptive Innovation to Work. She developed her proprietary framework and
-      diagnostics after having co-founded the Disruptive Innovation Fund with
-      Harvard Business School’s Clayton Christensen. This framework is
-      complemented by a deep understanding of how executives create and destroy
-      value, having spent nearly a decade as an Institutional Investor-ranked
-      equity analyst on Wall Street.
+      Disruptive Innovation to Work and builds upon in Build an A Team. She
+      developed her proprietary framework and diagnostics after having
+      co-founded the Disruptive Innovation Fund with Harvard Business School’s
+      Clayton Christensen. This framework is complemented by a deep
+      understanding of how executives, teams, and organizations create and
+      destroy value, having spent nearly a decade as an Institutional
+      Investor-ranked equity analyst on Wall Street. Whitney works with
+      organizations of all sizes to optimize their human capital; helping them
+      understand and utilize the Learning Curve, offering insight into how
+      leaders must work together to leverage the talent and leadership of their
+      company.
 
 
       ## Professional / Coaching Experience:
