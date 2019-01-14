@@ -22,10 +22,10 @@ consulting:
   description: >-
     100 Coaches include some the world's most effective consultants in all areas
     of employee and customer growth and engagement. We offer a unique spectrum
-    of professionals who give speeches, deliver workshops, and lead
-    transformation. With so many talented people in our group, we make it easier
-    to find the right solution which may include our unique ability to bring
-    together multiple world class resources.
+    of professionals who deliver workshops, and lead transformation. With so
+    many talented people in our group, we make it easier to find the right
+    solution which may include our unique ability to bring together multiple
+    world class resources.
   servicesList:
     - description: >
         Over 5 million people use our Business Model Canvas. Join them by using
