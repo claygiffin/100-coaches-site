@@ -686,6 +686,7 @@ footer.site-footer {
   @include flex-direction(column);
   @include align-items(center);
   @extend %font-72;
+  position: relative;
   padding: 12rem 3rem 8rem;
   width: 100vw;
   background-color: $greenMid;
@@ -722,6 +723,10 @@ footer.site-footer {
   h1 {
     color: white;
     margin-top: .5em;
+  }
+  h1, .text-link, .intro-text {
+    position: relative;
+    z-index: 1;
   }
 }
 
