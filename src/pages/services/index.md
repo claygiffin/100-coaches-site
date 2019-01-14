@@ -9,15 +9,14 @@ coaching:
   description: >-
     100 Coaches provides access to the top coaches in the world. Together we
     offer a range of coaching styles and experiences, always maintaining the
-    highest standards and providing maximum effectiveness. Review the various
-    individuals and reach out so that we can help identify the coach that is the
-    right fit.
+    highest standards and providing maximum effectiveness. Please review and
+    reach out so that we can help identify the coach that is the right fit.
 speaking:
   description: >-
     100 Coaches speakers include some of the world's greatest iconic leaders,
-    cutting edge thought leaders, top professors and leading HR professionals.
-    We offer the opportunity to combine speaking engagements with consulting and
-    coaching services to create unique and powerful events. 
+    cutting edge thinking, and dynamic HR professionals. We offer the
+    opportunity to combine speaking engagements with consulting and coaching
+    services to create unique and powerful events. 
 consulting:
   description: >-
     100 Coaches include some the world's most effective consultants in all areas
