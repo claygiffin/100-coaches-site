@@ -40,7 +40,9 @@ class Hero extends React.Component {
             <img src={this.props.imgSrc} alt="hero" />
           </div>
         }
-        {this.props.children}
+        <div id="hero-content">
+          {this.props.children}
+        </div>
       </section>
     )
   }

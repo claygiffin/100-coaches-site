@@ -504,6 +504,9 @@ nav.navbar {
         font-size: 2rem;
         margin: 1.5rem 0;
         flex-shrink: 0;
+        &:hover {
+          color: $gold;
+        }
         &.active {
           &:before {
             background: transparent;
@@ -516,8 +519,8 @@ nav.navbar {
           border: 1px solid $greenLight;
           color: $greenLight;
           &:hover {
-            color: $greenLight;
-            border-color: $greenLight;
+            color: $gold;
+            border-color: $gold;
           }
         }
       }
@@ -574,10 +577,12 @@ nav.navbar {
       .mobile-nav-button span {
         background-color: rgba(white, .85);
       }
-      .navbar-item.active {
-        color: $greenLight;
-        &:before {
-          background-color: transparent;
+      .navbar-item{
+        &.active {
+          color: $greenLight;
+          &:before {
+            background-color: transparent;
+          }
         }
       }
     }
@@ -682,9 +687,6 @@ footer.site-footer {
 
 #hero {
   @include clip-path(inset(0 0 0 0));
-  @include flexbox;
-  @include flex-direction(column);
-  @include align-items(center);
   @extend %font-72;
   position: relative;
   padding: 12rem 3rem 8rem;
@@ -713,20 +715,23 @@ footer.site-footer {
       object-position: top center;
     }
   }
-  .intro-text {
-    margin: .125em 0 .5em;
-    color: rgba(white, .75);
-  }
-  .text-link {
-    @extend %font-21;
-  }
-  h1 {
-    color: white;
-    margin-top: .5em;
-  }
-  h1, .text-link, .intro-text {
+  #hero-content {
+    @include flexbox;
+    @include flex-direction(column);
+    @include align-items(center);
     position: relative;
     z-index: 1;
+    .intro-text {
+      margin: .125em 0 .5em;
+      color: rgba(white, .75);
+    }
+    .text-link {
+      @extend %font-21;
+    }
+    h1 {
+      color: white;
+      margin-top: .5em;
+    }
   }
 }
 
