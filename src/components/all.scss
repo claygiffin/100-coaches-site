@@ -1472,10 +1472,11 @@ footer.site-footer {
   }
   #top-row {
     @include flex-direction(row);
+    @include align-items(flex-start);
     padding-bottom: 4rem;
     > section {
       width: 50%;
-      padding: 0 3rem;
+      padding: 0 4rem;
       &:first-child {
         border-right: 1px solid #ccc;
       }
