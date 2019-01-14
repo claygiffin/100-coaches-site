@@ -28,7 +28,6 @@ class Hero extends React.Component {
   render(){
     return(
       <section id="hero" >
-        {this.props.children}
         {this.props.video &&         
           <video ref={this.vidRef} id="hero-video" loop autoPlay playsInline async muted style={{transform: `translate3d(0, ${this.state.pos}px, 0)`}}>
             {this.props.videoWebM && <source src={this.props.videoWebM} type="video/webm" /> }
@@ -41,6 +40,7 @@ class Hero extends React.Component {
             <img src={this.props.imgSrc} alt="hero" />
           </div>
         }
+        {this.props.children}
       </section>
     )
   }

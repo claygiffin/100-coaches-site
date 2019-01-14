@@ -64,7 +64,7 @@ export default class ContactFormLightbox extends React.Component {
     return(
       <Lightbox 
         isOpen={this.props.isOpen}
-        isLoaded={true}
+        // isLoaded={true}
         onClose={this.handleClose}
         className={`contact-form ${this.props.className ? this.props.className : ''}`}
       >
