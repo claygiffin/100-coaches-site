@@ -13,10 +13,10 @@ coaching:
     reach out so that we can help identify the coach that is the right fit.
 speaking:
   description: >-
-    100 Coaches speakers include some of the world's greatest iconic leaders,
-    cutting edge thinking, and dynamic HR professionals. We offer the
-    opportunity to combine speaking engagements with consulting and coaching
-    services to create unique and powerful events. 
+    100 Coaches speakers include the world's greatest iconic leaders, cutting
+    edge thinking, and dynamic HR professionals. We offer the opportunity to
+    combine speaking engagements with consulting and coaching to create unique
+    and powerful events. 
 consulting:
   description: >-
     100 Coaches include some the world's most effective consultants in all areas
