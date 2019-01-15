@@ -7,10 +7,10 @@ lede: >
   collective impact of our exclusive community to improve the world.
 coaching:
   description: >-
-    100 Coaches provides access to the top coaches in the world. Together we
-    offer a range of coaching styles and experiences, always maintaining the
-    highest standards and providing maximum effectiveness. Please review and
-    reach out so that we can help identify the coach that is the right fit.
+    100 Coaches provides access to the top coaches in the world. We offer a
+    range of coaching styles and experiences, maintain the highest standards and
+    provide maximum effectiveness. Please review and reach out so that we can
+    fit the coach to you.
 speaking:
   description: >-
     100 Coaches speakers include the world's greatest iconic leaders, cutting
