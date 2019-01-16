@@ -9,7 +9,7 @@ class Navbar extends React.Component {
     super(props);
 
     this.state = {
-      logo: '',
+      logo: logoDefault,
       transparent: false,
     }
 
