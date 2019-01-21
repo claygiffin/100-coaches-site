@@ -702,7 +702,8 @@ footer.site-footer {
     z-index: -100;
     background-size: cover;
     &::-webkit-media-controls-overlay-play-button,
-    &::-webkit-media-controls-start-playback-button {
+    &::-webkit-media-controls-start-playback-button,
+    &::-webkit-media-controls-play-button {
       display: none !important;
     }
   }
