@@ -717,6 +717,7 @@ footer.site-footer {
     object-fit: cover;
     z-index: -100;
     background-size: cover;
+    &::-webkit-media-controls,
     &::-webkit-media-controls-overlay-play-button,
     &::-webkit-media-controls-start-playback-button,
     &::-webkit-media-controls-play-button {
