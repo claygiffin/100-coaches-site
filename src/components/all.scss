@@ -406,7 +406,7 @@ nav.navbar {
     @extend %absolute-fill;
     z-index: 11;
     pointer-events: none;
-    @include transition(.3s ease);
+    @include transition(.3s background-color ease);
   }
   .navbar-list {
     @include flexbox;

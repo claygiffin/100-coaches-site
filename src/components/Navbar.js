@@ -10,7 +10,7 @@ class Navbar extends React.Component {
 
     this.state = {
       logo: logoDefault,
-      transparent: false,
+      transparent: 'unset',
     }
 
     this.toggleNav = this.toggleNav.bind(this);
@@ -58,7 +58,7 @@ class Navbar extends React.Component {
 
   render() {
     return (
-      <nav ref={this.navbarRef} className={`navbar ${this.state.transparent ? 'transparent' : 'white'}`}>
+      <nav ref={this.navbarRef} className={`navbar ${this.state.transparent == true ? 'transparent' : ''} ${this.state.transparent == false ? 'white' : ''}`}>
         <Link to="/" className="site-logo">
           <img src={this.state.logo} alt="Marshall Goldsmith 100 Coaches" className="logo" />
         </Link>
