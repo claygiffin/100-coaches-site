@@ -29,7 +29,7 @@ class Hero extends React.Component {
     return(
       <section id="hero" >
         {this.props.video &&         
-          <video ref={this.vidRef} id="hero-video" loop autoPlay playsinline async muted style={{transform: `translate3d(0, ${this.state.pos}px, 0)`}}>
+          <video ref={this.vidRef} id="hero-video" loop autoplay playsinline async muted style={{transform: `translate3d(0, ${this.state.pos}px, 0)`}}>
             {this.props.videoWebM && <source src={this.props.videoWebM} type="video/webm" /> }
             {this.props.videoOgg && <source src={this.props.videoOgg} type="video/ogg"/> }
             {this.props.videoMp4 && <source src={this.props.videoMp4} type="video/mp4" /> }
