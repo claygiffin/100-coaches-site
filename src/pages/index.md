@@ -15,8 +15,8 @@ coaches:
     world’s leading executive coaches, consultants, speakers, authors, iconic
     leaders, entrepreneurs and non-profit leaders.
 consultancy:
-  headline: Work With Us
-  linkText: Work with us
+  headline: Our Services
+  linkText: View Our Services
   text: >-
     100 Coaches include some the world's most effective consultants in all areas
     of employee and customer growth and engagement. We offer a unique spectrum
