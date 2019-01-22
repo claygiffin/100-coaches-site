@@ -1730,6 +1730,7 @@ body.lightbox-open {
   overflow: hidden;
   #content {
     pointer-events: none;
+    overflow: hidden;
   }
   .lightbox {
     background-color: rgba(#f2f2f2, .95);
