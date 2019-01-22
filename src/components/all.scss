@@ -425,7 +425,6 @@ nav.navbar {
   }
   .navbar-list {
     @include flexbox;
-    // margin-right: 1rem;
     .navbar-item {
       @include flexbox;
       @include justify-content(space-between);
@@ -440,9 +439,6 @@ nav.navbar {
       letter-spacing: .075em;
       @include transition(.3s color ease);
       z-index: 12;
-      &:hover {
-        color: $greenLight;
-      }
       &:before,
       &:after {
         content: '';
@@ -451,36 +447,43 @@ nav.navbar {
         width: 100%;
       }
       &.active {
-        color: $greenLight;
         pointer-events: none;
+      }
+      .contact-link {
+        border: 1px solid $darkGray;
+        color: inherit;
+        padding: .4667em .6em .4em ;
+        line-height: 1;
+        transition: all .3s ease;
+      }
+    }
+  }
+  &.white,
+  &.scrolled {
+    .navbar-item {
+      color: $darkGray;
+      &:hover {
+        color: $greenLight;
+      }
+      &.active {
+        color: $greenLight;
         &:before {
           background-color: $greenLight;
         }
       }
       .contact-link {
-        border: 1px solid $darkGray;
+        border-color: $darkGray;
         color: $darkGray;
-        padding: .4667em .6em .4em ;
-        line-height: 1;
-        transition: all .3s ease;
         &:hover {
-          color: $gold;
-          border-color: $gold;
+          color: $greenLight;
+          border-color: $greenLight;
         }
       }
     }
   }
   &.transparent:not(.scrolled) {
-    color: rgba(white, .75);
-    .contact-link {
-      border-color: rgba(white, .75);
-      color: rgba(white, .75);
-      &:hover {
-        color: $goldLight;
-        border-color: $goldLight;
-      }
-    }
     .navbar-item {
+      color: rgba(white, .75);
       &:hover {
         color: $goldLight;
       }
@@ -490,6 +493,14 @@ nav.navbar {
         &:before {
           background-color: $goldLight;
         }
+      }
+    }
+    .contact-link {
+      border-color: rgba(white, .75);
+      color: rgba(white, .75);
+      &:hover {
+        color: $goldLight;
+        border-color: $goldLight;
       }
     }
   }
