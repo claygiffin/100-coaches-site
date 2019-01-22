@@ -10,7 +10,7 @@ export default class Footer extends React.Component {
         <div className="contact-info">
           <ContactFormLink linkText="Work With Us"/>
           <span>|</span>
-          <a href="mailto:info@100coaches.com" target="_blank" rel="noopener noreferrer">info@100coaches.com</a>
+          <a href="mailto:info@100coaches.com" target="_blank" rel="noopener noreferrer">info@100coachesconsulting.com</a>
           <span>|</span>
           <a href="tel:212-877-4277" target="_blank" rel="noopener noreferrer">(212) 877-4277</a>
         </div>

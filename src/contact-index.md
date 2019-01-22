@@ -7,7 +7,7 @@ lede: >
   the solutions you need. Below is a small selection of our outstanding coaching
   and consulting offering. Please reach out so that we can help find the
   solution that is right for you.
-email: info@100coaches.com
+email: info@100coachesconsulting.com
 phone: 212.877.4277
 services:
   - coach: Alexander Osterwalder
