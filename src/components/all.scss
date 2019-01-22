@@ -1013,6 +1013,8 @@ footer.site-footer {
       padding: .5em .75em;
       margin: 1rem 0;
       border: 1px solid $lightGray;
+      border-radius: 0;
+      -webkit-appearance: none;
       color: $midGray;
       @include placeholder {
         color: $midLightGray;
