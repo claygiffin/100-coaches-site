@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Hero from '../components/Hero'
 import heroImage from '../assets/speaker-feature.jpg'
+import ContactFormLink from '../components/ContactFormLink'
 
 export const ServicesPage = ({ data }) => {
   const { markdownRemark: post } = data
@@ -36,6 +37,7 @@ export class ServicesPageTemplate extends React.Component {
         <p className="intro-text">
           {this.props.lede}
         </p>
+        <ContactFormLink className="text-link" linkText="Work With Us" />
       </Hero>
       <section id="top-row">
         <section id="coaching">
