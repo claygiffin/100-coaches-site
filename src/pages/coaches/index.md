@@ -1505,7 +1505,7 @@ coachList:
       Bestselling Author, Teen Leadership Coach & Speaker
     links:
       linkedin: juliemariecarrier
-    photo: /uploads/Julie-carrier.jpg
+    photo: /uploads/julie_carrier_headshot.jpg
     tags:
       - Author
       - Consultant
