@@ -26,6 +26,16 @@ consulting:
     solution which may include our unique ability to bring together multiple
     world class resources.
   servicesList:
+    - description: >
+        Over 5 million people use our Business Model Canvas. Join them by using
+        our platform and services to clearly understand customers, create better
+        products, and grow businesses. Enterprise teams can train at our Cloud
+        Academy and receive coaching through our Innovation Sprints. Smaller
+        companies can take our Online Courses, use our Web App, and download
+        free resources.
+      image: /uploads/Alexander-Osterwalder.jpg
+      provider: Strategyzer
+      title: 'Understand customers, create better products, and grow businesses'
     - description: >-
         Recognized as one of the 50 leading business thinkers in the world by
         Thinkers50, and a Top Influencer on Linkedin, Whitney Johnson is an
@@ -45,16 +55,6 @@ consulting:
       image: /uploads/wj14.gif
       provider: Whitney Johnson
       title: Disruptive Innovation and Personal Disruption
-    - description: >
-        Over 5 million people use our Business Model Canvas. Join them by using
-        our platform and services to clearly understand customers, create better
-        products, and grow businesses. Enterprise teams can train at our Cloud
-        Academy and receive coaching through our Innovation Sprints. Smaller
-        companies can take our Online Courses, use our Web App, and download
-        free resources.
-      image: /uploads/Alexander-Osterwalder.jpg
-      provider: Strategyzer
-      title: 'Understand customers, create better products, and grow businesses'
     - description: >
         Dr. Thompson is an expert on executive leadership, business strategy,
         and innovation who has spent over 25 years leading teams and building
