@@ -263,23 +263,23 @@ coachList:
       - Thinker
   - bio: >-
       Recognized as one of the 50 leading business thinkers in the world by
-      Thinkers50. Whitney Johnson is an expert on disruptive innovation and
-      personal disruption; specifically, a framework which she codified in the
-      critically-acclaimed book Disrupt Yourself: Putting the Power of
-      Disruptive Innovation to Work and builds upon in Build an A Team. She
-      developed her proprietary framework and diagnostics after having
-      co-founded the Disruptive Innovation Fund with Harvard Business School’s
-      Clayton Christensen. This framework is complemented by a deep
-      understanding of how executives, teams, and organizations create and
-      destroy value, having spent nearly a decade as an Institutional
-      Investor-ranked equity analyst on Wall Street. Whitney works with
-      organizations of all sizes to optimize their human capital; helping them
-      understand and utilize the Learning Curve, offering insight into how
+      Thinkers50, and a Top Influencer on Linkedin, Whitney Johnson is an expert
+      on disruptive innovation and personal disruption; specifically, a
+      framework which she codified in the critically-acclaimed book Disrupt
+      Yourself: Putting the Power of Disruptive Innovation to Work and builds
+      upon in Build an A Team. She developed her proprietary framework and
+      diagnostics after having co-founded the Disruptive Innovation Fund with
+      Harvard Business School’s Clayton Christensen. This framework is
+      complemented by a deep understanding of how executives, teams, and
+      organizations create and destroy value, having spent nearly a decade as an
+      Institutional Investor-ranked equity analyst on Wall Street. Whitney works
+      with organizations of all sizes to optimize their human capital; helping
+      them understand and utilize the Learning Curve, offering insight into how
       leaders must work together to leverage the talent and leadership of their
       company.
 
 
-      ## Professional / Coaching Experience:
+      ### Professional / Coaching Experience:
 
 
       * Thinkers 50, Leading Business Thinker Globally
@@ -294,8 +294,6 @@ coachList:
 
       * Coach for Harvard Business School Executive Education
 
-      * Original Cohort of 15, Marshall Goldsmith’s #100 Coaches
-
       * Top 100 Best Coaches Award – World HRD Congress (India)
 
       * Harvard Medical School Institute of Coaching – Member
@@ -303,7 +301,9 @@ coachList:
       * Master Certified Coach – Marshall Goldsmith’s Stakeholder-Centered
       Coaching
 
-      * Experience
+
+      ### Experience
+
 
       * Co-founded with Clayton Christensen: Rose Park Advisors – Disruptive
       Innovation Fund
@@ -325,9 +325,9 @@ coachList:
       * Advisory Board Member, Chatbooks
 
 
-      > Playing it safe is not safe in today’s fast-paced marketplace. Disrupt
+      > _Playing it safe is not safe in today’s fast-paced marketplace. Disrupt
       Yourself is a must-read for anyone looking to stand out from the crowd and
-      pursue innovation in our highly uncertain business climate.
+      pursue innovation in our highly uncertain business climate._
 
       >
 
@@ -1511,7 +1511,7 @@ coachList:
       - Consultant
       - Executive Coach
       - Speaker
-  - bio: "Julie Rosenberg, MD, is a physician executive and experienced healthcare leader who oversees global drug development programs in the pharmaceutical industry. In addition, Julie has devoted the last 15 years to the in-depth study and practice of yoga. She received her advanced teaching certification from Down Under Yoga in Boston in 2015, under the tutelage of Natasha Rizopoulos. She lives in Connecticut and Florida and is the author of Beyond the Mat: Achieve Focus, Presence, and Enlightened Leadership Through the Principles and Practice of Yoga (Da Capo / Hachette Books 2017).\r\n\n\rJulie views yoga as preventive medicine. She teaches yoga primarily “beyond the mat,” helping individuals and groups to apply the principles and practice of yoga to their daily lives and to support their overall health and well-being, to achieve greater success, and to become more effective leaders. She is honored to be among the Marshall Goldsmith 100 coaches.\r\n\n\rJulie has become a highly sought-after keynote speaker for top corporations, patient groups, and premier resorts and health spas. Her specialty is helping individuals and groups overcome the challenges, complexities and uncertainties of the modern world by enhancing their personal power to do so. She offers essential tools that can be used during the course of an average day, ranging from breathing techniques to simple at-your-desk meditation exercises and yoga postures. She is available for both private consultation and speaking engagements. For more information and to book speaking engagements, please contact her at authorjulierosenberg@gmail.com."
+  - bio: "Julie Rosenberg, MD, is an experienced pediatric oncologist and global healthcare leader who has worked in a variety of leadership roles in both academic medicine and the pharmaceutical industry. She is a certified Marshall Goldsmith Stakeholder Centered Coach and honored member of the Marshall Goldsmith 100 coaches. \r\r\n\nJulie believes that each of us is our own best healthcare provider. In an effort to find ways to support people in adopting a conscious lifestyle, Julie has devoted that last 16 years to the in-depth study and practice of yoga, meditation and mindfulness. While trained in Western medicine, these Eastern principles and practices now inform her thinking, her leadership style and her work. Recognizing that chronic stress and burnout are on the rise with the relentless pace of business today, Julie works with senior leaders and teams to help them achieve their highest state of well-being and become more effective in their organizations. \r\r\n\nJulie’s first book, Beyond the Mat: _Achieve Focus, Presence and Enlightened Leadership Through the Principles and Practice of Yoga _(Da Capo Press) is an Amazon best seller and has been heavily endorsed by leading health and wellness, leadership and yoga experts. Her articles have appeared in Thrive Global, The Daily Positive, Fulfillment Daily, Dr. Laura, Reader’s Digest, Writer’s Digest, Elephant Journal, and Investor’s Business Daily. She has had featured commentary on ABC, America Trends, and RT America.\r\r\n\nJulie earned her B.A. and M.D. from the University of Missouri-Kansas City on a full academic scholarship and completed her medical residency and fellowship at the Baylor College of Medicine in Houston, TX."
     coachName: Julie Rosenberg
     jobTitle: 'Global Healthcare Leader, Keynote Speaker, Executive Coach, Author'
     links:

@@ -36,6 +36,25 @@ consulting:
       image: /uploads/Alexander-Osterwalder.jpg
       provider: Strategyzer
       title: 'Understand customers, create better products, and grow businesses'
+    - description: >-
+        Recognized as one of the 50 leading business thinkers in the world by
+        Thinkers50, and a Top Influencer on Linkedin, Whitney Johnson is an
+        expert on disruptive innovation and personal disruption; specifically, a
+        framework which she codified in the critically-acclaimed book Disrupt
+        Yourself: Putting the Power of Disruptive Innovation to Work and builds
+        upon in Build an A Team. She developed her proprietary framework and
+        diagnostics after having co-founded the Disruptive Innovation Fund with
+        Harvard Business School’s Clayton Christensen. This framework is
+        complemented by a deep understanding of how executives, teams, and
+        organizations create and destroy value, having spent nearly a decade as
+        an Institutional Investor-ranked equity analyst on Wall Street. Whitney
+        works with organizations of all sizes to optimize their human capital;
+        helping them understand and utilize the Learning Curve, offering insight
+        into how leaders must work together to leverage the talent and
+        leadership of their company.
+      image: /uploads/wj14.gif
+      provider: Whitney Johnson
+      title: Disruptive Innovation and Personal Disruption
     - description: >
         Dr. Thompson is an expert on executive leadership, business strategy,
         and innovation who has spent over 25 years leading teams and building
@@ -44,17 +63,6 @@ consulting:
       image: /uploads/Thompson_Mark.jpg
       provider: Mark C. Thompson
       title: 'America’s #1 Leadership Transformation Coach'
-    - description: >
-        Former President & CEO, Boeing Commercial Airplanes, Boeing Information,
-        Space and Defense Systems, and The Ford Motor Company Renowned for his
-        strategic and operational leadership and working together, Alan Mulally
-        transformed a struggling Ford Motor Company into one of the world’s
-        leading automobile companies and the #1 automobile brand in the United
-        States. Mulally led the transformation of Boeing into the #1 commercial
-        airplane company and aerospace company in the world.
-      image: /uploads/alan_mulally.jpg
-      provider: Alan Mulally
-      title: Speaking about Working Together
     - description: >
         This cutting-edge leadership training is based on one of the core
         learnings of Peter’s 30 years of experience working with CEOs and senior
@@ -68,6 +76,17 @@ consulting:
       image: /uploads/peter-bregman.jpg
       provider: Bregman Partners
       title: Emotional Courage Training
+    - description: >
+        Former President & CEO, Boeing Commercial Airplanes, Boeing Information,
+        Space and Defense Systems, and The Ford Motor Company Renowned for his
+        strategic and operational leadership and working together, Alan Mulally
+        transformed a struggling Ford Motor Company into one of the world’s
+        leading automobile companies and the #1 automobile brand in the United
+        States. Mulally led the transformation of Boeing into the #1 commercial
+        airplane company and aerospace company in the world.
+      image: /uploads/alan_mulally.jpg
+      provider: Alan Mulally
+      title: Speaking about Working Together
     - description: >
         Dorie Clark has been called an “expert at self-reinvention and helping
         others make changes in their lives” by the New York Times. An author who
