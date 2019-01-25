@@ -263,23 +263,23 @@ coachList:
       - Thinker
   - bio: >-
       Recognized as one of the 50 leading business thinkers in the world by
-      Thinkers50. Whitney Johnson is an expert on disruptive innovation and
-      personal disruption; specifically, a framework which she codified in the
-      critically-acclaimed book Disrupt Yourself: Putting the Power of
-      Disruptive Innovation to Work and builds upon in Build an A Team. She
-      developed her proprietary framework and diagnostics after having
-      co-founded the Disruptive Innovation Fund with Harvard Business School’s
-      Clayton Christensen. This framework is complemented by a deep
-      understanding of how executives, teams, and organizations create and
-      destroy value, having spent nearly a decade as an Institutional
-      Investor-ranked equity analyst on Wall Street. Whitney works with
-      organizations of all sizes to optimize their human capital; helping them
-      understand and utilize the Learning Curve, offering insight into how
+      Thinkers50, and a Top Influencer on Linkedin, Whitney Johnson is an expert
+      on disruptive innovation and personal disruption; specifically, a
+      framework which she codified in the critically-acclaimed book Disrupt
+      Yourself: Putting the Power of Disruptive Innovation to Work and builds
+      upon in Build an A Team. She developed her proprietary framework and
+      diagnostics after having co-founded the Disruptive Innovation Fund with
+      Harvard Business School’s Clayton Christensen. This framework is
+      complemented by a deep understanding of how executives, teams, and
+      organizations create and destroy value, having spent nearly a decade as an
+      Institutional Investor-ranked equity analyst on Wall Street. Whitney works
+      with organizations of all sizes to optimize their human capital; helping
+      them understand and utilize the Learning Curve, offering insight into how
       leaders must work together to leverage the talent and leadership of their
       company.
 
 
-      ## Professional / Coaching Experience:
+      ### Professional / Coaching Experience:
 
 
       * Thinkers 50, Leading Business Thinker Globally
@@ -294,8 +294,6 @@ coachList:
 
       * Coach for Harvard Business School Executive Education
 
-      * Original Cohort of 15, Marshall Goldsmith’s #100 Coaches
-
       * Top 100 Best Coaches Award – World HRD Congress (India)
 
       * Harvard Medical School Institute of Coaching – Member
@@ -303,7 +301,9 @@ coachList:
       * Master Certified Coach – Marshall Goldsmith’s Stakeholder-Centered
       Coaching
 
-      * Experience
+
+      ### Experience
+
 
       * Co-founded with Clayton Christensen: Rose Park Advisors – Disruptive
       Innovation Fund
@@ -325,9 +325,9 @@ coachList:
       * Advisory Board Member, Chatbooks
 
 
-      > Playing it safe is not safe in today’s fast-paced marketplace. Disrupt
+      > _Playing it safe is not safe in today’s fast-paced marketplace. Disrupt
       Yourself is a must-read for anyone looking to stand out from the crowd and
-      pursue innovation in our highly uncertain business climate.
+      pursue innovation in our highly uncertain business climate._
 
       >
 
