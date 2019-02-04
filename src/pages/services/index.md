@@ -135,5 +135,19 @@ consulting:
       image: /uploads/Michael Bungay Stanier.jpg
       provider: 'Box of Crayons: Michael Bungay Stanier'
       title: The Coaching Habit
+    - description: >-
+        Martin Lindstrom and his team at Lindstrom Company, the world's leading
+        business and culture transformation company, are the engine behind some
+        of the world's most remarkable corporate transformations. These include
+        LEGO's turnaround from near-bankruptcy in 2004 to become the worlds #1
+        toy brand; the reinvention of logistics by Maersk, the world's #1
+        shipping company, resulting in the company doubling customer
+        satisfaction over the span of just two years; and Lindstrom Company's
+        transformation of Lowes Foods, bringing the chain from near shutdown to
+        America’s most innovative supermarket chain. Learn more at
+        www.LindstromCompany.com
+      image: /uploads/martin-lindstrom.jpg
+      provider: Martin Lindstrom
+      title: The World's Leading Business and Culture Transformation Company
 ---
 
