@@ -37,6 +37,7 @@ consulting:
         transformation of Lowes Foods, bringing the chain from near shutdown to
         America’s most innovative supermarket chain. Learn more at
         www.LindstromCompany.com
+      image: /uploads/martin-lindstrom.jpg
       provider: Martin Lindstrom
       title: The World's Leading Business and Culture Transformation Company
     - description: >
