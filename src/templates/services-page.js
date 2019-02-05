@@ -58,13 +58,15 @@ export class ServicesPageTemplate extends React.Component {
           {this.props.consulting.servicesList.map((service, i) => {
             return (            
               <div className="service" key={i}>
-                <div className="text-block">
-                  <h3>{service.title}</h3>
-                  <h4>{service.provider}</h4>
-                  <p>{service.description}</p>
-                </div>
-                <div className="image">
-                  <img src={service.image} alt={service.provider} />
+                <div className="service-inner">
+                  <div className="text-block">
+                    <h3>{service.title}</h3>
+                    <h4>{service.provider}</h4>
+                    <p>{service.description}</p>
+                  </div>
+                  <div className="image">
+                    <img src={service.image} alt={service.provider} />
+                  </div>
                 </div>
               </div>
             )

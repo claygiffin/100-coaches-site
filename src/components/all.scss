@@ -1567,60 +1567,82 @@ footer.site-footer {
     .services {
       @include flexbox;
       @include flex-wrap(wrap);
-      @include justify-content(space-between);
+      @include justify-content(flex-start);
       @extend %col-12;
       .service {
-        padding: 1.5rem 1.5rem 2rem .75rem;
+        width: calc(100%/3);
+        padding: 1rem;
         box-sizing: border-box;
-        @include flexbox;
-        width: calc((100% - 4rem) / 3 );
-        margin: 1rem 0;
-        background: white;
-        box-shadow: 0 0 0 1px rgba(black,.25);
-        .image {
-          width: 6rem;
-          margin-top: -.5rem;
-          @include flex-shrink(0);
-          img {
-            width: 100%;
-            height: auto;
-            border-radius: 50%;
+        .service-inner {
+          padding: 1.5rem 1.5rem 2rem .75rem;
+          box-sizing: border-box;
+          @include flexbox;
+          // width: calc((100% - 4rem) / 3 );
+          width: 100%;
+          height: 100%;
+          background: white;
+          box-shadow: 0 0 0 1px rgba(black,.25);
+          .image {
+            width: 6rem;
+            margin-top: -.5rem;
+            @include flex-shrink(0);
+            img {
+              width: 100%;
+              height: auto;
+              border-radius: 50%;
+            }
           }
-        }
-        .text-block {
-          padding-left: 1rem;
-          @include order(2);
-          h3 {
-            @extend %font-24;
-            font-weight: 700;
-            margin-top: 0;
-            margin-bottom: .375em;
-          }
-          h4 {
-            margin-top: 0;
-            margin-bottom: .5em;
-            color: $green;
-            @extend %font-15;
-            text-transform: none;
-            letter-spacing: 0;
-          }
-          p {
-            line-height: 1.5;
-            margin-bottom: .75em;
-            @extend %font-15;
-            font-weight: 400;
-            color: $midLightGray;
-            text-align: left;
-            &:last-child {
-              margin-bottom: 0;
+          .text-block {
+            padding-left: 1rem;
+            @include order(2);
+            h3 {
+              @extend %font-24;
+              font-weight: 700;
+              margin-top: 0;
+              margin-bottom: .375em;
+            }
+            h4 {
+              margin-top: 0;
+              margin-bottom: .5em;
+              color: $green;
+              @extend %font-15;
+              text-transform: none;
+              letter-spacing: 0;
+            }
+            p {
+              line-height: 1.5;
+              margin-bottom: .75em;
+              @extend %font-15;
+              font-weight: 400;
+              color: $midLightGray;
+              text-align: left;
+              &:last-child {
+                margin-bottom: 0;
+              }
             }
           }
         }
+        @media screen and (min-width: $ds * 1px ) {
+          &:nth-child(3n - 2) {
+            padding-left: 0;
+          }
+          &:nth-child(3n) {
+            padding-right: 0;
+          }
+        }
         @media screen and (max-width: $ds * 1px) {
-          width: calc((100% - 2rem) / 2);
+          width: calc(100%/2);
+          padding: .75rem;
+          &:nth-child(2n - 1) {
+            padding-left: 0;
+          }
+          &:nth-child(2n) {
+            padding-right: 0;
+          }
         }
         @media screen and (max-width: $tb * 1px) {
           width: 100%;
+          padding: 1rem 0;
         }
       }
     }
