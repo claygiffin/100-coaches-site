@@ -2039,7 +2039,7 @@ coachList:
       Stakeholder Centered™️ Certified Coach
     links:
       linkedin: scottosman
-    photo: /uploads/Scott-Osman copy.jpg
+    photo: /uploads/scott-osman-headshot-2019-cropped_edited-1.jpg
     tags:
       - Entrepreneur
       - Executive Coach
