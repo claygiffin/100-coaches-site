@@ -2237,7 +2237,7 @@ coachList:
         * Taking the Stage: Breakthrough Stories from Women Leaders
     coachName: Will Linssen
     jobTitle: >-
-      Marshall Goldsmith Coaching Practice Leader for APAC & Europe and Master
+      Marshall Goldsmith Coaching Practice Leader APAC & Europe | Master
       Certified Coach
     links:
       linkedin: wlinssen
