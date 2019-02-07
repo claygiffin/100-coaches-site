@@ -2034,7 +2034,9 @@ coachList:
       - Executive Coach
   - bio: "Scott Osman is a thought leader in the area of purpose strategy. Scott is rare in his combination of multi-disciplinary talents that span a broad spectrum from creative to management to and vision. His passion is for developing talent and then applying talent and best practices for managing and participating in high performing teams. Scott specializes in multi-disciplinary strategic services including innovation, purpose, brand and business strategy. He understands how to reposition, grow, transform and evolve companies and their products while managing high performing clients. Previously Scott served as the key innovator and global director of the Purpose Strategy practice at Landor Associates.\r\n\n\rAbout Good Omen\r\n\nGood Omen provides a unique purpose led approach through leadership, strategy, design, and program management to expand the capabilities of agencies and internal corporate teams. We work independently, collaboratively, and as knowledge leaders. Work includes: the rebranding of a major sports league, a major religious movement, and entry into the Affordable Care Act, and a new technology that brings the enlivens communities through the power of pictures."
     coachName: Scott Osman
-    jobTitle: CEO Marshall Goldsmith 100 Coaches | Brand Strategist and Executive Coach
+    jobTitle: >-
+      CEO Marshall Goldsmith 100 Coaches     Brand Strategist and Executive
+      Coach
     links:
       linkedin: scottosman
     photo: /uploads/scott-osman-headshot-2019-cropped_edited-1.jpg
