@@ -149,13 +149,16 @@ coachList:
       - Iconic Leader
       - Speaker
   - bio: >-
-      Jim Yong Kim, M.D., Ph.D., is the 12th President of the World Bank Group.
-      Soon after he assumed his position in July 2012, the organization
+      Jim Yong Kim (@JimYongKim), M.D., Ph.D., is Vice Chairman and Partner at
+      Global Infrastructure Partners, a fund that invests in infrastructure
+      projects across several sectors around the world. 
+
+
+      From July 2012 to February 2019, Kim served as the 12th President of the
+      World Bank Group. Soon after he assumed that position, the organization
       established two goals to guide its work: to end extreme poverty by 2030;
-      and to boost shared prosperity, focusing on the bottom 40% of the
-      population in developing countries. In September 2016, the World Bank
-      Group Board unanimously reappointed Kim to a second five-year term as
-      President.
+      and to boost shared prosperity, focusing on the bottom 40 percent of the
+      population in developing countries. 
 
 
       Kim’s career has revolved around health, education, and improving the
@@ -174,7 +177,7 @@ coachList:
       America’s “25 Best Leaders” by U.S. News & World Report, and was named one
       of TIME magazine’s “100 Most Influential People in the World.”
     coachName: Jim Yong Kim
-    jobTitle: President at The World Bank
+    jobTitle: Vice Chairman and Partner at Global Infrastructure Partners
     links:
       linkedin: jimyongkim
     photo: /uploads/jim-yong-kim.jpg
