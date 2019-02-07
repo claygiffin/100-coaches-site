@@ -180,7 +180,7 @@ coachList:
     jobTitle: Vice Chairman and Partner at Global Infrastructure Partners
     links:
       linkedin: jimyongkim
-    photo: /uploads/jim-yong-kim.jpg
+    photo: /uploads/jimkim.jpeg
     tags:
       - Corporate Executive
       - Iconic Leader
