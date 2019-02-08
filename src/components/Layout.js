@@ -6,7 +6,10 @@ import './all.scss'
 
 const TemplateWrapper = ({children, title, navTransparent}) => (
   <>
-    <Helmet title={title} description="We offer the services of a unique spectrum of talent — including the world’s leading executive coaches, consultants, speakers, authors, iconic leaders, entrepreneurs and non-profit leaders."><html lang="en" /></Helmet>
+    <Helmet title={title}>
+      <html lang="en" /> 
+      <meta name="description" content="100 Coaches offers the services of a unique spectrum of talent — including the world’s leading executive coaches, consultants, speakers, authors, iconic leaders, entrepreneurs and non-profit leaders." />
+    </Helmet>
     <Navbar navTransparent={navTransparent} />
     <div id="content" className={navTransparent ? 'transparent-nav' : ''}>
       {children}
