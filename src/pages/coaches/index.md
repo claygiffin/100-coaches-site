@@ -149,13 +149,16 @@ coachList:
       - Iconic Leader
       - Speaker
   - bio: >-
-      Jim Yong Kim, M.D., Ph.D., is the 12th President of the World Bank Group.
-      Soon after he assumed his position in July 2012, the organization
+      Jim Yong Kim (@JimYongKim), M.D., Ph.D., is Vice Chairman and Partner at
+      Global Infrastructure Partners, a fund that invests in infrastructure
+      projects across several sectors around the world. 
+
+
+      From July 2012 to February 2019, Kim served as the 12th President of the
+      World Bank Group. Soon after he assumed that position, the organization
       established two goals to guide its work: to end extreme poverty by 2030;
-      and to boost shared prosperity, focusing on the bottom 40% of the
-      population in developing countries. In September 2016, the World Bank
-      Group Board unanimously reappointed Kim to a second five-year term as
-      President.
+      and to boost shared prosperity, focusing on the bottom 40 percent of the
+      population in developing countries. 
 
 
       Kim’s career has revolved around health, education, and improving the
@@ -174,10 +177,10 @@ coachList:
       America’s “25 Best Leaders” by U.S. News & World Report, and was named one
       of TIME magazine’s “100 Most Influential People in the World.”
     coachName: Jim Yong Kim
-    jobTitle: President at The World Bank
+    jobTitle: Vice Chairman and Partner at Global Infrastructure Partners
     links:
       linkedin: jimyongkim
-    photo: /uploads/jim-yong-kim.jpg
+    photo: /uploads/jimkim.jpeg
     tags:
       - Corporate Executive
       - Iconic Leader
@@ -2034,12 +2037,10 @@ coachList:
       - Executive Coach
   - bio: "Scott Osman is a thought leader in the area of purpose strategy. Scott is rare in his combination of multi-disciplinary talents that span a broad spectrum from creative to management to and vision. His passion is for developing talent and then applying talent and best practices for managing and participating in high performing teams. Scott specializes in multi-disciplinary strategic services including innovation, purpose, brand and business strategy. He understands how to reposition, grow, transform and evolve companies and their products while managing high performing clients. Previously Scott served as the key innovator and global director of the Purpose Strategy practice at Landor Associates.\r\n\n\rAbout Good Omen\r\n\nGood Omen provides a unique purpose led approach through leadership, strategy, design, and program management to expand the capabilities of agencies and internal corporate teams. We work independently, collaboratively, and as knowledge leaders. Work includes: the rebranding of a major sports league, a major religious movement, and entry into the Affordable Care Act, and a new technology that brings the enlivens communities through the power of pictures."
     coachName: Scott Osman
-    jobTitle: >-
-      CEO at Marshall Goldsmith 100 Coaches | Purpose and Brand Strategist |
-      Stakeholder Centered™️ Certified Coach
+    jobTitle: CEO Marshall Goldsmith 100 Coaches || Brand Strategist and Executive Coach
     links:
       linkedin: scottosman
-    photo: /uploads/Scott-Osman copy.jpg
+    photo: /uploads/scott-osman-headshot-2019-cropped_edited-1.jpg
     tags:
       - Entrepreneur
       - Executive Coach
@@ -2239,7 +2240,7 @@ coachList:
         * Taking the Stage: Breakthrough Stories from Women Leaders
     coachName: Will Linssen
     jobTitle: >-
-      Marshall Goldsmith Coaching Practice Leader for APAC & Europe and Master
+      Marshall Goldsmith Coaching Practice Leader APAC & Europe | Master
       Certified Coach
     links:
       linkedin: wlinssen
