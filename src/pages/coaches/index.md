@@ -1388,7 +1388,7 @@ coachList:
     jobTitle: Managing Director at Leadership Research Institute
     links:
       linkedin: howard-morgan-5118389
-    photo: /uploads/howard-morgan.jpg
+    photo: /uploads/howardmorgan.jpg
     tags:
       - Author
       - Executive Coach
