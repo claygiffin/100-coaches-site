@@ -185,6 +185,17 @@ coachList:
       - Corporate Executive
       - Iconic Leader
       - Non-Profit
+  - bio: "* First Chief of Staff reporting to Founder & Chairman Charles ‘Chuck’ Schwab.\r\n* Founding Director & Coach for Sir Richard Branson’s Entrepreneurship Centres.\r\n* Founding Advisor & Board Member, Stanford Univ Realtime Venture Design Lab\r\n\n\rMark C. Thompson is a senior operating executive and New York Times bestselling author with 30+ years coaching senior executives, including leadership teams working directly for founders Steve Jobs, Richard Branson, Charles Schwab, FitBit founder Eric Friedman, and Pinterest founders Ben Silbermann and Evan Sharpe. He is a founding member of World Bank President Jim Kim’s Leadership Advisory Board, and served as a Governor for the Investment Securities Council at the World Economic Forum in Davos.  He is a founding director of Sir Richard Branson’s Virgin Unite Entrepreneurship Centres. The Virgin group has over 350 companies.\r\n\n\rMark was Chairman of Rioport, which popularized the MP-3 player before iTunes. He was a founding Board member of Esurance, which was sold to Allstate Insurance. He was a founding Board member of Interwoven during the Nasdaq IPO and then sold to HP.  He was Chairman of the Integration, which was sold to Silicon Labs. At his alma mater, Stanford University, Mark was a founding advisor of Stanford’s Real-Time Venture Design Lab and served as a Visiting Scholar for seven years. He was a board member of the John F. Kennedy University Institute for Entrepreneurial Leadership, where he received the institute’s first ever Lifetime Achievement Award.\r\n\n\rMark was an operating executive at Charles Schwab reporting to the Chairman, Charles ‘Chuck’ Schwab. Mark was on the team that launched Schwab as an NYSE IPO, and he was the first Retail & Institutional Investor Relations Officer, first Chief Customer Experience Officer and Executive Producer of Schwab.com, and Chief Communications Officer. www.MarkCThompson.com"
+    coachName: Mark C. Thompson
+    jobTitle: 'NYT Bestselling Author/Coach: Amex, Lyft, Pinterest, Intel, Virgin'
+    links:
+      linkedin: successmatters
+    photo: /uploads/Thompson_Mark.jpg
+    tags:
+      - Author
+      - Consultant
+      - Executive Coach
+      - Speaker
   - bio: >-
       Alexander Osterwalder is an entrepreneur, speaker and business model
       innovator. He is co-founder of Strategyzer, a leading SaaS company that
@@ -239,17 +250,6 @@ coachList:
       - Entrepreneur
       - Speaker
       - Thinker
-  - bio: "* First Chief of Staff reporting to Founder & Chairman Charles ‘Chuck’ Schwab.\r\n* Founding Director & Coach for Sir Richard Branson’s Entrepreneurship Centres.\r\n* Founding Advisor & Board Member, Stanford Univ Realtime Venture Design Lab\r\n\n\rMark C. Thompson is a senior operating executive and New York Times bestselling author with 30+ years coaching senior executives, including leadership teams working directly for founders Steve Jobs, Richard Branson, Charles Schwab, FitBit founder Eric Friedman, and Pinterest founders Ben Silbermann and Evan Sharpe. He is a founding member of World Bank President Jim Kim’s Leadership Advisory Board, and served as a Governor for the Investment Securities Council at the World Economic Forum in Davos.  He is a founding director of Sir Richard Branson’s Virgin Unite Entrepreneurship Centres. The Virgin group has over 350 companies.\r\n\n\rMark was Chairman of Rioport, which popularized the MP-3 player before iTunes. He was a founding Board member of Esurance, which was sold to Allstate Insurance. He was a founding Board member of Interwoven during the Nasdaq IPO and then sold to HP.  He was Chairman of the Integration, which was sold to Silicon Labs. At his alma mater, Stanford University, Mark was a founding advisor of Stanford’s Real-Time Venture Design Lab and served as a Visiting Scholar for seven years. He was a board member of the John F. Kennedy University Institute for Entrepreneurial Leadership, where he received the institute’s first ever Lifetime Achievement Award.\r\n\n\rMark was an operating executive at Charles Schwab reporting to the Chairman, Charles ‘Chuck’ Schwab. Mark was on the team that launched Schwab as an NYSE IPO, and he was the first Retail & Institutional Investor Relations Officer, first Chief Customer Experience Officer and Executive Producer of Schwab.com, and Chief Communications Officer. www.MarkCThompson.com"
-    coachName: Mark C. Thompson
-    jobTitle: 'NYT Bestselling Author/Coach: Amex, Lyft, Pinterest, Intel, Virgin'
-    links:
-      linkedin: successmatters
-    photo: /uploads/Thompson_Mark.jpg
-    tags:
-      - Author
-      - Consultant
-      - Executive Coach
-      - Speaker
   - bio: "MARTIN LINDSTROM is the founder and chairman of Lindstrom Company – the world’s leading brand & culture transformation group. TIME Magazine has selected Martin as one of the “World’s 100 Most Influential People”, and ranks #36 among the world’s top business thinkers according to Thinkers50. Since 2013 and over four consecutive years 30,000 marketers have selected him as the world’s #1 branding expert.\r\n\n\rMartin is the author of seven bestselling books including his latest New York Times, Wall Street Journal and USA Today bestsellers: Small Data – The Tiny Clues That Uncover Huge Trends (St. Martins) and Buyology – Truth and Lies About Why We Buy (Crown)\r\n\n\rLindstrom Company is today responsible for brand and culture transformations of numerous Fortune 500 companies, including the LEGO Company, Standard Chartered Bank, SWISS International Air Lines, PepsiCo, Red Bull, Estee Lauder Companies, Cargill, Nestlé International, The Walt Disney Company, Swiss Post, the Dorchester Collection, 3G group (Burger King International), Carrefour, Lowes, Majid Al Futtaim and GlaxoSmithKline.\r\n\n\rOver the years Martin and his team has developed an unorthodox way of doing what every company says it wants to do: understand its customers deepest desires and turn them into breakthrough products, brands, services or retail experiences. He is by Forbes recognized as one of the world’s leading brand and culture experts, having pioneered the introduction of brands on the Internet (1994), the innovation of Clicks & Mortar (1997), drawing parallels between religion and how brands are to be built in the future (2000), using our five senses in branding (2004), coining the term: NeuroMarketing (2007), exploring the next generation of word-of-mouth communication (2011) and just recently introduced the term “Small Data” (2016) representing the counter balance to Big Data.\r\n\n\rDue to his work, Lindstrom often features in the Wall Street Journal, the New York Times, Bloomberg BusinessWeek, the Washington Post, USA Today, The Economist, Harvard Business Review, The Independent, The Guardian, and Der Spiegel. He regularly appears on ABC, CNN, CBS, FOX, and the BBC.\r\n\n\rSmall Data was voted one of the top business books of 2016 and 2017 by Fortune, INC magazine and Forbes a must read and awarded the #1 Business book of 2017 by Business + Strategy. Buyology was voted “pick of the year” by USA Today, and it appeared on ten of the Top 10 bestseller lists in the U.S. and worldwide. His book BRANDsense was acclaimed by the Wall Street Journal as “…one of the five best marketing books ever published.” His six books on branding have been translated into more than 50 languages and published in more than 70 countries worldwide.\r\n\n\rLindstrom is a regular contributor to Fast Company, TIME Magazine, and NBC’s TODAY Show with his popular “Main Street Makeover” TV series.\r\n\n\rVisit MartinLindstrom.com for more…"
     coachName: Martin Lindstrom
     jobTitle: >-
@@ -349,6 +349,98 @@ coachList:
       - Executive Coach
       - Speaker
       - Thinker
+  - bio: "Aicha S. Evans is corporate vice president and general manager of the Communications and Devices Group at Intel Corporation. She is responsible for driving wireless engineering for multi-comm products and Intel platforms, including modems, RF, Wi-Fi, GPS, Bluetooth, NFC, FM, LTE, WLAN/WWAN as well as emerging wireless technologies to lead this industry going forward.\r\n\n\rPreviously Evans was the general manager of the Wireless Platform Research and Development Group where managed the engineering, software, hardware, strategic planning, and product test teams responsible for providing wireless connectivity ingredients and solutions for all Intel platforms.\r\n\n\rEvans joined Intel in 2006 as a software integration and test manager. She held a number of management positions responsible for Intel’s wireless efforts including software engineering and support for customers deploying WiMAX networks in multiple geographies. Additionally, she worked in Israel managing WiFi engineering and product lines. Prior to Intel, Evans spent 10 years in various engineering management positions at Rockwell Semiconductors, Conexant and Skyworks.\r\n\n\rEvans received a bachelor’s degree in computer engineering from The George Washington University in 1996."
+    coachName: Aicha Evans
+    jobTitle: 'Senior Vice President and Chief Strategy Officer, Intel Corporation'
+    links:
+      linkedin: aicha-evans-4365731
+    photo: /uploads/aicha-evans.jpg
+    tags:
+      - Corporate Executive
+      - Speaker
+  - bio: "Jim Citrin is one of the world’s most prolific executive search consultants and experts on leadership, governance, and career success.  In his 23 years at Spencer Stuart, where he leads the firm’s CEO Practice, he has completed more than 650 searches for CEOs, Board Directors and other top executives for some of the world’s leading corporations and not-for-profit institutions. \r\n\n\rA LinkedIn Influencer with more than 750,000 followers, Jim is a best-selling author of 7 books, including You’re in Charge, Now What? and The Career Playbook."
+    coachName: Jim Citrin
+    jobTitle: 'Leader, CEO Practice at Spencer Stuart and Author'
+    links:
+      linkedin: james-citrin-57a06758
+    photo: /uploads/jim-citrin.jpg
+    tags:
+      - Author
+      - Corporate Executive
+      - Speaker
+  - bio: "Alisa is an executive coach who works with senior executives and high potential leaders to help them create positive permanent shifts in their leadership impact and the results they achieve.  In addition to executives in large established companies, she works with Founder/CEOs and executive teams of start-ups to help them improve their leadership, scale the company, and support them in learning key leadership and communication skills. She also leads workshops and speaks on a variety of topics. Her areas of expertise include: Executive Presence; Power, Influence & Charisma; Decision-making; and Corporate Politics.\r\n\nPrior to starting her coaching practice, Alisa was CFO of Clarivergent Technology Partners and head of strategic partnerships at Corporate Alumni. She was a strategy consultant at PricewaterhouseCoopers and The Monitor Group. A CPA, Alisa earned her MBA from Cornell University where she was awarded the Fried Fellowship for Leadership and Academic Excellence. Alisa is known for her high energy and enthusiasm along with her practical, results-oriented approach. She was selected as one of the Top 10 Coaches in Boston by Women’s Business, which called her “absolutely brilliant” and “a super hero.”\r\n\nAlisa is a member of the Cornell Entrepreneurship Advisory Board. She is on the faculty of the “Runway” program at Cornell Tech – an accelerator which focuses on helping post-docs commercialize their research and build companies. She is an angel investor in and advisor to a number of start-ups both in the US and developing countries.\r\n\n\rAlisa is a regular invited lecturer at Harvard University and Cornell University as well as in the Naval War College’s accelerated leadership program. She is a coach for the Linkage Global Institute for Leadership Development and for political leaders from areas of conflict at the Center for Inclusive Security at Harvard University. Alisa a columnist and “Expert” for Worth Magazine and was featured in the book “Reinventing You,” by Dorie Clark. Alisa has been quoted in publications such as the New York Times, the Wall St. Journal, and various other regional and national business publications.\r\n\n\rAlisa has a passionate interest in health, wellness and fitness and has a particular love for running and cycling, especially when combined with scenic travel. She is a fearless cook of ethnic food. She loves all sorts of culture, especially music and theater, and will occasionally burst into song without warning.\r\n\n\rLocated in New York City, Alisa’s current and former clients include: Venmo, Foursquare, Timehop, Bloomberg LLP, Dell, Hitachi Data Systems, Tory Burch, Pfizer, Johnson & Johnson, Novartis, Taro Pharmaceuticals, Association of British Pharmaceuticals Industry (ABPI) , Fidelity, Standard Chartered Bank, Citibank, UBS, SilverLake, KPMG, PricewaterhouseCoopers, Sony Music, Harvard University, and The New York Times Company."
+    coachName: Alisa Cohn
+    jobTitle: NYC Executive Coach for CEOs & Founders
+    links:
+      linkedin: alisacohn/
+    photo: /uploads/alisa-cohn.jpg
+    tags:
+      - Executive Coach
+      - Entrepreneur
+      - Speaker
+  - bio: "Director\r\n\nNorth America Regional Lead – Citi Learning – Leadership, Executive and Professional Development/Global Business Relationship Management \r\n\n\rCoaching and developing teams has been a thread throughout Laine’s career. As she worked in business roles and later within the Compensation areas of Human Resources, it was her work leading teams that has been the cornerstone of her career. After spending 20 years working in these diverse roles, Laine decided to parlay her passion for coaching and developing people into her formal role. In her current role since 2012, Laine is the Director of Leadership, Executive and Professional Development for North America at Citi where she also has responsibility for Global Business Relationship Management.\r\n\n\rWith Citi since 1991, Laine has seen the organization change dramatically. Laine has enjoyed supporting Citi’s senior leaders by serving as a Coach and Faculty for Citi’s Senior Leadership Program.\r\n\n\rLaine has also taught on an adjunct basis at NYU’s School of Professional Studies.\r\n\n\rLaine holds an M.B.A. in Human Resources Management from the Zicklin School of Business – Baruch College and a B.A. in Psychology from the University of Connecticut.\r\n\n\rlinkedin.com/in/lainejoelsoncohen"
+    coachName: Laine Joelson Cohen
+    jobTitle: >-
+      Director - Citi Leadership & Executive Development , Executive Coach, and
+      Speaker
+    links:
+      linkedin: lainejoelsoncohen
+    photo: /uploads/Joelson-Cohen.jpg
+    tags:
+      - Corporate Executive
+      - Executive Coach
+  - bio: "Scott Osman is a thought leader in the area of purpose strategy. Scott is rare in his combination of multi-disciplinary talents that span a broad spectrum from creative to management to and vision. His passion is for developing talent and then applying talent and best practices for managing and participating in high performing teams. Scott specializes in multi-disciplinary strategic services including innovation, purpose, brand and business strategy. He understands how to reposition, grow, transform and evolve companies and their products while managing high performing clients. Previously Scott served as the key innovator and global director of the Purpose Strategy practice at Landor Associates.\r\n\n\rAbout Good Omen\r\n\nGood Omen provides a unique purpose led approach through leadership, strategy, design, and program management to expand the capabilities of agencies and internal corporate teams. We work independently, collaboratively, and as knowledge leaders. Work includes: the rebranding of a major sports league, a major religious movement, and entry into the Affordable Care Act, and a new technology that brings the enlivens communities through the power of pictures."
+    coachName: Scott Osman
+    jobTitle: CEO Marshall Goldsmith 100 Coaches || Brand Strategist and Executive Coach
+    links:
+      linkedin: scottosman
+    photo: /uploads/scott-osman-headshot-2019-cropped_edited-1.jpg
+    tags:
+      - Entrepreneur
+      - Executive Coach
+  - bio: "Tasha Eurich is an organizational psychologist, researcher, and New York Times best-selling author. As Principal of the Eurich Group, she has built a reputation as a fresh, modern voice in the business world by pairing her scientific grounding in human behavior with a practical approach to improvement. Over her 15-plus-year career, she’s helped thousands of professionals—from Fortune 500 executives to early stage entrepreneurs—improve their self-awareness and success.\r\n\n\rWith a PhD in Industrial-Organizational Psychology and BAs in Theater and Psychology, Dr. Eurich has contributed to The Guardian, Entrepreneur, The Huffington Post, TED.com and CNBC.com, and has been featured in outlets like Business Insider, Fortune, Forbes, The New York Times, Fast Company, and New York Magazine. She has been named a “Top 100 Thought Leader” by Trust Across America, a “Leader to Watch” by the American Management Association, and one of Denver Business Journal’s “40 Under 40.” Her TEDxMileHigh talk has been viewed more than one million times.\r\n\n\rDr. Eurich’s first book, Bankable Leadership, debuted on the New York Times best-seller list. Her latest book, INSIGHT, delves into the connection between our self-awareness—what she calls the meta-skill of the twenty-first century—and performance and success, both in and out of the workplace. Hailed as a “bold, exhilarating take on self-improvement” by Success Magazine and a “fascinating read” by The Guardian, INSIGHT was recently named an Editor’s Choice by 800-CEO-READ."
+    coachName: Tasha Eurich
+    jobTitle: >-
+      New York Times Best-Selling Author, Organizational Psychologist, Executive
+      Coach, Keynote Speaker
+    links:
+      facebook: TashaEurich
+      linkedin: tashaeurich
+      twitter: tashaeurich
+      website: www.psychologytoday.com/us/experts/tasha-eurich-phd
+    photo: /uploads/tasha-eurich.jpg
+    tags:
+      - Author
+      - Consultant
+      - Executive Coach
+      - Speaker
+      - Thinker
+  - bio: "PETER BREGMAN is the CEO of Bregman Partners, which helps people and organizations get massive traction on what they care about most. Peter has advised CEOs and senior leaders in many of the world’s premier organizations, including Allianz, American Express, Pearson, Brunswick Group, Goldman Sachs, Morgan Stanley, Deutsche Bank, JPMorgan Chase, FEI, GE Capital, Merck, Clear Channel, Nike, UNICEF, and many others.\r\n\n\rHe is the host of the Bregman Leadership Podcast, short conversations with thought leaders focused on ideas that people can use to become more powerful and courageous leaders, and the author of three books:\r\n\n\rFour Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work, a New York Post top pick for your career in 2015.\r\n\nThe Wall Street Journal bestseller 18 Minutes: Find Your Focus, Master Distraction, and Getthe Right Things Done, winner of the Gold medal from the Axiom Business Book awards, named the best business book of the year on NPR, and selected by Publisher’s Weekly and the New York Post as a top 10 business book. \r\n\nPoint B: A Short Guide to Leading a Big Change.\r\n\nPeter has also contributed to five other books. Featured on PBS, ABC and CNN, Peter is a regular contributor to Harvard Business Review, Psychology Today, and Forbes, and his articles and commentary have appeared frequently in Bloomberg BusinessWeek, Fast Company, The Financial Times, CNN, NPR, and FOX Business News.\r\n\n\rPeter earned his B.A. from Princeton University and his M.B.A. from Columbia University. He can be reached at pbregman@bregmanpartners.com."
+    coachName: Peter Bregman
+    jobTitle: 'Author, Speaker, CEO at Bregman Partners, Inc.'
+    links:
+      facebook: PeterBregmanAdvisor/
+      linkedin: peterbregman
+      twitter: peterbregman
+      website: bregmanpartners.com/articles/
+    photo: /uploads/peter-bregman.jpg
+    tags:
+      - Author
+      - Consultant
+      - Executive Coach
+      - Speaker
+      - Thinker
+  - bio: "Bonita Thompson is the creator of the “What’s Next?” Game, a coaching process that helps players walk through what is important to them and then apply those key motivators toward what’s coming up next. The “What’s Next?” Game helps players make their values, their priorities in a fun playful way.\r\n\n\rBonita has been a leading innovator in HR for over 25 years for several major international corporations including: Bank of America, Genentech, Levi Strauss, Pacific Telesis, Varian and Catellus.\r\n\n\rShe is a New York Times bestselling author of ADMIRED: 21 Ways to Double Your Value. She lectures globally and has taught leadership and management courses at John F. Kennedy University and The Institute of Coaching.\r\n\n\rBonita earned an MBA at the University of California Berkeley’s Haas School of Business, and a BA in Industrial Psychology from San Jose State University. She also holds an Honorary PhD from Mount Mary College.\r\n\n\rBonita is passionate about education and making learning useful and engaging. She is co-creator of Storybook Math, an innovative way of teaching foundational math making it playful and fun. She has also created curriculum aimed at making learning engaging called Create, Build, Solve."
+    coachName: Bonita Thompson
+    jobTitle: Coach and Speaker
+    links:
+      linkedin: bonitathompson
+    photo: /uploads/bonita-thompson-headshot.jpg
+    tags:
+      - Author
+      - Consultant
+      - Executive Coach
+      - Speaker
   - bio: >-
       Michael is the founder and CEO of Box of Crayons, a company that helps
       organizations do less good work and more great work. 
@@ -392,15 +484,6 @@ coachList:
       - Consultant
       - Speaker
       - Thinker
-  - bio: "Aicha S. Evans is corporate vice president and general manager of the Communications and Devices Group at Intel Corporation. She is responsible for driving wireless engineering for multi-comm products and Intel platforms, including modems, RF, Wi-Fi, GPS, Bluetooth, NFC, FM, LTE, WLAN/WWAN as well as emerging wireless technologies to lead this industry going forward.\r\n\n\rPreviously Evans was the general manager of the Wireless Platform Research and Development Group where managed the engineering, software, hardware, strategic planning, and product test teams responsible for providing wireless connectivity ingredients and solutions for all Intel platforms.\r\n\n\rEvans joined Intel in 2006 as a software integration and test manager. She held a number of management positions responsible for Intel’s wireless efforts including software engineering and support for customers deploying WiMAX networks in multiple geographies. Additionally, she worked in Israel managing WiFi engineering and product lines. Prior to Intel, Evans spent 10 years in various engineering management positions at Rockwell Semiconductors, Conexant and Skyworks.\r\n\n\rEvans received a bachelor’s degree in computer engineering from The George Washington University in 1996."
-    coachName: Aicha Evans
-    jobTitle: 'Senior Vice President and Chief Strategy Officer, Intel Corporation'
-    links:
-      linkedin: aicha-evans-4365731
-    photo: /uploads/aicha-evans.jpg
-    tags:
-      - Corporate Executive
-      - Speaker
   - bio: "Ayse Birsel has been designing award-winning products for over 20 years. She is the co-founder of Birsel + Seck, an innovative design studio in New York that partners with leading brands and Fortune 500 companies, including Colgate Palmolive, Converse, GE, Herman Miller, Nissan, Staples, Target, Tiffany & Co, Toyota, on design, design thinking, strategy and innovation projects.\r\n\n\rCalled affectionately by the press the “Queen of Toilets” and “Queen Bee” for her bathroom designs and office systems respectively, she brings new solutions to old problems by thinking differently, using her user-centered, humanistic design approach and her process, Deconstruction:ReconstructionTM.\r\n\n\rAyse is also known for her acclaimed workshops, Design the Life You Love, the foundation of her book, published by Ten Speed Press, an imprint of Penguin Random House, in October 2015.\r\n\n\rAyse is the recipient of numerous design awards including the IDEA Gold Award, ID Magazine Award, the Young Designer Award from the Brooklyn Museum of Art, and the Athena Award for Excellence in Furniture Design from Rhode Island School of Design. She is a speaker at international conferences—notably the Aspen Design Conference, IDSA and AIGA Conferences, the Indaba Conference, Design Management Institute, 99U, The Feast and Fast Company Innovation Conferences.\r\n\n\rShe is a Fulbright Scholar with a master’s degree in Industrial Design from Pratt Institute and is a graduate of Middle East Technical University in Ankara, Turkey. Her work can be found in the permanent collections of the Museum of Modern Art, Cooper Hewitt National Design Museum and Philadelphia Museum of Art. Ayse teaches at Products of Design Department at SVA (School of Visual Arts) and is on the board of IDSA (Industrial Designers Society of America). She lives in New York, with her husband and partner Bibi Seck and their 3 kids."
     coachName: Ayse Birsel
     jobTitle: 'Co-founder of Birsel + Seck, author of Design the Life You Love'
@@ -412,26 +495,6 @@ coachList:
       - Consultant
       - Speaker
       - Thinker
-  - bio: "Jim Citrin is one of the world’s most prolific executive search consultants and experts on leadership, governance, and career success.  In his 23 years at Spencer Stuart, where he leads the firm’s CEO Practice, he has completed more than 650 searches for CEOs, Board Directors and other top executives for some of the world’s leading corporations and not-for-profit institutions. \r\n\n\rA LinkedIn Influencer with more than 750,000 followers, Jim is a best-selling author of 7 books, including You’re in Charge, Now What? and The Career Playbook."
-    coachName: Jim Citrin
-    jobTitle: 'Leader, CEO Practice at Spencer Stuart and Author'
-    links:
-      linkedin: james-citrin-57a06758
-    photo: /uploads/jim-citrin.jpg
-    tags:
-      - Author
-      - Corporate Executive
-      - Speaker
-  - bio: "Alisa is an executive coach who works with senior executives and high potential leaders to help them create positive permanent shifts in their leadership impact and the results they achieve.  In addition to executives in large established companies, she works with Founder/CEOs and executive teams of start-ups to help them improve their leadership, scale the company, and support them in learning key leadership and communication skills. She also leads workshops and speaks on a variety of topics. Her areas of expertise include: Executive Presence; Power, Influence & Charisma; Decision-making; and Corporate Politics.\r\n\nPrior to starting her coaching practice, Alisa was CFO of Clarivergent Technology Partners and head of strategic partnerships at Corporate Alumni. She was a strategy consultant at PricewaterhouseCoopers and The Monitor Group. A CPA, Alisa earned her MBA from Cornell University where she was awarded the Fried Fellowship for Leadership and Academic Excellence. Alisa is known for her high energy and enthusiasm along with her practical, results-oriented approach. She was selected as one of the Top 10 Coaches in Boston by Women’s Business, which called her “absolutely brilliant” and “a super hero.”\r\n\nAlisa is a member of the Cornell Entrepreneurship Advisory Board. She is on the faculty of the “Runway” program at Cornell Tech – an accelerator which focuses on helping post-docs commercialize their research and build companies. She is an angel investor in and advisor to a number of start-ups both in the US and developing countries.\r\n\n\rAlisa is a regular invited lecturer at Harvard University and Cornell University as well as in the Naval War College’s accelerated leadership program. She is a coach for the Linkage Global Institute for Leadership Development and for political leaders from areas of conflict at the Center for Inclusive Security at Harvard University. Alisa a columnist and “Expert” for Worth Magazine and was featured in the book “Reinventing You,” by Dorie Clark. Alisa has been quoted in publications such as the New York Times, the Wall St. Journal, and various other regional and national business publications.\r\n\n\rAlisa has a passionate interest in health, wellness and fitness and has a particular love for running and cycling, especially when combined with scenic travel. She is a fearless cook of ethnic food. She loves all sorts of culture, especially music and theater, and will occasionally burst into song without warning.\r\n\n\rLocated in New York City, Alisa’s current and former clients include: Venmo, Foursquare, Timehop, Bloomberg LLP, Dell, Hitachi Data Systems, Tory Burch, Pfizer, Johnson & Johnson, Novartis, Taro Pharmaceuticals, Association of British Pharmaceuticals Industry (ABPI) , Fidelity, Standard Chartered Bank, Citibank, UBS, SilverLake, KPMG, PricewaterhouseCoopers, Sony Music, Harvard University, and The New York Times Company."
-    coachName: Alisa Cohn
-    jobTitle: NYC Executive Coach for CEOs & Founders
-    links:
-      linkedin: alisacohn/
-    photo: /uploads/alisa-cohn.jpg
-    tags:
-      - Executive Coach
-      - Entrepreneur
-      - Speaker
   - bio: "Dorie Clark is a marketing strategy consultant, professional speaker, and frequent contributor to the Harvard Business Review and Entrepreneur magazine. She is the author of Entrepreneurial You from Harvard Business Review Press. Her previous books include Reinventing You and Stand Out, which was named the #1 Leadership Book of 2015 by Inc. magazine, one of the Top 10 Business Books of the Year by Forbes, and was a Washington Post bestseller.\r\n\n\rThe New York Times has described her as an “expert at self-reinvention and helping others make changes in their lives,” and she has been recognized as a “branding expert” by the Associated Press, Inc., and Fortune magazine.\r\n\n\rShe consults and speaks for a diverse range of clients, including Google, the World Bank, the Bill and Melinda Gates Foundation, the Ford Foundation, Yale University, the Mount Sinai Medical Center, and the U.S. National Park Service.\r\n\n\rClark, a former presidential campaign spokeswoman, is an adjunct professor of business administration at Duke University’s Fuqua School of Business. She has taught marketing and communications at Tufts University, Suffolk University, Emerson College, HEC-Paris, IE Business School in Madrid, Babson College, the University of North Carolina’s Kenan-Flagler School of Business, Smith College Executive Education, and Nazarbayev University in Kazakhstan. She was named one of Inc. magazine’s “100 Great Leadership Speakers for Your Next Conference,” and recognized in Forbes as one of “25 Professional Networking Experts to Watch in 2015.” \r\n\n\rShe has guest lectured at universities including Harvard Business School, the Harvard Kennedy School, Stanford University’s Graduate School of Business, the University of Pennsylvania’s Wharton School, the MIT Sloan School of Management, the University of California-Berkeley’s Haas School of Business, Georgetown, NYU, and the University of Michigan. Her work has been published in The Harvard Business Review Guide to Getting the Right Job, The Harvard Business Review Guide to Networking, The Harvard Business Review Guide to Office Politics, and The Harvard Business Review Guide to Dealing with Conflict. She is quoted frequently in the worldwide media, including NPR, the BBC, and MSNBC.\r\n\n\rA former New England Press Association award-winning journalist, Clark is the director of the environmental documentary film The Work of 1000. At age 14, Clark entered Mary Baldwin College’s Program for the Exceptionally Gifted. At 18, she graduated Phi Beta Kappa from Smith College, and two years later received a Master of Theological Studies from Harvard Divinity School. She is also a producer of a multiple Grammy-winning jazz album. You can learn more at dorieclark.com and download her free 42-page Stand Out Self-Assessment Workbook."
     coachName: Dorie Clark
     jobTitle: >-
@@ -464,17 +527,6 @@ coachList:
       - Non-Profit
       - Speaker
       - Thinker
-  - bio: "Bonita Thompson is the creator of the “What’s Next?” Game, a coaching process that helps players walk through what is important to them and then apply those key motivators toward what’s coming up next. The “What’s Next?” Game helps players make their values, their priorities in a fun playful way.\r\n\n\rBonita has been a leading innovator in HR for over 25 years for several major international corporations including: Bank of America, Genentech, Levi Strauss, Pacific Telesis, Varian and Catellus.\r\n\n\rShe is a New York Times bestselling author of ADMIRED: 21 Ways to Double Your Value. She lectures globally and has taught leadership and management courses at John F. Kennedy University and The Institute of Coaching.\r\n\n\rBonita earned an MBA at the University of California Berkeley’s Haas School of Business, and a BA in Industrial Psychology from San Jose State University. She also holds an Honorary PhD from Mount Mary College.\r\n\n\rBonita is passionate about education and making learning useful and engaging. She is co-creator of Storybook Math, an innovative way of teaching foundational math making it playful and fun. She has also created curriculum aimed at making learning engaging called Create, Build, Solve."
-    coachName: Bonita Thompson
-    jobTitle: Coach and Speaker
-    links:
-      linkedin: bonitathompson
-    photo: /uploads/bonita-thompson-headshot.jpg
-    tags:
-      - Author
-      - Consultant
-      - Executive Coach
-      - Speaker
   - bio: >-
       Rita Gunther McGrath is a globally recognized expert on strategy,
       innovation, and growth with an emphasis on corporate entrepreneurship. Her
@@ -1556,17 +1608,6 @@ coachList:
     tags:
       - Corporate Executive
       - Executive Coaches
-  - bio: "Director\r\n\nNorth America Regional Lead – Citi Learning – Leadership, Executive and Professional Development/Global Business Relationship Management \r\n\n\rCoaching and developing teams has been a thread throughout Laine’s career. As she worked in business roles and later within the Compensation areas of Human Resources, it was her work leading teams that has been the cornerstone of her career. After spending 20 years working in these diverse roles, Laine decided to parlay her passion for coaching and developing people into her formal role. In her current role since 2012, Laine is the Director of Leadership, Executive and Professional Development for North America at Citi where she also has responsibility for Global Business Relationship Management.\r\n\n\rWith Citi since 1991, Laine has seen the organization change dramatically. Laine has enjoyed supporting Citi’s senior leaders by serving as a Coach and Faculty for Citi’s Senior Leadership Program.\r\n\n\rLaine has also taught on an adjunct basis at NYU’s School of Professional Studies.\r\n\n\rLaine holds an M.B.A. in Human Resources Management from the Zicklin School of Business – Baruch College and a B.A. in Psychology from the University of Connecticut.\r\n\n\rlinkedin.com/in/lainejoelsoncohen"
-    coachName: Laine Joelson Cohen
-    jobTitle: >-
-      Director - Citi Leadership & Executive Development , Executive Coach, and
-      Speaker
-    links:
-      linkedin: lainejoelsoncohen
-    photo: /uploads/Joelson-Cohen.jpg
-    tags:
-      - Corporate Executive
-      - Executive Coach
   - bio: "Dr. Linda Sharkey is a trusted transformational expert, author, speaker, and global leadership development coach.\r\n\n\rThrough her proven programs and no-nonsense approach, she helps create high-potential leaders and shapes company culture for future growth. Linda has deep experience working with Fortune 50 companies, and held senior human resource executive positions at Hewlett-Packard and at GE Capital.\r\n\n\rShe is the co-author of, The Future-Proof Workplace – Six Strategies to Accelerate Talent Development, Reshape Your Culture, and Succeed with Purpose. (Wiley, 2017) This book is a survival guide for the new realities of business and highlights Linda’s approach to helping businesses prepare for the future.\r\n\n\rHer co-authored book, Winning With Transglobal Leadership was named one of the top 30 best business books for 2013.\r\n\n\rShe also co-authored Optimizing Talent with Dr. Paul Eccher, a groundbreaking work spelling out proven steps to build a talent rich organization.\r\n\n\rDr. Sharkey is an inspiring keynote speaker at many global events, including the Global HR Academy with the Conference Board and the World Human Resources Development Conference, where she was  honored with the “Super Women Achievement Award.”\r\n\n\rShe is a founding member of the Marshall Goldsmith Group focused on helping successful executives become even more successful. She has a reputation as a no nonsense executive coach that enables those she coaches to show measurable behavior change in the eyes of others.\r\n\n\rLinda was Chief Talent Officer and V.P., People Development at Hewlett Packard, responsible for establishing and driving the company’s talent management initiative, performance management processes, career development, executive staffing, coaching, employee engagement, and diversity and inclusion efforts.\r\n\n\rPrior to Hewlett Packard, Linda was with General Electric and held numerous Senior Human Resources and Talent Management roles. She established a leadership development effort for GE Capital that became part of the Crotonville offerings and was named a best practice by CEO Jack Welch. She led several key cultural integrations and established a coaching process for executives, developed HR professionals as coaches and personally coached many senior leaders.\r\n\n\rShe holds a PhD in Organization Development from Benedictine University, MPA from Russell Sage College and a BA in History from Nazareth College. She is a past two term member of the Academy of Management Board for OD as the scholar practitioner.\r\n\n\rLindaSharkey.com"
     coachName: Linda Sharkey
     jobTitle: >-
@@ -1657,23 +1698,6 @@ coachList:
     photo: /uploads/mark-tercek.jpg
     tags:
       - Non-Profit
-  - bio: "Tasha Eurich is an organizational psychologist, researcher, and New York Times best-selling author. As Principal of the Eurich Group, she has built a reputation as a fresh, modern voice in the business world by pairing her scientific grounding in human behavior with a practical approach to improvement. Over her 15-plus-year career, she’s helped thousands of professionals—from Fortune 500 executives to early stage entrepreneurs—improve their self-awareness and success.\r\n\n\rWith a PhD in Industrial-Organizational Psychology and BAs in Theater and Psychology, Dr. Eurich has contributed to The Guardian, Entrepreneur, The Huffington Post, TED.com and CNBC.com, and has been featured in outlets like Business Insider, Fortune, Forbes, The New York Times, Fast Company, and New York Magazine. She has been named a “Top 100 Thought Leader” by Trust Across America, a “Leader to Watch” by the American Management Association, and one of Denver Business Journal’s “40 Under 40.” Her TEDxMileHigh talk has been viewed more than one million times.\r\n\n\rDr. Eurich’s first book, Bankable Leadership, debuted on the New York Times best-seller list. Her latest book, INSIGHT, delves into the connection between our self-awareness—what she calls the meta-skill of the twenty-first century—and performance and success, both in and out of the workplace. Hailed as a “bold, exhilarating take on self-improvement” by Success Magazine and a “fascinating read” by The Guardian, INSIGHT was recently named an Editor’s Choice by 800-CEO-READ."
-    coachName: Tasha Eurich
-    jobTitle: >-
-      New York Times Best-Selling Author, Organizational Psychologist, Executive
-      Coach, Keynote Speaker
-    links:
-      facebook: TashaEurich
-      linkedin: tashaeurich
-      twitter: tashaeurich
-      website: www.psychologytoday.com/us/experts/tasha-eurich-phd
-    photo: /uploads/tasha-eurich.jpg
-    tags:
-      - Author
-      - Consultant
-      - Executive Coach
-      - Speaker
-      - Thinker
   - bio: "Michel Kripalani is President & CEO of Oceanhouse Media, a leading developer and publisher of apps that uplift, educate and inspire. Oceanhouse Media has released over 500 mobile apps, the vast majority focused on bringing the works of prominent authors to mobile devices. In 2013, the company was ranked #114 on the Inc 500 Fastest Growing Private Companies list.\r\n\n\rMichel is a “digital tinkerer” at heart and is known for developing apps that help drive personal performance. Some of his more notable creations are “CommitTo3” and the daily coaching app “Mindset for Success”.\r\n\n\rOceanhouse Media is Michel’s third start-up. He found prior success with Presto Studios, a videogame development company that he co-founded and ran for 11 years. Presto Studios had numerous hits including “The Journeyman Project” series, “Myst 3: Exile” and many more. His first company, MOOV design, was founded in 1989 just after receiving his B.A. from UC San Diego. MOOV developed innovative interactive multimedia projects many years before these new technologies were mainstream. It was here that he was a design and programming lead on Verbum Interactive (the world’s first interactive, multimedia magazine).\r\n\n\rMichel is extremely active in Entrepreneurs’ Organization (EO) where he served as the San Diego Chapter President from 2015-16 and later on the US West Regional Council. He has been an Accelerator mentor, where the goal is to help early-stage entrepreneurs grow their businesses into larger, more sustainable ventures. He also completed the 3-year EO Entrepreneurial Masters Program at MIT and EO’s Global Leadership Academy in Washington D.C.\r\n\n\rAs someone who has strived for and found success in work, personal and family life, Michel has decided that it is time to give back. Even though he remains an active learner, his efforts are now transitioning to writing, coaching, teaching and lecturing."
     coachName: Michel Kripalan
     jobTitle: 'CEO, Entrepreneur'
@@ -1779,21 +1803,6 @@ coachList:
       - Author
       - Executive Coach
       - Speaker
-  - bio: "PETER BREGMAN is the CEO of Bregman Partners, which helps people and organizations get massive traction on what they care about most. Peter has advised CEOs and senior leaders in many of the world’s premier organizations, including Allianz, American Express, Pearson, Brunswick Group, Goldman Sachs, Morgan Stanley, Deutsche Bank, JPMorgan Chase, FEI, GE Capital, Merck, Clear Channel, Nike, UNICEF, and many others.\r\n\n\rHe is the host of the Bregman Leadership Podcast, short conversations with thought leaders focused on ideas that people can use to become more powerful and courageous leaders, and the author of three books:\r\n\n\rFour Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work, a New York Post top pick for your career in 2015.\r\n\nThe Wall Street Journal bestseller 18 Minutes: Find Your Focus, Master Distraction, and Getthe Right Things Done, winner of the Gold medal from the Axiom Business Book awards, named the best business book of the year on NPR, and selected by Publisher’s Weekly and the New York Post as a top 10 business book. \r\n\nPoint B: A Short Guide to Leading a Big Change.\r\n\nPeter has also contributed to five other books. Featured on PBS, ABC and CNN, Peter is a regular contributor to Harvard Business Review, Psychology Today, and Forbes, and his articles and commentary have appeared frequently in Bloomberg BusinessWeek, Fast Company, The Financial Times, CNN, NPR, and FOX Business News.\r\n\n\rPeter earned his B.A. from Princeton University and his M.B.A. from Columbia University. He can be reached at pbregman@bregmanpartners.com."
-    coachName: Peter Bregman
-    jobTitle: 'Author, Speaker, CEO at Bregman Partners, Inc.'
-    links:
-      facebook: PeterBregmanAdvisor/
-      linkedin: peterbregman
-      twitter: peterbregman
-      website: bregmanpartners.com/articles/
-    photo: /uploads/peter-bregman.jpg
-    tags:
-      - Author
-      - Consultant
-      - Executive Coach
-      - Speaker
-      - Thinker
   - bio: "Dr. Peter Chee is the President and CEO of ITD World, a global leadership development expert with over 30 years of experience in developing leaders from over 80 countries. He is a chief mentor coach and developer of the Certified Coaching and Mentoring Professional (CCMP) program which is accredited and recognized by ICF (International Coach Federation) He is the inventor Coaching for Breakthrough Success (CBS) Metta Model, The Coaching Principles (TCP), Situational Coaching Model (SCM) and Achievers Coaching Techniques (ACT).\r\n\n\rHe works in close partnership with best-selling and award-winning author Dr. William J. Rothwell, who has written more than 100 books and with Dr. Jack Canfield, the world’s leading success coach and authority on peak performance who holds the Guinness Book of World Records for the most books on New York Times bestseller list with 210 books and 500 million copies in print. Dr. Peter Chee and Dr. Jack Canfield are co-authors of Coaching for Breakthrough Success whereas Dr. Peter Chee and Dr. William Rothwell are co-authors of the book entitled Becoming an Effective Mentoring Leader and The Leader’s Daily Role in Talent Management: Maximizing Results, Engagement and Retention. He is also the author of The 12 Disciplines of Leadership Excellence with Brian Tracy.\r\n\n\rDr. Peter Chee is a Baden Powell Fellow of the World Scout Foundation, an honour bestowed by the king of Sweden. He was the president of ARTDO International, a non-profit professional umbrella body that brings together renowned national HRD bodies, governments, and multinational companies globally. He received the ARTDO Internal Management and HRD Excellence Award from the President of ARTDO International and President of Australian Institute of Training and Development. His life purpose is to transform leaders and change the world with love for God and people."
     coachName: Peter Chee
     jobTitle: >-
@@ -2048,15 +2057,6 @@ coachList:
     photo: /uploads/sarah-mcarthur.jpg
     tags:
       - Author
-      - Executive Coach
-  - bio: "Scott Osman is a thought leader in the area of purpose strategy. Scott is rare in his combination of multi-disciplinary talents that span a broad spectrum from creative to management to and vision. His passion is for developing talent and then applying talent and best practices for managing and participating in high performing teams. Scott specializes in multi-disciplinary strategic services including innovation, purpose, brand and business strategy. He understands how to reposition, grow, transform and evolve companies and their products while managing high performing clients. Previously Scott served as the key innovator and global director of the Purpose Strategy practice at Landor Associates.\r\n\n\rAbout Good Omen\r\n\nGood Omen provides a unique purpose led approach through leadership, strategy, design, and program management to expand the capabilities of agencies and internal corporate teams. We work independently, collaboratively, and as knowledge leaders. Work includes: the rebranding of a major sports league, a major religious movement, and entry into the Affordable Care Act, and a new technology that brings the enlivens communities through the power of pictures."
-    coachName: Scott Osman
-    jobTitle: CEO Marshall Goldsmith 100 Coaches || Brand Strategist and Executive Coach
-    links:
-      linkedin: scottosman
-    photo: /uploads/scott-osman-headshot-2019-cropped_edited-1.jpg
-    tags:
-      - Entrepreneur
       - Executive Coach
   - bio: "Sean McGrath, an Irish national, joined the World Bank Group in March 2012 as vice president of human resources. McGrath has senior HR experience within global, European and Irish organizations — both private and public sector — where he gained a reputation as a change agent and implementer, adept at aligning the HR function with the business side.\r\n\n\rMcGrath started his career in the Irish Defence Forces and served on three different occasions in the Middle East with United Nations peacekeeping missions. He then led European operations for a U.S. manufacturing corporation with sites in Ireland and Poland before joining EBS Building Society as their Head of Retail and Head of HR.\r\n\n\rIn his next position with the National Irish Bank, a subsidiary of Danske Banking Group, McGrath held the position of HR Director and was a member of their executive management team. He then worked as Group HR Director for the Irish Health Service, where he led the largest workforce in Ireland with approximately 100,000 staff represented by over 10 different public sector trade unions.\r\n\n\rMcGrath is a fellow of the Chartered Institute of Personnel and Development, a member of the British Academy of Management, and a former board member of the Public Appointments Service (PAS) in Ireland. He holds a BA from University College Galway, a master’s from Dublin City University, and a doctorate in Business Administration from Durham University in the UK."
     coachName: Sean McGrath
