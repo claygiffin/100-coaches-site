@@ -394,7 +394,7 @@ coachList:
     jobTitle: CEO Marshall Goldsmith 100 Coaches || Brand Strategist and Executive Coach
     links:
       linkedin: scottosman
-    photo: /uploads/scott-osman-headshot-2019-cropped_edited-1.jpg
+    photo: /uploads/scott-osman-headshot-looser_edited-1.jpg
     tags:
       - Entrepreneur
       - Executive Coach
