@@ -385,7 +385,7 @@ coachList:
       Speaker
     links:
       linkedin: lainejoelsoncohen
-    photo: /uploads/Joelson-Cohen.jpg
+    photo: /uploads/laine-cohen-gmstudios.jpg
     tags:
       - Corporate Executive
       - Executive Coach
