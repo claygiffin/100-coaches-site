@@ -1772,7 +1772,7 @@ coachList:
     coachName: Paul Corona
     jobTitle: Founder of the Lee's 3 Habits system
     links:
-      linkedin: linkedin.com/in/dr-paul-l-corona-5a01682
+      linkedin: 'https://www.linkedin.com/in/dr-paul-l-corona-5a01682/'
     photo: /uploads/paul-corona.jpg
     tags:
       - Author
