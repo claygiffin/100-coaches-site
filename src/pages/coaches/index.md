@@ -862,7 +862,7 @@ coachList:
       linkedin: 'https://www.linkedin.com/in/adriangostick/'
       twitter: adriangostick
       website: www.adriangostick.com/
-    photo: /uploads/adrian-headshot.png
+    photo: /uploads/adrian-headshot.jpg
     tags:
       - Author
       - Consultant
