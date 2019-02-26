@@ -10,7 +10,7 @@ export const ServicesPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout title='100 Coaches | Work With Us' navTransparent>
+    <Layout title='Our Services' navTransparent>
       <ServicesPageTemplate
         title={post.frontmatter.title}
         lede={post.frontmatter.lede}

@@ -9,7 +9,7 @@ export const AboutPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout title='100 Coaches | Our Story' >
+    <Layout title='Our Story' >
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
