@@ -23,7 +23,7 @@ export default class VideoPlayer extends React.Component {
     let duration = this.player.getDuration();
     let hours = Math.floor(duration / 3600);
     let minutes = Math.floor((duration - (hours * 3600)) / 60);
-    let seconds = duration - (hours * 3600) - (minutes * 60);
+    let seconds = Math.round(duration - (hours * 3600) - (minutes * 60));
     this.setState({
       duration: {
         hours: hours,
