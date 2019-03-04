@@ -38,7 +38,7 @@ collections:
             widget: list
             fields:
               - {label: Name, name: coachName, widget: string, hint: 'Name must be unique'}
-              - {label: Professional Title, name: jobTitle, widget: string, hint: 'Limit 75 characters', pattern: ['^.{0,75}$', 'Limit 75 characters']}
+              - {label: Professional Title, name: jobTitle, widget: string, hint: 'Limit 90 characters', pattern: ['^.{0,90}$', 'Limit 90 characters']}
               - {label: Photo, name: photo, widget: image}
               - {label: Bio, name: bio, widget: markdown, buttons: [bold, italic, link, bulleted-list, numbered-list, quote, heading-two]}
               - {label: Tags, name: tags, widget: list}
@@ -47,10 +47,10 @@ collections:
                 widget: object
                 fields:
                   - {label: Website, name: website, widget: string, hint: 'Website URL (ex: www.mysite.com)', required: false, default: '' }
-                  - {label: LinkedIn, name: linkedin, widget: string, hint: 'LinkedIn ID (found at the end of your LinkedIn profile URL)', pattern: ['^[a-zA-Z0-9-_]{1,50}$', 'Invalid LinkedIn Username'], required: false, default: '' }
-                  - {label: Twitter, name: twitter, widget: string, hint: 'Twitter Handle (do not include "@" symbol)', pattern: ['^[a-zA-Z0-9-_]{1,15}$', 'Invalid Twitter Username'], required: false, default: '' }
-                  - {label: Facebook, name: facebook, widget: string, hint: 'Facebook ID (found at the end of your Facebook profile URL)', pattern: ['^[a-zA-Z0-9-_]{1,50}$', 'Invalid Facebook Username'], required: false, default: '' }
-                  - {label: Instagram, name: instagram, widget: string, hint: 'Instagram Handle (do not include "@" symbol)', pattern: ['^[a-zA-Z0-9-_]{1,30}$', 'Invalid Instagram Username'], required: false, default: '' }
+                  - {label: LinkedIn, name: linkedin, widget: string, hint: 'LinkedIn ID (found at the end of your LinkedIn profile URL)', pattern: ['^[a-zA-Z0-9-_.]{1,50}$', 'Invalid LinkedIn Username'], required: false, default: '' }
+                  - {label: Twitter, name: twitter, widget: string, hint: 'Twitter Handle (do not include "@" symbol)', pattern: ['^[a-zA-Z0-9-_.]{1,15}$', 'Invalid Twitter Username'], required: false, default: '' }
+                  - {label: Facebook, name: facebook, widget: string, hint: 'Facebook ID (found at the end of your Facebook profile URL)', pattern: ['^[a-zA-Z0-9-_.]{1,50}$', 'Invalid Facebook Username'], required: false, default: '' }
+                  - {label: Instagram, name: instagram, widget: string, hint: 'Instagram Handle (do not include "@" symbol)', pattern: ['^[a-zA-Z0-9-_.]{1,30}$', 'Invalid Instagram Username'], required: false, default: '' }
 
   - name: pages
     label: Pages
