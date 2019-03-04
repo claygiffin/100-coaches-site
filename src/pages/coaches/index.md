@@ -1738,7 +1738,7 @@ coachList:
     jobTitle: Executive Talent & Leadership Team Development
     links:
       linkedin: mollytschang
-    photo: /uploads/molly-tschang.jpg
+    photo: /uploads/mmt1-headshot.jpeg
     tags:
       - Consultant
       - Executive Coach

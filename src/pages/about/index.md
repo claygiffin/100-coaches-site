@@ -16,7 +16,7 @@ video:
     our goal is to prepare, develop, and energize inspired leaders for the
     future.
   title: What is 100 Coaches?
-  url: 'https://www.youtube.com/watch?v=8Cgp4D9E2yU'
+  url: 'https://creativeleverage.wistia.com/medias/2imjnz3vyi'
 ---
 ## It started with an idea to pay it forward
 
