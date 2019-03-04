@@ -47,10 +47,10 @@ collections:
                 widget: object
                 fields:
                   - {label: Website, name: website, widget: string, hint: 'Website URL (ex: www.mysite.com)', required: false, default: '' }
-                  - {label: LinkedIn, name: linkedin, widget: string, hint: 'LinkedIn ID (found at the end of your LinkedIn profile URL)', pattern: ['^[a-zA-Z0-9_]{1,50}$', 'Invalid LinkedIn Username'], required: false, default: '' }
-                  - {label: Twitter, name: twitter, widget: string, hint: 'Twitter Handle (do not include "@" symbol)', pattern: ['^[a-zA-Z0-9_]{1,15}$', 'Invalid Twitter Username'], required: false, default: '' }
-                  - {label: Facebook, name: facebook, widget: string, hint: 'Facebook ID (found at the end of your Facebook profile URL)', pattern: ['^[a-zA-Z0-9_]{1,50}$', 'Invalid Facebook Username'], required: false, default: '' }
-                  - {label: Instagram, name: instagram, widget: string, hint: 'Instagram Handle (do not include "@" symbol)', pattern: ['^[a-zA-Z0-9_]{1,30}$', 'Invalid Instagram Username'], required: false, default: '' }
+                  - {label: LinkedIn, name: linkedin, widget: string, hint: 'LinkedIn ID (found at the end of your LinkedIn profile URL)', pattern: ['^[a-zA-Z0-9-_]{1,50}$', 'Invalid LinkedIn Username'], required: false, default: '' }
+                  - {label: Twitter, name: twitter, widget: string, hint: 'Twitter Handle (do not include "@" symbol)', pattern: ['^[a-zA-Z0-9-_]{1,15}$', 'Invalid Twitter Username'], required: false, default: '' }
+                  - {label: Facebook, name: facebook, widget: string, hint: 'Facebook ID (found at the end of your Facebook profile URL)', pattern: ['^[a-zA-Z0-9-_]{1,50}$', 'Invalid Facebook Username'], required: false, default: '' }
+                  - {label: Instagram, name: instagram, widget: string, hint: 'Instagram Handle (do not include "@" symbol)', pattern: ['^[a-zA-Z0-9-_]{1,30}$', 'Invalid Instagram Username'], required: false, default: '' }
 
   - name: pages
     label: Pages
