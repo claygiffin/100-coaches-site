@@ -718,6 +718,8 @@ footer.site-footer {
   position: relative;
   padding: 12rem 3rem 8rem;
   width: 100vw;
+  min-height: 66.7vh;
+  @include justify-content(center);
   background-color: $greenMid;
   @include linear-gradient(to top right, $greenDark, $green);
   @include clip-path(inset(0 0 0 0));
