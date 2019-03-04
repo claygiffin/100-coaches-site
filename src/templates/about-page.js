@@ -29,7 +29,7 @@ export class AboutPageTemplate extends React.Component {
   render() {
     const PageContent = this.props.contentComponent || Content
     return (
-      <div id="about-page" className="page-content">
+      <main id="about-page" className="page-content">
         <h1>
           {this.props.title}
         </h1>
@@ -38,7 +38,7 @@ export class AboutPageTemplate extends React.Component {
         </p>
         <VideoPlayer url={this.props.video.url} title={this.props.video.title} description={this.props.video.description} />
         <PageContent className="content" content={this.props.content} />
-      </div>
+      </main>
     )
   }
 }

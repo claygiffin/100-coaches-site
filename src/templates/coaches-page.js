@@ -160,7 +160,7 @@ export class CoachesPageTemplate extends React.Component {
   render() {
     
     return (
-      <div id="coaches-page" className="page-content" >
+      <main id="coaches-page" className="page-content" >
         <h1>
           {this.props.title}
         </h1>
@@ -204,7 +204,7 @@ export class CoachesPageTemplate extends React.Component {
             </div>
           ))}
         </section>
-      </div>
+      </main>
     )
   }
 

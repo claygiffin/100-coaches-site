@@ -44,7 +44,7 @@ export class HomePageTemplate extends React.Component {
   render() {
     return (
       <>
-        <div id="home-page" className="page-content">
+        <main id="home-page" className="page-content">
           <Hero video videoMp4={videoMp4} videoOgg="" videoWebM="" >
             <h1>{this.props.title}</h1>
             <img src={logoOnColor} alt={this.props.title} id="hero-logo"/>
@@ -117,7 +117,7 @@ export class HomePageTemplate extends React.Component {
             </div>
           }
           </section>
-        </div>
+        </main>
       </>        
     )
   }

@@ -19,9 +19,9 @@ export const CoachProfilePage = ({ data }) => {
 export class CoachProfileTemplate extends React.Component {
   render(){
     return(
-      <div id="profile-page" className="page-content">
+      <main id="profile-page" className="page-content">
         <CoachProfile coach={this.props.coach} />
-      </div>
+      </main>
     )
   }
   

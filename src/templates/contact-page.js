@@ -53,7 +53,7 @@ export class ContactPageTemplate extends React.Component {
   render() {
     const { name, email, subject, message } = this.state;
     return (
-      <div id="contact-page" className="page-content">
+      <main id="contact-page" className="page-content">
         <h1>Work With Us</h1>
         <div className="contact-form">
           <form name="contact" method="post" data-netlify="true" onSubmit={this.handleSubmit} className={this.state.submitted ? 'hidden' : ''} data-netlify-honeypot="bot-field" >
@@ -69,7 +69,7 @@ export class ContactPageTemplate extends React.Component {
             <p>Thank you, your inquiry has been sent successfully.</p>
           </div>
         </div>
-      </div>
+      </main>
     )
   }
 }
