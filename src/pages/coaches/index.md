@@ -1738,9 +1738,37 @@ coachList:
       - Author
       - Executive Coach
       - Speaker
-  - bio: "Dr. Peter Chee is the President and CEO of ITD World, a global leadership development expert with over 30 years of experience in developing leaders from over 80 countries. He is a chief mentor coach and developer of the Certified Coaching and Mentoring Professional (CCMP) program which is accredited and recognized by ICF (International Coach Federation) He is the inventor Coaching for Breakthrough Success (CBS) Metta Model, The Coaching Principles (TCP), Situational Coaching Model (SCM) and Achievers Coaching Techniques (ACT).\r\n\n\rHe works in close partnership with best-selling and award-winning author Dr. William J. Rothwell, who has written more than 100 books and with Dr. Jack Canfield, the world’s leading success coach and authority on peak performance who holds the Guinness Book of World Records for the most books on New York Times bestseller list with 210 books and 500 million copies in print. Dr. Peter Chee and Dr. Jack Canfield are co-authors of Coaching for Breakthrough Success whereas Dr. Peter Chee and Dr. William Rothwell are co-authors of the book entitled Becoming an Effective Mentoring Leader and The Leader’s Daily Role in Talent Management: Maximizing Results, Engagement and Retention. He is also the author of The 12 Disciplines of Leadership Excellence with Brian Tracy.\r\n\n\rDr. Peter Chee is a Baden Powell Fellow of the World Scout Foundation, an honour bestowed by the king of Sweden. He was the president of ARTDO International, a non-profit professional umbrella body that brings together renowned national HRD bodies, governments, and multinational companies globally. He received the ARTDO Internal Management and HRD Excellence Award from the President of ARTDO International and President of Australian Institute of Training and Development. His life purpose is to transform leaders and change the world with love for God and people."
+  - bio: >-
+      Dr. Peter Chee is the President and CEO of ITD World, a global leadership
+      development expert with over 30 years of experience in developing leaders
+      from over 80 countries. Peter is the chief mentor coach and developer of
+      the Certified Coaching and Mentoring Professional (CCMP) program which is
+      accredited and recognized by ICF (International Coach Federation). He is
+      the inventor of the Coaching for Breakthrough Success (CBS) Metta Model,
+      The Coaching Principles (TCP), Situational Coaching Model (SCM) and
+      Achievers Coaching Techniques (ACT).
+
+
+      He works in close partnership with Dr. Marshall Goldsmith, the worlds #1
+      leadership coach and with award-winning professor Dr. William J. Rothwell,
+      who has written more than 120 books. Dr. Peter Chee and Dr. Jack Canfield
+      are co-authors of Coaching for Breakthrough Success whereas Dr. Peter Chee
+      and Dr. William Rothwell are co-authors of the book entitled Becoming an
+      Effective Mentoring Leader and The Leader’s Daily Role in Talent
+      Management: Maximizing Results, Engagement and Retention. He is also the
+      author of the 12 Disciplines of Leadership Excellence with Brian Tracy.
+
+
+      Peter specializes in developing, transforming and coaching CEOs, CXOs and
+      top leaders, some of the organisations that he has worked for include:
+      Intel, Citibank, Schneider, Chevron, OSRAM, AIA, Infineon, B Braun,
+      Mattel, Petron, World Scout Foundation, Philips, ANZ Bank, First Solar,
+      MSIG, Bangkok Bank, ThaiBev, DTAC -Telenor, Vingroup, Petorvietnam,
+      Beiersdorf, Sandisk-Western Digital, Nestle, PepsiCo and Nike. His life
+      purpose is to transform leaders and change the world with love for God and
+      people.
     coachName: Peter Chee
-    jobTitle: President of ITD World
+    jobTitle: CEO of ITD World
     links:
       linkedin: drpeterchee
     photo: /uploads/peter-chee.jpg
@@ -1748,6 +1776,8 @@ coachList:
       - Author
       - Executive Coach
       - Speaker
+      - Consultants
+      - Corporate Executives
   - bio: "Founder of equilibre k.k. in 2006\r\n\nFrench – Born in France in 1968\r\n\nLiving and working in Japan since 2000\r\n\nLanguage: French, English and Japanese\r\n\nHis Mission\r\n\nTo Help People to Shine in Business and Life.\n\n1. Activities\r\n\n– Coaching\r\n\n1 to 1 Executive Coaching for Leadership Group Coaching for Boards Members\r\n\n– Facilitation\r\n\nStrategic In-house Workshops: Vision, Mission & Values integration\n\n– Keynotes\r\n\nPublic Presentations about Leadership at Chambers of Commerce, CEOs associations (CEO Insights), Universities (Globis, iCLA), Grandes Ecoles Alumni (Polytechnique, Science-Po, HEC, Insead, Essec).\n\n2. Background:\r\n\n– Coaching Experience\r\n\n+ 6000 hours of individual and group coaching of more than 500 Top Executives in Tokyo since 2006.\r\n\n– Career\r\n\n+ 30 years studies and experience in personal development.\r\n\n20 year business experience (sales, marketing and training) including 17 years in Japan. 6 year experience at Autobacs Seven Co. Ltd. (Worldwide leader in Automotive aftermarket – 600 stores) Responsible for international corporate communication, international internet strategy and overseas training program.\n\n– Credential\r\n\n2008: Neuro-Linguistic Programming Trainer at NLPU ( UCSC – USA)\r\n\n2015: Hypnotherapist (CA- USA)\r\n\n2016: Lojon Tibetan Meditation\r\n\n\n\n3. Clients\r\n\n– Profile\r\n\nPresidents & C-Level Executives – Entrepreneurs – Artists\r\n\n– Industries\r\n\nConsulting – Pharmacy – Biotech- Communications – Chemicals\r\n\nBrands – Fashion – Luxury Goods – Lifestyle – Retail – F&B – Hospitality\r\n\n\rwww.e-quilibre.jp"
     coachName: Philippe Grall
     jobTitle: Founder CEO of equilibre coaching
