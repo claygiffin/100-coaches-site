@@ -1771,6 +1771,7 @@ coachList:
     jobTitle: CEO of ITD World
     links:
       linkedin: drpeterchee
+      website: 'http://www.itdworld.com/drpeterchee.html'
     photo: /uploads/peter-chee.jpg
     tags:
       - Author
