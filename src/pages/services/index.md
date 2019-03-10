@@ -149,5 +149,19 @@ consulting:
       image: /uploads/Michael Bungay Stanier.jpg
       provider: 'Box of Crayons: Michael Bungay Stanier'
       title: The Coaching Habit
+    - description: >-
+        Dr. Chee and his multinational team specialises in enabling
+        organisations to create a high performance coaching and mentoring
+        culture. This begins with partnering with top management in crafting the
+        culture strategy, plans and change intervention, followed by designing
+        coaching and mentoring systems, processes, results matrix and
+        assessments. The solution is then followed by training all leaders on
+        coaching and mentoring mastery, certifying internal professional coaches
+        and mentors and ensuring the attainment of bottom-line results, culture
+        change and sustainable growth.
+      image: >-
+        https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/peter-chee.jpg
+      provider: Dr. Peter Chee
+      title: Develop a High Performance Coaching and Mentoring Culture
 ---
 
