@@ -161,7 +161,7 @@ consulting:
         change and sustainable growth.
       image: >-
         https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/peter-chee.jpg
-      provider: Dr. Peter Chee
+      provider: ITD World
       title: Develop a High Performance Coaching and Mentoring Culture
 ---
 
