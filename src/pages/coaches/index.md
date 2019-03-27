@@ -2061,7 +2061,32 @@ coachList:
       - Author
       - Speaker
       - Thinker
-  - bio: "Taavo has been selected as an advisor to the 15 Coaches program to tap into his depth and breadth of leadership know-how. Taavo has spent the last 15 years working with over 300 of the top executives and business thinkers in the world,\r\n\n\rHas developed and sold a successful Leadership Development company and is currently an advisor to CEOs, an executive coach and leadership speaker. Taavo is certified in both Individual and Team Stakeholder Centered Coaching and now joins the 15 Coaches team as a coaching and leadership advisor.\r\n\n\rABOUT TAAVO\r\n\nTaavo Godtfredsen is a recognized consultant, executive coach, advisor to CEO’s and keynote speaker to audiences around the world on how today’s leaders achieve high performance. Taavo has spent more than 20 years in the leadership development field as a successful business leader and practitioner. He has traveled the world interviewing and collaborating with hundreds of the most recognized CEOs, best-selling business authors and top business school faculty. With both a breadth of experience and depth of knowledge in the leadership development field, Taavo has remained on the cutting edge, continuously working with executives as they adapt to changing business environment and the global economy. As a pragmatist, Taavo’s methodology zeroes in on the most innovative and time efficient leadership actions to yield the greatest impact.\r\n\n\rTaavo was the originator of Five@5:00TM and co-created the Leadership Development ChannelTM. He was the Executive Producer & Vice President for Leadership Solutions at Skillsoft. Previously, Taavo was a partner at Targeted Learning Corporation, a private company acquired by Skillsoft. Taavo began his career at Linkage Inc. and held various senior roles leading both functions and business units. Taavo is a trained and experienced Executive Coach and holds an MBA from Babson College."
+  - bio: >-
+      Taavo Godtfredsen is an executive coach, speaker and founder and co-chair
+      of the CEO Advisory Forum.  Taavo has been selected as an advisor to the
+      100 Coaches organization to tap into his depth and breadth of leadership
+      know-how.
+
+
+
+
+      Taavo has spent more than 20 years in the leadership development field as
+      a successful business leader and practitioner. He has traveled the world
+      interviewing and collaborating with hundreds of the most recognized CEOs,
+      best-selling business authors and top business school faculty. With both a
+      breadth of experience and depth of knowledge in the leadership development
+      field, Taavo has remained on the cutting edge continuously working with
+      executives as they adapt to changing business environment. As a
+      pragmatist, Taavo’s methodology zeroes in on the most innovative and time
+      efficient leadership actions that yield the greatest impact.
+
+
+      Taavo was the originator of Five@5:00™ and co-created the Leadership
+      Development Channel™. Taavo began his career at Linkage Inc. and held
+      various senior roles leading both functions and business units. He later
+      joined Targeted Learning Corporation to help lead its growth and sale to
+      Skillsoft Corporation. Taavo is a Master Certified Goldsmith coach and
+      holds an MBA from Babson College.
     coachName: Taavo Godtfredsen
     jobTitle: 'CEO Advisor, Executive Coach, Keynote Speaker'
     links:
