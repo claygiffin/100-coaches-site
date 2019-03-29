@@ -358,7 +358,18 @@ coachList:
     tags:
       - Corporate Executive
       - Speaker
-  - bio: "Jim Citrin is one of the world’s most prolific executive search consultants and experts on leadership, governance, and career success.  In his 23 years at Spencer Stuart, where he leads the firm’s CEO Practice, he has completed more than 650 searches for CEOs, Board Directors and other top executives for some of the world’s leading corporations and not-for-profit institutions. \r\n\n\rA LinkedIn Influencer with more than 750,000 followers, Jim is a best-selling author of 7 books, including You’re in Charge, Now What? and The Career Playbook."
+  - bio: >-
+      Jim Citrin is one of the world’s most prolific executive search
+      consultants and experts on leadership, governance, and career success. In
+      his 25 years at Spencer Stuart, where he leads the firm’s CEO Practice, he
+      has completed more than 700 searches for CEOs, Board Directors and other
+      top executives for some of the world’s leading corporations and
+      not-for-profit institutions.
+
+
+      A LinkedIn Influencer with one million followers, Jim is a best-selling
+      author of 7 books, including You’re in Charge, Now What? and The Career
+      Playbook.
     coachName: Jim Citrin
     jobTitle: 'Leader, CEO Practice at Spencer Stuart and Author'
     links:
