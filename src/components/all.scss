@@ -604,6 +604,7 @@ nav.navbar {
         background-color: rgba(white, .85);
       }
       .navbar-item{
+        color: $greenLight;
         &.active {
           color: $greenLight;
           &:before {
