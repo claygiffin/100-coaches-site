@@ -10,7 +10,7 @@ class Navbar extends React.Component {
 
     this.state = {
       logo: logoKnockout,
-      transparent: 'unset',
+      transparent: this.props.navTransparent,
     }
 
     this.toggleNav = this.toggleNav.bind(this);
