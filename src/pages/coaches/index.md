@@ -187,7 +187,9 @@ coachList:
       - Non-Profit
   - bio: "* First Chief of Staff reporting to Founder & Chairman Charles ‘Chuck’ Schwab.\r\n* Founding Director & Coach for Sir Richard Branson’s Entrepreneurship Centres.\r\n* Founding Advisor & Board Member, Stanford Univ Realtime Venture Design Lab\r\n\n\rMark C. Thompson is a senior operating executive and New York Times bestselling author with 30+ years coaching senior executives, including leadership teams working directly for founders Steve Jobs, Richard Branson, Charles Schwab, FitBit founder Eric Friedman, and Pinterest founders Ben Silbermann and Evan Sharpe. He is a founding member of World Bank President Jim Kim’s Leadership Advisory Board, and served as a Governor for the Investment Securities Council at the World Economic Forum in Davos.  He is a founding director of Sir Richard Branson’s Virgin Unite Entrepreneurship Centres. The Virgin group has over 350 companies.\r\n\n\rMark was Chairman of Rioport, which popularized the MP-3 player before iTunes. He was a founding Board member of Esurance, which was sold to Allstate Insurance. He was a founding Board member of Interwoven during the Nasdaq IPO and then sold to HP.  He was Chairman of the Integration, which was sold to Silicon Labs. At his alma mater, Stanford University, Mark was a founding advisor of Stanford’s Real-Time Venture Design Lab and served as a Visiting Scholar for seven years. He was a board member of the John F. Kennedy University Institute for Entrepreneurial Leadership, where he received the institute’s first ever Lifetime Achievement Award.\r\n\n\rMark was an operating executive at Charles Schwab reporting to the Chairman, Charles ‘Chuck’ Schwab. Mark was on the team that launched Schwab as an NYSE IPO, and he was the first Retail & Institutional Investor Relations Officer, first Chief Customer Experience Officer and Executive Producer of Schwab.com, and Chief Communications Officer. www.MarkCThompson.com"
     coachName: Mark C. Thompson
-    jobTitle: 'NYT Bestselling Author/Coach: Amex, Lyft, Pinterest, Intel, Virgin'
+    jobTitle: >-
+      AmMgmtAssn #1 CEO Coach: Lyft, Pinterest, World Bank, Virgin. NYTimes
+      Bestselling Author
     links:
       linkedin: successmatters
     photo: /uploads/Thompson_Mark.jpg
@@ -356,7 +358,18 @@ coachList:
     tags:
       - Corporate Executive
       - Speaker
-  - bio: "Jim Citrin is one of the world’s most prolific executive search consultants and experts on leadership, governance, and career success.  In his 23 years at Spencer Stuart, where he leads the firm’s CEO Practice, he has completed more than 650 searches for CEOs, Board Directors and other top executives for some of the world’s leading corporations and not-for-profit institutions. \r\n\n\rA LinkedIn Influencer with more than 750,000 followers, Jim is a best-selling author of 7 books, including You’re in Charge, Now What? and The Career Playbook."
+  - bio: >-
+      Jim Citrin is one of the world’s most prolific executive search
+      consultants and experts on leadership, governance, and career success. In
+      his 25 years at Spencer Stuart, where he leads the firm’s CEO Practice, he
+      has completed more than 700 searches for CEOs, Board Directors and other
+      top executives for some of the world’s leading corporations and
+      not-for-profit institutions.
+
+
+      A LinkedIn Influencer with one million followers, Jim is a best-selling
+      author of 7 books, including You’re in Charge, Now What? and The Career
+      Playbook.
     coachName: Jim Citrin
     jobTitle: 'Leader, CEO Practice at Spencer Stuart and Author'
     links:
@@ -426,7 +439,9 @@ coachList:
       - Thinker
   - bio: "Bonita Thompson is the creator of the “What’s Next?” Game, a coaching process that helps players walk through what is important to them and then apply those key motivators toward what’s coming up next. The “What’s Next?” Game helps players make their values, their priorities in a fun playful way.\r\n\n\rBonita has been a leading innovator in HR for over 25 years for several major international corporations including: Bank of America, Genentech, Levi Strauss, Pacific Telesis, Varian and Catellus.\r\n\n\rShe is a New York Times bestselling author of ADMIRED: 21 Ways to Double Your Value. She lectures globally and has taught leadership and management courses at John F. Kennedy University and The Institute of Coaching.\r\n\n\rBonita earned an MBA at the University of California Berkeley’s Haas School of Business, and a BA in Industrial Psychology from San Jose State University. She also holds an Honorary PhD from Mount Mary College.\r\n\n\rBonita is passionate about education and making learning useful and engaging. She is co-creator of Storybook Math, an innovative way of teaching foundational math making it playful and fun. She has also created curriculum aimed at making learning engaging called Create, Build, Solve."
     coachName: Bonita Thompson
-    jobTitle: Coach and Speaker
+    jobTitle: >-
+      NYTBestselling Author/Coach, Harvard Club NYC’s GC4W Business Leader of
+      Year
     links:
       linkedin: bonitathompson
     photo: /uploads/bonita-thompson-headshot.jpg
@@ -1777,7 +1792,7 @@ coachList:
       - Author
       - Executive Coach
       - Speaker
-      - Consultants
+      - Consultant
       - Corporate Executive
   - bio: "Founder of equilibre k.k. in 2006\r\n\nFrench – Born in France in 1968\r\n\nLiving and working in Japan since 2000\r\n\nLanguage: French, English and Japanese\r\n\nHis Mission\r\n\nTo Help People to Shine in Business and Life.\n\n1. Activities\r\n\n– Coaching\r\n\n1 to 1 Executive Coaching for Leadership Group Coaching for Boards Members\r\n\n– Facilitation\r\n\nStrategic In-house Workshops: Vision, Mission & Values integration\n\n– Keynotes\r\n\nPublic Presentations about Leadership at Chambers of Commerce, CEOs associations (CEO Insights), Universities (Globis, iCLA), Grandes Ecoles Alumni (Polytechnique, Science-Po, HEC, Insead, Essec).\n\n2. Background:\r\n\n– Coaching Experience\r\n\n+ 6000 hours of individual and group coaching of more than 500 Top Executives in Tokyo since 2006.\r\n\n– Career\r\n\n+ 30 years studies and experience in personal development.\r\n\n20 year business experience (sales, marketing and training) including 17 years in Japan. 6 year experience at Autobacs Seven Co. Ltd. (Worldwide leader in Automotive aftermarket – 600 stores) Responsible for international corporate communication, international internet strategy and overseas training program.\n\n– Credential\r\n\n2008: Neuro-Linguistic Programming Trainer at NLPU ( UCSC – USA)\r\n\n2015: Hypnotherapist (CA- USA)\r\n\n2016: Lojon Tibetan Meditation\r\n\n\n\n3. Clients\r\n\n– Profile\r\n\nPresidents & C-Level Executives – Entrepreneurs – Artists\r\n\n– Industries\r\n\nConsulting – Pharmacy – Biotech- Communications – Chemicals\r\n\nBrands – Fashion – Luxury Goods – Lifestyle – Retail – F&B – Hospitality\r\n\n\rwww.e-quilibre.jp"
     coachName: Philippe Grall
@@ -1949,7 +1964,7 @@ coachList:
       - Speaker
       - Thinker
   - bio: "Rod MacKenzie, PhD, is Executive Vice President, Chief Development Officer for Pfizer. In this role, Rod is responsible for the development and advancement of Pfizer’s pipeline of medicines in several therapeutic areas, including inflammation and immunology, internal medicine, oncology and rare disease. He serves on the Portfolio Strategy and Investment Committee, which focuses on maximizing the return on R&D investment across the Pfizer portfolio, and is a member of Pfizer’s Executive Leadership Team.\r\n\n\rRod joined Pfizer in Sandwich, UK as a Research Scientist and conducted medicinal chemistry research in the cardiovascular, GI, Sexual Health, Urology and Allergy & Respiratory diseases. Rod is the co-inventor of darifenacin (EnablexTM).\r\n\n\rRod has held numerous leadership positions at Pfizer, including Head of PharmaTherapeutics Research and Development where he oversaw the Cardiovascular & Metabolic Diseases, Pain & Sensory Disorders and Neuroscience Research Units and was responsible for all medicinal chemistry at Pfizer, as well as Small Molecule Pharmaceutical Sciences, Pharmacokinetics, Dynamics & Metabolism and Comparative Medicine. He also served as Site Director of the Groton, Connecticut laboratories, Pfizer’s largest global R&D facility. Prior to this role, Rod held a series of research leadership positions, including Senior Vice President and Head of Worldwide Research, Head of Discovery Chemistry in Sandwich, U.K., Head of the Discovery Technology Center in Cambridge, Massachusetts, Head of Discovery Research in Ann Arbor, Michigan, and Head of Drug Safety R&D.\r\n\n\rRod represents Pfizer on the Board of Directors for ViiV Healthcare, a global specialist HIV company established by GlaxoSmithKline and Pfizer to deliver advances in treatment and care for people living with HIV. He also represents Pfizer on the Board of Directors for TransCelerate, a non-profit organization with a mission to collaborate across the biopharmaceutical research and development community to improve the health of people around the world by accelerating and enhancing the research and development of innovative new therapies.\r\n\n\rRod graduated from the University of Glasgow with a 1st Class Honors degree in chemistry and completed his PhD at Imperial College, London. He was awarded a NATO Postdoctoral Research Fellowship and spent two years at Columbia University, New York working in the area of molecular recognition with Professor W.C. Still."
-    coachName: Rob Mackenie
+    coachName: Rod MacKenzie
     jobTitle: 'Executive Vice President, Chief Development Officer, Pfizer'
     photo: /uploads/rob-mckenzie.jpg
     tags:
@@ -2057,7 +2072,32 @@ coachList:
       - Author
       - Speaker
       - Thinker
-  - bio: "Taavo has been selected as an advisor to the 15 Coaches program to tap into his depth and breadth of leadership know-how. Taavo has spent the last 15 years working with over 300 of the top executives and business thinkers in the world,\r\n\n\rHas developed and sold a successful Leadership Development company and is currently an advisor to CEOs, an executive coach and leadership speaker. Taavo is certified in both Individual and Team Stakeholder Centered Coaching and now joins the 15 Coaches team as a coaching and leadership advisor.\r\n\n\rABOUT TAAVO\r\n\nTaavo Godtfredsen is a recognized consultant, executive coach, advisor to CEO’s and keynote speaker to audiences around the world on how today’s leaders achieve high performance. Taavo has spent more than 20 years in the leadership development field as a successful business leader and practitioner. He has traveled the world interviewing and collaborating with hundreds of the most recognized CEOs, best-selling business authors and top business school faculty. With both a breadth of experience and depth of knowledge in the leadership development field, Taavo has remained on the cutting edge, continuously working with executives as they adapt to changing business environment and the global economy. As a pragmatist, Taavo’s methodology zeroes in on the most innovative and time efficient leadership actions to yield the greatest impact.\r\n\n\rTaavo was the originator of Five@5:00TM and co-created the Leadership Development ChannelTM. He was the Executive Producer & Vice President for Leadership Solutions at Skillsoft. Previously, Taavo was a partner at Targeted Learning Corporation, a private company acquired by Skillsoft. Taavo began his career at Linkage Inc. and held various senior roles leading both functions and business units. Taavo is a trained and experienced Executive Coach and holds an MBA from Babson College."
+  - bio: >-
+      Taavo Godtfredsen is an executive coach, speaker and founder and co-chair
+      of the CEO Advisory Forum.  Taavo has been selected as an advisor to the
+      100 Coaches organization to tap into his depth and breadth of leadership
+      know-how.
+
+
+
+
+      Taavo has spent more than 20 years in the leadership development field as
+      a successful business leader and practitioner. He has traveled the world
+      interviewing and collaborating with hundreds of the most recognized CEOs,
+      best-selling business authors and top business school faculty. With both a
+      breadth of experience and depth of knowledge in the leadership development
+      field, Taavo has remained on the cutting edge continuously working with
+      executives as they adapt to changing business environment. As a
+      pragmatist, Taavo’s methodology zeroes in on the most innovative and time
+      efficient leadership actions that yield the greatest impact.
+
+
+      Taavo was the originator of Five@5:00™ and co-created the Leadership
+      Development Channel™. Taavo began his career at Linkage Inc. and held
+      various senior roles leading both functions and business units. He later
+      joined Targeted Learning Corporation to help lead its growth and sale to
+      Skillsoft Corporation. Taavo is a Master Certified Goldsmith coach and
+      holds an MBA from Babson College.
     coachName: Taavo Godtfredsen
     jobTitle: 'CEO Advisor, Executive Coach, Keynote Speaker'
     links:
