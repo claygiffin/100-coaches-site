@@ -40,28 +40,16 @@ consulting:
       image: /uploads/martin-lindstrom.jpg
       provider: Martin Lindstrom
       title: The World's Leading Business and Culture Transformation Company
-    - description: >
-        Over 5 million people use our Business Model Canvas. Join them by using
-        our platform and services to clearly understand customers, create better
-        products, and grow businesses. Enterprise teams can train at our Cloud
-        Academy and receive coaching through our Innovation Sprints. Smaller
-        companies can take our Online Courses, use our Web App, and download
-        free resources.
-      image: /uploads/Alexander-Osterwalder.jpg
-      provider: Strategyzer
-      title: 'Understand customers, create better products, and grow businesses'
     - description: >-
-        Recognized as one of the 50 leading business thinkers in the world by
-        Thinkers50, and a Top Influencer on Linkedin, Whitney Johnson is an
-        expert on disruptive innovation and personal disruption. Her proprietary
-        framework is complemented by a deep understanding of how executives,
-        teams, and organizations create and destroy value. Whitney works with
-        organizations of all sizes to optimize their human capital, offering
-        insight into how leaders must work together to leverage the talent and
-        leadership of their company.
-      image: /uploads/wj14.gif
-      provider: Whitney Johnson
-      title: Disruptive Innovation and Personal Disruption
+        Not having enough of the right talent where it matters is like trying to
+        run a Ferrari®488 Pista with cheap gas in the tank. It’s a formula for
+        frustration and poor performance. You’ve got great people—but are you
+        realizing their potential? CEO.works founder Sandy Ogg explains why
+        companies must link talent to value, and what that means for the role of
+        HR.
+      image: /uploads/Sandy-ogg.jpg
+      provider: Sandy Ogg
+      title: Connecting Talent to Value
     - description: >
         Dr. Thompson is an expert on executive leadership, business strategy,
         and innovation who has spent over 25 years leading teams and building
@@ -83,6 +71,28 @@ consulting:
       image: /uploads/peter-bregman.jpg
       provider: Bregman Partners
       title: Emotional Courage Training
+    - description: >-
+        Recognized as one of the 50 leading business thinkers in the world by
+        Thinkers50, and a Top Influencer on Linkedin, Whitney Johnson is an
+        expert on disruptive innovation and personal disruption. Her proprietary
+        framework is complemented by a deep understanding of how executives,
+        teams, and organizations create and destroy value. Whitney works with
+        organizations of all sizes to optimize their human capital, offering
+        insight into how leaders must work together to leverage the talent and
+        leadership of their company.
+      image: /uploads/wj14.gif
+      provider: Whitney Johnson
+      title: Disruptive Innovation and Personal Disruption
+    - description: >
+        Over 5 million people use our Business Model Canvas. Join them by using
+        our platform and services to clearly understand customers, create better
+        products, and grow businesses. Enterprise teams can train at our Cloud
+        Academy and receive coaching through our Innovation Sprints. Smaller
+        companies can take our Online Courses, use our Web App, and download
+        free resources.
+      image: /uploads/Alexander-Osterwalder.jpg
+      provider: Strategyzer
+      title: 'Understand customers, create better products, and grow businesses'
     - description: >
         Former President & CEO, Boeing Commercial Airplanes, Boeing Information,
         Space and Defense Systems, and The Ford Motor Company Renowned for his
@@ -118,16 +128,6 @@ consulting:
       image: /uploads/Chester-elton.jpg
       provider: The Culture Works®
       title: Employee Attraction/Retention
-    - description: >-
-        Not having enough of the right talent where it matters is like trying to
-        run a Ferrari®488 Pista with cheap gas in the tank. It’s a formula for
-        frustration and poor performance. You’ve got great people—but are you
-        realizing their potential? CEO.works founder Sandy Ogg explains why
-        companies must link talent to value, and what that means for the role of
-        HR.
-      image: /uploads/Sandy-ogg.jpg
-      provider: Sandy Ogg
-      title: Connecting Talent to Value
     - description: >
         The Big Arrow is a proven, proprietary coaching process and framework to
         align your team and get everyone working effectively together to achieve
