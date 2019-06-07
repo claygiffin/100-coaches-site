@@ -2241,5 +2241,30 @@ coachList:
     photo: /uploads/will-linssen.jpg
     tags:
       - Executive Coach
+  - bio: >-
+      Connie Dieken helps C-suite executives shape the future by influencing
+      positive change under challenging conditions. An executive leadership
+      advisor, her research and strategies on how leaders influence change
+      guides senior executives on five continents at many of the world’s biggest
+      brands, including Coca-Cola, HP, Nestlé, BNP Paribas and The Cleveland
+      Clinic. Connie is the founder of The Dieken Group and Influence360º, a
+      validated psychometric tool that identifies influence patterns and helps
+      leaders earn trust and commitment. A former journalist and always curious,
+      she’s been honored with five Emmy Awards, named a Global Guru of Executive
+      Coaching, a Top 10 Female Business Owner, and has been inducted into the
+      Radio/Television Broadcasters Hall of Fame, the Speakers Hall of Fame, and
+      the Million Dollar Consulting Hall of Fame. She’s the author of two
+      best-selling leadership books, Talk Less, Say More and Become the Real
+      Deal. Connie's thought leadership on modern influence has been featured in
+      The Wall Street Journal, Investor’s Business Daily, CNBC, The Kuwait Times
+      and other leading business publications around the world.
+    coachName: Connie Dieken
+    jobTitle: The World's Leading Expert on Executive Presence
+    links:
+      linkedin: conniedieken
+      website: 'https://conniedieken.com/'
+    photo: /uploads/connie.png
+    tags:
+      - Executive Coach Consultant Speaker Author
 ---
 
