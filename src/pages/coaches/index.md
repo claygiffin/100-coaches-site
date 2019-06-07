@@ -334,7 +334,9 @@ coachList:
       website: 'https://conniedieken.com/'
     photo: /uploads/connie.png
     tags:
-      - Executive Coach Consultant Speaker Author
+      - Corporate Executives
+      - Speakers
+      - Executive Coaches
   - bio: "Tasha Eurich is an organizational psychologist, researcher, and New York Times best-selling author. As Principal of the Eurich Group, she has built a reputation as a fresh, modern voice in the business world by pairing her scientific grounding in human behavior with a practical approach to improvement. Over her 15-plus-year career, she’s helped thousands of professionals—from Fortune 500 executives to early stage entrepreneurs—improve their self-awareness and success.\r\n\n\rWith a PhD in Industrial-Organizational Psychology and BAs in Theater and Psychology, Dr. Eurich has contributed to The Guardian, Entrepreneur, The Huffington Post, TED.com and CNBC.com, and has been featured in outlets like Business Insider, Fortune, Forbes, The New York Times, Fast Company, and New York Magazine. She has been named a “Top 100 Thought Leader” by Trust Across America, a “Leader to Watch” by the American Management Association, and one of Denver Business Journal’s “40 Under 40.” Her TEDxMileHigh talk has been viewed more than one million times.\r\n\n\rDr. Eurich’s first book, Bankable Leadership, debuted on the New York Times best-seller list. Her latest book, INSIGHT, delves into the connection between our self-awareness—what she calls the meta-skill of the twenty-first century—and performance and success, both in and out of the workplace. Hailed as a “bold, exhilarating take on self-improvement” by Success Magazine and a “fascinating read” by The Guardian, INSIGHT was recently named an Editor’s Choice by 800-CEO-READ."
     coachName: Tasha Eurich
     jobTitle: Organizational Psychologist
