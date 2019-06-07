@@ -364,7 +364,7 @@ coachList:
     jobTitle: 'President: Coaching Psych; Harvard Faculty, Founder, Institute of Coaching'
     links:
       linkedin: carol-kauffman-phd-pcc-b07ab01
-    photo: /uploads/carol-kauffman.jpg
+    photo: /uploads/carol-homepage-cropped350x.jpg
     tags:
       - Executive Coach
       - Speaker
