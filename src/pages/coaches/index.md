@@ -211,32 +211,26 @@ coachList:
       - Executive Coach
       - Speaker
   - bio: >-
-      Recognized as one of the 50 leading business thinkers in the world by
-      Thinkers50, and a Top Influencer on Linkedin, Whitney Johnson is an expert
-      on disruptive innovation and personal disruption; specifically, a
-      framework which she codified in the critically-acclaimed book Disrupt
-      Yourself: Putting the Power of Disruptive Innovation to Work and builds
-      upon in Build an A Team. She developed her proprietary framework and
-      diagnostics after having co-founded the Disruptive Innovation Fund with
-      Harvard Business School’s Clayton Christensen. This framework is
-      complemented by a deep understanding of how executives, teams, and
-      organizations create and destroy value, having spent nearly a decade as an
-      Institutional Investor-ranked equity analyst on Wall Street. Whitney works
-      with organizations of all sizes to optimize their human capital; helping
-      them understand and utilize the Learning Curve, offering insight into how
-      leaders must work together to leverage the talent and leadership of their
-      company.
+      Whitney Johnson is one of the 50 leading business thinkers in the world
+      (Thinkers50) and an expert on helping high growth organizations develop
+      high growth individuals. As a former award-winning stock analyst on Wall
+      Street and co-founder of the Disruptive Innovation Fund with Clayton
+      Christensen, Whitney Johnson understands how stocks and people gain and
+      maintain momentum. She has codified her frameworks for developing high
+      growth individuals––the S Curve of Learning and Personal Disruption
+      frameworks in the critically-acclaimed book _Disrupt Yourself_, and the
+      award-winning _Build an “A” Team_ (Harvard Business Press, 2018), and is a
+      frequent lecturer for Harvard Business Publishing’s Corporate Learning. In
+      2019, she was ranked #3 on the Global Gurus' Top 30 Organizational Culture
+      Professionals. In 2017, she was selected from more than 16,000 candidates
+      as a “Top 15 Coach” by Dr. Marshall Goldsmith. She is a LinkedIn
+      Influencer with more than 1.6 million followers and was selected as a Top
+      Voice of 2018. Whitney hosts the weekly Disrupt Yourself Podcast at
+      whitneyjohnson.com.
 
 
-      ### Professional / Coaching Experience:
+      ### Coaching Experience
 
-
-      * Thinkers 50, Leading Business Thinker Globally
-
-      * Finalist for Top Thinker on Talent, Thinkers 50, 2015
-
-      * Host, Disrupt Yourself Podcast; guests include Susan Cain, author of
-      bestseller Quiet, Patrick Pichette, former CFO of Google
 
       * Coach C-Suite executives across a variety of industries and companies,
       from start-ups to P&Ls of $10bn+
@@ -249,38 +243,6 @@ coachList:
 
       * Master Certified Coach – Marshall Goldsmith’s Stakeholder-Centered
       Coaching
-
-
-      ### Experience
-
-
-      * Co-founded with Clayton Christensen: Rose Park Advisors – Disruptive
-      Innovation Fund
-
-      * Former Institutional Investor-ranked sell-side analyst on Wall Street
-
-      * Author, Disrupt Yourself: Putting the Power of Disruptive Innovation to
-      Work
-
-      * Keynote speaker on innovation, having delivered speeches to audiences of
-      over 50,000
-
-      * Regular contributor to Harvard Business Review; article, “Disrupt
-      Yourself,” was included in publication from HBR on Leading Change,
-      featuring Clayton Christensen, John Kotter, among others.
-
-      * Board Member, Business Innovation Factory
-
-      * Advisory Board Member, Chatbooks
-
-
-      > _Playing it safe is not safe in today’s fast-paced marketplace. Disrupt
-      Yourself is a must-read for anyone looking to stand out from the crowd and
-      pursue innovation in our highly uncertain business climate._
-
-      >
-
-      > _—Eric Ries, bestselling author of The Lean Start-up_
     coachName: Whitney Johnson
     jobTitle: 'Innovation and disruption theorist, speaker, author, executive coach'
     links:
