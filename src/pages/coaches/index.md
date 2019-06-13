@@ -984,7 +984,45 @@ coachList:
     photo: /uploads/darek-lenart.jpg
     tags:
       - Corporate Executive
-  - bio: "David Meltzer is the CEO of Sports 1 Marketing, a firm in which he co- founded with Hall of Fame Quarterback Warren Moon. Sports 1 Marketing is a global marketing agency whose projects include The Super Bowl, The Master’s, and Pro Football Hall of Fame, the Crescent Moon Foundation, and the Unstoppable Foundation.\r\n\n\rDavid has been recognized by Forbes and Entrepreneur as a Top 5 Keynote Speaker, and named 2017 “Game Changer of the year” by ACQ Global Awards. He has also been honored for his philanthropic work as Variety Magazine’s “Sports Humanitarian of the Year” and a recipient of the Ellis Island Medal of Honor\r\n\n\rAs an author, he is the international #1 best-selling author and national best-selling author of Compassionate Capitalism and Connected to Goodness.\r\n\n\rDavid is an executive Producer, and host judge of Entrepreneur Media’s newest original show, Elevator Pitch and the host of newly released podcast, The Playbook, with Entrepreneur—which landed as a Top Five business podcast on iTunes."
+  - bio: >-
+      David Meltzer is the CEO of Sports 1 Marketing, a firm in which he co-
+      founded with Hall of Fame Quarterback Warren Moon. Sports 1 Marketing is a
+      global marketing agency whose projects include The Super Bowl, The
+      Master’s, and Pro Football Hall of Fame, the Crescent Moon Foundation, and
+      the Unstoppable Foundation.
+
+
+      David has been recognized by Forbes and Entrepreneur as a Top 5 Keynote
+      Speaker, and named 2017 “Game Changer of the year” by ACQ Global Awards.
+      He has also been honored for his philanthropic work as Variety Magazine’s
+      “Sports Humanitarian of the Year” and a recipient of the Ellis Island
+      Medal of Honor
+
+
+      As an author, he is the international #1 best-selling author and national
+      best-selling author of Compassionate Capitalism and Connected to Goodness.
+
+
+      David is an executive Producer, and host judge of Entrepreneur Media’s
+      newest original show, Elevator Pitch and the host of newly released
+      podcast, The Playbook, with Entrepreneur—which landed as a Top Five
+      business podcast on iTunes.
+
+
+      * CEO of Sports 1 Marketing, which he co-founded with Hall of Fame
+      quarterback Warren Moon
+
+      * Former CEO of Leigh Steinberg Sports & Entertainment, the world’s most
+      notable sports agency.
+
+      * Former CEO of Samsung and Microsoft's first smartphone the PC-E Phone,
+      manufactured by Samsung
+
+      * Former VP of Thomson Reuters Corporation
+
+      * Named “Sports Humanitarian of the Year” by Variety Magazine
+
+      * Recipient of the Ellis Island Medal of Honor
     coachName: Dave Meltzer
     jobTitle: 'CEO and Co-Founder, Sports 1 Marketing'
     links:
