@@ -2276,6 +2276,10 @@ coachList:
       website: www.thepeakalliance.com
     photo: /uploads/dsc_9756_1-marina-cvetkovic.jpg
     tags:
-      - Executive Coaches Consultants Speakers Authors Corporate Executives
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+      - Corporate Executive
 ---
 
