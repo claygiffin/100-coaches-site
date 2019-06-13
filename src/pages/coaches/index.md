@@ -2268,5 +2268,14 @@ coachList:
     photo: /uploads/will-linssen.jpg
     tags:
       - Executive Coach
+  - bio: "Marina Cvetkovic is a trusted C-Suite coach and advisor. She combines strong financial services background with coaching expertise to help companies and executives redefine their processes as well as build a culture of agility and innovation to successfully face disruption in the market. She has been selected as the Winner of the prestigious FinNext Award for her innovative and forward-looking contribution to the financial services industry. Most recently, Marina was the Vice President of Strategy and Chief of Staff to the CEO at Swiss Re (SIX: SREN), the $34B global/largest reinsurance company worldwide where she was charged with strengthening the culture of agile innovation for a 4'000 employee organization. \r\n\n\rMarina is the founder of The Peak Alliance, a NYC based consultancy focused on executive coaching and board advising. She is a trusted board member and advisor, focusing on revolutionizing the boardroom to complement digital transformation in underlying organizations. Marina is a board advisor for Rutgers University, Leading Disruptive Innovation Executive Education Program as well as a board member and strategy committee co-chair at Governance Matters, with a mission to build high-performing boards in NY. She is an ICF certified executive coach and a faculty member in the EQ Coaching Certification program founded by Prof. Daniel Goleman, pioneer of emotional intelligence. Her work has been published by the International Coaching Federation (ICF) and she served on the Panel of Judges for the ICF International Prism Award, with a mission to annually award the company with the highest coaching standards in the world.\r\n\nMarina is a Forbes Council Member and her contributions are focused on the boardroom of the future topics.  She is a TEDx speaker as well as the founder of a highly influential TEDx platform for TED-like ideas worth spreading in NYC. Marina is a sought-after keynote speaker on board effectiveness, disruptive leadership and digital transformation. \r\n\nMarina gives back generously by advising boards of not-for-profit organizations. She is a global citizen currently living in NYC and speaks Serbian, English, German, Italian and Spanish."
+    coachName: Marina Cvetkovic
+    jobTitle: Board Advisor and Boardroom Futurist | C-Suite Coach | TEDx Speaker
+    links:
+      linkedin: marinacvetkovic
+      website: www.thepeakalliance.com
+    photo: /uploads/dsc_9756_1-marina-cvetkovic.jpg
+    tags:
+      - Executive Coach Consultant Speaker Author Corporate Executive
 ---
 
