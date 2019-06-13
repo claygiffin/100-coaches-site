@@ -1181,7 +1181,69 @@ coachList:
     photo: /uploads/donnie-dhillon-april-2019.jpg
     tags:
       - Executive Coach
-  - bio: "Beginning at Age 14, Doug embarked on his first entrepreneurial experience selling holiday greeting cards door‐to-door. Over 30 years later he has built several of his own multi-million dollar companies, sold a couple of them, and now teaches business owners how to do the same, as he owns and operates the most successful business coaching franchise firm in the world!\r\n\n\rBecause of both experience and a never-ending thirst for education, Doug understand the challenges, pressures, and pleasures associated with being an executive and business owner.\r\n\n\rDoug is also an avid private pilot and enjoys travelling, having explored over 30 countries.\r\n\n\rActionCOACH Executive Coach\r\\\nwww.actioncoach.com/dougwinnie\r\\\nwww.BusinessAsATool.com"
+  - bio: >-
+      Raised by entrepreneurs in a western suburb of Detroit, Doug learned about
+      the fun and frequent challenges of owning a business at an early age. 
+      Doug’s Dad had a painting business, and his Mom had a maid-service
+      business.  Both parents had been very dedicated to build their businesses,
+      however, the challenges for them were overwhelming.  This created a “don’t
+      own a business” belief system which Doug overcame at an early age. 
+
+
+      Due to the family not having much money, Doug at 14, embarked on his first
+      business experience by selling holiday greeting cards door-to-door.  Now,
+      and over the last 30 years the early drive for success led him to become
+      an owner of 9 businesses, an avid instrument-rated private pilot, and an
+      accomplished world traveler, exploring over 35 countries. 
+
+
+      After selling two of his self-built, multi-million dollar businesses Doug
+      began to work as an ActionCOACH Business Coach in 2009.  While teaching
+      from his experience has great value, the greatest value he has provided is
+      the use of the ActionCOACH systems to cause his clients to have massive
+      success.  Doug has received over 30 awards for himself and for his clients
+      all based on the results he has obtained.
+
+
+      Earning the designation PMP (Project Manager Principal) per the
+      requirements of the Project Management Institute has been beneficial in
+      following processes and procedures and all the systems which franchises
+      create.  The ability to “copy-paste”, as Doug likes to refer, is a skill
+      which has helped benefit Doug as a franchisee.   
+
+
+      The designation MG100 is a special recognition of being awarded membership
+      in a very elite, 100-person organization, called the Marshall Goldsmith
+      100 Coaches.  Each member of the organization has been handpicked by
+      Marshall Goldsmith (#1 Thinkers 50, NY Times Best Selling Author,
+      Internationally known speaker, and professional known as the #1 Executive
+      Coach, with clients including the CEO of Ford, CEO of Boeing, President of
+      Google Americas, CEO of Hershey, President & CEO of The World Bank, etc.) 
+      Each member of the MG100 has committed to providing free education and
+      mentorship upon reaching retirement, just as Marshall is providing for the
+      MG100. 
+
+
+      Doug is very passionate about helping the family business owner become
+      more successful.  Doug’s #1 business belief is that “no one should have to
+      live a life of struggle like my parents did.  If they own a business where
+      the market exists, they only need to learn how to work on their business
+      instead of in their business.  The limitations of youth, including
+      poverty, are no match to the education available and opportunity to be
+      successful in a world economy.”  Family businesses are the core foundation
+      of every country in the world – families should have happier lives because
+      of the lifestyle a successful business brings and Doug achieves this
+      through his coaching programs. 
+
+
+      Doug has reached the Million Dollar Coach Level, inducted in to the
+      ActionCOACH Hall of Fame, and has been selected to be the Chairman of the
+      ActionCOACH Foundation. 
+
+
+      Doug’s selection to be the Chairman of the Foundation is based on both his
+      experience as an entrepreneur and because of his passion to help young
+      adults become entrepreneurs, just like himself.
     coachName: Douglas J. Winnie
     jobTitle: 'Speaker, Entrepreneur, Motivator, Guaranteed Results Business Coach'
     links:
