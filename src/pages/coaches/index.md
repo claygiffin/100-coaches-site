@@ -1805,15 +1805,15 @@ coachList:
       Habits system](https://www.lees3habits.com/), which helps motivated people
       build stronger relationships and achieve greater happiness, and the author
       of [The Wisdom of Walk-Ons: 7 Winning Strategies for College, Business and
-      Life](http://www.wisdomofwalk-ons.com/). Paul is a certified leadership
-      coach and a Marshall Goldsmith “100 Coaches” honoree, selected from more
-      than 16,000 candidates to advance the practice of coaching with Dr.
-      Goldsmith, who is recognized as the world’s top leadership coach. During
-      the past 33 years, Paul has transformed himself from a business person
-      into a performance improvement specialist. He previously held a variety of
-      leadership roles in Fortune 500 corporations, a Big 4 accounting and
-      consulting firm, and major research universities. Most importantly, Paul
-      is a husband, parent and friend.
+      Life](https://www.amazon.com/Wisdom-Walk-Ons-Winning-Strategies-Business/dp/143928644).
+      Paul is a certified leadership coach and a Marshall Goldsmith “100
+      Coaches” honoree, selected from more than 16,000 candidates to advance the
+      practice of coaching with Dr. Goldsmith, who is recognized as the world’s
+      top leadership coach. During the past 33 years, Paul has transformed
+      himself from a business person into a performance improvement specialist.
+      He previously held a variety of leadership roles in Fortune 500
+      corporations, a Big 4 accounting and consulting firm, and major research
+      universities. Most importantly, Paul is a husband, parent and friend.
     coachName: Paul Corona
     jobTitle: Founder of the Lee's 3 Habits system
     links:
