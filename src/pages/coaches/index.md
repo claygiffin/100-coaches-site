@@ -1805,7 +1805,7 @@ coachList:
       Habits system](https://www.lees3habits.com/), which helps motivated people
       build stronger relationships and achieve greater happiness, and the author
       of [The Wisdom of Walk-Ons: 7 Winning Strategies for College, Business and
-      Life](https://www.amazon.com/Wisdom-Walk-Ons-Winning-Strategies-Business/dp/143928644).
+      Life](https://www.amazon.com/Wisdom-Walk-Ons-Winning-Strategies-Business/dp/1439286442).
       Paul is a certified leadership coach and a Marshall Goldsmith “100
       Coaches” honoree, selected from more than 16,000 candidates to advance the
       practice of coaching with Dr. Goldsmith, who is recognized as the world’s
