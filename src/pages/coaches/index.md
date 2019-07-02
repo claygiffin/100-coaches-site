@@ -2134,7 +2134,44 @@ coachList:
       - Consultant
       - Entrepreneur
       - Executive Coach
-  - bio: "Soon Loo is CEO of the Brunei Economic Development Board which is Brunei government’s central statutory body to grow and diversify Brunei’s economy by attracting investment into the nation. Most recently, he was CEO of Darussalam Enterprise, Brunei’s central government agency for developing entrepreneurship for the nation. He was also a founding chairman of Seri Venture Capital, an investment firm that invests in Brunei companies that have ambitions in regional expansion. He represented Brunei in the APEC Business Advisory Council (ABAC) for 2016-2017.\r\n\n\rSoon has been serving on board of directors of public and private companies in Brunei, China, and Singapore — including formerly being the chairman and board member of a publicly listed Asian company that went IPO for US$1.5 billion of market capitalization. Soon was a Regional Vice President for the AXA Group in the Asia-Pacific where he worked on business development and strategy for the regional office that oversaw the AXA Group companies in 11 countries, with a total annual business of US$9.5 billion.\r\n\n\rSoon started his career in technology and co-founded a technology company in Silicon Valley that raised over US$37 million of venture capital. The firm went on to be recognized as a top 20 leading emerging technology company for the Red Herring Magazine’s NDA conference.\r\n\n\rIn his personal capacity, Soon has been an adjunct faculty in universities in the region, including Singapore Management University, Nanyang Technological University, University of Brunei Darussalam, and Universiti Technologi Brunei of which he served on the international advisory panel. He co-founded the Passion Unleashed Talk Series in Singapore that features leaders including minister of state, chairmen of listed companies, celebrities, world’s extreme endurance race athletes, and climbers of Mt Everest.\r\n\n\rSoon was awarded the “Ten Outstanding Young Persons of The World” (TOYP) award 2013-14 organized by Junior Chamber International (JCI). Soon holds an MBA from the Harvard Business School."
+  - bio: >-
+      A serial entrepreneur, Soon is director and board member of public and
+      private companies in Asia Pacific — including formerly being the chairman
+      and board member of a publicly listed Asian company that went IPO for
+      US$1.5 billion of market capitalization. Soon embarks on entrepreneurship
+      development and economic development initiatives in Asia. He is also a
+      founding chairman of Seri Venture Capital. 
+
+
+      He was a council member of APEC Business Advisory Council (ABAC) from 2016
+      to 2017
+
+
+      Soon was a Regional Vice President for the AXA Group in the Asia-Pacific
+      where he worked on business development and strategy for the regional
+      office that oversaw the AXA Group companies in 11 countries, with a total
+      annual business of US$9.5 billion.
+
+
+      Soon started his career in technology and co-founded a technology company
+      in Silicon Valley that raised over US$37 million of venture capital. The
+      firm went on to be recognised as a top 20 leading emerging technology
+      company for the Red Herring Magazine’s NDA conference.
+
+
+      In his personal capacity, Soon has been an adjunct faculty in universities
+      in the region, including Singapore Management University, Nanyang
+      Technological University, University of Brunei Darussalam, and Universiti
+      Technologi Brunei of which he served on the international advisory panel.
+      He co-founded the Passion Unleashed Talk Series in Singapore that features
+      leaders including minister of state, chairmen of listed companies,
+      celebrities, world’s extreme endurance race athletes, and climbers of Mt
+      Everest.
+
+
+      Soon was awarded the “Ten Outstanding Young Persons of The World” (TOYP)
+      award 2013-14 organized by Junior Chamber International (JCI). Soon holds
+      an MBA from the Harvard Business School.
     coachName: Soon Loo
     jobTitle: Chief Executive Officer Brunei Economic Development Board
     links:
