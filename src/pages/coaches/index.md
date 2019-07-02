@@ -2336,7 +2336,7 @@ coachList:
     links:
       linkedin: marinacvetkovic
       website: www.thepeakalliance.com
-    photo: /uploads/dsc_9756_1-marina-cvetkovic.jpg
+    photo: /uploads/_dsc9262-copy.jpg
     tags:
       - Executive Coach
       - Consultant
