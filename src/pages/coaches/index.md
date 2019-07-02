@@ -2173,7 +2173,7 @@ coachList:
       award 2013-14 organized by Junior Chamber International (JCI). Soon holds
       an MBA from the Harvard Business School.
     coachName: Soon Loo
-    jobTitle: Chief Executive Officer Brunei Economic Development Board
+    jobTitle: Board member of public and private companies in Asia Pacific
     links:
       linkedin: soonloo
     photo: /uploads/soon-loo.jpg
