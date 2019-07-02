@@ -2343,5 +2343,50 @@ coachList:
       - Speaker
       - Author
       - Corporate Executive
+  - bio: >-
+      Shoma is a high-performance coach and advisor to C-Suite executives and
+      boards in public and PE-owned companies. Currently, she is an Expert
+      Principal at ghSMART, a firm that brings analytical rigor and data driven
+      approaches to help leaders and their teams build valuable organizations.
+      She is a member of Marshall Goldsmith’s 100 Coaches initiative, a group
+      that shares her belief that leadership is a powerful lever for positive
+      change.
+
+
+      Prior to ghSMART, she co-headed the senior leadership development function
+      at Goldman Sachs (Pine Street), where she focused on advising and coaching
+      the firm’s partners and managing directors on personal and team
+      development. She also architected a number of signature leadership
+      acceleration initiatives for high potential managing directors, senior
+      women leaders, and high-producing traders. Previously, Shoma was a
+      management consultant at Deloitte Consulting’s Strategy & Operations
+      practice and has roles at the Federal Reserve Bank and the United
+      Nations. 
+
+
+      She has contributed to a number of publications including Harvard Business
+      Review, Chief Executive magazine, Forbes, Leader to Leader Journal, and
+      The Handbook of Teaching Leadership.  
+
+
+      Shoma earned a BA from Northwestern University in economics and math, an
+      MBA from Columbia Business School, and an MA in International Affairs from
+      Columbia University. She has completed coaching certifications from
+      UC-Berkeley Executive Coaching Institute, The Neuroleadership Institute,
+      and the College of Executive Coaching. She is also a trauma counselor with
+      a certificate in Group Interpersonal Psychotherapy from Columbia
+      University’s Global Mental Health Program. She lives in New York with her
+      husband Richard, where she is actively involved in refugee and
+      resettlement efforts in New York and in her native country of Burma.
+    coachName: Shoma Chatterjee Hayden
+    jobTitle: Leadership Development Expert
+    links:
+      linkedin: shoma-hayden-2b308a2
+      website: 'https://ghsmart.com/shoma-chatterjee-hayden/'
+    photo: >-
+      https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/shomachatterjee_highres-shoma-chatterjee-hayden.jpg
+    tags:
+      - Executive Coaches
+      - Consultants
 ---
 
