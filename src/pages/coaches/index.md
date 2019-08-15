@@ -2425,5 +2425,45 @@ coachList:
     tags:
       - Executive Coaches
       - Consultants
+  - bio: >-
+      Howard Jacobson, PhD is co-founder and Chief of Behavioral Science at
+      WellStart Health, a digital therapeutics platform and care team dedicated
+      to putting chronic disease out of business. Howard is also co-founder of
+      the WellStart Health Coaching Academy, where he trains wellness coaches to
+      guide their clients to dramatic health improvements. 
+
+
+      He is the  co-author of Sick to Fit, with Josh LaJaunie, and contributing
+      author to Whole, by T. Colin Campbell, PhD, and Proteinaholic, by Garth
+      Davis, MD. He’s also co-author, with Peter Bregman, of the “Coaching for
+      Performance” chapter in the American Management Association’s Bodies of
+      Knowledge guidebook.Howard has been coaching high performers since 2001.
+      He is certified in Peter Bregman’s QUICC Coaching methodology, BJ Fogg’s
+      Tiny Habits, and Glenn Livingston’s Never Binge Again system.
+
+
+      Howard earned his MPH and PhD in Health Studies from Temple University,
+      and his BA from Princeton University.
+
+
+      Howard lives on an ecological farm in rural North Carolina, where he
+      writes, gardens, plays Ultimate Frisbee, runs ultra marathons, and
+      practices Russian Martial Arts. 
+
+
+      Howard’s goals include shaking up healthcare, sharing how delicious and
+      joyful a healthy life can be, saving the planet, and reintroducing people
+      to their most authentic, antifragile, best selves.
+    coachName: Howard Jacobson
+    jobTitle: Chief of Behavioral Science
+    links:
+      linkedin: howardwellstart
+      website: www.WellStartHealth.com
+    photo: /uploads/hj-suit-2018-11-howard-jacobson.jpg
+    tags:
+      - Executive Coach
+      - Speaker
+      - Author
+      - Entrepreneur
 ---
 
