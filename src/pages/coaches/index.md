@@ -2497,5 +2497,64 @@ coachList:
       - Consultant
       - Speaker
       - Author
+  - bio: >-
+      Partner and Board Member of Archi – Leading Real Estate Development
+      Company \
+
+      Member of Parliament of Georgia\
+
+      Member of Board of Trustees at Businesses Association of Georgia
+
+
+      Since 2006 Mr. Ilia Tsulaia went through a long journey, from the business
+      consulting to creating the leading real estate Development Company in
+      Georgia – LTD Archi. From 2006 until 2016, Ilia was Archi’s CEO and
+      currently remains a partner and a board member of the company.
+
+
+      In 2009 Archi encountered one of the hardest challenges as a business
+      corporation: World crisis of 2008 – 2009 led business to the deadlock,
+      especially the real estate field.
+
+
+      The above-mentioned impediments forced most of the real-estate companies
+      to halter their business activities, but Archi handled the crisis with
+      admirable professionalism and remarkable competence. Believing in
+      country’s new opportunities, together with the feeling of responsibility
+      towards the company’s partners and customers, Archi led by Mr. Tsulaia,
+      worked harder than ever and became number 1 real estate developer in
+      Georgia.
+
+
+      Even though Georgia is a small country with a population of 3.7 million,
+      Archi’s real estate sales thrived: during the year 2018, the company sold
+      1200 apartments – regarded as the biggest share (7%) of the country’s real
+      estate market.
+
+
+      Additionally, Archi contributes to the hospitality development in Georgia
+      through partnership with international companies such as ACCOR S.A and
+      manages 7 ongoing projects with the aim to develop international hotel
+      chains in the country. 
+
+
+      Even though Ilia is an entrepreneur at heart, he chose to dedicate himself
+      to the country and people, so he took part in 2016 Parliamentary Elections
+      and became a Member of the Parliament of Georgia. Ilia holds master’s
+      degree in law and is actively involved in the development of the Georgia’s
+      Legislation.
+
+
+      Also Ilia is a Member of Board of Trustees at Businesses Association of
+      Georgia. BAG is one of the strongest unit which creates 50% of GDP in the
+      country. The mission of BAG is to improve business environment in Georgia
+      by uniting member companies, encouraging close cooperation with
+      government, international and national partners.
+    coachName: Ilia Tsulaia
+    jobTitle: Partner and Board Member of Archi.  Member of Parliament of Georgia
+    photo: /uploads/_mg_7866-ilia-tsulaia.jpg
+    tags:
+      - Consultant
+      - Entrepreneur
 ---
 
