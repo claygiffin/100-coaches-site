@@ -2459,7 +2459,7 @@ coachList:
     links:
       linkedin: howardwellstart
       website: www.WellStartHealth.com
-    photo: /uploads/hj-suit-2018-11-howard-jacobson.jpg
+    photo: /uploads/howard-jacobson-headshot-2019_zoom.jpg
     tags:
       - Executive Coach
       - Speaker
