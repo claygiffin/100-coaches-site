@@ -2465,5 +2465,37 @@ coachList:
       - Speaker
       - Author
       - Entrepreneur
+  - bio: >-
+      Dr. Richard Osibanjo is a scientist, strategic business and leadership
+      advisor with expertise in pharmaceutical, biotechnology and semiconductor
+      industries. International and cross-cultural expertise includes Process
+      development, relationship management, leadership and talent development,
+      career development, and workforce engagement. Designs and delivers
+      workshops and training programs in the areas of customer/client
+      relationships, teamwork, communication, conflict resolution, and emotional
+      intelligence. Excels in fast-paced, challenging environments in
+      international organizations. Demonstrates strong analytical,
+      problem-solving, performance and quality improvement skills.
+
+
+      He is a published author and blogger who thrives in teaching scientists,
+      engineers, and technical disciplines how to improve their managerial,
+      leadership, and interpersonal skills so they can improve their performance
+      and enhance their productivity.
+
+
+      Richard is interested in making an impact on the global stage and
+      strategically making a difference in the workplace. In his spare time, he
+      enjoys traveling, performing music, writing and reading management theory.
+    coachName: Richard Osibanjo
+    jobTitle: 'Organizational Development Partner, Leadership Coach, Speaker, and Trainer'
+    links:
+      linkedin: richardosibanjo
+    photo: /uploads/dr.-richard-osibanjo-jeffrey-kuhn.png
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
 ---
 
