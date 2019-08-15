@@ -2556,5 +2556,64 @@ coachList:
     tags:
       - Consultant
       - Entrepreneur
+  - bio: >-
+      Ron Carucci is co-founder and managing partner at Navalent, working with
+      CEOs and executives pursuing transformational change for their
+      organizations, leaders, and industries.  He has a thirty year track record
+      helping some of the world’s most influential executives tackle challenges
+      of strategy, organization and leadership.  From start-ups to Fortune 10’s,
+      turn-arounds to new markets and strategies, overhauling leadership and
+      culture to re-designing for growth, he has worked in more than 25
+      countries on 4 continents.  In addition to being a regular contributor to
+      HBR and Forbes, (you can read his work at these links), he has been
+      featured in Fortune, CEO Magazine, BusinessInsider, MSNBC, Inc, Business
+      Week, Smart Business, and thought leaders.  
+
+
+      He is the bestselling author of 8 books.  He led a ten year longitudinal
+      study on executive transition to find out why more than 50% of leaders
+      fail within their first 18 months of appointment, and uncovering the four
+      differentiating capabilities that set successful leaders apart. Those
+      findings are highlighted in his ground breaking Amazon #1 book Rising To
+      Power, co-authored with Eric Hansen.  These findings are also summarized
+      by Ron in the popular HBR article, which can be found here.  HBR selected
+      that research as one of 2016’s “Ideas that mattered most", and I recently
+      presented it on their Live series, which you can see here:
+      https://www.facebook.com/HBR/videos/10155500067767787/   Ron is a 2-time
+      TEDx speaker, and you can listen to his recent TEDx talk on power here:
+      https://www.youtube.com/watch?v=v234mvaUQ4o&feature=youtu.be
+
+
+      He has helped CEOs, their executive teams, and their enterprises redesign
+      themselves and build appropriate leadership strategies to ensure the
+      current and next generation of leaders have the capabilities required by
+      the organization. He has been chief architect of several major leadership
+      development simulations and curriculums for global organizations focused
+      on developing high-potential executive talent and connecting strategy
+      execution to leadership capability.
+
+
+      Ron is a former faculty member at Fordham University Graduate School as an
+      associate professor of organizational behavior. He has also served as an
+      adjunct at the Center for Creative Leadership. His clients have included
+      Abbvie, Starbucks, Microsoft, Coronal Energy, CitiBank, Corning, Inc.,
+      Lamb Weston, The Hershey Company, Bristol-Myers Squibb, Amgen, Deutsche
+      Bank, Gates Corporation, MMC, Edward Jones Investments, ConAgra Foods,
+      TriHealth, OhioHealth, Del Monte Foods, Midnight Oil Creative,
+      Weyerhaeuser, McDonald’s Corporation, Sojourners, The Atlantic
+      Philanthropies, Kleiner Perkins Caufield & Byers, Cadbury, Miller Brewing,
+      the U.S. Patent & Trademark Office, Price Waterhouse Coopers, Johnson &
+      Johnson, ADP, and the CIA.
+    coachName: Ron Carucci
+    jobTitle: 'Managing Partner, Navalent'
+    links:
+      linkedin: navalent
+      website: www.navalent.com
+    photo: /uploads/ron-high-res-ron-carucci.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
 ---
 
