@@ -2041,7 +2041,7 @@ coachList:
     jobTitle: Global Executive Coach PCC Leadership & Change Facilitator
     links:
       linkedin: reetanathwani
-    photo: /uploads/Reeta Nathwani.jpg
+    photo: /uploads/reeta-professional-pic-2019.jpg
     tags:
       - Executive Coach
   - bio: "Rob is the CEO and Associate Founder of Singularity University. He brings a unique entrepreneurial and globally-focused approach to growing a non-traditional university as a platform to create a future of abundance where exponential technologies empower us to solve the global grand challenges.\r\n\n\rPrior to Singularity, he co-founded Velocity11 in 1999, building automation equipment and robotics for cancer research and drug discovery. After being acquired by Agilent Technologies in 2007, he traded the CEO role for a General Manager role attempting to be a catalyst for change at a big company. He gave up in 2009 to go surfing, then found his true calling and biggest challenge yet with Singularity University. He was recently a director at Harman (HAR), on technology and audit committees. He helped Harman explore options for long-term growth in a rapidly changing automobile industry, ultimately resulting in ~$8 Billion acquisition by Samsung. As their largest acquisition in history, it brings Samsung directly into the automobile and autonomous car market\r\n\n\rHe is currently on the board of Light&Motion, is a co-founder and director of Alite Designs, is an active angel investor and advisor, and holds degrees in Mechanical, Materials Science and Manufacturing Engineering from UC Davis and Stanford University."
