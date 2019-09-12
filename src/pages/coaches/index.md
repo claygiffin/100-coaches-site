@@ -185,6 +185,18 @@ coachList:
       - Corporate Executive
       - Iconic Leader
       - Non-Profit
+  - bio: "MARTIN LINDSTROM is the founder and chairman of Lindstrom Company – the world’s leading brand & culture transformation group. TIME Magazine has selected Martin as one of the “World’s 100 Most Influential People”, and ranks #36 among the world’s top business thinkers according to Thinkers50. Since 2013 and over four consecutive years 30,000 marketers have selected him as the world’s #1 branding expert.\r\n\n\rMartin is the author of seven bestselling books including his latest New York Times, Wall Street Journal and USA Today bestsellers: Small Data – The Tiny Clues That Uncover Huge Trends (St. Martins) and Buyology – Truth and Lies About Why We Buy (Crown)\r\n\n\rLindstrom Company is today responsible for brand and culture transformations of numerous Fortune 500 companies, including the LEGO Company, Standard Chartered Bank, SWISS International Air Lines, PepsiCo, Red Bull, Estee Lauder Companies, Cargill, Nestlé International, The Walt Disney Company, Swiss Post, the Dorchester Collection, 3G group (Burger King International), Carrefour, Lowes, Majid Al Futtaim and GlaxoSmithKline.\r\n\n\rOver the years Martin and his team has developed an unorthodox way of doing what every company says it wants to do: understand its customers deepest desires and turn them into breakthrough products, brands, services or retail experiences. He is by Forbes recognized as one of the world’s leading brand and culture experts, having pioneered the introduction of brands on the Internet (1994), the innovation of Clicks & Mortar (1997), drawing parallels between religion and how brands are to be built in the future (2000), using our five senses in branding (2004), coining the term: NeuroMarketing (2007), exploring the next generation of word-of-mouth communication (2011) and just recently introduced the term “Small Data” (2016) representing the counter balance to Big Data.\r\n\n\rDue to his work, Lindstrom often features in the Wall Street Journal, the New York Times, Bloomberg BusinessWeek, the Washington Post, USA Today, The Economist, Harvard Business Review, The Independent, The Guardian, and Der Spiegel. He regularly appears on ABC, CNN, CBS, FOX, and the BBC.\r\n\n\rSmall Data was voted one of the top business books of 2016 and 2017 by Fortune, INC magazine and Forbes a must read and awarded the #1 Business book of 2017 by Business + Strategy. Buyology was voted “pick of the year” by USA Today, and it appeared on ten of the Top 10 bestseller lists in the U.S. and worldwide. His book BRANDsense was acclaimed by the Wall Street Journal as “…one of the five best marketing books ever published.” His six books on branding have been translated into more than 50 languages and published in more than 70 countries worldwide.\r\n\n\rLindstrom is a regular contributor to Fast Company, TIME Magazine, and NBC’s TODAY Show with his popular “Main Street Makeover” TV series.\r\n\n\rVisit MartinLindstrom.com for more…"
+    coachName: Martin Lindstrom
+    jobTitle: Branding Expert & Consultant
+    links:
+      linkedin: lindstromcompany
+    photo: /uploads/Martin-lindsrom.jpg
+    tags:
+      - Author
+      - Consultant
+      - Entrepreneur
+      - Speaker
+      - Thinker
   - bio: "* First Chief of Staff reporting to Founder & Chairman Charles ‘Chuck’ Schwab.\r\n* Founding Director & Coach for Sir Richard Branson’s Entrepreneurship Centres.\r\n* Founding Advisor & Board Member, Stanford Univ Realtime Venture Design Lab\r\n\n\rMark C. Thompson is a senior operating executive and New York Times bestselling author with 30+ years coaching senior executives, including leadership teams working directly for founders Steve Jobs, Richard Branson, Charles Schwab, FitBit founder Eric Friedman, and Pinterest founders Ben Silbermann and Evan Sharpe. He is a founding member of World Bank President Jim Kim’s Leadership Advisory Board, and served as a Governor for the Investment Securities Council at the World Economic Forum in Davos.  He is a founding director of Sir Richard Branson’s Virgin Unite Entrepreneurship Centres. The Virgin group has over 350 companies.\r\n\n\rMark was Chairman of Rioport, which popularized the MP-3 player before iTunes. He was a founding Board member of Esurance, which was sold to Allstate Insurance. He was a founding Board member of Interwoven during the Nasdaq IPO and then sold to HP.  He was Chairman of the Integration, which was sold to Silicon Labs. At his alma mater, Stanford University, Mark was a founding advisor of Stanford’s Real-Time Venture Design Lab and served as a Visiting Scholar for seven years. He was a board member of the John F. Kennedy University Institute for Entrepreneurial Leadership, where he received the institute’s first ever Lifetime Achievement Award.\r\n\n\rMark was an operating executive at Charles Schwab reporting to the Chairman, Charles ‘Chuck’ Schwab. Mark was on the team that launched Schwab as an NYSE IPO, and he was the first Retail & Institutional Investor Relations Officer, first Chief Customer Experience Officer and Executive Producer of Schwab.com, and Chief Communications Officer. www.MarkCThompson.com"
     coachName: Mark C. Thompson
     jobTitle: >-
@@ -197,6 +209,199 @@ coachList:
       - Author
       - Consultant
       - Executive Coach
+      - Speaker
+  - bio: >-
+      Whitney Johnson is one of the 50 leading business thinkers in the world
+      (Thinkers50) and an expert on helping high growth organizations develop
+      high growth individuals. As a former award-winning stock analyst on Wall
+      Street and co-founder of the Disruptive Innovation Fund with Clayton
+      Christensen, Whitney Johnson understands how stocks and people gain and
+      maintain momentum. She has codified her frameworks for developing high
+      growth individuals––the S Curve of Learning and Personal Disruption
+      frameworks in the critically-acclaimed book _Disrupt Yourself_, and the
+      award-winning _Build an “A” Team_ (Harvard Business Press, 2018), and is a
+      frequent lecturer for Harvard Business Publishing’s Corporate Learning. In
+      2019, she was ranked #3 on the Global Gurus' Top 30 Organizational Culture
+      Professionals. In 2017, she was selected from more than 16,000 candidates
+      as a “Top 15 Coach” by Dr. Marshall Goldsmith. She is a LinkedIn
+      Influencer with more than 1.6 million followers and was selected as a Top
+      Voice of 2018. Whitney hosts the weekly Disrupt Yourself Podcast at
+      whitneyjohnson.com.
+
+
+      ### Coaching Experience
+
+
+      * Coach C-Suite executives across a variety of industries and companies,
+      from start-ups to P&Ls of $10bn+
+
+      * Coach for Harvard Business School Executive Education
+
+      * Top 100 Best Coaches Award – World HRD Congress (India)
+
+      * Harvard Medical School Institute of Coaching – Member
+
+      * Master Certified Coach – Marshall Goldsmith’s Stakeholder-Centered
+      Coaching
+    coachName: Whitney Johnson
+    jobTitle: 'Innovation and disruption theorist, speaker, author, executive coach'
+    links:
+      linkedin: whitneyjohnson
+      twitter: johnsonwhitney
+      website: ''
+    photo: /uploads/whitney-johnson.jpg
+    tags:
+      - Author
+      - Consultant
+      - Entrepreneur
+      - Executive Coach
+      - Speaker
+      - Thinker
+  - bio: "PETER BREGMAN is the CEO of Bregman Partners, which helps people and organizations get massive traction on what they care about most. Peter has advised CEOs and senior leaders in many of the world’s premier organizations, including Allianz, American Express, Pearson, Brunswick Group, Goldman Sachs, Morgan Stanley, Deutsche Bank, JPMorgan Chase, FEI, GE Capital, Merck, Clear Channel, Nike, UNICEF, and many others.\r\n\n\rHe is the host of the Bregman Leadership Podcast, short conversations with thought leaders focused on ideas that people can use to become more powerful and courageous leaders, and the author of three books:\r\n\n\rFour Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work, a New York Post top pick for your career in 2015.\r\n\nThe Wall Street Journal bestseller 18 Minutes: Find Your Focus, Master Distraction, and Getthe Right Things Done, winner of the Gold medal from the Axiom Business Book awards, named the best business book of the year on NPR, and selected by Publisher’s Weekly and the New York Post as a top 10 business book. \r\n\nPoint B: A Short Guide to Leading a Big Change.\r\n\nPeter has also contributed to five other books. Featured on PBS, ABC and CNN, Peter is a regular contributor to Harvard Business Review, Psychology Today, and Forbes, and his articles and commentary have appeared frequently in Bloomberg BusinessWeek, Fast Company, The Financial Times, CNN, NPR, and FOX Business News.\r\n\n\rPeter earned his B.A. from Princeton University and his M.B.A. from Columbia University. He can be reached at pbregman@bregmanpartners.com."
+    coachName: Peter Bregman
+    jobTitle: 'Author, Speaker, CEO at Bregman Partners, Inc.'
+    links:
+      facebook: PeterBregmanAdvisor
+      linkedin: peterbregman
+      twitter: peterbregman
+      website: bregmanpartners.com/articles/
+    photo: /uploads/peter-bregman.jpg
+    tags:
+      - Author
+      - Consultant
+      - Executive Coach
+      - Speaker
+      - Thinker
+  - bio: >-
+      Connie Dieken helps C-suite executives shape the future by influencing
+      positive change under challenging conditions. An executive leadership
+      advisor, her research and strategies on how leaders influence change
+      guides senior executives on five continents at many of the world’s biggest
+      brands, including Coca-Cola, HP, Nestlé, BNP Paribas and The Cleveland
+      Clinic. Connie is the founder of The Dieken Group and Influence360º, a
+      validated psychometric tool that identifies influence patterns and helps
+      leaders earn trust and commitment. A former journalist and always curious,
+      she’s been honored with five Emmy Awards, named a Global Guru of Executive
+      Coaching, a Top 10 Female Business Owner, and has been inducted into the
+      Radio/Television Broadcasters Hall of Fame, the Speakers Hall of Fame, and
+      the Million Dollar Consulting Hall of Fame. She’s the author of two
+      best-selling leadership books, Talk Less, Say More and Become the Real
+      Deal. Connie's thought leadership on modern influence has been featured in
+      The Wall Street Journal, Investor’s Business Daily, CNBC, The Kuwait Times
+      and other leading business publications around the world.
+    coachName: Connie Dieken
+    jobTitle: The World's Leading Expert on Executive Presence
+    links:
+      linkedin: conniedieken
+      website: 'https://conniedieken.com/'
+    photo: /uploads/connie.png
+    tags:
+      - Corporate Executives
+      - Speakers
+      - Executive Coaches
+  - bio: "Tasha Eurich is an organizational psychologist, researcher, and New York Times best-selling author. As Principal of the Eurich Group, she has built a reputation as a fresh, modern voice in the business world by pairing her scientific grounding in human behavior with a practical approach to improvement. Over her 15-plus-year career, she’s helped thousands of professionals—from Fortune 500 executives to early stage entrepreneurs—improve their self-awareness and success.\r\n\n\rWith a PhD in Industrial-Organizational Psychology and BAs in Theater and Psychology, Dr. Eurich has contributed to The Guardian, Entrepreneur, The Huffington Post, TED.com and CNBC.com, and has been featured in outlets like Business Insider, Fortune, Forbes, The New York Times, Fast Company, and New York Magazine. She has been named a “Top 100 Thought Leader” by Trust Across America, a “Leader to Watch” by the American Management Association, and one of Denver Business Journal’s “40 Under 40.” Her TEDxMileHigh talk has been viewed more than one million times.\r\n\n\rDr. Eurich’s first book, Bankable Leadership, debuted on the New York Times best-seller list. Her latest book, INSIGHT, delves into the connection between our self-awareness—what she calls the meta-skill of the twenty-first century—and performance and success, both in and out of the workplace. Hailed as a “bold, exhilarating take on self-improvement” by Success Magazine and a “fascinating read” by The Guardian, INSIGHT was recently named an Editor’s Choice by 800-CEO-READ."
+    coachName: Tasha Eurich
+    jobTitle: Organizational Psychologist
+    links:
+      facebook: TashaEurich
+      linkedin: tashaeurich
+      twitter: tashaeurich
+      website: www.psychologytoday.com/us/experts/tasha-eurich-phd
+    photo: /uploads/tasha-eurich.jpg
+    tags:
+      - Author
+      - Consultant
+      - Executive Coach
+      - Speaker
+      - Thinker
+  - bio: "Bernard (Bernie) Banks is a noted expert on the subjects of leadership and organizational change. Currently, he is the Associate Dean for Leadership Development and a Clinical Professor of Management at Northwestern University’s Kellogg School of Management. As an Associate Dean, Bernie possesses responsibility for leader development integration across the school’s global portfolio of programs.\r\n\n\rBernie retired from the Army as a Brigadier General in 2016 after having successfully led West Point’s Department of Behavioral Sciences & Leadership from 2012-2016. In addition to having studied leadership extensively, he has led multiple military units ranging in size from 10 to 500 people. In 1995, Bernie was selected from over 40,000 officers to receive the Army’s top award for entry-level managers (General Douglas MacArthur Leadership Award). In 2006, the Apache Helicopter unit he was leading in South Korea was designated as the top Apache Helicopter unit globally in the U.S. Army’s annual best aviation unit competition.\r\n\n\rA West Point graduate, Bernie is broadly educated. He holds graduates degrees from Northwestern, Columbia, and Harvard Universities. Additionally, he earned his Ph.D. in social-organizational psychology from Columbia University. Bernie’s work has been published in a variety of outlets (e.g., Harvard Business Review, Military Psychology, New York Times). Furthermore, he has worked extensively with organizations across all sectors concerning their leader development efforts (e.g., Procter and Gamble, Mercedes Benz, General Electric, IBM, 7-Eleven, The US Forest Service, International Chiefs of Police).\r\n\n\rAn active member of several civic and professional organizations (e.g., The Chicago Club, Harvard Club of NYC, Community Solutions of NYC, USO of Illinois, West Point Society of Chicago), Bernie is deeply invested in his community.\r\n\n\rAreas of Expertise\r\n\n\rLeader Development\r\n\nOrganizational Change\r\n\nOrganizational Culture"
+    coachName: Bernard Banks
+    jobTitle: Associate Dean for Leadership Development & Clinical Prof. of Management
+    links:
+      linkedin: bernard-banks-ph-d-4458003
+    photo: /uploads/bernard-banks.jpg
+    tags:
+      - Executive Coach
+      - Non-Profit
+  - bio: "Carol Kauffman Founder of the Institute of Coaching and on the faculty of Harvard Medical School.\r\n\n\rCarol is a leadership coach with over 20 years experience helping leaders raise the bar on their performance and managing their success. She is most interested in high stakes coaching where managing leadership impact is crucial and it is necessary to intervene quickly. She has focused on these issues with young high potential leaders to the CEO/Chairs of the Board at Fortune 50 companies.\r\n\n\rShe is a leader herself: An Assistant Professor at Harvard Medical School she founded the Institute of Coaching, a community of 18,000, launched the Coaching in Leadership and Healthcare Conference at Harvard, The Institute of Coaching Leadership Forum and has chaired numerous conference. In addition she was Founding Editor in Chief of the first journal in Coaching with a major publishing house. In 2009 her work and entrepreneurial spirit were commemorated with a $2,000,000 gift to begin the Institute of Coaching.\r\n\n\rDr. Kauffman has extensive coaching experience with over 40,000 hours of client contact. She works with multi-national organizations either in the C-Suite or in tandem with large-scale leadership development programs. A sampling of recent clients includes: Ahold, Astra Zeneca, BCG, BUPA, Bombardier, BCG, Harvard Medical School, Hospital Corporation of America, Lloyds, Linklaters, McKinsey, Norton Rose, Owens-Illinois, Tubelines, State Street Bank, Unilever, Vanderbilt University and Wellington."
+    coachName: Carol Kauffman
+    jobTitle: 'President: Coaching Psych; Harvard Faculty, Founder, Institute of Coaching'
+    links:
+      linkedin: carol-kauffman-phd-pcc-b07ab01
+    photo: /uploads/carol-homepage-cropped350x.jpg
+    tags:
+      - Executive Coach
+      - Speaker
+  - bio: "As Director of Google’s Center of Expertise, David is responsible for innovative, high-impact approaches to develop Google leaders to meet current and emerging challenges. In addition, he coaches senior leaders, leads strategy for Google’s executive coaching programs, and supports other leadership and organization development initiatives, including leading a team on agile organization design for Google’s future needs.\r\n\n\rDavid is honored to be one of the MG100 coaches and serves as senior advisor on two other ventures:\r\n\n• Institute for Contemporary Leadership, focused on accelerating the development of high-potential leaders and equipping them to deal with disruption, complexity, and transformational change. The Institute provides top leaders with a high-trust peer network, disruptive development experiences, and a personal development advisor/coach to guide their journey. contemporaryleadership.com\r\n\n• 7 Paths Forward challenges highly-experienced executive coaches to raise their game and prepare for the changing competitive landscape by developing new mindsets and advanced coaching capabilities, as well as participating in catalytic experiences with a dynamic learning community of great coaches and professional colleagues. 7pathsforward.com\r\n\n\rBefore joining Google in 2011, David served as leader of world-wide coaching services for PDI Ninth House (now Korn Ferry). In addition to coaching top leaders at Salesforce, Sandisk, Microsoft, Hewlett-Packard, Target, Wal-Mart, Shell, Genentech, American Express, Mayo Clinic, Harvard, and Stanford University, he provided consultation and thought leadership on how to design and manage organizational coaching programs, how to develop high potential leaders and critical talent, and how to accelerate learning and leadership development at all levels.\r\n\n\rDavid has published dozens of articles and chapters on coaching, is co-author of Development FIRST:  Strategies for Self-Development and Leader as Coach, with over a million copies in print, and co-editor of the Handbook of the Psychology of Coaching and Mentoring.\r\n\n\rHe earned his PhD in Counseling and Industrial/Organizational Psychology at the University of Minnesota. He is a Fellow of the American Psychological Association, the Society of Consulting Psychology, the Society for Industrial and Organizational Psychology (SIOP), and the Harvard Institute of Coaching. His awards include the RHR International Award for Excellence in Consultation (Society of Consulting Psychology), the Outstanding Achievement Award (California Psychological Association), and the Vision of Excellence Award (Harvard Institute of Coaching).\r\n\n\rVikki Brock’s history of coaching (2008, 2012) names David as one of the primary influencers in the field, both for his early influence on the emergence of executive coaching and for continuing to shape the field “on the cutting edge of the profession, doing and saying surprising and thought-provoking things.”\r\n\n\rDavid lives in San Francisco with his wife, Alexis Shoemate, and two adorable Tibetan Terriers named Pinot and Cab."
+    coachName: 'David B. Peterson, PHD'
+    jobTitle: 'Director, Center of Expertise, Leadership Development & Executive Coaching'
+    links:
+      linkedin: david-b-peterson
+    photo: /uploads/david-peterson.jpg
+    tags:
+      - Author
+      - Consultant
+      - Corporate Executive
+      - Executive Coach
+      - Speaker
+      - Thinker
+  - bio: "Aicha S. Evans is corporate vice president and general manager of the Communications and Devices Group at Intel Corporation. She is responsible for driving wireless engineering for multi-comm products and Intel platforms, including modems, RF, Wi-Fi, GPS, Bluetooth, NFC, FM, LTE, WLAN/WWAN as well as emerging wireless technologies to lead this industry going forward.\r\n\n\rPreviously Evans was the general manager of the Wireless Platform Research and Development Group where managed the engineering, software, hardware, strategic planning, and product test teams responsible for providing wireless connectivity ingredients and solutions for all Intel platforms.\r\n\n\rEvans joined Intel in 2006 as a software integration and test manager. She held a number of management positions responsible for Intel’s wireless efforts including software engineering and support for customers deploying WiMAX networks in multiple geographies. Additionally, she worked in Israel managing WiFi engineering and product lines. Prior to Intel, Evans spent 10 years in various engineering management positions at Rockwell Semiconductors, Conexant and Skyworks.\r\n\n\rEvans received a bachelor’s degree in computer engineering from The George Washington University in 1996."
+    coachName: Aicha Evans
+    jobTitle: 'Senior Vice President and Chief Strategy Officer, Intel Corporation'
+    links:
+      linkedin: aicha-evans-4365731
+    photo: /uploads/aicha-evans.jpg
+    tags:
+      - Corporate Executive
+      - Speaker
+  - bio: >-
+      Jim Citrin is one of the world’s most prolific executive search
+      consultants and experts on leadership, governance, and career success. In
+      his 25 years at Spencer Stuart, where he leads the firm’s CEO Practice, he
+      has completed more than 700 searches for CEOs, Board Directors and other
+      top executives for some of the world’s leading corporations and
+      not-for-profit institutions.
+
+
+      A LinkedIn Influencer with one million followers, Jim is a best-selling
+      author of 7 books, including You’re in Charge, Now What? and The Career
+      Playbook.
+    coachName: Jim Citrin
+    jobTitle: 'Leader, CEO Practice at Spencer Stuart and Author'
+    links:
+      linkedin: james-citrin-57a06758
+    photo: /uploads/jim-citrin.jpg
+    tags:
+      - Author
+      - Corporate Executive
+      - Speaker
+  - bio: "Director\r\n\nNorth America Regional Lead – Citi Learning – Leadership, Executive and Professional Development/Global Business Relationship Management \r\n\n\rCoaching and developing teams has been a thread throughout Laine’s career. As she worked in business roles and later within the Compensation areas of Human Resources, it was her work leading teams that has been the cornerstone of her career. After spending 20 years working in these diverse roles, Laine decided to parlay her passion for coaching and developing people into her formal role. In her current role since 2012, Laine is the Director of Leadership, Executive and Professional Development for North America at Citi where she also has responsibility for Global Business Relationship Management.\r\n\n\rWith Citi since 1991, Laine has seen the organization change dramatically. Laine has enjoyed supporting Citi’s senior leaders by serving as a Coach and Faculty for Citi’s Senior Leadership Program.\r\n\n\rLaine has also taught on an adjunct basis at NYU’s School of Professional Studies.\r\n\n\rLaine holds an M.B.A. in Human Resources Management from the Zicklin School of Business – Baruch College and a B.A. in Psychology from the University of Connecticut.\r\n\n\rlinkedin.com/in/lainejoelsoncohen"
+    coachName: Laine Joelson Cohen
+    jobTitle: 'Citi Leadership & Executive Development , Executive Coach, and Speaker'
+    links:
+      linkedin: lainejoelsoncohen
+    photo: /uploads/laine-cohen-gmstudios.jpg
+    tags:
+      - Corporate Executive
+      - Executive Coach
+  - bio: "Scott Osman is a thought leader in the area of purpose strategy. Scott is rare in his combination of multi-disciplinary talents that span a broad spectrum from creative to management to and vision. His passion is for developing talent and then applying talent and best practices for managing and participating in high performing teams. Scott specializes in multi-disciplinary strategic services including innovation, purpose, brand and business strategy. He understands how to reposition, grow, transform and evolve companies and their products while managing high performing clients. Previously Scott served as the key innovator and global director of the Purpose Strategy practice at Landor Associates.\r\n\n\rAbout Good Omen\r\n\nGood Omen provides a unique purpose led approach through leadership, strategy, design, and program management to expand the capabilities of agencies and internal corporate teams. We work independently, collaboratively, and as knowledge leaders. Work includes: the rebranding of a major sports league, a major religious movement, and entry into the Affordable Care Act, and a new technology that brings the enlivens communities through the power of pictures."
+    coachName: Scott Osman
+    jobTitle: CEO Marshall Goldsmith 100 Coaches | Brand Strategist and Executive Coach
+    links:
+      linkedin: scottosman
+    photo: /uploads/scott-osman-headshot-looser_edited-1.jpg
+    tags:
+      - Entrepreneur
+      - Executive Coach
+  - bio: "Alisa is an executive coach who works with senior executives and high potential leaders to help them create positive permanent shifts in their leadership impact and the results they achieve.  In addition to executives in large established companies, she works with Founder/CEOs and executive teams of start-ups to help them improve their leadership, scale the company, and support them in learning key leadership and communication skills. She also leads workshops and speaks on a variety of topics. Her areas of expertise include: Executive Presence; Power, Influence & Charisma; Decision-making; and Corporate Politics.\r\n\nPrior to starting her coaching practice, Alisa was CFO of Clarivergent Technology Partners and head of strategic partnerships at Corporate Alumni. She was a strategy consultant at PricewaterhouseCoopers and The Monitor Group. A CPA, Alisa earned her MBA from Cornell University where she was awarded the Fried Fellowship for Leadership and Academic Excellence. Alisa is known for her high energy and enthusiasm along with her practical, results-oriented approach. She was selected as one of the Top 10 Coaches in Boston by Women’s Business, which called her “absolutely brilliant” and “a super hero.”\r\n\nAlisa is a member of the Cornell Entrepreneurship Advisory Board. She is on the faculty of the “Runway” program at Cornell Tech – an accelerator which focuses on helping post-docs commercialize their research and build companies. She is an angel investor in and advisor to a number of start-ups both in the US and developing countries.\r\n\n\rAlisa is a regular invited lecturer at Harvard University and Cornell University as well as in the Naval War College’s accelerated leadership program. She is a coach for the Linkage Global Institute for Leadership Development and for political leaders from areas of conflict at the Center for Inclusive Security at Harvard University. Alisa a columnist and “Expert” for Worth Magazine and was featured in the book “Reinventing You,” by Dorie Clark. Alisa has been quoted in publications such as the New York Times, the Wall St. Journal, and various other regional and national business publications.\r\n\n\rAlisa has a passionate interest in health, wellness and fitness and has a particular love for running and cycling, especially when combined with scenic travel. She is a fearless cook of ethnic food. She loves all sorts of culture, especially music and theater, and will occasionally burst into song without warning.\r\n\n\rLocated in New York City, Alisa’s current and former clients include: Venmo, Foursquare, Timehop, Bloomberg LLP, Dell, Hitachi Data Systems, Tory Burch, Pfizer, Johnson & Johnson, Novartis, Taro Pharmaceuticals, Association of British Pharmaceuticals Industry (ABPI) , Fidelity, Standard Chartered Bank, Citibank, UBS, SilverLake, KPMG, PricewaterhouseCoopers, Sony Music, Harvard University, and The New York Times Company."
+    coachName: Alisa Cohn
+    jobTitle: NYC Executive Coach for CEOs & Founders
+    links:
+      linkedin: alisacohn
+    photo: /uploads/alisa-cohn.jpg
+    tags:
+      - Executive Coach
+      - Entrepreneur
       - Speaker
   - bio: >-
       Alexander Osterwalder is an entrepreneur, speaker and business model
@@ -250,191 +455,6 @@ coachList:
       - Author
       - Consultant
       - Entrepreneur
-      - Speaker
-      - Thinker
-  - bio: "MARTIN LINDSTROM is the founder and chairman of Lindstrom Company – the world’s leading brand & culture transformation group. TIME Magazine has selected Martin as one of the “World’s 100 Most Influential People”, and ranks #36 among the world’s top business thinkers according to Thinkers50. Since 2013 and over four consecutive years 30,000 marketers have selected him as the world’s #1 branding expert.\r\n\n\rMartin is the author of seven bestselling books including his latest New York Times, Wall Street Journal and USA Today bestsellers: Small Data – The Tiny Clues That Uncover Huge Trends (St. Martins) and Buyology – Truth and Lies About Why We Buy (Crown)\r\n\n\rLindstrom Company is today responsible for brand and culture transformations of numerous Fortune 500 companies, including the LEGO Company, Standard Chartered Bank, SWISS International Air Lines, PepsiCo, Red Bull, Estee Lauder Companies, Cargill, Nestlé International, The Walt Disney Company, Swiss Post, the Dorchester Collection, 3G group (Burger King International), Carrefour, Lowes, Majid Al Futtaim and GlaxoSmithKline.\r\n\n\rOver the years Martin and his team has developed an unorthodox way of doing what every company says it wants to do: understand its customers deepest desires and turn them into breakthrough products, brands, services or retail experiences. He is by Forbes recognized as one of the world’s leading brand and culture experts, having pioneered the introduction of brands on the Internet (1994), the innovation of Clicks & Mortar (1997), drawing parallels between religion and how brands are to be built in the future (2000), using our five senses in branding (2004), coining the term: NeuroMarketing (2007), exploring the next generation of word-of-mouth communication (2011) and just recently introduced the term “Small Data” (2016) representing the counter balance to Big Data.\r\n\n\rDue to his work, Lindstrom often features in the Wall Street Journal, the New York Times, Bloomberg BusinessWeek, the Washington Post, USA Today, The Economist, Harvard Business Review, The Independent, The Guardian, and Der Spiegel. He regularly appears on ABC, CNN, CBS, FOX, and the BBC.\r\n\n\rSmall Data was voted one of the top business books of 2016 and 2017 by Fortune, INC magazine and Forbes a must read and awarded the #1 Business book of 2017 by Business + Strategy. Buyology was voted “pick of the year” by USA Today, and it appeared on ten of the Top 10 bestseller lists in the U.S. and worldwide. His book BRANDsense was acclaimed by the Wall Street Journal as “…one of the five best marketing books ever published.” His six books on branding have been translated into more than 50 languages and published in more than 70 countries worldwide.\r\n\n\rLindstrom is a regular contributor to Fast Company, TIME Magazine, and NBC’s TODAY Show with his popular “Main Street Makeover” TV series.\r\n\n\rVisit MartinLindstrom.com for more…"
-    coachName: Martin Lindstrom
-    jobTitle: Branding Expert & Consultant
-    links:
-      linkedin: lindstromcompany
-    photo: /uploads/Martin-lindsrom.jpg
-    tags:
-      - Author
-      - Consultant
-      - Entrepreneur
-      - Speaker
-      - Thinker
-  - bio: >-
-      Recognized as one of the 50 leading business thinkers in the world by
-      Thinkers50, and a Top Influencer on Linkedin, Whitney Johnson is an expert
-      on disruptive innovation and personal disruption; specifically, a
-      framework which she codified in the critically-acclaimed book Disrupt
-      Yourself: Putting the Power of Disruptive Innovation to Work and builds
-      upon in Build an A Team. She developed her proprietary framework and
-      diagnostics after having co-founded the Disruptive Innovation Fund with
-      Harvard Business School’s Clayton Christensen. This framework is
-      complemented by a deep understanding of how executives, teams, and
-      organizations create and destroy value, having spent nearly a decade as an
-      Institutional Investor-ranked equity analyst on Wall Street. Whitney works
-      with organizations of all sizes to optimize their human capital; helping
-      them understand and utilize the Learning Curve, offering insight into how
-      leaders must work together to leverage the talent and leadership of their
-      company.
-
-
-      ### Professional / Coaching Experience:
-
-
-      * Thinkers 50, Leading Business Thinker Globally
-
-      * Finalist for Top Thinker on Talent, Thinkers 50, 2015
-
-      * Host, Disrupt Yourself Podcast; guests include Susan Cain, author of
-      bestseller Quiet, Patrick Pichette, former CFO of Google
-
-      * Coach C-Suite executives across a variety of industries and companies,
-      from start-ups to P&Ls of $10bn+
-
-      * Coach for Harvard Business School Executive Education
-
-      * Top 100 Best Coaches Award – World HRD Congress (India)
-
-      * Harvard Medical School Institute of Coaching – Member
-
-      * Master Certified Coach – Marshall Goldsmith’s Stakeholder-Centered
-      Coaching
-
-
-      ### Experience
-
-
-      * Co-founded with Clayton Christensen: Rose Park Advisors – Disruptive
-      Innovation Fund
-
-      * Former Institutional Investor-ranked sell-side analyst on Wall Street
-
-      * Author, Disrupt Yourself: Putting the Power of Disruptive Innovation to
-      Work
-
-      * Keynote speaker on innovation, having delivered speeches to audiences of
-      over 50,000
-
-      * Regular contributor to Harvard Business Review; article, “Disrupt
-      Yourself,” was included in publication from HBR on Leading Change,
-      featuring Clayton Christensen, John Kotter, among others.
-
-      * Board Member, Business Innovation Factory
-
-      * Advisory Board Member, Chatbooks
-
-
-      > _Playing it safe is not safe in today’s fast-paced marketplace. Disrupt
-      Yourself is a must-read for anyone looking to stand out from the crowd and
-      pursue innovation in our highly uncertain business climate._
-
-      >
-
-      > _—Eric Ries, bestselling author of The Lean Start-up_
-    coachName: Whitney Johnson
-    jobTitle: 'Innovation and disruption theorist, speaker, author, executive coach'
-    links:
-      linkedin: whitneyjohnson
-      twitter: johnsonwhitney
-      website: ''
-    photo: /uploads/whitney-johnson.jpg
-    tags:
-      - Author
-      - Consultant
-      - Entrepreneur
-      - Executive Coach
-      - Speaker
-      - Thinker
-  - bio: "Aicha S. Evans is corporate vice president and general manager of the Communications and Devices Group at Intel Corporation. She is responsible for driving wireless engineering for multi-comm products and Intel platforms, including modems, RF, Wi-Fi, GPS, Bluetooth, NFC, FM, LTE, WLAN/WWAN as well as emerging wireless technologies to lead this industry going forward.\r\n\n\rPreviously Evans was the general manager of the Wireless Platform Research and Development Group where managed the engineering, software, hardware, strategic planning, and product test teams responsible for providing wireless connectivity ingredients and solutions for all Intel platforms.\r\n\n\rEvans joined Intel in 2006 as a software integration and test manager. She held a number of management positions responsible for Intel’s wireless efforts including software engineering and support for customers deploying WiMAX networks in multiple geographies. Additionally, she worked in Israel managing WiFi engineering and product lines. Prior to Intel, Evans spent 10 years in various engineering management positions at Rockwell Semiconductors, Conexant and Skyworks.\r\n\n\rEvans received a bachelor’s degree in computer engineering from The George Washington University in 1996."
-    coachName: Aicha Evans
-    jobTitle: 'Senior Vice President and Chief Strategy Officer, Intel Corporation'
-    links:
-      linkedin: aicha-evans-4365731
-    photo: /uploads/aicha-evans.jpg
-    tags:
-      - Corporate Executive
-      - Speaker
-  - bio: >-
-      Jim Citrin is one of the world’s most prolific executive search
-      consultants and experts on leadership, governance, and career success. In
-      his 25 years at Spencer Stuart, where he leads the firm’s CEO Practice, he
-      has completed more than 700 searches for CEOs, Board Directors and other
-      top executives for some of the world’s leading corporations and
-      not-for-profit institutions.
-
-
-      A LinkedIn Influencer with one million followers, Jim is a best-selling
-      author of 7 books, including You’re in Charge, Now What? and The Career
-      Playbook.
-    coachName: Jim Citrin
-    jobTitle: 'Leader, CEO Practice at Spencer Stuart and Author'
-    links:
-      linkedin: james-citrin-57a06758
-    photo: /uploads/jim-citrin.jpg
-    tags:
-      - Author
-      - Corporate Executive
-      - Speaker
-  - bio: "Alisa is an executive coach who works with senior executives and high potential leaders to help them create positive permanent shifts in their leadership impact and the results they achieve.  In addition to executives in large established companies, she works with Founder/CEOs and executive teams of start-ups to help them improve their leadership, scale the company, and support them in learning key leadership and communication skills. She also leads workshops and speaks on a variety of topics. Her areas of expertise include: Executive Presence; Power, Influence & Charisma; Decision-making; and Corporate Politics.\r\n\nPrior to starting her coaching practice, Alisa was CFO of Clarivergent Technology Partners and head of strategic partnerships at Corporate Alumni. She was a strategy consultant at PricewaterhouseCoopers and The Monitor Group. A CPA, Alisa earned her MBA from Cornell University where she was awarded the Fried Fellowship for Leadership and Academic Excellence. Alisa is known for her high energy and enthusiasm along with her practical, results-oriented approach. She was selected as one of the Top 10 Coaches in Boston by Women’s Business, which called her “absolutely brilliant” and “a super hero.”\r\n\nAlisa is a member of the Cornell Entrepreneurship Advisory Board. She is on the faculty of the “Runway” program at Cornell Tech – an accelerator which focuses on helping post-docs commercialize their research and build companies. She is an angel investor in and advisor to a number of start-ups both in the US and developing countries.\r\n\n\rAlisa is a regular invited lecturer at Harvard University and Cornell University as well as in the Naval War College’s accelerated leadership program. She is a coach for the Linkage Global Institute for Leadership Development and for political leaders from areas of conflict at the Center for Inclusive Security at Harvard University. Alisa a columnist and “Expert” for Worth Magazine and was featured in the book “Reinventing You,” by Dorie Clark. Alisa has been quoted in publications such as the New York Times, the Wall St. Journal, and various other regional and national business publications.\r\n\n\rAlisa has a passionate interest in health, wellness and fitness and has a particular love for running and cycling, especially when combined with scenic travel. She is a fearless cook of ethnic food. She loves all sorts of culture, especially music and theater, and will occasionally burst into song without warning.\r\n\n\rLocated in New York City, Alisa’s current and former clients include: Venmo, Foursquare, Timehop, Bloomberg LLP, Dell, Hitachi Data Systems, Tory Burch, Pfizer, Johnson & Johnson, Novartis, Taro Pharmaceuticals, Association of British Pharmaceuticals Industry (ABPI) , Fidelity, Standard Chartered Bank, Citibank, UBS, SilverLake, KPMG, PricewaterhouseCoopers, Sony Music, Harvard University, and The New York Times Company."
-    coachName: Alisa Cohn
-    jobTitle: NYC Executive Coach for CEOs & Founders
-    links:
-      linkedin: alisacohn
-    photo: /uploads/alisa-cohn.jpg
-    tags:
-      - Executive Coach
-      - Entrepreneur
-      - Speaker
-  - bio: "Director\r\n\nNorth America Regional Lead – Citi Learning – Leadership, Executive and Professional Development/Global Business Relationship Management \r\n\n\rCoaching and developing teams has been a thread throughout Laine’s career. As she worked in business roles and later within the Compensation areas of Human Resources, it was her work leading teams that has been the cornerstone of her career. After spending 20 years working in these diverse roles, Laine decided to parlay her passion for coaching and developing people into her formal role. In her current role since 2012, Laine is the Director of Leadership, Executive and Professional Development for North America at Citi where she also has responsibility for Global Business Relationship Management.\r\n\n\rWith Citi since 1991, Laine has seen the organization change dramatically. Laine has enjoyed supporting Citi’s senior leaders by serving as a Coach and Faculty for Citi’s Senior Leadership Program.\r\n\n\rLaine has also taught on an adjunct basis at NYU’s School of Professional Studies.\r\n\n\rLaine holds an M.B.A. in Human Resources Management from the Zicklin School of Business – Baruch College and a B.A. in Psychology from the University of Connecticut.\r\n\n\rlinkedin.com/in/lainejoelsoncohen"
-    coachName: Laine Joelson Cohen
-    jobTitle: 'Citi Leadership & Executive Development , Executive Coach, and Speaker'
-    links:
-      linkedin: lainejoelsoncohen
-    photo: /uploads/laine-cohen-gmstudios.jpg
-    tags:
-      - Corporate Executive
-      - Executive Coach
-  - bio: "Scott Osman is a thought leader in the area of purpose strategy. Scott is rare in his combination of multi-disciplinary talents that span a broad spectrum from creative to management to and vision. His passion is for developing talent and then applying talent and best practices for managing and participating in high performing teams. Scott specializes in multi-disciplinary strategic services including innovation, purpose, brand and business strategy. He understands how to reposition, grow, transform and evolve companies and their products while managing high performing clients. Previously Scott served as the key innovator and global director of the Purpose Strategy practice at Landor Associates.\r\n\n\rAbout Good Omen\r\n\nGood Omen provides a unique purpose led approach through leadership, strategy, design, and program management to expand the capabilities of agencies and internal corporate teams. We work independently, collaboratively, and as knowledge leaders. Work includes: the rebranding of a major sports league, a major religious movement, and entry into the Affordable Care Act, and a new technology that brings the enlivens communities through the power of pictures."
-    coachName: Scott Osman
-    jobTitle: CEO Marshall Goldsmith 100 Coaches | Brand Strategist and Executive Coach
-    links:
-      linkedin: scottosman
-    photo: /uploads/scott-osman-headshot-looser_edited-1.jpg
-    tags:
-      - Entrepreneur
-      - Executive Coach
-  - bio: "Tasha Eurich is an organizational psychologist, researcher, and New York Times best-selling author. As Principal of the Eurich Group, she has built a reputation as a fresh, modern voice in the business world by pairing her scientific grounding in human behavior with a practical approach to improvement. Over her 15-plus-year career, she’s helped thousands of professionals—from Fortune 500 executives to early stage entrepreneurs—improve their self-awareness and success.\r\n\n\rWith a PhD in Industrial-Organizational Psychology and BAs in Theater and Psychology, Dr. Eurich has contributed to The Guardian, Entrepreneur, The Huffington Post, TED.com and CNBC.com, and has been featured in outlets like Business Insider, Fortune, Forbes, The New York Times, Fast Company, and New York Magazine. She has been named a “Top 100 Thought Leader” by Trust Across America, a “Leader to Watch” by the American Management Association, and one of Denver Business Journal’s “40 Under 40.” Her TEDxMileHigh talk has been viewed more than one million times.\r\n\n\rDr. Eurich’s first book, Bankable Leadership, debuted on the New York Times best-seller list. Her latest book, INSIGHT, delves into the connection between our self-awareness—what she calls the meta-skill of the twenty-first century—and performance and success, both in and out of the workplace. Hailed as a “bold, exhilarating take on self-improvement” by Success Magazine and a “fascinating read” by The Guardian, INSIGHT was recently named an Editor’s Choice by 800-CEO-READ."
-    coachName: Tasha Eurich
-    jobTitle: Organizational Psychologist
-    links:
-      facebook: TashaEurich
-      linkedin: tashaeurich
-      twitter: tashaeurich
-      website: www.psychologytoday.com/us/experts/tasha-eurich-phd
-    photo: /uploads/tasha-eurich.jpg
-    tags:
-      - Author
-      - Consultant
-      - Executive Coach
-      - Speaker
-      - Thinker
-  - bio: "PETER BREGMAN is the CEO of Bregman Partners, which helps people and organizations get massive traction on what they care about most. Peter has advised CEOs and senior leaders in many of the world’s premier organizations, including Allianz, American Express, Pearson, Brunswick Group, Goldman Sachs, Morgan Stanley, Deutsche Bank, JPMorgan Chase, FEI, GE Capital, Merck, Clear Channel, Nike, UNICEF, and many others.\r\n\n\rHe is the host of the Bregman Leadership Podcast, short conversations with thought leaders focused on ideas that people can use to become more powerful and courageous leaders, and the author of three books:\r\n\n\rFour Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work, a New York Post top pick for your career in 2015.\r\n\nThe Wall Street Journal bestseller 18 Minutes: Find Your Focus, Master Distraction, and Getthe Right Things Done, winner of the Gold medal from the Axiom Business Book awards, named the best business book of the year on NPR, and selected by Publisher’s Weekly and the New York Post as a top 10 business book. \r\n\nPoint B: A Short Guide to Leading a Big Change.\r\n\nPeter has also contributed to five other books. Featured on PBS, ABC and CNN, Peter is a regular contributor to Harvard Business Review, Psychology Today, and Forbes, and his articles and commentary have appeared frequently in Bloomberg BusinessWeek, Fast Company, The Financial Times, CNN, NPR, and FOX Business News.\r\n\n\rPeter earned his B.A. from Princeton University and his M.B.A. from Columbia University. He can be reached at pbregman@bregmanpartners.com."
-    coachName: Peter Bregman
-    jobTitle: 'Author, Speaker, CEO at Bregman Partners, Inc.'
-    links:
-      facebook: PeterBregmanAdvisor
-      linkedin: peterbregman
-      twitter: peterbregman
-      website: bregmanpartners.com/articles/
-    photo: /uploads/peter-bregman.jpg
-    tags:
-      - Author
-      - Consultant
-      - Executive Coach
       - Speaker
       - Thinker
   - bio: "Bonita Thompson is the creator of the “What’s Next?” Game, a coaching process that helps players walk through what is important to them and then apply those key motivators toward what’s coming up next. The “What’s Next?” Game helps players make their values, their priorities in a fun playful way.\r\n\n\rBonita has been a leading innovator in HR for over 25 years for several major international corporations including: Bank of America, Genentech, Levi Strauss, Pacific Telesis, Varian and Catellus.\r\n\n\rShe is a New York Times bestselling author of ADMIRED: 21 Ways to Double Your Value. She lectures globally and has taught leadership and management courses at John F. Kennedy University and The Institute of Coaching.\r\n\n\rBonita earned an MBA at the University of California Berkeley’s Haas School of Business, and a BA in Industrial Psychology from San Jose State University. She also holds an Honorary PhD from Mount Mary College.\r\n\n\rBonita is passionate about education and making learning useful and engaging. She is co-creator of Storybook Math, an innovative way of teaching foundational math making it playful and fun. She has also created curriculum aimed at making learning engaging called Create, Build, Solve."
@@ -711,15 +731,6 @@ coachList:
     photo: /uploads/anu-oza.jpg
     tags:
       - Executive Coach
-  - bio: "Bernard (Bernie) Banks is a noted expert on the subjects of leadership and organizational change. Currently, he is the Associate Dean for Leadership Development and a Clinical Professor of Management at Northwestern University’s Kellogg School of Management. As an Associate Dean, Bernie possesses responsibility for leader development integration across the school’s global portfolio of programs.\r\n\n\rBernie retired from the Army as a Brigadier General in 2016 after having successfully led West Point’s Department of Behavioral Sciences & Leadership from 2012-2016. In addition to having studied leadership extensively, he has led multiple military units ranging in size from 10 to 500 people. In 1995, Bernie was selected from over 40,000 officers to receive the Army’s top award for entry-level managers (General Douglas MacArthur Leadership Award). In 2006, the Apache Helicopter unit he was leading in South Korea was designated as the top Apache Helicopter unit globally in the U.S. Army’s annual best aviation unit competition.\r\n\n\rA West Point graduate, Bernie is broadly educated. He holds graduates degrees from Northwestern, Columbia, and Harvard Universities. Additionally, he earned his Ph.D. in social-organizational psychology from Columbia University. Bernie’s work has been published in a variety of outlets (e.g., Harvard Business Review, Military Psychology, New York Times). Furthermore, he has worked extensively with organizations across all sectors concerning their leader development efforts (e.g., Procter and Gamble, Mercedes Benz, General Electric, IBM, 7-Eleven, The US Forest Service, International Chiefs of Police).\r\n\n\rAn active member of several civic and professional organizations (e.g., The Chicago Club, Harvard Club of NYC, Community Solutions of NYC, USO of Illinois, West Point Society of Chicago), Bernie is deeply invested in his community.\r\n\n\rAreas of Expertise\r\n\n\rLeader Development\r\n\nOrganizational Change\r\n\nOrganizational Culture"
-    coachName: Bernard Banks
-    jobTitle: Associate Dean for Leadership Development & Clinical Prof. of Management
-    links:
-      linkedin: bernard-banks-ph-d-4458003
-    photo: /uploads/bernard-banks.jpg
-    tags:
-      - Executive Coach
-      - Non-Profit
   - bio: "Dr. Beverly Kaye, Founder of Career Systems International, is recognized internationally as one of the most knowledgeable and practical professionals in the areas of career development, employee engagement and retention. She received the Distinguished Contribution Award from ATD and the Thought Leader Award from The Association of Learning Providers (ISA).\r\n\n\rBeverly has spent years researching corporate strategies for developing, retaining and engaging knowledge workers. Her bestselling book, Love ‘Em or Lose ‘Em: Getting Good People to Stay, co-authored with Sharon Jordan-Evans, has sold over 750,000 copies in 25 languages. Help Them Grow or Watch Them Go: Career Conversations Employees Want, co-authored with Julie Winkle Giulioni, was published in 2012. In 2015 she co-authored Hello Stay Interviews, Goodbye Talent Loss: A Manager’s Playbook and her newest book, Up Is Not the Only Way:  Rethinking Career Mobility, was published in September 2017."
     coachName: Beverly Kaye
     jobTitle: Author - Speaker - Thought Leader
@@ -800,15 +811,6 @@ coachList:
     photo: /uploads/atchara-juicharern.jpg
     tags:
       - Author
-      - Executive Coach
-      - Speaker
-  - bio: "Carol Kauffman Founder of the Institute of Coaching and on the faculty of Harvard Medical School.\r\n\n\rCarol is a leadership coach with over 20 years experience helping leaders raise the bar on their performance and managing their success. She is most interested in high stakes coaching where managing leadership impact is crucial and it is necessary to intervene quickly. She has focused on these issues with young high potential leaders to the CEO/Chairs of the Board at Fortune 50 companies.\r\n\n\rShe is a leader herself: An Assistant Professor at Harvard Medical School she founded the Institute of Coaching, a community of 18,000, launched the Coaching in Leadership and Healthcare Conference at Harvard, The Institute of Coaching Leadership Forum and has chaired numerous conference. In addition she was Founding Editor in Chief of the first journal in Coaching with a major publishing house. In 2009 her work and entrepreneurial spirit were commemorated with a $2,000,000 gift to begin the Institute of Coaching.\r\n\n\rDr. Kauffman has extensive coaching experience with over 40,000 hours of client contact. She works with multi-national organizations either in the C-Suite or in tandem with large-scale leadership development programs. A sampling of recent clients includes: Ahold, Astra Zeneca, BCG, BUPA, Bombardier, BCG, Harvard Medical School, Hospital Corporation of America, Lloyds, Linklaters, McKinsey, Norton Rose, Owens-Illinois, Tubelines, State Street Bank, Unilever, Vanderbilt University and Wellington."
-    coachName: Carol Kauffman
-    jobTitle: 'President: Coaching Psych; Harvard Faculty, Founder, Institute of Coaching'
-    links:
-      linkedin: carol-kauffman-phd-pcc-b07ab01
-    photo: /uploads/carol-kauffman.jpg
-    tags:
       - Executive Coach
       - Speaker
   - bio: "Caroline Santiago is an Executive Coach, Change Agent, Technologist and Culture Strategist. She is the Founder and CEO of Utopia Life Consulting Inc., a San Diego based consultancy specializing in designing and executing leadership development, human capital, and large-scale technology change management programs.   \r\n\n\rIndividually, Caroline helps senior leaders accelerate their personal growth, shift to a strategic mindset, practice agility, and adaptability while leading and managing their organization’s rapid technological advancements, workforce enablement plans, and expeditious organizational growth.\n\nOrganizationally, Caroline helps senior leaders and their teams elevate their organizational performance and effectiveness by focusing on several key areas of their business: Leadership Development, Strategic Alignment, Organizational Design, Organizational Change Management, and Strategic Workforce Enablement. She partners with senior leaders and their teams to help them obtain clarity, stakeholder buy in and strategic alignment when executing and operationalizing their mission, vision, and corporate strategy.\r\n\n\rPrior to launching Utopia Life Consulting Inc., Caroline held leadership positions at Arthur Andersen, KPMG, BearingPoint, and Deloitte Consulting. During her 20-year tenure at the Big 4 Consulting firms she was able to gain invaluable insights and deep expertise in helping senior leaders drive, shape, and powerfully influence their organization’s culture, business, and technology transformations. She has worked with numerous Fortune 500 companies and public-sector clients across multiple segments and industries.\r\n\n\rCaroline holds a BA in International Studies with a minor in Gender and Race Relations from George Mason University. She has a passion for speaking and teaching leadership development to high school and college students. She has travelled the world globally and has spoken to thousands of youth and young adults on “Living Your Life with Passion and Purpose”. She volunteers and serves as a Leadership Consultant for the Hugh O’Brian Youth (HOBY) Leadership Foundation."
@@ -982,7 +984,45 @@ coachList:
     photo: /uploads/darek-lenart.jpg
     tags:
       - Corporate Executive
-  - bio: "David Meltzer is the CEO of Sports 1 Marketing, a firm in which he co- founded with Hall of Fame Quarterback Warren Moon. Sports 1 Marketing is a global marketing agency whose projects include The Super Bowl, The Master’s, and Pro Football Hall of Fame, the Crescent Moon Foundation, and the Unstoppable Foundation.\r\n\n\rDavid has been recognized by Forbes and Entrepreneur as a Top 5 Keynote Speaker, and named 2017 “Game Changer of the year” by ACQ Global Awards. He has also been honored for his philanthropic work as Variety Magazine’s “Sports Humanitarian of the Year” and a recipient of the Ellis Island Medal of Honor\r\n\n\rAs an author, he is the international #1 best-selling author and national best-selling author of Compassionate Capitalism and Connected to Goodness.\r\n\n\rDavid is an executive Producer, and host judge of Entrepreneur Media’s newest original show, Elevator Pitch and the host of newly released podcast, The Playbook, with Entrepreneur—which landed as a Top Five business podcast on iTunes."
+  - bio: >-
+      David Meltzer is the CEO of Sports 1 Marketing, a firm in which he co-
+      founded with Hall of Fame Quarterback Warren Moon. Sports 1 Marketing is a
+      global marketing agency whose projects include The Super Bowl, The
+      Master’s, and Pro Football Hall of Fame, the Crescent Moon Foundation, and
+      the Unstoppable Foundation.
+
+
+      David has been recognized by Forbes and Entrepreneur as a Top 5 Keynote
+      Speaker, and named 2017 “Game Changer of the year” by ACQ Global Awards.
+      He has also been honored for his philanthropic work as Variety Magazine’s
+      “Sports Humanitarian of the Year” and a recipient of the Ellis Island
+      Medal of Honor
+
+
+      As an author, he is the international #1 best-selling author and national
+      best-selling author of Compassionate Capitalism and Connected to Goodness.
+
+
+      David is an executive Producer, and host judge of Entrepreneur Media’s
+      newest original show, Elevator Pitch and the host of newly released
+      podcast, The Playbook, with Entrepreneur—which landed as a Top Five
+      business podcast on iTunes.
+
+
+      * CEO of Sports 1 Marketing, which he co-founded with Hall of Fame
+      quarterback Warren Moon
+
+      * Former CEO of Leigh Steinberg Sports & Entertainment, the world’s most
+      notable sports agency.
+
+      * Former CEO of Samsung and Microsoft's first smartphone the PC-E Phone,
+      manufactured by Samsung
+
+      * Former VP of Thomson Reuters Corporation
+
+      * Named “Sports Humanitarian of the Year” by Variety Magazine
+
+      * Recipient of the Ellis Island Medal of Honor
     coachName: Dave Meltzer
     jobTitle: 'CEO and Co-Founder, Sports 1 Marketing'
     links:
@@ -1000,19 +1040,6 @@ coachList:
     photo: /uploads/david-allen.jpg
     tags:
       - Author
-      - Speaker
-      - Thinker
-  - bio: "As Director of Google’s Center of Expertise, David is responsible for innovative, high-impact approaches to develop Google leaders to meet current and emerging challenges. In addition, he coaches senior leaders, leads strategy for Google’s executive coaching programs, and supports other leadership and organization development initiatives, including leading a team on agile organization design for Google’s future needs.\r\n\n\rDavid is honored to be one of the MG100 coaches and serves as senior advisor on two other ventures:\r\n\n• Institute for Contemporary Leadership, focused on accelerating the development of high-potential leaders and equipping them to deal with disruption, complexity, and transformational change. The Institute provides top leaders with a high-trust peer network, disruptive development experiences, and a personal development advisor/coach to guide their journey. contemporaryleadership.com\r\n\n• 7 Paths Forward challenges highly-experienced executive coaches to raise their game and prepare for the changing competitive landscape by developing new mindsets and advanced coaching capabilities, as well as participating in catalytic experiences with a dynamic learning community of great coaches and professional colleagues. 7pathsforward.com\r\n\n\rBefore joining Google in 2011, David served as leader of world-wide coaching services for PDI Ninth House (now Korn Ferry). In addition to coaching top leaders at Salesforce, Sandisk, Microsoft, Hewlett-Packard, Target, Wal-Mart, Shell, Genentech, American Express, Mayo Clinic, Harvard, and Stanford University, he provided consultation and thought leadership on how to design and manage organizational coaching programs, how to develop high potential leaders and critical talent, and how to accelerate learning and leadership development at all levels.\r\n\n\rDavid has published dozens of articles and chapters on coaching, is co-author of Development FIRST:  Strategies for Self-Development and Leader as Coach, with over a million copies in print, and co-editor of the Handbook of the Psychology of Coaching and Mentoring.\r\n\n\rHe earned his PhD in Counseling and Industrial/Organizational Psychology at the University of Minnesota. He is a Fellow of the American Psychological Association, the Society of Consulting Psychology, the Society for Industrial and Organizational Psychology (SIOP), and the Harvard Institute of Coaching. His awards include the RHR International Award for Excellence in Consultation (Society of Consulting Psychology), the Outstanding Achievement Award (California Psychological Association), and the Vision of Excellence Award (Harvard Institute of Coaching).\r\n\n\rVikki Brock’s history of coaching (2008, 2012) names David as one of the primary influencers in the field, both for his early influence on the emergence of executive coaching and for continuing to shape the field “on the cutting edge of the profession, doing and saying surprising and thought-provoking things.”\r\n\n\rDavid lives in San Francisco with his wife, Alexis Shoemate, and two adorable Tibetan Terriers named Pinot and Cab."
-    coachName: 'David B. Peterson, PHD'
-    jobTitle: 'Director, Center of Expertise, Leadership Development & Executive Coaching'
-    links:
-      linkedin: david-b-peterson
-    photo: /uploads/david-peterson.jpg
-    tags:
-      - Author
-      - Consultant
-      - Corporate Executive
-      - Executive Coach
       - Speaker
       - Thinker
   - bio: "David Burkus is a best-selling author, a sought after speaker, and business school professor. In 2017, he was named as one of the world’s top business thought leaders by Thinkes50\r\n\n\rHis forthcoming book, Friend of a Friend, offers readers a new perspective on how to grow their networks and build key connections—one based on the science of human behavior, not rote networking advice. He is also the author of Under New Management and The Myths of Creativity. David is a regular contributor to Harvard Business Review and his work has been featured in Fast Company, the Financial Times, Inc magazine, Bloomberg BusinessWeek, and CBS This Morning.\r\n\n\rDavid’s innovative views on leadership have earned him invitations to speak to leaders from a variety of organizations. He’s delivered keynote speeches and workshops for Fortune 500 companies such as Microsoft, Google, and Stryker and governmental and military leaders at the U.S. Naval Academy and Naval Postgraduate School. His TED talk has been viewed over 1.5 million times.\r\n\n\rWhen he’s not speaking or writing, David is in the classroom. He is associate professor of leadership and innovation at Oral Roberts University where he was recently named one of the nation’s “Top 40 Under 40 Professors Who Inspire.”\r\n\n\rDavid lives outside of Tulsa with his wife and their two boys."
@@ -1150,11 +1177,73 @@ coachList:
       - Speaker
   - bio: "Donnie is the founder and CEO of London Business Growth, a business coaching and mentoring firm based in London UK and is also partnered with the worlds number one business coaching firm ActionCOACH who coach small to medium enterprises in over 60 countries.\r\n\n\rDonnie’s core purpose is to help business owners and entrepreneurs create better results in their lives through: better use of their time, developing growth strategies, leveraged systemisation of the business operation and developing winning teams.\r\n\n\rAs an award winning business coach, he has added substantial value to his clients’ businesses both in increased revenue and decreased costs using the latest management, technological and motivational techniques obtained through his past experiences spanning several large corporates, running his own and selling businesses, and his overall passion for continuous education and growth.\r\n\n\rHis clients often achieve double and triple digit growth accomplished through improvements in strategic planning, sales & marketing, collaborative team work, systems and process development and driving the right culture across the business which not only supports but also sustains such growth whilst enhancing the customer experience, the brand and value of the business.\r\n\n\rDonnie is a natural people person and someone who easily builds strong relationships in understanding and valuing cultural differences that make each one of us unique. He understands both the bird’s eye view through to the actual plans that deliver real solutions to business problems. He has a natural ability to align others to be part of the overall journey and has a strong desire to help others to reach their true potential.\r\n\n\rHe has a passion for emerging technologies and education, having received a BSc (Hons) in Business Computing from City University, London in 1999 and MSc in Information Management from Brunel University, London in 2002. He is also a Member & Chartered IT Professional with the British Computer Society, a certified Master Practitioner in Business Neuro-Linguistic Programming (NLP) endorsed by the Society of NLP, a practitioner in Emotional Freedom Technique, Prince 2, ITIL v2/v3, Six Sigma, Lean Sigma and DISC psychometric profiling. In his spare time, he is known to be helping people in his local community and his overall passion is traveling where he aims to visit at least one new country each year."
     coachName: Donnie Dhillon
-    jobTitle: Best Client Results London
-    photo: /uploads/Donnie-Dhillon.jpg
+    jobTitle: Executive Leadership and Business Results Coach
+    photo: /uploads/donnie-dhillon-april-2019.jpg
     tags:
       - Executive Coach
-  - bio: "Beginning at Age 14, Doug embarked on his first entrepreneurial experience selling holiday greeting cards door‐to-door. Over 30 years later he has built several of his own multi-million dollar companies, sold a couple of them, and now teaches business owners how to do the same, as he owns and operates the most successful business coaching franchise firm in the world!\r\n\n\rBecause of both experience and a never-ending thirst for education, Doug understand the challenges, pressures, and pleasures associated with being an executive and business owner.\r\n\n\rDoug is also an avid private pilot and enjoys travelling, having explored over 30 countries.\r\n\n\rActionCOACH Executive Coach\r\\\nwww.actioncoach.com/dougwinnie\r\\\nwww.BusinessAsATool.com"
+  - bio: >-
+      Raised by entrepreneurs in a western suburb of Detroit, Doug learned about
+      the fun and frequent challenges of owning a business at an early age. 
+      Doug’s Dad had a painting business, and his Mom had a maid-service
+      business.  Both parents had been very dedicated to build their businesses,
+      however, the challenges for them were overwhelming.  This created a “don’t
+      own a business” belief system which Doug overcame at an early age. 
+
+
+      Due to the family not having much money, Doug at 14, embarked on his first
+      business experience by selling holiday greeting cards door-to-door.  Now,
+      and over the last 30 years the early drive for success led him to become
+      an owner of 9 businesses, an avid instrument-rated private pilot, and an
+      accomplished world traveler, exploring over 35 countries. 
+
+
+      After selling two of his self-built, multi-million dollar businesses Doug
+      began to work as an ActionCOACH Business Coach in 2009.  While teaching
+      from his experience has great value, the greatest value he has provided is
+      the use of the ActionCOACH systems to cause his clients to have massive
+      success.  Doug has received over 30 awards for himself and for his clients
+      all based on the results he has obtained.
+
+
+      Earning the designation PMP (Project Manager Principal) per the
+      requirements of the Project Management Institute has been beneficial in
+      following processes and procedures and all the systems which franchises
+      create.  The ability to “copy-paste”, as Doug likes to refer, is a skill
+      which has helped benefit Doug as a franchisee.   
+
+
+      The designation MG100 is a special recognition of being awarded membership
+      in a very elite, 100-person organization, called the Marshall Goldsmith
+      100 Coaches.  Each member of the organization has been handpicked by
+      Marshall Goldsmith (#1 Thinkers 50, NY Times Best Selling Author,
+      Internationally known speaker, and professional known as the #1 Executive
+      Coach, with clients including the CEO of Ford, CEO of Boeing, President of
+      Google Americas, CEO of Hershey, President & CEO of The World Bank, etc.) 
+      Each member of the MG100 has committed to providing free education and
+      mentorship upon reaching retirement, just as Marshall is providing for the
+      MG100. 
+
+
+      Doug is very passionate about helping the family business owner become
+      more successful.  Doug’s #1 business belief is that “no one should have to
+      live a life of struggle like my parents did.  If they own a business where
+      the market exists, they only need to learn how to work on their business
+      instead of in their business.  The limitations of youth, including
+      poverty, are no match to the education available and opportunity to be
+      successful in a world economy.”  Family businesses are the core foundation
+      of every country in the world – families should have happier lives because
+      of the lifestyle a successful business brings and Doug achieves this
+      through his coaching programs. 
+
+
+      Doug has reached the Million Dollar Coach Level, inducted in to the
+      ActionCOACH Hall of Fame, and has been selected to be the Chairman of the
+      ActionCOACH Foundation. 
+
+
+      Doug’s selection to be the Chairman of the Foundation is based on both his
+      experience as an entrepreneur and because of his passion to help young
+      adults become entrepreneurs, just like himself.
     coachName: Douglas J. Winnie
     jobTitle: 'Speaker, Entrepreneur, Motivator, Guaranteed Results Business Coach'
     links:
@@ -1638,7 +1727,7 @@ coachList:
       - Author
       - Executive Coach
       - Non-Profit
-  - bio: "Mark Parsells is Chairman and CEO of Montpelier Ventures, a management consulting and executive coaching firm. He has senior level management experience in Fortune 20 companies and has run several mid to early stage private equity backed companies. He is a Marshall Goldsmith Stakeholder Certified Coach and is a member of the MG100 Executive Coach group.\r\n\n\rHe has been Chairman and Chief Executive Officer of three private equity backed FinTech companies: Global Debt Registry (MHR); Regulatory Datacorp (Bain Capital/Goldman Sachs) and Fusura (AIG/Prudential).\r\n\n\rMark was President of Citibank Online, the #1 ranked online bank in the US at the time, and ran Citi’s Global Online Banking Technology in 53 countries.\r\n\n\rHe also ran a multi-billion-dollar division at Bank One where he increased profit in his group from $60M to $220M in 24 months. In addition, he was Bank One’s first Chief Privacy Officer.\r\n\n\rAt American Express, he founded the Government Services card acceptance division which grew to more than $1 Billion in charge volume. He concurrently served as the Chief Compliance Officer of the $105B American Express division that managed relationships with merchants that accepted the Card for payments.\r\n\n\rHe has broad experience in running online and highly technical businesses. He has been a successful CEO, President, COO, Chairman, and Corporate Director on more than 20 public, private and non-profit boards. He is a veteran corporate operating manager as well as a start-up and turn-around expert."
+  - bio: "Mark Parsells is Founder and Managing General Partner of Montpelier Ventures where he focuses on advising senior executives on leadership, turn-arounds and M&A transactions.  He has broad experience in successfully running both traditional offline Financial Services companies as well as highly technical FinTech businesses. He has served on more than 20 public, private and non-profit boards. \r\n\nMark was Chairman and Chief Executive Officer of three successful private equity backed FinTech companies: Global Debt Registry (Major Investor – MHR Fund); Regulatory Datacorp (Major investors - Bain Capital/Goldman Sachs – sold to Vista) and Fusura (Major investors - AIG/Prudential – sold to AIG).\r\n\nMark was President of Citibank Online, the #1 ranked online bank in the US and ran Citi’s Global Online Banking Technology group spanning 52 countries. He also served on the Massachusetts Institute of Technology’s (MIT) Sloane School Global eCommerce Board as well as on the Board of Citibank Delaware. Mark’s turn-around of the US online banking business was the subject of a case written by then MIT Sloane School of Management Dean Glen Urban and was included as a chapter in his book, “Digital Marketing Strategy.” Mark has lectured on the case at various business schools including MIT, Harvard Business School and Cornell’s Johnson Graduate School of Business.\r\n\nPrior to Citi, he was General Manager of the Revenue Services division at Bank One where he turned around the performance resulting in increasing profit of the group from $60M to $220M in 24 months. In addition, he was Bank One’s first Chief Privacy Officer and created the Bank One Privacy Council. He also served on the Board of the Bank One Insurance Services Company.\r\n\nAt American Express, he was responsible for influencing the United States Postal Services to accept credit cards for the first time and he founded the Government Services division where he served as General Manager. The division grew to more than $1 Billion in charge volume and was asked by then Chairman and CEO to speak at the American Express Annual Shareholder Meeting. He concurrently was asked to serve as the Chief Compliance Officer of $100+ Billion US Establishment Services division that managed relationships with card accepting merchants.\r\n\nPrior the graduate business school, Mark served as Special Assistant to US Senator H. John Heinz III of Pennsylvania.\r\n\nMark earned a BA at Emory University; an MBA with a focus in Marketing and General Management at Cornell University’s Johnson Graduate School of Management; an MBA from KU Leuven in Belgium with a focus in Economics and Finance and is an alumnus of the Graduate Management Program at Harvard Business School. Mark enjoys lacrosse, tennis, skiing and reading.  Mark, his wife Cathy, and their two children live in Wilmington, Delaware."
     coachName: Mark Parsells
     jobTitle: 'Founder & Managing General Partner, Montpelier Ventures'
     links:
@@ -1647,6 +1736,8 @@ coachList:
     tags:
       - Corporate Executive
       - Executive Coach
+      - Consultants
+      - Entrepreneurs
   - bio: "Mark Tercek is president and CEO of The Nature Conservancy (TNC), the global conservation organization known for its intense focus on collaboration and getting things done for the benefit of people and nature. He is the author of the Washington Post and Publisher’s Weekly bestselling book Nature’s Fortune: How Business and Society Thrive by Investing in Nature.\r\n\n\rGrowing up as a city kid in Cleveland, Mark was a late-bloomer to conservation. It was becoming a parent that sparked his passion for nature. “I want to be able to look my kids in the eye,” he says, “and tell them I did all I could to leave the world a better place.”\r\n\n\rA former managing director and Partner for Goldman Sachs, where he spent 24 years, Mark brings deep business experience to his role leading The Nature Conservancy. He is a champion of the idea of natural capital — valuing nature for its own sake as well as for the services it provides for people, such as clean air and water, productive soils and a stable climate.\r\n\n\rMark’s leadership of TNC has been profiled in The New Yorker, Bloomberg BusinessWeek, the Wall Street Journal and The Atlantic.\r\n\n\rDuring his time at Goldman Sachs, Mark managed several of the firm’s key units, including Corporate Finance, Equity Capital Markets and Pine Street, the firm’s leadership development program. In 2005, after two decades as an investment banker, Mark was tapped to develop the firm’s environmental strategy and to lead its Environmental Markets Group.\r\n\n\rInspired by the opportunity to help businesses, governments and environmental organizations work together in new, innovative ways, Mark left Goldman Sachs in 2008 to head up The Nature Conservancy.\r\n\n\rIn 2012, Mark was appointed by New York Governor Andrew Cuomo to serve on the New York State 2100 Commission, which was created in the wake of Superstorm Sandy to advise the governor and the state on how to make the state’s infrastructure more resilient to future storms. In 2016, Mark was appointed by President Barack Obama to the president’s Advisory Committee for Trade Policy and Negotiations.\r\n\n\rMark is a member of several boards and councils, including Resources for the Future, the Nicholas Institute for Environmental Policy Solutions, Harvard Business School’s Social Enterprise Initiative, and the Science for Nature and People Partnership (SNAPP), TNC’s science joint venture with the Wildlife Conservation Society and the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California, Santa Barbara. Mark serves on the Williams College Board of Trustees and was on the finance faculty of New York University’s Stern School of Business until 2008.\r\n\n\rDrawing on his professional background in the financial sector, Mark also leads TNC’s impact capital initiative and serves as board chair of NatureVest.\r\n\n\rMark earned an M.B.A. from Harvard in 1984 and a B.A. from Williams College in 1979."
     coachName: Mark Tercek
     jobTitle: CEO of The Nature Conservancy and author of Nature's Fortune
@@ -1716,15 +1807,15 @@ coachList:
       Habits system](https://www.lees3habits.com/), which helps motivated people
       build stronger relationships and achieve greater happiness, and the author
       of [The Wisdom of Walk-Ons: 7 Winning Strategies for College, Business and
-      Life](http://www.wisdomofwalk-ons.com/). Paul is a certified leadership
-      coach and a Marshall Goldsmith “100 Coaches” honoree, selected from more
-      than 16,000 candidates to advance the practice of coaching with Dr.
-      Goldsmith, who is recognized as the world’s top leadership coach. During
-      the past 33 years, Paul has transformed himself from a business person
-      into a performance improvement specialist. He previously held a variety of
-      leadership roles in Fortune 500 corporations, a Big 4 accounting and
-      consulting firm, and major research universities. Most importantly, Paul
-      is a husband, parent and friend.
+      Life](https://www.amazon.com/Wisdom-Walk-Ons-Winning-Strategies-Business/dp/1439286442).
+      Paul is a certified leadership coach and a Marshall Goldsmith “100
+      Coaches” honoree, selected from more than 16,000 candidates to advance the
+      practice of coaching with Dr. Goldsmith, who is recognized as the world’s
+      top leadership coach. During the past 33 years, Paul has transformed
+      himself from a business person into a performance improvement specialist.
+      He previously held a variety of leadership roles in Fortune 500
+      corporations, a Big 4 accounting and consulting firm, and major research
+      universities. Most importantly, Paul is a husband, parent and friend.
     coachName: Paul Corona
     jobTitle: Founder of the Lee's 3 Habits system
     links:
@@ -1950,7 +2041,7 @@ coachList:
     jobTitle: Global Executive Coach PCC Leadership & Change Facilitator
     links:
       linkedin: reetanathwani
-    photo: /uploads/Reeta Nathwani.jpg
+    photo: /uploads/reeta-professional-pic-2019.jpg
     tags:
       - Executive Coach
   - bio: "Rob is the CEO and Associate Founder of Singularity University. He brings a unique entrepreneurial and globally-focused approach to growing a non-traditional university as a platform to create a future of abundance where exponential technologies empower us to solve the global grand challenges.\r\n\n\rPrior to Singularity, he co-founded Velocity11 in 1999, building automation equipment and robotics for cancer research and drug discovery. After being acquired by Agilent Technologies in 2007, he traded the CEO role for a General Manager role attempting to be a catalyst for change at a big company. He gave up in 2009 to go surfing, then found his true calling and biggest challenge yet with Singularity University. He was recently a director at Harman (HAR), on technology and audit committees. He helped Harman explore options for long-term growth in a rapidly changing automobile industry, ultimately resulting in ~$8 Billion acquisition by Samsung. As their largest acquisition in history, it brings Samsung directly into the automobile and autonomous car market\r\n\n\rHe is currently on the board of Light&Motion, is a co-founder and director of Alite Designs, is an active angel investor and advisor, and holds degrees in Mechanical, Materials Science and Manufacturing Engineering from UC Davis and Stanford University."
@@ -2045,9 +2136,46 @@ coachList:
       - Consultant
       - Entrepreneur
       - Executive Coach
-  - bio: "Soon Loo is CEO of the Brunei Economic Development Board which is Brunei government’s central statutory body to grow and diversify Brunei’s economy by attracting investment into the nation. Most recently, he was CEO of Darussalam Enterprise, Brunei’s central government agency for developing entrepreneurship for the nation. He was also a founding chairman of Seri Venture Capital, an investment firm that invests in Brunei companies that have ambitions in regional expansion. He represented Brunei in the APEC Business Advisory Council (ABAC) for 2016-2017.\r\n\n\rSoon has been serving on board of directors of public and private companies in Brunei, China, and Singapore — including formerly being the chairman and board member of a publicly listed Asian company that went IPO for US$1.5 billion of market capitalization. Soon was a Regional Vice President for the AXA Group in the Asia-Pacific where he worked on business development and strategy for the regional office that oversaw the AXA Group companies in 11 countries, with a total annual business of US$9.5 billion.\r\n\n\rSoon started his career in technology and co-founded a technology company in Silicon Valley that raised over US$37 million of venture capital. The firm went on to be recognized as a top 20 leading emerging technology company for the Red Herring Magazine’s NDA conference.\r\n\n\rIn his personal capacity, Soon has been an adjunct faculty in universities in the region, including Singapore Management University, Nanyang Technological University, University of Brunei Darussalam, and Universiti Technologi Brunei of which he served on the international advisory panel. He co-founded the Passion Unleashed Talk Series in Singapore that features leaders including minister of state, chairmen of listed companies, celebrities, world’s extreme endurance race athletes, and climbers of Mt Everest.\r\n\n\rSoon was awarded the “Ten Outstanding Young Persons of The World” (TOYP) award 2013-14 organized by Junior Chamber International (JCI). Soon holds an MBA from the Harvard Business School."
+  - bio: >-
+      A serial entrepreneur, Soon is director and board member of public and
+      private companies in Asia Pacific — including formerly being the chairman
+      and board member of a publicly listed Asian company that went IPO for
+      US$1.5 billion of market capitalization. Soon embarks on entrepreneurship
+      development and economic development initiatives in Asia. He is also a
+      founding chairman of Seri Venture Capital. 
+
+
+      He was a council member of APEC Business Advisory Council (ABAC) from 2016
+      to 2017
+
+
+      Soon was a Regional Vice President for the AXA Group in the Asia-Pacific
+      where he worked on business development and strategy for the regional
+      office that oversaw the AXA Group companies in 11 countries, with a total
+      annual business of US$9.5 billion.
+
+
+      Soon started his career in technology and co-founded a technology company
+      in Silicon Valley that raised over US$37 million of venture capital. The
+      firm went on to be recognised as a top 20 leading emerging technology
+      company for the Red Herring Magazine’s NDA conference.
+
+
+      In his personal capacity, Soon has been an adjunct faculty in universities
+      in the region, including Singapore Management University, Nanyang
+      Technological University, University of Brunei Darussalam, and Universiti
+      Technologi Brunei of which he served on the international advisory panel.
+      He co-founded the Passion Unleashed Talk Series in Singapore that features
+      leaders including minister of state, chairmen of listed companies,
+      celebrities, world’s extreme endurance race athletes, and climbers of Mt
+      Everest.
+
+
+      Soon was awarded the “Ten Outstanding Young Persons of The World” (TOYP)
+      award 2013-14 organized by Junior Chamber International (JCI). Soon holds
+      an MBA from the Harvard Business School.
     coachName: Soon Loo
-    jobTitle: Chief Executive Officer Brunei Economic Development Board
+    jobTitle: Board member of public and private companies in Asia Pacific
     links:
       linkedin: soonloo
     photo: /uploads/soon-loo.jpg
@@ -2241,5 +2369,253 @@ coachList:
     photo: /uploads/will-linssen.jpg
     tags:
       - Executive Coach
+  - bio: "Marina Cvetkovic is a trusted C-Suite coach and advisor. She combines strong financial services background with coaching expertise to help companies and executives redefine their processes as well as build a culture of agility and innovation to successfully face disruption in the market. She has been selected as the Winner of the prestigious FinNext Award for her innovative and forward-looking contribution to the financial services industry. Most recently, Marina was the Vice President of Strategy and Chief of Staff to the CEO at Swiss Re (SIX: SREN), the $34B global/largest reinsurance company worldwide where she was charged with strengthening the culture of agile innovation for a 4'000 employee organization. \r\n\n\rMarina is the founder of The Peak Alliance, a NYC based consultancy focused on executive coaching and board advising. She is a trusted board member and advisor, focusing on revolutionizing the boardroom to complement digital transformation in underlying organizations. Marina is a board advisor for Rutgers University, Leading Disruptive Innovation Executive Education Program as well as a board member and strategy committee co-chair at Governance Matters, with a mission to build high-performing boards in NY. She is an ICF certified executive coach and a faculty member in the EQ Coaching Certification program founded by Prof. Daniel Goleman, pioneer of emotional intelligence. Her work has been published by the International Coaching Federation (ICF) and she served on the Panel of Judges for the ICF International Prism Award, with a mission to annually award the company with the highest coaching standards in the world.\r\n\nMarina is a Forbes Council Member and her contributions are focused on the boardroom of the future topics.  She is a TEDx speaker as well as the founder of a highly influential TEDx platform for TED-like ideas worth spreading in NYC. Marina is a sought-after keynote speaker on board effectiveness, disruptive leadership and digital transformation. \r\n\nMarina gives back generously by advising boards of not-for-profit organizations. She is a global citizen currently living in NYC and speaks Serbian, English, German, Italian and Spanish."
+    coachName: Marina Cvetkovic
+    jobTitle: Board Advisor and Boardroom Futurist | C-Suite Coach | TEDx Speaker
+    links:
+      linkedin: marinacvetkovic
+      website: www.thepeakalliance.com
+    photo: /uploads/_dsc9262-copy.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+      - Corporate Executive
+  - bio: >-
+      Shoma is a high-performance coach and advisor to C-Suite executives and
+      boards in public and PE-owned companies. Currently, she is an Expert
+      Principal at ghSMART, a firm that brings analytical rigor and data driven
+      approaches to help leaders and their teams build valuable organizations.
+      She is a member of Marshall Goldsmith’s 100 Coaches initiative, a group
+      that shares her belief that leadership is a powerful lever for positive
+      change.
+
+
+      Prior to ghSMART, she co-headed the senior leadership development function
+      at Goldman Sachs (Pine Street), where she focused on advising and coaching
+      the firm’s partners and managing directors on personal and team
+      development. She also architected a number of signature leadership
+      acceleration initiatives for high potential managing directors, senior
+      women leaders, and high-producing traders. Previously, Shoma was a
+      management consultant at Deloitte Consulting’s Strategy & Operations
+      practice and has roles at the Federal Reserve Bank and the United
+      Nations. 
+
+
+      She has contributed to a number of publications including Harvard Business
+      Review, Chief Executive magazine, Forbes, Leader to Leader Journal, and
+      The Handbook of Teaching Leadership.  
+
+
+      Shoma earned a BA from Northwestern University in economics and math, an
+      MBA from Columbia Business School, and an MA in International Affairs from
+      Columbia University. She has completed coaching certifications from
+      UC-Berkeley Executive Coaching Institute, The Neuroleadership Institute,
+      and the College of Executive Coaching. She is also a trauma counselor with
+      a certificate in Group Interpersonal Psychotherapy from Columbia
+      University’s Global Mental Health Program. She lives in New York with her
+      husband Richard, where she is actively involved in refugee and
+      resettlement efforts in New York and in her native country of Burma.
+    coachName: Shoma Chatterjee Hayden
+    jobTitle: Leadership Development Expert
+    links:
+      linkedin: shoma-hayden-2b308a2
+      website: 'https://ghsmart.com/shoma-chatterjee-hayden/'
+    photo: >-
+      https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/shomachatterjee_highres-shoma-chatterjee-hayden.jpg
+    tags:
+      - Executive Coaches
+      - Consultants
+  - bio: >-
+      Howard Jacobson, PhD is co-founder and Chief of Behavioral Science at
+      WellStart Health, a digital therapeutics platform and care team dedicated
+      to putting chronic disease out of business. Howard is also co-founder of
+      the WellStart Health Coaching Academy, where he trains wellness coaches to
+      guide their clients to dramatic health improvements. 
+
+
+      He is the  co-author of Sick to Fit, with Josh LaJaunie, and contributing
+      author to Whole, by T. Colin Campbell, PhD, and Proteinaholic, by Garth
+      Davis, MD. He’s also co-author, with Peter Bregman, of the “Coaching for
+      Performance” chapter in the American Management Association’s Bodies of
+      Knowledge guidebook.Howard has been coaching high performers since 2001.
+      He is certified in Peter Bregman’s QUICC Coaching methodology, BJ Fogg’s
+      Tiny Habits, and Glenn Livingston’s Never Binge Again system.
+
+
+      Howard earned his MPH and PhD in Health Studies from Temple University,
+      and his BA from Princeton University.
+
+
+      Howard lives on an ecological farm in rural North Carolina, where he
+      writes, gardens, plays Ultimate Frisbee, runs ultra marathons, and
+      practices Russian Martial Arts. 
+
+
+      Howard’s goals include shaking up healthcare, sharing how delicious and
+      joyful a healthy life can be, saving the planet, and reintroducing people
+      to their most authentic, antifragile, best selves.
+    coachName: Howard Jacobson
+    jobTitle: Chief of Behavioral Science
+    links:
+      linkedin: howardwellstart
+      website: www.WellStartHealth.com
+    photo: /uploads/howard-jacobson-headshot-2019_zoom.jpg
+    tags:
+      - Executive Coach
+      - Speaker
+      - Author
+      - Entrepreneur
+  - bio: >-
+      Dr. Richard Osibanjo is a scientist, strategic business and leadership
+      advisor with expertise in pharmaceutical, biotechnology and semiconductor
+      industries. International and cross-cultural expertise includes Process
+      development, relationship management, leadership and talent development,
+      career development, and workforce engagement. Designs and delivers
+      workshops and training programs in the areas of customer/client
+      relationships, teamwork, communication, conflict resolution, and emotional
+      intelligence. Excels in fast-paced, challenging environments in
+      international organizations. Demonstrates strong analytical,
+      problem-solving, performance and quality improvement skills.
+
+
+      He is a published author and blogger who thrives in teaching scientists,
+      engineers, and technical disciplines how to improve their managerial,
+      leadership, and interpersonal skills so they can improve their performance
+      and enhance their productivity.
+
+
+      Richard is interested in making an impact on the global stage and
+      strategically making a difference in the workplace. In his spare time, he
+      enjoys traveling, performing music, writing and reading management theory.
+    coachName: Richard Osibanjo
+    jobTitle: 'Organizational Development Partner, Leadership Coach, Speaker, and Trainer'
+    links:
+      linkedin: richardosibanjo
+    photo: /uploads/dr.-richard-osibanjo-jeffrey-kuhn.png
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+  - bio: >-
+      Partner and Board Member of Archi – Leading Real Estate Development
+      Company \
+
+      Member of Parliament of Georgia\
+
+      Member of Board of Trustees at Businesses Association of Georgia
+
+
+      Since 2006 Mr. Ilia Tsulaia went through a long journey, from the business
+      consulting to creating the leading real estate Development Company in
+      Georgia – LTD Archi. From 2006 until 2016, Ilia was Archi’s CEO and
+      currently remains a partner and a board member of the company.
+
+
+      In 2009 Archi encountered one of the hardest challenges as a business
+      corporation: World crisis of 2008 – 2009 led business to the deadlock,
+      especially the real estate field.
+
+
+      The above-mentioned impediments forced most of the real-estate companies
+      to halter their business activities, but Archi handled the crisis with
+      admirable professionalism and remarkable competence. Believing in
+      country’s new opportunities, together with the feeling of responsibility
+      towards the company’s partners and customers, Archi led by Mr. Tsulaia,
+      worked harder than ever and became number 1 real estate developer in
+      Georgia.
+
+
+      Even though Georgia is a small country with a population of 3.7 million,
+      Archi’s real estate sales thrived: during the year 2018, the company sold
+      1200 apartments – regarded as the biggest share (7%) of the country’s real
+      estate market.
+
+
+      Additionally, Archi contributes to the hospitality development in Georgia
+      through partnership with international companies such as ACCOR S.A and
+      manages 7 ongoing projects with the aim to develop international hotel
+      chains in the country. 
+
+
+      Even though Ilia is an entrepreneur at heart, he chose to dedicate himself
+      to the country and people, so he took part in 2016 Parliamentary Elections
+      and became a Member of the Parliament of Georgia. Ilia holds master’s
+      degree in law and is actively involved in the development of the Georgia’s
+      Legislation.
+
+
+      Also Ilia is a Member of Board of Trustees at Businesses Association of
+      Georgia. BAG is one of the strongest unit which creates 50% of GDP in the
+      country. The mission of BAG is to improve business environment in Georgia
+      by uniting member companies, encouraging close cooperation with
+      government, international and national partners.
+    coachName: Ilia Tsulaia
+    jobTitle: Partner and Board Member of Archi.  Member of Parliament of Georgia
+    photo: /uploads/_mg_7866-ilia-tsulaia.jpg
+    tags:
+      - Consultant
+      - Entrepreneur
+  - bio: >-
+      Ron Carucci is co-founder and managing partner at Navalent, working with
+      CEOs and executives pursuing transformational change for their
+      organizations, leaders, and industries.  He has a thirty year track record
+      helping some of the world’s most influential executives tackle challenges
+      of strategy, organization and leadership.  From start-ups to Fortune 10’s,
+      turn-arounds to new markets and strategies, overhauling leadership and
+      culture to re-designing for growth, he has worked in more than 25
+      countries on 4 continents.  In addition to being a regular contributor to
+      HBR and Forbes, (you can read his work at these links), he has been
+      featured in Fortune, CEO Magazine, BusinessInsider, MSNBC, Inc, Business
+      Week, Smart Business, and thought leaders.  
+
+
+      He is the bestselling author of 8 books.  He led a ten year longitudinal
+      study on executive transition to find out why more than 50% of leaders
+      fail within their first 18 months of appointment, and uncovering the four
+      differentiating capabilities that set successful leaders apart. Those
+      findings are highlighted in his ground breaking Amazon #1 book Rising To
+      Power, co-authored with Eric Hansen.  These findings are also summarized
+      by Ron in the popular HBR article, which can be found here.  HBR selected
+      that research as one of 2016’s “Ideas that mattered most", and I recently
+      presented it on their Live series, which you can see here:
+      https://www.facebook.com/HBR/videos/10155500067767787/   Ron is a 2-time
+      TEDx speaker, and you can listen to his recent TEDx talk on power here:
+      https://www.youtube.com/watch?v=v234mvaUQ4o&feature=youtu.be
+
+
+      He has helped CEOs, their executive teams, and their enterprises redesign
+      themselves and build appropriate leadership strategies to ensure the
+      current and next generation of leaders have the capabilities required by
+      the organization. He has been chief architect of several major leadership
+      development simulations and curriculums for global organizations focused
+      on developing high-potential executive talent and connecting strategy
+      execution to leadership capability.
+
+
+      Ron is a former faculty member at Fordham University Graduate School as an
+      associate professor of organizational behavior. He has also served as an
+      adjunct at the Center for Creative Leadership. His clients have included
+      Abbvie, Starbucks, Microsoft, Coronal Energy, CitiBank, Corning, Inc.,
+      Lamb Weston, The Hershey Company, Bristol-Myers Squibb, Amgen, Deutsche
+      Bank, Gates Corporation, MMC, Edward Jones Investments, ConAgra Foods,
+      TriHealth, OhioHealth, Del Monte Foods, Midnight Oil Creative,
+      Weyerhaeuser, McDonald’s Corporation, Sojourners, The Atlantic
+      Philanthropies, Kleiner Perkins Caufield & Byers, Cadbury, Miller Brewing,
+      the U.S. Patent & Trademark Office, Price Waterhouse Coopers, Johnson &
+      Johnson, ADP, and the CIA.
+    coachName: Ron Carucci
+    jobTitle: 'Managing Partner, Navalent'
+    links:
+      linkedin: navalent
+      website: www.navalent.com
+    photo: /uploads/ron-high-res-ron-carucci.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
 ---
 
