@@ -2617,5 +2617,21 @@ coachList:
       - Consultant
       - Speaker
       - Author
+  - bio: "Robert Glazer is the founder and CEO of global performance marketing agency, Acceleration Partners. A serial entrepreneur, Bob has a passion for helping individuals and organizations build their capacity to elevate.\r\n\n\rUnder his leadership, Acceleration Partners has received numerous industry and company culture awards, including Glassdoor’s Employees’ Choice Awards (2 years in a row), Ad Age’s Best Place to Work, Entrepreneur’s Top Company Culture (2 years in a row), Great Place to Work & Fortune’s Best Small & Medium Workplaces (3 years in a row) and Boston Globe’s Top Workplaces (2 years in a row). Bob was also named to Glassdoor’s list of Top CEO of Small and Medium Companies in the US, ranking #2.\r\n\nA regular columnist for Forbes, Inc. and Entrepreneur, Bob’s writing reaches over five million people around the globe each year who resonate with his topics, which range from performance marketing and entrepreneurship to company culture, capacity building, hiring and leadership. Worldwide, he is also a sought-after speaker by companies and organizations on subjects related to business growth, culture, building capacity and performance.\r\n\n\rBob shares his ideas and insights via Friday Forward, a popular weekly inspirational newsletter that reaches over 100,000 individuals and business leaders across 60+ countries\r\n\n\rBob is the author of the international bestselling books Elevate: Push Beyond Your Limits and Unlock Success in Yourself and Others and Performance Partnerships. He is the host of the podcast The Elevate Podcast, a top 100 podcast in over 20 countries for business and entrepreneurship.\r\n\n\rOutside of work, Bob can likely be found skiing, cycling, reading, traveling, spending quality time with his family or overseeing some sort of home renovation project. \r\n\n\rLearn more about Bob at https://www.robertglazer.com."
+    coachName: Robert Glazer
+    jobTitle: 'Founder & CEO, Acceleration Partners'
+    links:
+      linkedin: glazer
+      website: www.robertglazer.com
+    photo: /uploads/ayr-headshot1.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+      - Iconic Leader
+      - Corporate Executive
+      - Entrepreneur
+      - Non-Profit
 ---
 
