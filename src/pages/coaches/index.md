@@ -272,6 +272,21 @@ coachList:
       - Executive Coach
       - Speaker
       - Thinker
+  - bio: "Tasha Eurich is an organizational psychologist, researcher, and New York Times best-selling author. As Principal of the Eurich Group, she has built a reputation as a fresh, modern voice in the business world by pairing her scientific grounding in human behavior with a practical approach to improvement. Over her 15-plus-year career, she’s helped thousands of professionals—from Fortune 500 executives to early stage entrepreneurs—improve their self-awareness and success.\r\n\n\rWith a PhD in Industrial-Organizational Psychology and BAs in Theater and Psychology, Dr. Eurich has contributed to The Guardian, Entrepreneur, The Huffington Post, TED.com and CNBC.com, and has been featured in outlets like Business Insider, Fortune, Forbes, The New York Times, Fast Company, and New York Magazine. She has been named a “Top 100 Thought Leader” by Trust Across America, a “Leader to Watch” by the American Management Association, and one of Denver Business Journal’s “40 Under 40.” Her TEDxMileHigh talk has been viewed more than one million times.\r\n\n\rDr. Eurich’s first book, Bankable Leadership, debuted on the New York Times best-seller list. Her latest book, INSIGHT, delves into the connection between our self-awareness—what she calls the meta-skill of the twenty-first century—and performance and success, both in and out of the workplace. Hailed as a “bold, exhilarating take on self-improvement” by Success Magazine and a “fascinating read” by The Guardian, INSIGHT was recently named an Editor’s Choice by 800-CEO-READ."
+    coachName: Tasha Eurich
+    jobTitle: Organizational Psychologist
+    links:
+      facebook: TashaEurich
+      linkedin: tashaeurich
+      twitter: tashaeurich
+      website: www.psychologytoday.com/us/experts/tasha-eurich-phd
+    photo: /uploads/tasha-eurich.jpg
+    tags:
+      - Author
+      - Consultant
+      - Executive Coach
+      - Speaker
+      - Thinker
   - bio: >-
       Connie Dieken helps C-suite executives shape the future by influencing
       positive change under challenging conditions. An executive leadership
@@ -299,21 +314,6 @@ coachList:
       - Corporate Executives
       - Speakers
       - Executive Coaches
-  - bio: "Tasha Eurich is an organizational psychologist, researcher, and New York Times best-selling author. As Principal of the Eurich Group, she has built a reputation as a fresh, modern voice in the business world by pairing her scientific grounding in human behavior with a practical approach to improvement. Over her 15-plus-year career, she’s helped thousands of professionals—from Fortune 500 executives to early stage entrepreneurs—improve their self-awareness and success.\r\n\n\rWith a PhD in Industrial-Organizational Psychology and BAs in Theater and Psychology, Dr. Eurich has contributed to The Guardian, Entrepreneur, The Huffington Post, TED.com and CNBC.com, and has been featured in outlets like Business Insider, Fortune, Forbes, The New York Times, Fast Company, and New York Magazine. She has been named a “Top 100 Thought Leader” by Trust Across America, a “Leader to Watch” by the American Management Association, and one of Denver Business Journal’s “40 Under 40.” Her TEDxMileHigh talk has been viewed more than one million times.\r\n\n\rDr. Eurich’s first book, Bankable Leadership, debuted on the New York Times best-seller list. Her latest book, INSIGHT, delves into the connection between our self-awareness—what she calls the meta-skill of the twenty-first century—and performance and success, both in and out of the workplace. Hailed as a “bold, exhilarating take on self-improvement” by Success Magazine and a “fascinating read” by The Guardian, INSIGHT was recently named an Editor’s Choice by 800-CEO-READ."
-    coachName: Tasha Eurich
-    jobTitle: Organizational Psychologist
-    links:
-      facebook: TashaEurich
-      linkedin: tashaeurich
-      twitter: tashaeurich
-      website: www.psychologytoday.com/us/experts/tasha-eurich-phd
-    photo: /uploads/tasha-eurich.jpg
-    tags:
-      - Author
-      - Consultant
-      - Executive Coach
-      - Speaker
-      - Thinker
   - bio: "Bernard (Bernie) Banks is a noted expert on the subjects of leadership and organizational change. Currently, he is the Associate Dean for Leadership Development and a Clinical Professor of Management at Northwestern University’s Kellogg School of Management. As an Associate Dean, Bernie possesses responsibility for leader development integration across the school’s global portfolio of programs.\r\n\n\rBernie retired from the Army as a Brigadier General in 2016 after having successfully led West Point’s Department of Behavioral Sciences & Leadership from 2012-2016. In addition to having studied leadership extensively, he has led multiple military units ranging in size from 10 to 500 people. In 1995, Bernie was selected from over 40,000 officers to receive the Army’s top award for entry-level managers (General Douglas MacArthur Leadership Award). In 2006, the Apache Helicopter unit he was leading in South Korea was designated as the top Apache Helicopter unit globally in the U.S. Army’s annual best aviation unit competition.\r\n\n\rA West Point graduate, Bernie is broadly educated. He holds graduates degrees from Northwestern, Columbia, and Harvard Universities. Additionally, he earned his Ph.D. in social-organizational psychology from Columbia University. Bernie’s work has been published in a variety of outlets (e.g., Harvard Business Review, Military Psychology, New York Times). Furthermore, he has worked extensively with organizations across all sectors concerning their leader development efforts (e.g., Procter and Gamble, Mercedes Benz, General Electric, IBM, 7-Eleven, The US Forest Service, International Chiefs of Police).\r\n\n\rAn active member of several civic and professional organizations (e.g., The Chicago Club, Harvard Club of NYC, Community Solutions of NYC, USO of Illinois, West Point Society of Chicago), Bernie is deeply invested in his community.\r\n\n\rAreas of Expertise\r\n\n\rLeader Development\r\n\nOrganizational Change\r\n\nOrganizational Culture"
     coachName: Bernard Banks
     jobTitle: Associate Dean for Leadership Development & Clinical Prof. of Management
@@ -323,6 +323,21 @@ coachList:
     tags:
       - Executive Coach
       - Non-Profit
+  - bio: "Erica Dhawan is the world’s leading authority on Connectional Intelligence and the Founder & CEO of Cotential.\r\n\n\rThrough speaking, training and consulting, she teaches business leaders innovative strategies that increase value for clients, deliver results and ensure competitiveness. \r\n\n\rShe is the co-author of the bestselling book Get Big Things Done: The Power of Connectional Intelligence. Erica was named by Thinkers50 as “The Oprah of Management Ideas” and featured as one of the emerging management thinkers most likely to shape the future of business. She hosts the award winning podcast Masters of Leadership.\r\n\n\rErica speaks on global stages ranging from the World Economic Forum at Davos to companies such as Fedex, Pepsico, and McGraw Hill Financial. Erica writes for Harvard Business Review, Forbes, Fast Company and the Huffington Post.\r\n\n\rErica also serves as a board member to Lufthansa Innovation Hub. Previously, she worked at Lehman Brothers and Barclays Capital. She has a MPA from Harvard University, a MBA from MIT Sloan, and a BS in Economics from The Wharton School. Learn more at ericadhawan.com and cotentialgroup.com"
+    coachName: Erica Dhawan
+    jobTitle: World's Foremost Expert on Connectional Intelligence
+    links:
+      facebook: ericadhawan
+      linkedin: ericadhawan
+      twitter: edhawan
+      website: ericadhawan.com/blog
+    photo: /uploads/erica_dhawan.jpg
+    tags:
+      - Author
+      - Consultant
+      - Entrepreneur
+      - Speaker
+      - Thinker
   - bio: "Carol Kauffman Founder of the Institute of Coaching and on the faculty of Harvard Medical School.\r\n\n\rCarol is a leadership coach with over 20 years experience helping leaders raise the bar on their performance and managing their success. She is most interested in high stakes coaching where managing leadership impact is crucial and it is necessary to intervene quickly. She has focused on these issues with young high potential leaders to the CEO/Chairs of the Board at Fortune 50 companies.\r\n\n\rShe is a leader herself: An Assistant Professor at Harvard Medical School she founded the Institute of Coaching, a community of 18,000, launched the Coaching in Leadership and Healthcare Conference at Harvard, The Institute of Coaching Leadership Forum and has chaired numerous conference. In addition she was Founding Editor in Chief of the first journal in Coaching with a major publishing house. In 2009 her work and entrepreneurial spirit were commemorated with a $2,000,000 gift to begin the Institute of Coaching.\r\n\n\rDr. Kauffman has extensive coaching experience with over 40,000 hours of client contact. She works with multi-national organizations either in the C-Suite or in tandem with large-scale leadership development programs. A sampling of recent clients includes: Ahold, Astra Zeneca, BCG, BUPA, Bombardier, BCG, Harvard Medical School, Hospital Corporation of America, Lloyds, Linklaters, McKinsey, Norton Rose, Owens-Illinois, Tubelines, State Street Bank, Unilever, Vanderbilt University and Wellington."
     coachName: Carol Kauffman
     jobTitle: 'President: Coaching Psych; Harvard Faculty, Founder, Institute of Coaching'
@@ -1273,21 +1288,6 @@ coachList:
     photo: /uploads/Eric-Schurenberg.jpg
     tags:
       - Corporate Executive
-  - bio: "Erica Dhawan is the world’s leading authority on Connectional Intelligence and the Founder & CEO of Cotential.\r\n\n\rThrough speaking, training and consulting, she teaches business leaders innovative strategies that increase value for clients, deliver results and ensure competitiveness. \r\n\n\rShe is the co-author of the bestselling book Get Big Things Done: The Power of Connectional Intelligence. Erica was named by Thinkers50 as “The Oprah of Management Ideas” and featured as one of the emerging management thinkers most likely to shape the future of business. She hosts the award winning podcast Masters of Leadership.\r\n\n\rErica speaks on global stages ranging from the World Economic Forum at Davos to companies such as Fedex, Pepsico, and McGraw Hill Financial. Erica writes for Harvard Business Review, Forbes, Fast Company and the Huffington Post.\r\n\n\rErica also serves as a board member to Lufthansa Innovation Hub. Previously, she worked at Lehman Brothers and Barclays Capital. She has a MPA from Harvard University, a MBA from MIT Sloan, and a BS in Economics from The Wharton School. Learn more at ericadhawan.com and cotentialgroup.com"
-    coachName: Erica Dhawan
-    jobTitle: World's Foremost Expert on Connectional Intelligence
-    links:
-      facebook: ericadhawan
-      linkedin: ericadhawan
-      twitter: edhawan
-      website: ericadhawan.com/blog
-    photo: /uploads/erica_dhawan.jpg
-    tags:
-      - Author
-      - Consultant
-      - Entrepreneur
-      - Speaker
-      - Thinker
   - bio: "Everett Alexander is the Chief Investment Officer (CIO) of a single-family office, where his responsibilities include directing the family’s investments in public and private equity.\r\n\n \rEverett holds an MBA in Finance from the Wharton School, an MA in International Studies from The Lauder Institute and a BA in Asian Studies from Williams College.\r\n\n\rDrawing by Ayse Birsel"
     coachName: Everett Alexander
     jobTitle: Chief Investment Officer
