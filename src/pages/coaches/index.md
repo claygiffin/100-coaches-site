@@ -2629,8 +2629,6 @@ coachList:
       - Consultant
       - Speaker
       - Author
-      - Iconic Leader
-      - Corporate Executive
       - Entrepreneur
       - Non-Profit
 ---
