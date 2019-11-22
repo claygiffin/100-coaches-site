@@ -1085,7 +1085,7 @@ coachList:
     jobTitle: 'Relationship Economics Thinker, Speaker, Advisor, & Coach'
     links:
       linkedin: davidnour
-    photo: /uploads/david-nour.jpg
+    photo: /uploads/david-nour-high-res-biz-photo.jpg
     tags:
       - Author
       - Executive Coach
