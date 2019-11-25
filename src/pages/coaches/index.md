@@ -1080,7 +1080,40 @@ coachList:
     photo: /uploads/david-gallimore.jpg
     tags:
       - Executive Coach
-  - bio: "David Nour is a growth strategist, thought leader, executive coach and global keynote speaker on Relationship Economics®, the concept of the quantifiable value of business relationships. Through his best-selling books, compelling speeches and valuable consulting and coaching, Nour demonstrates how relationships are the greatest off-balance-sheet asset any leader and their organization possesses, large or small, public or private.\r\n\n\rNour is CEO of The Nour Group, Inc., a consulting firm that advises top global leaders and boards of corporations, associations and academic forums on disruptive innovations to fuel their growth. The Nour Group, Inc., has worked with leading global companies such as Disney, Cisco, Deloitte, Hilton, HP, IBM and more.\r\n\n\rAs a speaker, Nour examines business relationships, social and mobile disruptive technologies and adaptive innovation. His keynotes have been heard at top industry summits like Microsoft Worldwide Partner Conference, IBM Smarter Commerce Global Summit and Marriott Annual GM Conference, among others.\r\n\n\rHis insights on driving growth through unique return on strategic relationships have been featured in top outlets like The Wall Street Journal, The New York Times, Fast Company, Mashable, CNBC, Knowledge@Wharton and Associations Now, as well as Entrepreneur and Success magazines. He also writes a regular leadership column on Forbes.com.\r\n\n\rNour is the author of ten books translated in eight languages, including the best-selling Relationship Economics (Wiley), ConnectAbility (McGraw-Hill), The Entrepreneur’s Guide to Raising Capital (Praeger), Return on Impact (ASAE) called by Fast Company a “resource-rich book … provoking us to become more customer-centric in an age where empowered customers have far greater access to real-time information, connections and company advocates.” His most recent book CO-CREATE (St. Martin’s Press) is an essential guide showing C-level leaders how to optimize relationships, create market gravity and greatly increase revenue, and was selected as \"One of the Best Books on Customer Experience\" by BookAuthority.\r\n\n\rIn addition to his speaking, writing and consulting, Nour is an adjunct faculty member at the Goizueta Business School at Emory University's Executive Education program as well as Georgia Tech’s College of Management. He serves as the lead independent director on the board of introNetworks, a privately held intelligent community technology rm based in Santa Barbara, Calif. An Eagle Scout, Nour is involved with the Centennial Scouting movement, Junior Achievement, One Voice – aiming to create peace in the Middle East – and the High Tech Ministries. He is currently an active member of the FBI Citizens’ Academy, Association for Corporate Growth (ACG) and the National Association of Corporate Directors (NACD), where he has earned the Governance Fellow accreditation.\r\n\n\rA native of Iran, Nour came to the U.S. with just a suitcase, $100, limited family ties and no fluency in English. He went on to earn an Executive Master’s of Business Administration from the Goizueta Business School at Emory University and a bachelor’s degree in management from Georgia State University. Nour resides in Atlanta, Ga., with his family."
+  - bio: >-
+      A thinker, business advisor, best-selling author, and keynote speaker,
+      David Nour is internationally recognized as a leading expert on strategic
+      business relationships. The author of 10 books, including best-sellers
+      CO-CREATE (St. Martin’s Press) and Relationship Economics® (Wiley), and
+      the upcoming Curve Benders, Nour serves as a trusted advisor to global
+      clients and coaches corporate leaders and their teams. He is CEO of The
+      Nour Group, a consulting firm that advises top global leaders, boards, and
+      associations on disruptive innovations to fuel their growth. Client
+      engagements span leading global companies including Chubb, Cisco, Dell
+      Technologies, Deloitte, Disney, Equifax, Eversheds Sutherland, HPE, IBM,
+      KPMG, Marriott International, and ThyssenKrupp.
+
+
+      Nour is an adjunct professor at the Goizueta Business School at Emory
+      University and Vanderbilt University’s Owen School of Management, was
+      named to the Global Gurus Top 30 Leadership Professionals list and is
+      honored to be one of Marshall Goldsmith’s 100 Global Coaches. He is a
+      member of the FBI Citizens Academy, Association for Corporate Growth
+      (ACG), and the National Association of Corporate Directors (NACD), where
+      he has earned the Governance Fellow accreditation.
+
+
+      A Forbes Leadership contributor on the Future of Work, Nour’s unique
+      insights have been featured in a variety of prominent publications,
+      including The Wall Street Journal, The New York Times, Fast Company,
+      Huffington Post Business, Entrepreneur, and Knowledge@Wharton.
+
+
+      Born in Iran, Nour immigrated to the U.S. in 1981 with $100, a suitcase
+      and limited fluency in English. He graduated from Georgia State University
+      with a bachelor’s degree in business management and went on to earn an
+      Executive MBA from the Goizueta Business School at Emory University. He
+      resides in Atlanta, GA, with his wife and two teenagers.
     coachName: David Nour
     jobTitle: 'Relationship Economics Thinker, Speaker, Advisor, & Coach'
     links:
