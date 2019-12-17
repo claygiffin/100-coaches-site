@@ -2664,5 +2664,48 @@ coachList:
       - Author
       - Entrepreneur
       - Non-Profit
+  - bio: >-
+      Dr. Stefanie K. Johnson is an associate professor of leadership at the
+      University of Colorado, Boulder's Leeds School of Business and author of
+      Inclusify: Harnessing the power of uniqueness and belonging to build
+      innovative teams published by Harper Collins.
+
+
+      Dr. Johnson studies the intersection of leadership and diversity, focusing
+      on (1) how unconscious bias affects the evaluation of leaders and (2)
+      strategies that leaders can use to mitigate bias.
+
+
+      She has published 60 journal articles and book chapters in outlets such as
+      Harvard Business Review and The Academy of Management Journal. She has
+      presented her work at over 170 meetings around the world including at the
+      White House for a 2016 summit on diversity in corporate America on
+      National Equal Pay Day.
+
+
+      She has extensive consulting experience and has created and delivered
+      leadership development training with an emphasis on evidence-based
+      practice. She has received $3,800,000 in external grant funding to study
+      leadership and create leadership development programs.
+
+
+      Media outlets featuring Stefanie’s work include: The Economist, Newsweek,
+      Time, Wall Street Journal, Bloomberg, HuffPost, Washington Post, Quartz,
+      Discover, CNN, ABC, NBC, CNBC. She has appeared on Fox, ABC, NBC, CNN, and
+      CNN International.
+
+
+      She has presented to, advised, or interviewed C-level officers at some of
+      the largest organizations in the U.S. such as: Starbucks, Salesforce, Gap
+      Inc., PayPal, General Motors, Netflix, and Accenture
+    coachName: Stefanie Johnson
+    jobTitle: Associate Professor of Management
+    links:
+      linkedin: ''
+    photo: /uploads/stephanie-johnson.jpg
+    tags:
+      - Consultant
+      - Speaker
+      - Author
 ---
 
