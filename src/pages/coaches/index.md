@@ -2463,18 +2463,27 @@ coachList:
   - bio: >-
       Howard Jacobson, PhD is co-founder and Chief of Behavioral Science at
       WellStart Health, a digital therapeutics platform and care team dedicated
-      to putting chronic disease out of business. Howard is also co-founder of
-      the WellStart Health Coaching Academy, where he trains wellness coaches to
-      guide their clients to dramatic health improvements. 
+      to putting chronic disease out of business. 
 
 
-      He is the  co-author of Sick to Fit, with Josh LaJaunie, and contributing
+      Howard is also co-founder of the WellStart Health Coaching Academy, where
+      he trains wellness coaches to guide their clients to dramatic health
+      improvements. 
+
+
+      Howard is co-author of Sick to Fit, with Josh LaJaunie, and contributing
       author to Whole, by T. Colin Campbell, PhD, and Proteinaholic, by Garth
-      Davis, MD. He’s also co-author, with Peter Bregman, of the “Coaching for
-      Performance” chapter in the American Management Association’s Bodies of
-      Knowledge guidebook.Howard has been coaching high performers since 2001.
-      He is certified in Peter Bregman’s QUICC Coaching methodology, BJ Fogg’s
-      Tiny Habits, and Glenn Livingston’s Never Binge Again system.
+      Davis, MD.
+
+
+      He’s also co-author, with Peter Bregman, of the “Coaching for Performance”
+      chapter in the American Management Association’s Bodies of Knowledge
+      guidebook.
+
+
+      Howard has been coaching high performers since 2001. He is certified in
+      Peter Bregman’s QUICC Coaching methodology, BJ Fogg’s Tiny Habits, and
+      Glenn Livingston’s Never Binge Again system.
 
 
       Howard earned his MPH and PhD in Health Studies from Temple University,
@@ -2494,7 +2503,7 @@ coachList:
     links:
       linkedin: howardwellstart
       website: www.WellStartHealth.com
-    photo: /uploads/howard-jacobson-headshot-2019_zoom.jpg
+    photo: /uploads/howard-jacobson.jpg
     tags:
       - Executive Coach
       - Speaker
@@ -2548,7 +2557,7 @@ coachList:
 
 
       In 2009 Archi encountered one of the hardest challenges as a business
-      corporation: World crisis of 2008 – 2009 led business to the deadlock,
+      corporation: World crises of 2008 – 2009 led business to the deadlock,
       especially the real estate field.
 
 
@@ -2583,10 +2592,12 @@ coachList:
       Also Ilia is a Member of Board of Trustees at Businesses Association of
       Georgia. BAG is one of the strongest unit which creates 50% of GDP in the
       country. The mission of BAG is to improve business environment in Georgia
-      by uniting member companies, encouraging close cooperation with
-      government, international and national partners.
+      by uniting member companies, encoureging close cooperation with
+      government, international and national partners."
     coachName: Ilia Tsulaia
     jobTitle: Partner and Board Member of Archi.  Member of Parliament of Georgia
+    links:
+      linkedin: ilia-tsulaia-5b31056
     photo: /uploads/_mg_7866-ilia-tsulaia.jpg
     tags:
       - Consultant
@@ -2707,5 +2718,281 @@ coachList:
       - Consultant
       - Speaker
       - Author
+  - bio: >-
+      Bruce Kasanoff is a social media ghostwriter for entrepreneurs, who also
+      writes (and speaks) under his own name. He lives according to a philosophy
+      of doing well by doing good. He is a LinkedIn Influencer followed by more
+      than 850,000 professionals, and also is a Forbes contributor in the
+      Leadership and Career channels; his focus is on bringing out talent in
+      others.
+
+
+      Bruce is the author of How to Self-Promote without Being a Jerk—which has
+      helped tens of thousands of professionals who don’t like to brag—and Never
+      Tell People What You Do. His 2001 book, Making It Personal, predicted many
+      of the personalization practices that have become mainstream today.  He is
+      the co-author with Amy Blaschka of I Am: Escape Distractions, Unlock Your
+      Imagination & Unleash Your Potential, a #1 new release on Amazon in Health
+      & Stress.
+
+       His other accomplishments include: 
+
+       As a strategist:
+
+      \- The Chartered Institute of Marketing named Bruce one of the 50 most
+      influential thinkers in marketing and business today.
+
+
+      \- He was part of the Ogilvy & Mather team in the mid-90s that helped
+      transform the IBM brand from arrogant to approachable.
+
+
+      \- He earned an MBA at The Wharton School and has presented at Wharton,
+      Yale University, New York University, Fairfield University and Babson
+      College.
+
+
+      As an entrepreneur:
+
+
+      \- He has raised or helped raise $20 million for start-up and
+      entrepreneurial ventures.
+
+
+      \- He was also the ""marketing guru” for 250 entrepreneurs—over five
+      years—through the Birthing of Giants program.
+
+
+      \- Bruce was an original partner of the Peppers and Rogers Group, and
+      helped grow that firm from ten to 150 employees in three years.
+
+
+      In Park City, Bruce is also known as the Chairlift Chats guy, who
+      interviews fascinating people on chairlifts. He skis about 50 days a year,
+      usually 90 minutes at a time. (Your ""lunch"" is his 10,000 vertical
+      feet.)
+    coachName: Bruce Ridge Kasanoff
+    jobTitle: Social Media Ghostwriter for Entrepreneurs
+    links:
+      linkedin: kasanoff
+      website: www.kasanoff.com
+    photo: >-
+      /uploads/bruce-kasanoff-headshot-black-shirt-cropped-less-bruce-kasanoff.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+      - Entrepreneur
+  - bio: >-
+      Cynthia Burnham is a Master Corporate Executive Coach (MCEC), Board
+      Certified Coach (BCC), leadership consultant, former Wall Street Senior
+      Vice President, and author of “The Charisma Edge: A How-To Guide for
+      Turning On Your Leadership Power.”  She has been called “life altering” by
+      her clients, and has a deep personal mission to help others become more
+      powerful, confident, and aligned with who they are at their best, most
+      authentic core.  
+
+
+      Cynthia specializes in personal presence, leadership enhancement, and
+      powerful communication techniques.  She has more than 30 years of
+      experience working with hundreds of groups and thousands of people in
+      global, U.S.-based and regional companies where she has helped people get
+      out of their own way while delivering business results.  Cynthia earned an
+      MBA in marketing from UCLA, and a B.A. in Creative Studies from UCSB.  She
+      is also a professional singer and a trained Laughter Yoga Instructor, and
+      lives in the mountains east of San Diego where there is actually snow a
+      couple of times a year.
+    coachName: Cynthia A Burnham
+    jobTitle: 'Executive Coach, Speaker, Author'
+    links:
+      linkedin: cynthia-burnham-mba-0732414
+      website: www.cynthiaburnham.com
+    photo: /uploads/08r_cindyb2017-1-cynthia-burnham.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+  - bio: >-
+      Laura Gassner Otting helps people get “unstuck” — and achieve
+      extraordinary results.
+
+
+      Through Limitless Possibility, Laura collaborates with change agents,
+      entrepreneurs, investors, leaders, and donors to push past the doubt and
+      indecision that consign great ideas to limbo. She delivers strategic
+      thinking, well-honed wisdom, and catalytic perspective informed by decades
+      of navigating change across the start-up, nonprofit, political, and
+      philanthropic landscapes.
+
+
+      Laura’s 25-year resume is defined by her entrepreneurial edge. She served
+      as a Presidential Appointee in Bill Clinton’s White House, helping shape
+      AmeriCorps; left a leadership role at respected nonprofit search firm,
+      Isaacson, Miller, to expand the startup ExecSearches.com; and founded and
+      ran the Nonprofit Professionals Advisory Group, which partnered with the
+      full gamut of mission driven nonprofit executives, from start-up dreamers
+      to scaling social entrepreneurs to global philanthropists. She is the
+      author of Mission-Driven, a book for those moving from profit to purpose,
+      and the upcoming Limitless: How to Ignore Everybody, Carve Your Own Path,
+      and Live Your Best Life (April 2019).
+
+
+      Through her own commitment to give back, Laura has helped build a local
+      Montessori school, co-founded a women’s philanthropic initiative, advised
+      a start-up national women’s PAC, grew a citizen-leadership development
+      program, and completed three charity-inspired marathons—projects
+      emblematic of her passions and values. She’s turned on by the audacity of
+      The Big Idea and that larger-than-life goal you just can’t seem to shake.
+      She’s an instigator, a motivator, and a provocateur, and she’s never met a
+      revolution she didn’t like.
+    coachName: Laura Gassner Otting
+    jobTitle: 'Chief Catalyzing Officer, Limitless Possibility'
+    links:
+      linkedin: heylgo
+      website: www.LimitlessPossibility.com
+    photo: /uploads/lgo-headshot-laura-gassner-otting.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+      - Entrepreneur
+      - Non-Profit
+  - bio: >-
+      Megan is the Deputy Director of the Public Partnerships Division of UNICEF
+      (the United Nations Children’s Fund), responsible for mobilizing more than
+      $ 4 billion in revenues annually.  She has worked in international
+      cooperation for 20 years in some of the most complex situations in the
+      world including Afghanistan, Bangladesh, Kosovo and South Sudan.  She is
+      known as someone that can navigate the most politically and operationally
+      complex situations and build, motivate and support diverse global teams. 
+      Before taking on her current role, she was Deputy Chief of Staff for
+      UNICEF’s Executive Director, where she also acted as UNICEF’s Special
+      Coordinator for Prevention of Sexual Exploitation and Workplace
+      Harassment, initiating sweeping changes to UNICEF’s management culture,
+      policies and systems.  Megan holds a Master’s Degree in International
+      Relations from the London School of Economics and has published on
+      engagement in complex emergencies.  Born and raised in Vancouver, Canada,
+      she has two children and is a lover of the outdoors – skiing, sailing,
+      hiking – and long road trips.
+    coachName: Megan Gilgan
+    jobTitle: 'Deputy Director of Public Partnerships, UNICEF'
+    links:
+      linkedin: megan-gilgan-5b8b55a7
+    photo: /uploads/megangilgan_photo_44kb-megan-gilgan.jpg
+    tags:
+      - Corporate Executive
+      - Non-Profit
+  - bio: >-
+      Michael Canic is President and Chief Flag-Bearer of Making Strategy
+      Happen®. Through high-impact consulting, provocative presentations, and a
+      wealth of resources, Michael helps committed leaders turn ambition into
+      strategy, and strategy into reality.
+
+
+      As a consultant, he focuses on the often overlooked, mid-market companies
+      that account for roughly one-third of the economy. He has helped hundreds
+      of leaders across North America achieve their strategic goals by
+      instituting the structure and discipline of his Strategic Management
+      System™. His clients say it is the most effective strategic process
+      they’ve experienced.
+
+
+      As a business leader, Michael managed the consulting division of The
+      Atlanta Consulting Group, a pioneering firm in the field of trust-based
+      leadership. Prior to that, at FedEx, he held a leadership role developing
+      and implementing service quality strategy in field operations.
+
+
+      As a speaker, Michael has delivered hundreds of invited presentations to
+      audiences on four continents. He has received the top earned designation
+      in the speaking profession: Certified Speaking Professional.
+
+
+      As a writer, Michael has published over 400 blogs with ready-to-apply
+      concepts, practices and tools. His first book, Ruthless Consistency: How
+      Committed Leaders Execute Strategy, Implement Change and Build
+      Organizations That Win, will be published in 2020 by McGraw-Hill.
+
+
+      As a volunteer, Michael has served as a board member or advisor to
+      numerous not-for-profit organizations. He has a particular interest in
+      mentoring early-career professionals.
+
+
+      Michael has a PhD in the Psychology of Human Performance from the
+      University of British Columbia (UBC). He was captain and Most
+      Inspirational Player on UBC’s football team, and later helped coach the
+      team to a national championship.
+
+
+      An adventure traveler, Michael and wife Bernadine have traveled to more
+      than 40 countries. He has journeyed by camel in the Sahara, trekked the
+      mountains of Northern Pakistan, and canoed in the Amazon. Be sure to ask
+      him about swimming with piranha.
+    coachName: Michael Canic
+    jobTitle: President & Chief Flag-Bearer at Making Strategy Happen
+    links:
+      linkedin: michaelcanic
+      website: www.MakingStrategyHappen.com
+    photo: /uploads/ydqxe92-t-gxy52trwzxrg_thumb_d303-michael-canic.jpg
+    tags:
+      - Consultant
+      - Speaker
+      - Author
+  - bio: >-
+      Caroline Webb is a management consultant, economist and renowned
+      leadership coach who has worked with hundreds of organizations to help
+      their employees be more productive, energized, and successful – first as a
+      Partner at McKinsey, where she continues to serve as a Senior Advisor, and
+      now as CEO of her own firm, Sevenshift. She specializes in showing people
+      how to transform their life and work for the better by applying insights
+      from the behavioral sciences: behavioral economics, psychology and
+      neuroscience. Her book on that topic – How to Have a Good Day: Harness the
+      Power of Behavioral Science to Transform Your Working Life – has been
+      published in 14 languages and over 60 countries so far. It was hailed by
+      Forbes as one of their “must-read business books,” described by Fortune as
+      one of their top “self-improvement through data” books, and listed by Inc
+      magazine as one of the “best 15 leadership and personal development books
+      of the past five years.” It also won plaudits from publications as diverse
+      as the Financial Times, TIME, and Cosmopolitan magazine.
+
+
+      During her twelve years with McKinsey & Company, Caroline co-founded
+      McKinsey’s leadership practice, and designed the firm’s approach to
+      transforming senior team dynamics. She also founded and remains faculty of
+      McKinsey’s flagship training course for senior female executives. Before
+      that, Caroline spent the 1990s working in public policy as an economist at
+      the Bank of England. Her work there included global economic forecasting
+      and institution building in post-communist eastern Europe.
+
+
+      Caroline has written on applied behavioral change topics for HBR, the
+      World Economic Forum, Fast Company, Quartz, Business Insider, Huffington
+      Post and WIRED. Her work has also been widely featured in national and
+      international media over the years, including in The Economist, The
+      Financial Times, The Washington Post, The New York Times, The Guardian,
+      Inc., Forbes, Fortune, and BBC Radio. She is represented by Washington
+      Speakers Bureau for her speaking engagements, is a Founding Fellow of the
+      Harvard-affiliated Institute of Coaching, and has degrees in Economics
+      from Cambridge and Oxford Universities. Caroline splits her time between
+      New York and London, and travels frequently to give speeches and run
+      workshops for clients around the world.
+    coachName: Caroline Webb
+    jobTitle: >-
+      Author of How to Have a Good Day | Senior Adviser, McKinsey | CEO,
+      Sevenshift
+    links:
+      linkedin: carolinewebbsevenshift
+      website: www.carolinewebb.co
+    photo: /uploads/cw-book-jacket-square-for-avatars-caroline-webb.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+      - Entrepreneur
 ---
 
