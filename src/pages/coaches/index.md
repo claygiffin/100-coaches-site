@@ -2535,7 +2535,7 @@ coachList:
     jobTitle: 'Organizational Development Partner, Leadership Coach, Speaker, and Trainer'
     links:
       linkedin: richardosibanjo
-    photo: /uploads/dr.-richard-osibanjo-jeffrey-kuhn.png
+    photo: /uploads/mg_richardosibanjo_bio3_photo-richard-osibanjo.jpg
     tags:
       - Executive Coach
       - Consultant
@@ -2808,7 +2808,7 @@ coachList:
     links:
       linkedin: cynthia-burnham-mba-0732414
       website: www.cynthiaburnham.com
-    photo: /uploads/08r_cindyb2017-1-cynthia-burnham.jpg
+    photo: /uploads/08r_cindyb2017-1-cynthia-burnham-1-.jpg
     tags:
       - Executive Coach
       - Consultant
