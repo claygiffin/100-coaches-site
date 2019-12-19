@@ -2661,20 +2661,60 @@ coachList:
       - Consultant
       - Speaker
       - Author
-  - bio: "Robert Glazer is the founder and CEO of global performance marketing agency, Acceleration Partners. A serial entrepreneur, Bob has a passion for helping individuals and organizations build their capacity to elevate.\r\n\n\rUnder his leadership, Acceleration Partners has received numerous industry and company culture awards, including Glassdoor’s Employees’ Choice Awards (2 years in a row), Ad Age’s Best Place to Work, Entrepreneur’s Top Company Culture (2 years in a row), Great Place to Work & Fortune’s Best Small & Medium Workplaces (3 years in a row) and Boston Globe’s Top Workplaces (2 years in a row). Bob was also named to Glassdoor’s list of Top CEO of Small and Medium Companies in the US, ranking #2.\r\n\nA regular columnist for Forbes, Inc. and Entrepreneur, Bob’s writing reaches over five million people around the globe each year who resonate with his topics, which range from performance marketing and entrepreneurship to company culture, capacity building, hiring and leadership. Worldwide, he is also a sought-after speaker by companies and organizations on subjects related to business growth, culture, building capacity and performance.\r\n\n\rBob shares his ideas and insights via Friday Forward, a popular weekly inspirational newsletter that reaches over 100,000 individuals and business leaders across 60+ countries\r\n\n\rBob is the author of the international bestselling books Elevate: Push Beyond Your Limits and Unlock Success in Yourself and Others and Performance Partnerships. He is the host of the podcast The Elevate Podcast, a top 100 podcast in over 20 countries for business and entrepreneurship.\r\n\n\rOutside of work, Bob can likely be found skiing, cycling, reading, traveling, spending quality time with his family or overseeing some sort of home renovation project. \r\n\n\rLearn more about Bob at https://www.robertglazer.com."
+  - bio: >-
+      Robert Glazer is the founder and CEO of global performance marketing
+      agency, Acceleration Partners. A serial entrepreneur, he has a passion for
+      helping individuals and organizations build their capacity to outperform.
+
+
+      Under his leadership, Acceleration Partners has become a recognized global
+      leader in the affiliate and partner marketing industry, receiving numerous
+      industry and company culture awards.  Bob was also named to Glassdoor’s
+      list of Top CEO of Small and Medium Companies in the US, ranking #2.
+
+
+      A regular columnist for Forbes, Inc. and Entrepreneur, Bob’s writing
+      reaches over five million people around the globe each year who resonate
+      with his topics, which range from performance marketing and
+      entrepreneurship to company culture, capacity building, hiring and
+      leadership.
+
+
+      Worldwide, he is also a sought-after speaker by companies and
+      organizations, especially on subjects related to business growth, culture,
+      mindful transitions, building capacity and performance.
+
+
+      Bob shares his ideas and insights via Friday Forward, a popular weekly
+      inspirational newsletter that reaches 100,000 people across 50+ countries
+      each week. He’s the author of the international bestselling book,
+      Performance Partnerships. His second book, Elevate, is a based on the
+      lessons of Friday Forward and provides a guide to help readers build their
+      capacity in themselves and others and will be published October 1st 2019.
+
+
+      A strong believer in giving back, Bob serves on the Board of Directors for
+      BUILD Boston, is a global leader in Entrepreneurs' Organization (EO) and
+      founder of The Fifth Night charitable event.
+
+
+      Outside of work, Bob can likely be found skiing, cycling, reading,
+      traveling, spending quality time with his family or overseeing some sort
+      of home renovation project.
     coachName: Robert Glazer
-    jobTitle: 'Founder & CEO, Acceleration Partners'
+    jobTitle: Founder & CEO
     links:
       linkedin: glazer
       website: www.robertglazer.com
-    photo: /uploads/ayr-headshot1.jpg
+    photo: >-
+      https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/ayr-headshot1-robert-glazer-1-.jpg
     tags:
-      - Executive Coach
       - Consultant
       - Speaker
       - Author
+      - Iconic Leader
+      - Corporate Executive
       - Entrepreneur
-      - Non-Profit
   - bio: >-
       Dr. Stefanie K. Johnson is an associate professor of leadership at the
       University of Colorado, Boulder's Leeds School of Business and author of
@@ -3033,6 +3073,30 @@ coachList:
     tags:
       - Executive Coach
       - Consultant
+      - Speaker
+      - Author
+      - Entrepreneur
+  - bio: >-
+      Lindsey Pollak is a New York Times bestselling author, keynote speaker,
+      and one of the world’s leading experts on Millennials and the
+      multigenerational workplace. She is the author of three books: The Remix:
+      How to Lead and Succeed in the Multigenerational Workplace; Getting from
+      College to Career: Your Essential Guide to Succeeding in the Real World,
+      and Becoming the Boss: New Rules for the Next Generation of Leaders.
+      Lindsey has served as an official ambassador for LinkedIn, a Millennial
+      workplace expert for The Hartford, and the chair of Cosmopolitan’s
+      Millennial Advisory Board. A graduate of Yale University, she lives in New
+      York City with her husband and daughter.
+    coachName: Lindsey Pollak
+    jobTitle: >-
+      New York Times Bestselling Author and Multigenerational Workplace Keynote
+      Speaker
+    links:
+      linkedin: lindseypollak
+      website: www.lindseypollak.com
+    photo: >-
+      https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/lindsey-pollak-close-up-headshot-lindsey-pollak-1-.png
+    tags:
       - Speaker
       - Author
       - Entrepreneur
