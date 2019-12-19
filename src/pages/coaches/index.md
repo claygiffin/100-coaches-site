@@ -2995,5 +2995,46 @@ coachList:
       - Speaker
       - Author
       - Entrepreneur
+  - bio: >-
+      Morag Barrett is a sought-out leadership & executive development
+      consultant, professional speaker, and author of Cultivate. The Power of
+      Winning Relationships. Her second book, The Future-Proof Workplace,
+      co-authored with Dr. Linda Sharkey was named Best Business Book of 2017 by
+      Soundview Executive Book Summaries.
+
+
+      As the founder and CEO of SkyeTeam she partners with and speaks for a
+      diverse range of clients, including Google, NTT Security, Charter
+      Communications, The Society for Information Management and Ultimate
+      Software among others. She has contributed to Entrepreneur.com, and
+      CIO.com and has been featured in Business Insider, Inc and Forbes among
+      others.
+
+
+      Morag holds a master’s degree in Human Resource Management from De
+      Montfort University, UK and received the Senior Professional in Human
+      Resources (SPHR) designation. She’s a recognized business coach for the
+      Corporate Coach University and is a Chartered Fellow of the Chartered
+      Institute of Personnel and Development in the UK.
+
+
+      When not at work, Morag can be found sailing with her three sons, playing
+      the bassoon for the Broomfield Symphony Orchestra, or ballroom dancing.
+
+
+      You can learn more at www.SkyeTeam.com.
+    coachName: Morag Barrett
+    jobTitle: 'Leadership Development Consultant, Speaker & Author'
+    links:
+      linkedin: moragbarrett
+      website: www.SkyeTeam.com
+    photo: >-
+      https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/morag-barrett-3-morag-barrett-1-.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+      - Entrepreneur
 ---
 
