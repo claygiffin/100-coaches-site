@@ -2808,7 +2808,8 @@ coachList:
     links:
       linkedin: cynthia-burnham-mba-0732414
       website: www.cynthiaburnham.com
-    photo: /uploads/08r_cindyb2017-1-cynthia-burnham-1-.jpg
+    photo: >-
+      https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/08r_cindyb2017-1-cynthia-burnham-1-.jpg
     tags:
       - Executive Coach
       - Consultant
