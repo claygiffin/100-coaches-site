@@ -287,33 +287,21 @@ coachList:
       - Executive Coach
       - Speaker
       - Thinker
-  - bio: >-
-      Connie Dieken helps C-suite executives shape the future by influencing
-      positive change under challenging conditions. An executive leadership
-      advisor, her research and strategies on how leaders influence change
-      guides senior executives on five continents at many of the world’s biggest
-      brands, including Coca-Cola, HP, Nestlé, BNP Paribas and The Cleveland
-      Clinic. Connie is the founder of The Dieken Group and Influence360º, a
-      validated psychometric tool that identifies influence patterns and helps
-      leaders earn trust and commitment. A former journalist and always curious,
-      she’s been honored with five Emmy Awards, named a Global Guru of Executive
-      Coaching, a Top 10 Female Business Owner, and has been inducted into the
-      Radio/Television Broadcasters Hall of Fame, the Speakers Hall of Fame, and
-      the Million Dollar Consulting Hall of Fame. She’s the author of two
-      best-selling leadership books, Talk Less, Say More and Become the Real
-      Deal. Connie's thought leadership on modern influence has been featured in
-      The Wall Street Journal, Investor’s Business Daily, CNBC, The Kuwait Times
-      and other leading business publications around the world.
+  - bio: "Connie Dieken is the founder of Influence360˚, a strategic advisory firm on leadership influence to C-suite executives of the world's biggest brands.\n\nHer research and strategies help executives on five continents grow their organizations by influencing positive, lasting outcomes for their biggest initiatives. \n\nHer clients lead some the world’s best-known companies including Coca-Cola, HP, Nestlé, BNP Paribas, The Cleveland Clinic, Zain Corporation and P&G.\n\nConnie joined Marshall Goldsmith's 100 Coaches in 2019. She's also been named:\n\no\tTop 10 Executive Coach by the Global Gurus organization \n\no\tTop 10 Female Business Owner by the National Association of Female Business Owners. \n\nConnie's unique blend of meticulous research, strategic thinking, and compelling delivery has also led to her induction into three Halls of Fame:\n\no\tThe Speakers Hall of Fame® \n\no\tThe Radio/Television Broadcasters Hall of Fame® \n\no\tThe Million Dollar Consulting Hall of Fame® \n\nConnie built her unique skillset during twenty years as a television journalist for NBC and ABC stations in the U.S. Her thoughtful reporting was honored with five Emmy Awards® and two Telly Awards®.  \n\nIn 2000, she left broadcasting to begin a research study called Influence 360º.  It evolved into the first and only validated metric of leadership influence habits and has helped more than 100,000 leaders around the globe influence positive, lasting results. \n\nConnie is also a best-selling author. Her two books, Talk Less, Say More and Become the Real Deal were #1 best-sellers on both Amazon and Audible.  The books, published by Wiley, condense Connie’s distinctive knowledge and global coaching experiences into fast-paced leadership guides.\n\nA Hall of Fame keynote speaker, Connie delivers interactive, powerful keynote speeches on leadership influence at major conferences around the globe to audiences in the thousands. \n\nHer thought leadership has been featured in The Wall Street Journal, Investor’s Business Daily, CNBC, The Kuwait Times and other leading business publications around the world."
     coachName: Connie Dieken
-    jobTitle: The World's Leading Expert on Executive Presence
+    jobTitle: >-
+      Influence 360º Founder, Strategic Advisor, Best-Selling Author, Hall of
+      Fame Broadcaster 
     links:
       linkedin: conniedieken
-      website: 'https://conniedieken.com/'
-    photo: /uploads/connie.png
+      website: www.conniedieken.com
+    photo: /uploads/connie-dieken-headshot-connie-dieken-1-.jpg
     tags:
-      - Corporate Executives
-      - Speakers
-      - Executive Coaches
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+      - Entrepreneur
   - bio: "Bernard (Bernie) Banks is a noted expert on the subjects of leadership and organizational change. Currently, he is the Associate Dean for Leadership Development and a Clinical Professor of Management at Northwestern University’s Kellogg School of Management. As an Associate Dean, Bernie possesses responsibility for leader development integration across the school’s global portfolio of programs.\r\n\n\rBernie retired from the Army as a Brigadier General in 2016 after having successfully led West Point’s Department of Behavioral Sciences & Leadership from 2012-2016. In addition to having studied leadership extensively, he has led multiple military units ranging in size from 10 to 500 people. In 1995, Bernie was selected from over 40,000 officers to receive the Army’s top award for entry-level managers (General Douglas MacArthur Leadership Award). In 2006, the Apache Helicopter unit he was leading in South Korea was designated as the top Apache Helicopter unit globally in the U.S. Army’s annual best aviation unit competition.\r\n\n\rA West Point graduate, Bernie is broadly educated. He holds graduates degrees from Northwestern, Columbia, and Harvard Universities. Additionally, he earned his Ph.D. in social-organizational psychology from Columbia University. Bernie’s work has been published in a variety of outlets (e.g., Harvard Business Review, Military Psychology, New York Times). Furthermore, he has worked extensively with organizations across all sectors concerning their leader development efforts (e.g., Procter and Gamble, Mercedes Benz, General Electric, IBM, 7-Eleven, The US Forest Service, International Chiefs of Police).\r\n\n\rAn active member of several civic and professional organizations (e.g., The Chicago Club, Harvard Club of NYC, Community Solutions of NYC, USO of Illinois, West Point Society of Chicago), Bernie is deeply invested in his community.\r\n\n\rAreas of Expertise\r\n\n\rLeader Development\r\n\nOrganizational Change\r\n\nOrganizational Culture"
     coachName: Bernard Banks
     jobTitle: Associate Dean for Leadership Development & Clinical Prof. of Management
@@ -2402,13 +2390,79 @@ coachList:
     photo: /uploads/will-linssen.jpg
     tags:
       - Executive Coach
-  - bio: "Marina Cvetkovic is a trusted C-Suite coach and advisor. She combines strong financial services background with coaching expertise to help companies and executives redefine their processes as well as build a culture of agility and innovation to successfully face disruption in the market. She has been selected as the Winner of the prestigious FinNext Award for her innovative and forward-looking contribution to the financial services industry. Most recently, Marina was the Vice President of Strategy and Chief of Staff to the CEO at Swiss Re (SIX: SREN), the $34B global/largest reinsurance company worldwide where she was charged with strengthening the culture of agile innovation for a 4'000 employee organization. \r\n\n\rMarina is the founder of The Peak Alliance, a NYC based consultancy focused on executive coaching and board advising. She is a trusted board member and advisor, focusing on revolutionizing the boardroom to complement digital transformation in underlying organizations. Marina is a board advisor for Rutgers University, Leading Disruptive Innovation Executive Education Program as well as a board member and strategy committee co-chair at Governance Matters, with a mission to build high-performing boards in NY. She is an ICF certified executive coach and a faculty member in the EQ Coaching Certification program founded by Prof. Daniel Goleman, pioneer of emotional intelligence. Her work has been published by the International Coaching Federation (ICF) and she served on the Panel of Judges for the ICF International Prism Award, with a mission to annually award the company with the highest coaching standards in the world.\r\n\nMarina is a Forbes Council Member and her contributions are focused on the boardroom of the future topics.  She is a TEDx speaker as well as the founder of a highly influential TEDx platform for TED-like ideas worth spreading in NYC. Marina is a sought-after keynote speaker on board effectiveness, disruptive leadership and digital transformation. \r\n\nMarina gives back generously by advising boards of not-for-profit organizations. She is a global citizen currently living in NYC and speaks Serbian, English, German, Italian and Spanish."
+  - bio: >-
+      Marina Cvetkovic is a trusted C-Suite coach and advisor – she combines
+      strong financial services background with coaching expertise to help
+      companies and executives redefine their processes as well as build a
+      culture of agility and innovation to successfully face disruption in the
+      market. Currently, Marina is the Vice President of Strategy and Chief of
+      Staff to the CEO at Swiss Re (SIX:SREN), the $34B global/largest
+      reinsurance company worldwide. Her focus is on strengthening the culture
+      of agile innovation for a 4'000 employee organization. She has been
+      selected as the Winner of the prestigious 2019 FinNext Award for her
+      innovative and forward looking contribution to the financial services
+      industry. 
+
+
+      She coaches numerous executive teams and senior vice presidents in the
+      area of executive presence and emotional intelligence, as a certified
+      emotional intelligence and management coach and advisor. Prior to this,
+      Marina has gained substantial leadership experience driving growth for Big
+      4 and Fortune 500 companies globally. 
+
+
+      BOARD EXPERTISE: Marina is the founder of The Peak Alliance, a NYC based
+      consultancy focused on executive coaching and board advising. She is a
+      trusted board member and advisor, focusing on revolutionizing the
+      boardroom to complement digital transformation in underlying
+      organizations. Marina is a board advisor for Rutgers University, Leading
+      Disruptive Innovation Executive Education Program as well as a board
+      member and strategy committee co-chair at Governance Matters, with a
+      mission to build high-performing boards in NY. She studied board
+      governance with the most respected thought leaders in the field at the
+      Wharton School executive program “Boards that Lead”. She is a strong
+      advocate of board diversity and regularly mentors aspiring directors.
+
+
+      THOUGHT LEADERSHIP: Marina’s thought leadership on Board Governance is
+      published on Forbes. She is also a featured thought leader on Insurtech
+      matters featured on the number one platform in the industry, Insurance
+      Thought Leadership. She is a frequent keynote speaker on board
+      effectiveness, leadership and disruption for the prestigious Conference
+      Board Executive Coaching Conference in NYC, Disruption & Innovation Forum
+      NYC, TEDx salons etc. Marina is the founder of TEDx BethuneStreet, a
+      highly influential platform for TED-like ideas worth spreading in NYC.
+      Marina is an ICF certified executive coach and a faculty member in the EQ
+      Coaching Certification program founded by Prof. Daniel Goleman, pioneer of
+      emotional intelligence. She teaches Leadership and EQ at St John's
+      University Executive Education in NYC. Her work has been published by the
+      International Coaching Federation (ICF) and she served on the Panel of
+      Judges for the ICF International Prism Award, with a mission to annually
+      award the company with the highest coaching standards in the world.
+
+
+      GIVING BACK: Marina gives back generously by advising boards of
+      not-for-profit organizations. She is a board advisor for SixDegrees.org, a
+      charity founded by Hollywood actor Kevin Bacon, with a mission to improve
+      exposure and better outreach of small grassroots non-profit organizations.
+      She is also a board advisor for The New York Mindful Capoeira Center with
+      a mission to teach mindful capoeira in all city schools.
+
+
+      LIFE-LONG STUDENT: Currently studying Cybersecurity at Harvard Business
+      School and Digital Transformation at Berkeley, University of California
+
+
+      GLOBAL CITIZEN: Belgrade/Zurich/currently NYC. Speaks Serbian, English,
+      German, Italian, Spanish
     coachName: Marina Cvetkovic
-    jobTitle: Board Advisor and Boardroom Futurist | C-Suite Coach | TEDx Speaker
+    jobTitle: >-
+      Board Advisor/Boardroom Futurist, C-Suite Coach, Forbes Coach Council
+      Member, TEDx Speaker
     links:
       linkedin: marinacvetkovic
       website: www.thepeakalliance.com
-    photo: /uploads/_dsc9262-copy.jpg
+    photo: /uploads/dsc_9756_1-marina-cvetkovic-1-.jpg
     tags:
       - Executive Coach
       - Consultant
@@ -2432,13 +2486,12 @@ coachList:
       acceleration initiatives for high potential managing directors, senior
       women leaders, and high-producing traders. Previously, Shoma was a
       management consultant at Deloitte Consulting’s Strategy & Operations
-      practice and has roles at the Federal Reserve Bank and the United
-      Nations. 
+      practice and has roles at the Federal Reserve Bank and the United Nations.
 
 
       She has contributed to a number of publications including Harvard Business
       Review, Chief Executive magazine, Forbes, Leader to Leader Journal, and
-      The Handbook of Teaching Leadership.  
+      The Handbook of Teaching Leadership.
 
 
       Shoma earned a BA from Northwestern University in economics and math, an
@@ -2451,15 +2504,14 @@ coachList:
       husband Richard, where she is actively involved in refugee and
       resettlement efforts in New York and in her native country of Burma.
     coachName: Shoma Chatterjee Hayden
-    jobTitle: Leadership Development Expert
+    jobTitle: 'Leadership Development Expert, ghSMART & Co.'
     links:
       linkedin: shoma-hayden-2b308a2
-      website: 'https://ghsmart.com/shoma-chatterjee-hayden/'
-    photo: >-
-      https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/shomachatterjee_highres-shoma-chatterjee-hayden.jpg
+      website: www.ghsmart.com/shoma-chatterjee-hayden
+    photo: /uploads/shomachatterjee_highres-shoma-chatterjee-hayden-1-.jpg
     tags:
-      - Executive Coaches
-      - Consultants
+      - Executive Coach
+      - Consultant
   - bio: >-
       Howard Jacobson, PhD is co-founder and Chief of Behavioral Science at
       WellStart Health, a digital therapeutics platform and care team dedicated
@@ -2509,38 +2561,18 @@ coachList:
       - Speaker
       - Author
       - Entrepreneur
-  - bio: >-
-      Dr. Richard Osibanjo is a scientist, strategic business and leadership
-      advisor with expertise in pharmaceutical, biotechnology and semiconductor
-      industries. International and cross-cultural expertise includes Process
-      development, relationship management, leadership and talent development,
-      career development, and workforce engagement. Designs and delivers
-      workshops and training programs in the areas of customer/client
-      relationships, teamwork, communication, conflict resolution, and emotional
-      intelligence. Excels in fast-paced, challenging environments in
-      international organizations. Demonstrates strong analytical,
-      problem-solving, performance and quality improvement skills.
-
-
-      He is a published author and blogger who thrives in teaching scientists,
-      engineers, and technical disciplines how to improve their managerial,
-      leadership, and interpersonal skills so they can improve their performance
-      and enhance their productivity.
-
-
-      Richard is interested in making an impact on the global stage and
-      strategically making a difference in the workplace. In his spare time, he
-      enjoys traveling, performing music, writing and reading management theory.
+  - bio: "Dr. Richard Osibanjo is a leading expert, author, executive coach, program facilitator, and keynote speaker in transformational leadership and senior team performance. His work centers on helping senior leaders energize their organization with bold, transformational strategies that unlock human potential and new market growth. He currently serves as an Organizational Development Partner and trusted advisor to executive leaders at Intel Corporation. \r\n\nDr. Osibanjo was born and raised in Nigeria. A chemist by training, he received a B.Sc.  in Industrial Chemistry from the University of Ibadan in Nigeria, an M.Sc. in Analytical Chemistry and Environmental Chemistry from Loughborough University in the United Kingdom, and a Ph.D in Chemistry from the University of California, Davis. He is a\r\n\nJohn Maxwell certified leadership coach, trainer, and speaker. \r\n\nDr. Osibanjo resides in Portland, Oregon with his wife and two sons and is actively involved with his church and community. Through his educational foundation Connect-Learn-Grow (CLG), he works with local professionals to accelerate their leadership journey, and minority youths to pursue STEM careers through an innovative, project-based outreach program. He is also active in equipping emerging leaders in Nigeria to address systemic societal problems to spur socio-economic development.\r\r\n\nMore information: www.richardosibanjo.com"
     coachName: Richard Osibanjo
-    jobTitle: 'Organizational Development Partner, Leadership Coach, Speaker, and Trainer'
+    jobTitle: Dr.
     links:
       linkedin: richardosibanjo
+      website: www.richardosibanjo.com
     photo: /uploads/mg_richardosibanjo_bio3_photo-richard-osibanjo.jpg
     tags:
       - Executive Coach
-      - Consultant
       - Speaker
       - Author
+      - Entrepreneur
   - bio: >-
       Partner and Board Member of Archi – Leading Real Estate Development
       Company \
@@ -2706,8 +2738,7 @@ coachList:
     links:
       linkedin: glazer
       website: www.robertglazer.com
-    photo: >-
-      https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/ayr-headshot1-robert-glazer-1-.jpg
+    photo: /uploads/ayr-headshot1-robert-glazer-1-.jpg
     tags:
       - Consultant
       - Speaker
@@ -2717,43 +2748,27 @@ coachList:
       - Entrepreneur
   - bio: >-
       Dr. Stefanie K. Johnson is an associate professor of leadership at the
-      University of Colorado, Boulder's Leeds School of Business and author of
-      Inclusify: Harnessing the power of uniqueness and belonging to build
-      innovative teams published by Harper Collins.
-
-
-      Dr. Johnson studies the intersection of leadership and diversity, focusing
-      on (1) how unconscious bias affects the evaluation of leaders and (2)
-      strategies that leaders can use to mitigate bias.
-
-
-      She has published 60 journal articles and book chapters in outlets such as
-      Harvard Business Review and The Academy of Management Journal. She has
-      presented her work at over 170 meetings around the world including at the
-      White House for a 2016 summit on diversity in corporate America on
-      National Equal Pay Day.
-
-
-      She has extensive consulting experience and has created and delivered
-      leadership development training with an emphasis on evidence-based
-      practice. She has received $3,800,000 in external grant funding to study
-      leadership and create leadership development programs.
-
-
-      Media outlets featuring Stefanie’s work include: The Economist, Newsweek,
-      Time, Wall Street Journal, Bloomberg, HuffPost, Washington Post, Quartz,
-      Discover, CNN, ABC, NBC, CNBC. She has appeared on Fox, ABC, NBC, CNN, and
-      CNN International.
-
-
-      She has presented to, advised, or interviewed C-level officers at some of
-      the largest organizations in the U.S. such as: Starbucks, Salesforce, Gap
-      Inc., PayPal, General Motors, Netflix, and Accenture
+      University of Colorado, Boulder's Leeds School of Business. Dr. Johnson
+      studies the intersection of leadership and diversity, focusing on (1) how
+      unconscious bias affects the evaluation of leaders and (2) strategies that
+      leaders can use to mitigate bias. Stefanie has published 40 journal
+      articles and book chapters in outlets such as Harvard Business Review,
+      Journal of Applied Psychology and The Academy of Management Journal. She
+      has presented her work at over 50 meetings around the world including at
+      the White House for a 2016 summit on diversity in corporate America on
+      National Equal Pay Day and the 2016 Harvard Negotiation and Leadership
+      Conference. She has extensive consulting experience and has created and
+      delivered leadership development training with an emphasis on
+      evidence-based practice. She has received multiple million dollars in
+      federal and other grant funding to study leadership and create leadership
+      development programs aimed at increasing safety. Media outlets featuring
+      Stefanie’s work include: The Economist, Newsweek, Time, CNN, ABC, NBC,
+      CNBC, Wall Street Journal
     coachName: Stefanie Johnson
     jobTitle: Associate Professor of Management
     links:
-      linkedin: ''
-    photo: /uploads/stephanie-johnson.jpg
+      linkedin: stefanie-johnson-338942a4
+    photo: /uploads/johnson-stefanie-johnson-1-.jpg
     tags:
       - Consultant
       - Speaker
@@ -3068,8 +3083,7 @@ coachList:
     links:
       linkedin: moragbarrett
       website: www.SkyeTeam.com
-    photo: >-
-      https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/morag-barrett-3-morag-barrett-1-.jpg
+    photo: /uploads/morag-barrett-3-morag-barrett-1-.jpg
     tags:
       - Executive Coach
       - Consultant
@@ -3094,11 +3108,73 @@ coachList:
     links:
       linkedin: lindseypollak
       website: www.lindseypollak.com
-    photo: >-
-      https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/lindsey-pollak-close-up-headshot-lindsey-pollak-1-.png
+    photo: /uploads/lindsey-pollak-close-up-headshot-lindsey-pollak-1-.png
     tags:
       - Speaker
       - Author
       - Entrepreneur
+  - bio: >-
+      When his 4-year old daughter saw a plastic tub of cat litter in the woods,
+      little did Jeff realize that it would be the spark for creating Litterati
+      - a movement that’s “crowdsource-cleaning” the planet. Featured by
+      National Geographic, Rolling Stone, and Time Magazine, Litterati is backed
+      by the National Science Foundation and in partnership with the United
+      Nations and has been featured at TED.
+    coachName: Jeff Kirschner
+    jobTitle: Founder & CEO
+    links:
+      linkedin: jeffkirschner
+      website: www.litterati.org
+    photo: /uploads/jeff-kirschner-jeff-kirschner-1-.jpg
+    tags:
+      - Speaker
+      - Entrepreneur
+  - bio: >-
+      Tatiana Oliveira Simonian is a senior executive in marketing and business
+      development. She has worked for major corporations such as Verizon Media
+      (Tumblr), Twitter, Disney, Hot Topic and Nielsen. Simonian's area of
+      expertise is driving high growth in the digital space via compelling
+      marketing and BD with an emphasis on entertainment and the youth audience.
+      She has a passion for growing and leading high-performing teams. Her work
+      has been covered in numerous outlets, won Webby Awards and she was named
+      the Leading Woman in Social Media Engagement by Billboard Magazine. She is
+      also on the advisory board of the music start up, Vinyl Me, Please.
+
+
+      Prior to her 15 year career in tech, Simonian was an entertainment
+      journalist and editor for many years. She wrote for LA Weekly, LA Times,
+      Rolling Stone and was associate editor of a magazine called Anthem. During
+      this time, she also ran a successful digital marketing consultancy that
+      counted the Smashing Pumpkins, British band Placebo, vegan restaurant
+      chain Native Foods and more as clients.
+
+
+      Tatiana is an in-demand public speaker on the subjects of mindfulness in a
+      digital age, ethics in social media, marketing to  and cultivating
+      work/life balance. She is on the board of several non profits related to
+      STEAM education for under served communities, a Luminary donor for the
+      Step Up Women’s Network non profit.
+
+
+      Simonian is a citizen of Brazil and the United States and resides with her
+      husband and two dogs in Los Angeles. Their family is crazy about sports,
+      entertaining and happen to be in a band together (both Tatiana and her
+      husband are touring music vets). Her husband Jeffrey works in the non
+      profit space teaching homeless preschool children. Their goal is to always
+      have their professional pursuits equal or exceed their philanthropic
+      efforts.
+    coachName: Tatiana Oliveira Simonian
+    jobTitle: 'Head of Media Partnerships, Verizon Media (Tumblr)'
+    links:
+      linkedin: tatianasimonian
+      website: www.tatianasimonian.com
+    photo: /uploads/screen-shot-2019-02-26-at-7.52.44-am-tatiana-grace-1-.png
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+      - Iconic Leader
+      - Corporate Executive
 ---
 
