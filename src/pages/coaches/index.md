@@ -3883,5 +3883,160 @@ coachList:
       - Author
       - Entrepreneur
       - Non-Profit
+  - bio: >-
+      James Feliciano is a leading pharmaceutical executive in Japan, with 14
+      years of experience in the Japanese market — with six of those years as a
+      country manager.  For the last 4 years, James has been the Vice President
+      and General Manager of Japan for AbbVie Pharmaceuticals, a global leader
+      in innovative biopharmaceuticals.  With a personal vision of “Living a
+      life with purpose and being the spark that ignites success,” James thrives
+      on building and contributing to impactful teams that truly make a positive
+      difference in the world.
+
+
+
+
+      James’ commitment to improving the lives of Japanese patients has been
+      evident from the earliest stages of his professional career in Japan.  As
+      the Head of the Vaccine Division for Pfizer Japan, James led a broad
+      coalition of patient groups, physician groups, industry and government
+      advocates to effectively completely overhaul the infant vaccination
+      program to ultimately include new, innovative vaccines.  As a result,
+      terrible illnesses such as bacterial meningitis have virtually been
+      eliminated in Japan.
+
+
+
+
+      As the President of AbbVie Japan for the last four years, James has driven
+      organizational change and employee engagement, setting a new benchmark for
+      the industry in Japan.  Through the last 4 years, James has led AbbVie
+      Japan to move from a pharmaceutical sales ranking of 37 to 15.  Through
+      this period, AbbVie Japan has nearly doubled the number of employees, but
+      through well-orchestrated employee engagement initiatives, Employee
+      Engagement scores have consistently improved.  AbbVie Japan now ranks #13
+      in the “Great Place to Work” annual survey.  In their new office opened in
+      early 2019, AbbVie Japan is demonstrating that a flexible work environment
+      utilizing technology that supports employees work/life balance is not only
+      a viable model in Japan, but that employees can thrive and make an even
+      larger impact in their jobs.
+
+
+
+
+      James first visited Japan as a college junior while a student at
+      Hampden-Sydney College, a historic all-male college in Virginia.  Upon
+      graduation, James enrolled at the University of Michigan, where he
+      graduated with a MA in Japanese Studies.  He then spent the majority of
+      his twenties living in rural Japan, mastering the Japanese language,
+      teaching English and learning Kendo (bamboo sword fighting) and
+      calligraphy.  His insatiable taste for wanderlust found him backpacking
+      through Asia for 1 year as well - from China to Tibet, overland to Nepal
+      and India, followed by Southeast Asia.  After receiving an MBA from
+      Cornell University in 2002, James entered the pharmaceutical industry,
+      where he has dedicated his life to helping patients.
+    coachName: James Feliciano
+    jobTitle: 'Vice President, General Manager of AbbVie Japan'
+    links:
+      linkedin: james-feliciano-7688361
+    photo: /uploads/0521a1e1-03d9-4e3c-8f4b-4cc88d9f0b25-james-f.jpeg
+    tags:
+      - Consultant
+      - Speaker
+      - Corporate Executive
+  - bio: >-
+      Recognized as a leadership and development innovator, Alexi is the
+      co-founder and CEO of BetterUp, the first leadership development platform
+      to connect coaching to sustainable behavior change. As CEO, Alexi leads
+      BetterUp on its mission to enable all professionals to live with greater
+      clarity, purpose, and passion.
+
+
+
+
+      Prior to BetterUp, Alexi was Director of Product Management at VMware. He
+      led product and design teams to build enterprise collaboration software
+      that earned Gartner’s “best in class” distinction. He also witnessed the
+      changing relationship between employees and employers that’ll be key to
+      future human flourishing and innovation.
+
+
+
+
+      Alexi is Chairman of Youth Leadership America (YLA), a nonprofit he
+      co-founded in 2003, to foster peer-to-peer leadership development and
+      civic engagement in high school students. YLA has collaborated with
+      leading companies including Disney, Google, and Hilton Hotels to coach and
+      mentor future leaders.
+
+
+
+
+      Alexi holds a B.A. in political science and non-profit management with
+      summa cum laude distinction from the University of Southern California.
+    coachName: Alexi Robichaux
+    jobTitle: CEO & Co-Founder
+    links:
+      linkedin: alexirobichaux
+      website: www.betterup.co
+    photo: /uploads/alexi-robichaux-alexi-robichaux.jpg
+    tags:
+      - Speaker
+      - Corporate Executive
+      - Entrepreneur
+      - Non-Profit
+  - bio: >-
+      Courtney L. Holladay, Ph.D. is the Executive Director of the Leadership
+      Institute within Human Resources at the University of Texas MD Anderson
+      Cancer Center. She received her Master’s and Doctoral degrees in
+      Industrial Organizational Psychology from Rice University, holds her
+      license as a psychologist in the state of Texas and has earned her
+      International Coach Federation credential as an executive coach at the
+      professional certified coach level. With more than 15 years of experience
+      in healthcare, she currently leads programs in the Leadership Institute
+      focused on leadership development, enveloping curricula, mentoring,
+      coaching, selection, surveys and assessments, change enablement, teams and
+      personalized development for faculty and administrative leaders. She
+      focuses her team on evaluating the effectiveness of their programs,
+      ensuring evidence underlies their translation across the organization. She
+      is the author of numerous peer-reviewed articles in journals such as
+      Journal of Business and Psychology, Academy of Management Learning and
+      Education, Journal of Applied Psychology and Leadership and Organization
+      Development.
+    coachName: Courtney Holladay
+    jobTitle: 'Executive Director, Leadership Institute'
+    photo: /uploads/149243_holladay_c-courtney-holladay-min.jpg
+    tags:
+      - Executive Coach
+      - Corporate Executive
+      - Non-Profit
+  - bio: >-
+      Steve Borek (MCC, BCC, PMC, MBA) is founder and CEO of End Game Business,
+      a business, executive, and career coaching firm and has been coaching for
+      15 years. Steve had a successful 25 year career as a Sales Executive and
+      Manager in the IT ERP software application industry. Steve’s vision for
+      his business was to coach from anywhere to anywhere. He’s virtually
+      coached from seven countries to clients in 17 countries. Coaching clients
+      include entrepreneurs, high potentials, executives, teams, career
+      transition, and mentor coaches. In addition, Steve Borek is a faculty
+      leader at Coach University. He’s also been a guest blogger for Erickson
+      International, a Canadian ICF coaching school. Steve offers pro bono
+      services for The Coach Approach and The Coach Initiative who both serve
+      Non Profits. I believe in giving back. My favorite organization is the
+      Rescue Mission, a soup kitchen for the homeless and less fortunate. For 14
+      years I volunteered to either serve Thanksgiving and Christmas meals or
+      help in the kitchen preparing. I've lived abroad in SE Asia for almost
+      four years. I love to hike, scuba dive, golf, and practice yoga. I also
+      have an artsy side and have produced eight plays for community theatre.
+    coachName: Steve Borek
+    jobTitle: Master Certified Coach
+    links:
+      linkedin: steveborek
+      website: www.endgamebusiness.com
+    photo: /uploads/steveborek-1403-600px-head-shot-steve-borek.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Entrepreneur
 ---
 
