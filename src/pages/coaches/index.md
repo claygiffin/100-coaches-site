@@ -3197,5 +3197,57 @@ coachList:
       - Speaker
       - Author
       - Entrepreneur
+  - bio: >-
+      Darcy Verhun is the President of FYidoctors, the worlds largest doctor
+      owned private company that in just 11 years has emerged as one of the
+      fastest growing optical companies in North America.
+
+
+
+
+      Darcy obtained his MBA from the Richard Ivey School of Business.  Prior to
+      joining FYidoctors he has held senior leadership roles at Ernst & Young,
+      Grant Thornton and Cap Gemini.  Darcy has been recognized as a Fellow of
+      the Chartered Professional Accountants of Canada and also as a
+      Distinguished Alumni of MacEwan University.  He is a Certified Corporate
+      Director, Certified Management Consultant and holds a Bachelor of Commerce
+      degree from the University of Alberta.
+
+
+
+
+      Darcy’s leadership is based on being a life long learner and passionate
+      coach who lives his life with gratitude.  He is known for the energy and
+      commitment he brings to everything.  His role at FYidoctors brought with
+      it the inspiring alignment of his personal beliefs with an organization
+      whose purpose is ‘enhancing life’.  The company lives a coaching culture
+      with every single employee attending ‘Heart of Coaching’ training.  The
+      result is a team which encourages open feedback focused on addressing hard
+      issues while at the same time having positive intent for each other. 
+      Change and growth bring complexity and often fear.  At FYidoctors our
+      coaching culture strives to  ensure that everyone feels supporting in
+      taking the actions they believe are right.
+
+
+
+
+      Darcy was a founding Director of The Calgary Homeless Foundation where he
+      served as Treasurer from 1998 to 2017.  He serves today as a Director of
+      HomeSpace Society, a non-profit which is intent on eliminating
+      homelessness by building and managing permanent supportive housing for
+      vulnerable Calgarians.  In addition to his commitment to help those in
+      need he is a passionate skier with considerable experience as a downhill
+      ski racing coach; he has achieved the highest level of certification in
+      Canada as a Level IV instructor.
+    coachName: Darcy Verhun
+    jobTitle: 'President, FYidoctors | Visique'
+    links:
+      linkedin: darcy-verhun-113a66b
+      website: www.fyidoctors.com
+    photo: /uploads/darcyverhun-full-darcy-verhun.jpg
+    tags:
+      - Iconic Leader
+      - Corporate Executive
+      - Entrepreneur
 ---
 
