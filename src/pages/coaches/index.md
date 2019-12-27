@@ -3406,5 +3406,173 @@ coachList:
     tags:
       - Iconic Leader
       - Entrepreneur
+  - bio: >-
+      Frederick J. Lynch
+
+
+      President and CEO (retired)
+
+
+      Masonite International
+
+
+
+
+      Prior to his retirement in June of 2019 Frederick J. Lynch (Fred) served
+      as President and CEO of Masonite International (NYSE:DOOR) for 12 years. 
+      Masonite is a leading global manufacturer of residential and commercial
+      doors employing more than 10,000 employees providing the highest value
+      door products to customers in more than 70 countries around the world. 
+      During his tenure Fred led the company through the historic housing
+      recession, restructuring the company and capital structure which
+      eventually led to an IPO of the firm on the NYSE in 2013.
+
+
+
+
+      Fred joined Masonite from Alpharma, a global pharmaceutical company, where
+      he served as President of the Human Generics Division and Senior Vice
+      President of Global Supply Chain for the corporation before leading the
+      sale of 75% of the company to Actavis Pharmaceuticals.   Prior to joining
+      Alpharma in 2003, Fred’s career spanned 18 years at Honeywell
+      International (formerly AlliedSignal), most recently as Vice President and
+      General Manager of the Specialty Chemical Business.  He began his career
+      at AlliedSignal as a shift foreperson in a chemical manufacturing plant
+      and subsequently held various roles in manufacturing and general
+      management.
+
+
+
+
+      Fred (age 55) is a native of the Bronx, New York.  He received a B.S. in
+      Chemical Engineering from Villanova University and an M.B.A in Finance
+      from Temple University.
+
+
+
+
+      Fred serves on the board of Ingevity corporation, a specialty chemical
+      firm trading on the NYSE (NGVT). He is a member of the Moffitt Cancer
+      Center Foundation Board and is Vice Chairman of the Institute Finance and
+      Strategy Committee. He also serves as one of Moffit’s representatives on
+      the board of M2Gen, a for profit health informatics joint venture between
+      Moffit, Hearst and Ohio State cancer center. Fred was a founding director
+      of the Michael Lynch Memorial Foundation, a non-profit organization that
+      provides college scholarships to children of firefighters and victims of
+      9/11 (www.Mlynch.org).
+    coachName: Fred Lynch
+    jobTitle: Retired CEO Masonite
+    links:
+      linkedin: frederick-lynch-500623a9
+    photo: /uploads/fred-picture-2-fred-lynch-1-.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Corporate Executive
+  - bio: >-
+      John Baldoni is an internationally recognized leadership educator,
+      executive coach and speaks throughout North America and Europe. John is
+      the author of 14 books, including GRACE: A Leader’s Guide to a Better Us,
+      MOXIE: The Secret to Bold and Gutsy Leadership, Lead with Purpose, Lead
+      Your Boss, and The Leader’s Pocket Guide. John’s books have been
+      translated into 10 languages.
+
+
+
+
+      In 2018 Inc.com named John a Top 100 speaker and Trust Across America
+      honored John with its Lifetime Achievement Award for Trust. In 2019 Global
+      Gurus ranked John No. 9 on its list of Top 30 global leadership expert, a
+      list John been on since 2007. In 2014 Inc.com listed John as a Top 50
+      leadership expert.
+
+
+
+
+      John established a career as a highly sought after executive coach, where
+      he has had the privilege of working with senior leaders in virtually every
+      industry from pharmaceutical to real estate, packaged goods to
+      automobiles, and finance to health care.
+
+
+
+
+      John has authored more than 700 leadership columns for a variety of online
+      publications including Forbes, Harvard Business Review and Inc.com John
+      also produces and appears in a video coaching series for SmartBrief, a
+      news channel with over 4 million readers. John’s leadership resource
+      website is www.johnbaldoni.com
+    coachName: John Baldoni
+    jobTitle: 'President, Baldoni Consulting LLC'
+    links:
+      linkedin: jbaldoni
+      website: www.johnbaldoni.com
+    photo: /uploads/john-smile-john-baldoni-1-.png
+    tags:
+      - Executive Coach
+      - Speaker
+      - Author
+  - bio: >-
+      Jonathan centers his speaking and executive coaching work with
+      organizations and senior executives to measurably improve their leadership
+      effectiveness and business performance especially in the areas of Service
+      Quality, Sales Performance, Leadership Communication and Team Development.
+      He believes that "Increased self-awareness accelerates professional
+      relations and business success".
+
+
+
+
+      Jonathan has more than 30 years of professional & international business
+      experience in executive positions in the service industry and has worked
+      with executives and their leadership teams throughout Asia and the Middle
+      East. Prior to his executive coaching, speaking and consulting career, he
+      has held several positions in key leadership and executive roles with
+      various global five star hospitality groups in Asia.
+
+
+
+
+      A Certified Speaking Professional (CSP) and one of Asia leading
+      Sales/Service Mastery & Leadership Performance Coach, Jonathan has
+      successfully delivered his high energy, fun and highly engaging programs
+      to international participants (ranging from executives to senior managers
+      and directors) across Asia Pacific & the Middle East), besides being a
+      transformational speaker at numerous international conferences.
+
+
+
+
+      Jonathan is also a ICF Professional Certified Coach (PCC) and a Certified
+      Coach with Marshall Goldsmith Stakeholder Centered Coaching, working with
+      executive teams to measurably improve their leadership and organizational
+      effectiveness. He is also the certified advanced trainer by Six Seconds
+      Emotional Intelligence (EQ), Certified Identi3 Trainer and Consultant, 6D
+      of Breakthrough Learning Co, Certified Mental Toughness Coach, Reina Trust
+      Building Institute, Jack Canfield Training Group,  and uses the tools
+      ,resources and knowledge to help organizations model excellence and peak
+      performance at the workplace.
+
+
+
+
+      Described by clients as inspiring, empowering, energetic and thought
+      provoking yet caring, Jonathan continues to let leaders explore deeper
+      levels of self-awareness and help them experience how this leads to
+      greater personal and business success.
+    coachName: Jonathan Low
+    jobTitle: >-
+      Global Conference Speaker, Leadership Success Coach, Author, President,
+      CEO
+    links:
+      linkedin: JonathanLow
+      website: www.JonathanLow.net
+    photo: /uploads/jon-new-orleans-jonathan-low.jpg
+    tags:
+      - Executive Coach
+      - Speaker
+      - Author
+      - Entrepreneur
 ---
 
