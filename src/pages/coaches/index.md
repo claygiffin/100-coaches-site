@@ -3176,5 +3176,13 @@ coachList:
       - Author
       - Iconic Leader
       - Corporate Executive
+  - bio: "After earning my Bachelor of Business Administration degree from Howard University, I began a career in underwriting. I became the first woman in Bermuda to earn my CPCU (Chartered Professional Commercial Underwriter) designation. As I continued in my insurance career, I was selected for leadership roles to manage larger blocks of business, lead new product launches, and open new operations. Currently, I am the Country Manager for AIG in Bermuda.\r\n\n\r\n\nI wrote the first book on the history of the international insurance industry, Held Captive - A History of International Insurance in Bermuda. This involved a tremendous amount of research including hundreds of interviews. This has led to frequent requests to write and speak on the subject, locally and internationally.\n\n\r\n\nBeyond my professional responsibilities, I have served in community and civic leadership roles, including serving as the only female commissioner of the SAGE Commission. I have led and contributed to numerous professional development and networking programs to advance other professionals in my industry. Because I am passionate about continuous professional development, I have completed executive programs through Wharton as well as MIT. In 2018 I was chosen to be a Fellow for the International Women’s Forum."
+    coachName: Catherine Duffy
+    jobTitle: Country Manager AIG Bermuda
+    links:
+      linkedin: catherine-r-duffy-10a32b6
+    photo: /uploads/catherine-duffy-headshot-standing-1.2019-catherine-duffy.jpg
+    tags:
+      - Corporate Executive
 ---
 
