@@ -4453,5 +4453,308 @@ coachList:
       - Speaker
       - Corporate Executive
       - Entrepreneur
+  - bio: >-
+      Tom Griffiths is the co-founder and CEO of Hone, a technology company
+      reimagining leadership and manager training for modern teams. Prior to
+      Hone, Tom was co-founder and Chief Product Officer at gaming unicorn
+      FanDuel, where over a decade he helped create a multi-award winning
+      product and a thriving distributed team. He has had lifelong passions for
+      education, technology and business and is grateful for the opportunity to
+      combine all three at Hone. He lives with his wife and daughter in San
+      Diego.
+    coachName: Tom Griffiths
+    jobTitle: CEO & Co-founder of Hone
+    links:
+      linkedin: tomgriffithsuk
+    photo: /uploads/tom_headshot-tom-griffiths.jpg
+    tags:
+      - Executive Coach
+      - Corporate Executive
+      - Entrepreneur
+  - bio: >-
+      Dr. Anna Yusim is an award-winning, Stanford- and Yale-educated, Board
+      Certified Psychiatrist with a robust private practice in New York City. On
+      the Clinical Faculty at Yale Medical School, Dr. Yusim is internationally
+      recognized as a trailblazer among physicians, a gifted speaker, and the
+      best-selling author of Fulfilled: How the Science of Spirituality Can Help
+      You Live a Happier, More Meaningful Life. Having personally helped over
+      1200 patients live happier, more meaningful lives, Dr. Yusim is presently
+      starting a Spirituality and Mental Health Center at Yale.
+
+       
+
+      Dr. Yusim has published over 70 academic articles, book chapters,
+      scientific  abstracts and book reviews on various topics in psychiatry.
+      She has been a guest on countless national and international TV shows,
+      radio programs and podcasts. She is a highly sought-after speaker and has
+      received numerous awards and distinctions including the National Institute
+      of Mental Health Outstanding Research Resident Award, the American
+      Psychoanalytic Association Fellowship, the William Webb Fellowship from
+      the Academy for Psychosomatic Medicine, the American Psychiatric Institute
+      for Research & Education (APIRE) Janssen Research Award, the Seed Research
+      Grant from the American Medical Association, First Prize in the Sermo
+      Resident Challenge, the Carta Fellowship from the World Psychiatric
+      Association, the Janet M. Glasgow- Rubin Award for Women Leaders at Yale
+      Medical School, the William F. Downs Fellowship for International
+      Research, the Max Kade Fellowship, the Samuel F. and Sara G. Feinman
+      Scholarship for Leadership, the Foreman Fleisher Foundation Scholarship
+      for Academic Excellence, the Golden Award for Top Thesis written in the
+      Humanities at Stanford University, the Hoefzer Prize for Top Essay Written
+      in Stanford University Course, the Bessie F. Lawrence International
+      Fellowship, and the National Science Foundation Scholarship.
+    coachName: 'Anna Yusim, MD'
+    jobTitle: 'Medical Doctor / Board-Certified Psychiatrist '
+    links:
+      linkedin: annayusim
+      website: www.annayusim.com
+    photo: /uploads/a820d83f-6195-4125-8e53-47c0a76a677a-anna.jpeg
+    tags:
+      - Executive Coach
+      - Speaker
+      - Author
+      - Iconic Leader
+  - bio: >-
+      For the past two decades, Charlene Li has been helping people see the
+      future. She’s an expert on digital transformation, leadership, customer
+      experience and the future of work and the author of six books, including
+      the New York Times bestseller “Open Leadership” and the co-author of the
+      critically-acclaimed book “Groundswell”. Her latest book is the bestseller
+      The Disruption Mindset.
+
+
+
+
+      She’s also an entrepreneur, the Founder and Senior Fellow at Altimeter, a
+      disruptive analyst firm that was acquired in 2015 by Prophet. Charlene was
+      named one of the Top 50 Leadership Innovators by Inc, and one of the most
+      creative people in business by Fast Company. She serves on the regional
+      board of YPO, a global network of 27,000 CEOs. Charlene graduated magna
+      cum laude from Harvard College and received her MBA from Harvard Business
+      School. She lives in San Francisco.
+    coachName: Charlene Li
+    jobTitle: 'Senior Fellow at Altimeter, a Prophet company'
+    links:
+      linkedin: charleneli
+      website: www.charleneli.com
+    photo: /uploads/charlene-li-square-charlene-li-1-.jpg
+    tags:
+      - Executive Coach
+      - Speaker
+      - Author
+      - Entrepreneur
+  - bio: >-
+      Neelam Verma is a TV Presenter and Communications Coach
+
+
+
+
+      She won the Miss Canada title and competed on a world stage at the Miss
+      Universe pageant to an audience of 2 billion where she placed as a top 10
+      finalist. She presented TV shows for leading networks around the world
+      including CNN, ESPN, Discovery Channel and Rogers Media.
+
+
+
+
+      With over two decades of world-class experience, Neelam helps leaders
+      elevate their brand and communicate their message powerfully to audiences.
+      She taps into her media expertise, corporate background and experience
+      winning on a world stage to coach leaders on how to win on-camera,
+      on-stage, on-line and in the boardroom.
+
+
+
+
+      She shares industry insights on how to own the room, overcome fear,
+      communicate with authenticity, and gain a competitive edge with executive
+      presence, media training and a winning mindset.
+
+
+
+
+      Neelam graduated from a leading Canadian business school and worked as
+      brand marketer for Procter & Gamble before launching a career in media.
+      She has worked with Fortune 500 companies, international brands, media
+      networks, start-ups, universities and non-profits.
+
+
+
+
+      Neelam has had the privilege of interviewing high profile individuals
+      including celebrities, royalty, New York Times authors, CEOs,
+      entrepreneurs, athletes and spiritual leaders. Notable interviews include
+      the Dalai Lama, Marshall Goldsmith and Ronaldinho.
+
+
+
+
+      Her career has taken her across the globe from Canada, USA, India and the
+      Middle East. Neelam supports global initiatives that empower women and
+      champion diversity in the workplace.
+
+
+
+
+      For speaking, coaching, media training, corporate workshops and
+      communications consulting contact neelamvermainc@gmail.com
+
+
+      www.neelamverma.com
+    coachName: Neelam Verma
+    jobTitle: TV Presenter and Communications Coach
+    links:
+      linkedin: neelamverma1
+      website: www.neelamverma.com
+    photo: /uploads/neelam-neelam-verma.jpeg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+  - bio: >-
+      Karin Stawarky has spent over 20 years at the intersection of strategy and
+      organization as a seasoned executive coach and advisor to CEOs, founders,
+      and business leaders from the Fortune 100 to start-up companies across a
+      range of industries. She brings a strategic general management mindset and
+      deep organizational expertise to increase the effectiveness of leaders and
+      organizations. As Managing Partner and Founder of Spark Leadership
+      Partners, a boutique coaching and advisory ﬁrm, she is the one whom
+      individuals, teams, and organizations turn to when they are ready to
+      maximize their potential and experience massive growth.
+
+
+
+
+      Karin provides unique experience and perspectives in leading through
+      change and uncertainty – from rapid growth, strategic shifts,
+      mergers/acquisitions, and turnarounds – in her work with clients. While
+      serving in executive level positions at companies such as Vistaprint (as
+      Chief Talent & Experience Officer), and Monitor Deloitte, a global
+      strategy consulting ﬁrm, she created and led transformational initiatives
+      that enhanced organizational performance and well=being while defining and
+      evolving the strategic direction for growth. As a Partner at Monitor, she
+      co-founded the Executive Development business unit and was a global leader
+      of the Organization business unit. Unafraid to ask the tough questions and
+      challenge assumptions while oﬀering thoughtful guidance, she is an expert
+      at enabling her clients to articulate and execute on their vision while
+      elevating the way they lead in the process.
+
+
+
+
+      Karin is an executive coach in Harvard Business School’s ﬂagship executive
+      education programs for global leaders. She is an Executive in Residence at
+      Babson College, where she also is adjunct faculty at Babson’s Center for
+      Women’s Entrepreneurial Leadership and an advisor/coach to women
+      entrepreneurs in their venture incubator (WIN Lab). Karin also is an
+      executive coach with the Center for Creative Leadership. She has writing
+      collaborations with senior faculty at the Center for Positive
+      Organizations at the Ross School of Business at University of Michigan in
+      the area of leadership effectiveness and organizational engagement. Karin
+      is adjunct faculty in executive education and MBA programs at the Amos
+      Tuck School of Business at Dartmouth College and Babson. Beyond her work
+      as a coach and advisor, Karin is a speaker who lends her voice to
+      conversations surrounding leadership, organizational change, energizing
+      cultures, and team performance. With a focus on the human side of
+      business, she oﬀers insightful talks that engage, inform, and inspire.
+
+
+
+
+      Karin is a Phi Beta Kappa, summa cum laude graduate of Bowdoin College and
+      received her MBA from the Amos Tuck School of Business at Dartmouth
+      College, where she received several awards in leadership and general
+      management excellence. Karin is a certified executive coach; she is an
+      affiliate member of the Institute of Coaching – McLean Hospital/Harvard
+      Medical School and a member of the International Coaching Federation
+      (ICF).  She is trained and experienced in numerous assessments and
+      methodologies. Karin serves in a board capacity in early stage as well as
+      non-profit organizations.
+    coachName: Karin Stawarky
+    jobTitle: Managing Partner and Founder
+    links:
+      linkedin: karin-stawarky-44b217
+      website: www.sparkpartnersllc.com
+    photo: /uploads/stawarky-headshot-karin-stawarky-karin-stawarky.jpg
+    tags:
+      - Executive Coach
+  - bio: "Beth Polish started her career in a small advanced-research group at D&B, reporting to the CTO.  She was a pioneer in the New York tech community – founding COO/CFO of iVillage, president of Dreamlife (co-founded with Tony Robbins and backed by Allen & Co.), managing director at KPMG working with clients’ digital initiatives, and CFO of Goldman Sachs Ventures.\_\_ She has wide deal experience as an investment banker and as a partner with a venture firm, and she has negotiated game-changing strategic partnerships and raised $300+MM from leading institutional and strategic investors.\n\n\n\nAt Hearst Corp., reporting to the CEO, Beth created and for 5 years led Hearst Corporate Innovation, fostering a company-wide culture of innovation and knowledge-sharing, building bridges at all levels across seven siloed business groups, and establishing a pipeline of internally-generated ideas for new digital businesses.\n\n\n\nBeth is a big-picture thinker who can see and communicate the essence of business opportunities and effective strategies for making them happen.  She brings to her work as consultant and coach years of experience as an entrepreneur and executive at the intersection of media, entertainment, information, and digital transformation, informed by the anthropology-based perspective of looking at the world through other people’s eyes.\n\n\n\nAs founder of The Critical Junctures Group Beth works closely with senior decision makers to help them find the insights and strategies they need to navigate through critical junctures.   Her goal is to consistently provide vision, create value, and produce results.  Representative engagements include a big-data analytics company working with a Fortune 100 client and the UK’s largest weight-loss company.\n\n\n\nBeth speaks around the country and internationally, including at the Stockholm School of Economics, the European Journalism Centre, and Best Buy, and for years was an adjunct professor at NYU.\n\n\n\nBeth was a producer of PBS’s\_An American Tribute to Vaclav Havel,\_Farm Aid IV,\_and 3 Grammy-nominated children’s programs.\_ Board memberships include UGA’s Grady College of Journalism and Mass Communication, WAHVE, and What Will It Take Movements. She has an AB in anthropology from Franklin and Marshall College and an MBA from Harvard."
+    coachName: Beth Polish
+    jobTitle: 'Innovation Leader, Growth Strategist, Change Catalyst, Trusted Advisor'
+    photo: /uploads/beth-polish-headshot-color.crop-beth-polish.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+      - Corporate Executive
+      - Entrepreneur
+  - bio: >-
+      Tiffani Bova is the growth and innovation evangelist at Salesforce and the
+      author of the Wall Street Journal and 800-CEO-READ bestselling book GROWTH
+      IQ: Get Smarter About the Choices that Will Make or Break Your Business
+      (Portfolio). Bova was recently named to Thinkers50’s Radar Class of 2019
+      and was Thinker of the Month in December 2018. She has appeared on MSNBC
+      and Yahoo Finance, among others, and was featured in the January 2019
+      issue of Rotman Management Magazine's Disruption Issue. She has also
+      contributed to publications including Harvard Business Review, Forbes,
+      Entrepreneur, and Huffington Post, and is a frequent guest on Wharton
+      Business Radio and a variety of industry-leading podcasts.
+
+
+
+
+      As host of What's Next! with Tiffani Bova, one of the top 100 business and
+      marketing podcasts on iTunes and top sales podcast of 2018 and 2019
+      according to Top Sales Magazine, she has interviewed guests from Arianna
+      Huffington and Tom Peters to Dan Pink.
+
+
+
+
+      Bova is a top influencer in Customer Experience, Digital Transformation,
+      the Future of Work, and Sales, and she was recently recognized as one of
+      Inc. Magazine's 37 Sales Experts You Need to Follow on Twitter, a LinkedIn
+      Top Sales Expert to follow in 2019, a Top 100 Women in Tech, a Brand
+      Quarterly Magazine Top 50 Marketing Thought Leader, and one of the most
+      Powerful and Influential Women in California according to the National
+      Diversity Council. Her book Growth IQ was one of 800-CEO-READ's top 5
+      strategy and leadership books of 2018, and the #1 Salesforce, Dreamforce
+      Bookstore seller in 2018.
+
+
+
+
+      Having delivered over 500 keynote presentations on sales transformation
+      and business model innovation to over 400,000 people on six continents,
+      Bova is highly sought after keynote speaker. Prior to working with
+      Salesforce she was a Distinguished Analyst and Research Fellow at Gartner
+      where she won the Thought Leadership award and earned accolades from the
+      best leaders in the technology world for her cutting-edge analysis and her
+      skill at inventing bold strategies for growth.
+
+
+
+
+      Bova has also lived in the fast lane of high tech, leading sales,
+      marketing and customer service organizations, driving growth and creating
+      durable competitive advantages for startups and Fortune 500 Companies
+      alike such as Sprint, Inacom, Interland (web.com) and Gateway Computers.
+      Throughout, she learned how to lead sales and marketing teams in hotly
+      competitive markets. She is considered one of the early pioneers of cloud
+      based sales strategies, and completely reinvented indirect "go-to-market"
+      tactics in several hardware and services businesses. Her high velocity
+      years at the front lines also gave Bova the hands-on expertise executives
+      crave in their strategic partners and made her an authentic, passionate
+      and brilliant advocate committed to her clients’ success and prosperity.
+    coachName: Tiffani Bova
+    jobTitle: 'Chief Innovation Evangelist, Salesforce / Author / Keynote Speaker'
+    links:
+      linkedin: tiffanibova
+      website: www.tiffanibova.com
+    photo: /uploads/20141215_tiffani_bova_0142r-tiffani-bova.jpg
+    tags:
+      - Consultant
+      - Speaker
+      - Author
 ---
 
