@@ -3249,5 +3249,162 @@ coachList:
       - Iconic Leader
       - Corporate Executive
       - Entrepreneur
+  - bio: >-
+      Ekpedeme “Pamay” M.  Bassey is Chief Learning Officer for the Kraft Heinz
+      Company, where she creates a culture of continuous learning and drives the
+      company’s global learning and development strategy and initiatives through
+      Ownerversity, Kraft Heinz’s corporate university. Pamay has deep expertise
+      in learning theories derived from artificial intelligence research and
+      practical experience designing and developing highly-rated learning
+      solutions and transformative professional development programs.
+
+
+
+
+      Prior to Kraft Heinz, Pamay served as the Global Head of Learning Platform
+      and Professional Development for BlackRock. Before that, she was president
+      of The Pamay Group, an e-learning design and strategy company.
+
+
+
+
+      Pamay is also Chief Experience Officer of the My 52 Weeks of Worship
+      Project, through which she facilitates courageous conversations about
+      cultural and interfaith diversity, inclusion, and understanding. Her 2018
+      TEDx talk, Navigating Sacred Spaces, is based on her project work and her
+      book: My 52 Weeks of Worship: Lessons from a Global, Spiritual, Interfaith
+      Journey.
+
+
+
+
+      She serves on the Board at the M&G Etomi Foundation, which exists to
+      exists to break the harsh cycle of poverty by creating various programs
+      and activities to teach the value of self-empowerment and improvement to
+      the people of the Niger Delta region in Southern Nigeria, and as Chair of
+      the National Advisory Board for The Haas Center for Public Service at
+      Stanford University. She is a life member of the Council on Foreign
+      Relations and a Diamond Life Member of Delta Sigma Theta Sorority,
+      Incorporated, a public service organization.
+
+
+
+
+      Pamay earned a B.S. in symbolic systems from Stanford, with an artificial
+      intelligence concentration, and a M.S. in computer science from
+      Northwestern. She is also a graduate of the Second City Conservatory
+      program in Chicago, an advanced study of improvisational comedy and
+      theater.
+    coachName: Ekpedeme "Pamay" M. Bassey
+    jobTitle: 'Chief Learning Officer, Chief Experience Officer'
+    links:
+      linkedin: pamay
+    photo: /uploads/_bp_4969-1-pamay-bassey.jpg
+    tags:
+      - Speaker
+      - Author
+      - Corporate Executive
+      - Entrepreneur
+      - Non-Profit
+  - bio: >-
+      "Halee Fischer-Wright’s passion to help people led her to become a
+      physician. Today, that same passion drives her work as a bestselling
+      author, a speaker, a healthcare and organizational strategist, a leader,
+      and a coach.
+
+
+
+
+      Halee has spent the past 16 years becoming an expert in organizational
+      culture, strategy, and turnarounds. As president of Rose Medical Group,
+      she helped grow the organization to 560 physicians and a best-in-class
+      ranking. She then spent two years as a chief medical officer, helping a
+      regional hospital improve operations and outcomes. At the same time, she
+      earned her MA in medical management from USC’s Marshall School of
+      Business, a certificate in executive coaching from Georgetown University,
+      and a Fellowship in the American College of Medical Practice Executives.
+
+
+
+
+      As a consultant and partner with CultureSync, she worked with executive
+      teams in Fortune 100 companies, specializing in strategy, leadership
+      development, and building high-performance teams. In 2008, she coauthored
+      the New York Times bestseller Tribal Leadership with Dave Logan and John
+      King.
+
+
+
+
+      Now, as CEO of the Medical Group Management Association, which represents
+      practices and groups that deliver more than half of the healthcare in
+      America, Halee has led a traditional healthcare association into greater
+      influence, thought leadership, and member value with a renewed focus on
+      its mission: to lead meaningful transformation in healthcare. Together
+      with the executive team, she has worked to grow MGMA’s membership from
+      30,000 to 58,000 while focusing on lean and sustainable operations. And in
+      2017, she released the national bestseller Back to Balance to help guide
+      the right kind of frontline-driven change in healthcare by balancing the
+      art, science, and business of medicine.
+
+
+
+
+      Halee has been recognized for her work in innovation, business,
+      technology, and women’s leadership. She has been named a Top 100
+      Healthcare Leader and a Top 25 Women in Healthcare by Modern Healthcare
+      and a 100 Great Leaders in Healthcare by Becker’s Hospital Review, among
+      other awards. She regularly publishes articles on healthcare and
+      leadership, or is sought for her expertise by media outlets such as Forbes
+      and Modern Healthcare.
+
+
+
+
+      As a speaker and panelist, Halee appears at regional and national events.
+      In addition to addressing the challenges of the healthcare industry, she
+      speaks on creating cultures of excellence, innovation, and women’s
+      leadership.
+
+
+
+
+      Halee lives in Denver with her husband, who is also a physician, and two
+      very spoiled dogs.
+    coachName: Halee Fischer-Wright
+    jobTitle: President and Chief Executive Officer
+    links:
+      linkedin: halee-fischer-wright-41a5152
+      website: www.drhalee.com
+    photo: /uploads/dr-halee-fischer-wright-headshot_100coaches_2019-hollon-kohtz.jpg
+    tags:
+      - Consultant
+      - Speaker
+      - Iconic Leader
+      - Corporate Executive
+      - Non-Profit
+  - bio: >-
+      Kent Taylor is the founder, CEO and Chairman of the Board of Texas
+      Roadhouse restaurants. Mr. Taylor, who has more than 30 years of
+      experience in the restaurant industry, opened the first Texas Roadhouse in
+      Clarksville, Indiana, in 1993. The company currently has more than 585
+      restaurants in 49 states and 10 countries. A Louisville native, Mr. Taylor
+      attended the University of North Carolina on a track scholarship, and he
+      earned a Bachelor of Science degree. A self-described ski bum, Kent enjoys
+      the ski slopes in Colorado and Utah. He is also a life-long Rolling Stones
+      fan, having attended more than 50 Rolling Stone’s concerts. Mr. Taylor is
+      an active supporter of a number of organizations, including Special
+      Olympics Kentucky and the Kentucky Nature Conservancy. He sits on the
+      board for Homes for Our Troops and the Leeds School of Business at the
+      University of Colorado Boulder. Mr. Taylor has three children, Michelle,
+      35; Brittany, 33; and Max, 23. In addition, he has 3 grandchildren.
+    coachName: Kent Taylor
+    jobTitle: CEO and Chairman of the Board
+    links:
+      website: www.texasroadhouse.com
+    photo: /uploads/taylor-kent-headshot-travis-doster-1-.jpg
+    tags:
+      - Iconic Leader
+      - Entrepreneur
 ---
 
