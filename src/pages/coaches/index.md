@@ -4242,5 +4242,216 @@ coachList:
       - Consultant
       - Author
       - Iconic Leader
+  - bio: >-
+      Dr, David S Cohen, Ed. D. has a vision: organizations that thrive by
+      living their values in good time and VUCA times. David's first career was
+      in elementary and high school education, where he built a reputation for
+      building school communities based on purpose and social responsibility.
+
+
+
+
+      Thirty-three years ago, David transitioned to corporate consulting. As a
+      consultant, David earned a reputation as a contrarian consultant, helping
+      leaders understand what is and what is not necessary to build a reliable
+      organization. He does not always follow what is popular in his chosen
+      field, becoming known as the contrarian consultant. David works with
+      leaders to establish the conditions in which they identify and sustain
+      authentic corporate cultures, value creation and a highly engaged
+      workforce for the firm to flourish.
+
+
+
+
+      He helps leaders' step into life's challenges, inspiring them to create a
+      sustained approach through a positive values-based focus, resulting in
+      better business results. David has had the privilege of partnering with
+      firms around the globe and across all business sectors. He also works with
+      governments and not-for-profits.
+
+
+
+
+      David loves his work as a thought leader in talent management, author and
+      speaker. What he cherrished the most s his time hanging out with his five
+      grandchildren and seeing the world through them.
+    coachName: David S. Cohen
+    jobTitle: Founder DS Cohen & Associates
+    links:
+      linkedin: david-s-cohen-0b0191
+      website: www.sagltd.com
+    photo: /uploads/david-cohen.jpeg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+  - bio: >-
+      Jenny Blake is the founder of Pivot Method, a change strategy company that
+      helps people and forward-thinking organizations map what’s next.  She is
+      the author of Pivot: The Only Move That Matters is Your Next One, which
+      won the Axiom Best Business Books award in the careers category. Jenny
+      also hosts the popular Pivot Podcast, which CNBC listed among 6 podcasts
+      to make you smarter about your career, and Entrepreneur selected as one of
+      the top 20 female-hosted business podcasts.
+
+
+
+
+      After two years at a technology start-up in Silicon Valley, followed by
+      five years at Google in Training and Career Development where she helped
+      co-create and launch the Career Guru drop-in coaching program, Jenny moved
+      to New York City in 2011 where she has been running her Pivot consulting
+      business in the years since. Today, Jenny works with forward-thinking
+      organizations such as Google, Microsoft, and CHANEL on rolling out
+      large-scale Pivot programs to help employees develop a Pivot mindset as
+      they map what’s next for the year ahead, and to help managers improve
+      their coaching skills for holding transformative 1:1 career conversations
+      with their team. She also runs a private coaching community, Momentum, to
+      help small business owners design and grow their ideal heart-based
+      business.
+
+
+
+
+      Jenny lives in Harlem with her husband Michael, and loves practicing yoga,
+      geeking out on systems and new technology, reading business books, and
+      ever-refining her meticulously color-coded bookshelves. Her motto: if
+      change is the only constant, let's get better at it. And when it comes to
+      work and solving big, creative challenges: Let it be easy, let it be fun.
+    coachName: Jenny Blake
+    jobTitle: 'Founder of Pivot Method, Author and Podcaster at Pivot'
+    links:
+      linkedin: jennyblake
+      website: www.PivotMethod.com
+    photo: /uploads/jenny_blake_pivot_author-and-podcast_2-jenny-blake-1-.jpg
+    tags:
+      - Consultant
+      - Speaker
+      - Author
+      - Entrepreneur
+  - bio: >-
+      Mike Maddock is an entrepreneur, a keynote speaker, an executive coach and
+      a writer.
+
+
+
+
+      He calls himself an Idea Monkey because he loves to solve problems with
+      disruptive ideas. This passion for problem solving led him to establish
+      Maddock Douglas, Inc. in 1991. Maddock Douglas has become an
+      internationally recognized innovation consultancy that has helped more
+      than 25% of the Fortune 100 create and launch new products, services and
+      business models.
+
+
+
+
+      Mike has launched six successful businesses. He also co-chairs the
+      Gathering of Titans Entrepreneurial Conclave at MIT, he is past president
+      of Entrepreneurs' Organization and Young Presidents' Organization, both
+      chapters located in Chicago.
+
+
+
+
+      A doodler, turned cartoonist, turned author, Mike has been using words and
+      pictures to get laughs and build ideas his entire life. Today, Mike is a
+      contributor to Forbes and author of four bestselling books: Free the Idea
+      Monkey...to focus on what matters most!, Brand New: Solving the Innovation
+      Paradox and Flirting With the Uninterested, Innovating in a Sold, Not
+      Bought Category. And finally, Plan D––his latest book about Disruptors.
+    coachName: Mike Maddock
+    jobTitle: CEO and Founding Partner Maddock Douglas
+    links:
+      linkedin: innovationexpert
+      website: www.maddockdouglas.com
+    photo: /uploads/mikebookphoto_new-backgroundhr_v2-mike-maddock-min-1-.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+      - Corporate Executive
+      - Entrepreneur
+  - bio: >-
+      Mr. Eugene Frazier is the CEO and President of EF Choice & Associates. He
+      strives to cultivate and bring about effectiveness and efficiency in all
+      business engagements. EF Choice and Associates is a business consulting
+      firm that delivers innovative high-quality services that enable companies
+      and Municipalities in real-time to meet and or exceed desired business
+      objectives. Our comprehensive service offerings are: Executive Coaching,
+      Leadership Development, Organizational Effectiveness and Demystifying Self
+      -Directed IRA investments.
+
+
+
+
+      Mr. Frazier is former Human Resources executive from Motorola Inc. who is
+      highly skilled in developing programs to help organizations increase
+      effectiveness and drive change initiatives. He develops and deploy
+      strategic protocol that enhance the capability of clients to retain
+      critical leadership talent and reduce the cost and impact of
+      organizational transitions.
+
+
+
+
+      He comes with a refined depth of experience as an executive coach with
+      certifications such as: Stakeholder Centered (SCC) by the #1 Coach in the
+      world, Dr. Marshall Goldsmith PhD., Master Certified Coach (MCC) by RHR
+      International and Certified Professional Life Coach (CPLC).
+
+
+
+
+      Mr. Frazier has over 25 years of executive leadership experience and
+      coaching expertise that extends across a host of industries and
+      professional disciplines i.e. Telecommunications, Academic Medical
+      Centers, Higher Education, Leadership Programming for Scientific Mindsets
+      and Entrepreneur Business Ownership.
+
+
+
+
+      Transformation Affiliations:
+
+
+      1) Forbes Coaches Council
+
+
+      2) LinkedIn Advisor
+
+
+      3) Business Advisor & Executive Coach (Leading Inclusively)
+
+
+      4) FlashPiont Leadership Consulting (Affiliate Member) 
+
+
+      5) Iplan Investment Group (Educator & Speaker)
+
+
+      6) Historically Under- Utilized Business (HUB Certified)
+
+
+
+
+      Based in Houston, Texas specialties include: Executive Coaching,
+      Leadership Development Strategist, Organizational Effectiveness,
+      Self-Directed IRA Investor and Educator, Business Consultant, Leadership
+      Strategy, C-Suite Pathway Coaching.
+    coachName: Eugene Frazier
+    jobTitle: CEO & President
+    links:
+      linkedin: eugene-frazier-8ab0a06
+      website: www.EFChoice.com
+    photo: /uploads/eugene_fraizer_01_302_print-eugene-frazier.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Corporate Executive
+      - Entrepreneur
 ---
 
