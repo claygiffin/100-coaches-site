@@ -3574,5 +3574,314 @@ coachList:
       - Speaker
       - Author
       - Entrepreneur
+  - bio: >-
+      TAEKO helps the Japanese and non-Japanese get closer to one another
+      through her superb communications skill and an understanding of
+      cross-cultural issues. Her highly professional translation for Marshall
+      Goldsmith during his visit to Japan received outstanding praise from both
+      Marshall and the audience. She is compassionate when she translates as she
+      experienced the disappointment of not being understood as a 12 year old,
+      attending a junior high school in US with no English skill.
+
+
+
+
+      In her current role at Sony promoting Diversity and Engagement and Talent
+      Development, she has been creating and facilitating a number of workshops
+      in Japanese and English on diverse topics including Leadership
+      Development, technical skills and human skills. She is known for her
+      empathy for participants’ situation, ability to ask pertinent questions
+      through coaching, creating an environment that optimizes learning and
+      transferring the learning to the workplace. She has a strong passion for
+      this field and is the first Japanese person to receive the Brinkerhoff
+      Certification - for High Performance Learning Journeys®.
+
+
+
+
+      To further contribute in this field, she has been actively teaching at
+      leading universities such as Tohoku Graduate University and Keio Graduate
+      School of Business Management in Japan, and SKEMA Business School in
+      France. She has also taught at the Association for Overseas Technical
+      Scholarship in Japan as Senior International Lead Lecturer for PMAJ
+      Association Japan.
+
+
+
+
+      Furthermore, her communication skill and ability to understand different
+      jobs through questioning have enabled her to support her father’s Resume
+      Pro business. Together with him, she has edited several hundreds of
+      resumes and has co-authored 3 books on self-promotion in Japanese.
+      applying her Career Consultant skills.
+
+
+
+
+      TAEKO has a B.A. in Sociology from Hitotsubashi University, one of the
+      leading universities in Japan and received a Diploma in Journalism from
+      Macleay College in Australia while working.
+
+
+
+
+      She enjoys living in Tokyo with her husband and Wonder, the pet robot
+      Aibo.
+    coachName: Taeko Inoue
+    jobTitle: >-
+      Communications expert (Japan and overseas), Facilitator, Coach, Career
+      Consultant, Author
+    links:
+      linkedin: taeko-inoue-29ab5118
+    photo: /uploads/201107j-win写真_-井上多恵子-1-.jpg
+    tags:
+      - Consultant
+      - Speaker
+      - Author
+  - bio: >-
+      Oleg Konovalov is a globally-recognized thought leader, international
+      speaker, and consultant to Fortune 500 companies. Oleg made his way from a
+      deep-sea trawler engine room facing gale eleven to the top managerial
+      positions and global rankings. Oleg is on the Thinkers50 Radar and has
+      been recognized as #1 Global Thought Leader on Culture by Thinkers 360 in
+      2019.
+
+
+
+
+      He is the author of a several books including LEADEROLOGY which defines
+      the beginning of the Renaissance period in modern management and
+      leadership while helping leaders to reach a new level of success,
+      Corporate Superpower which is named a bible of culture management for
+      modern leaders, and Organisational Anatomy which discusses organizations
+      and management from a biological perspective.
+
+
+
+
+      Oleg is passionate to help companies to make a leap in performance. His
+      work identifies leaders’ and entrepreneurs’ strategic needs and helps them
+      to drive their companies to success. He always offers unique perspectives
+      and approaches to enhance the role of people and improve performance and
+      help leaders to attune their companies, culture, and leadership into a
+      customer-centered business at the age of digitalization.
+
+
+
+
+      Oleg received his doctoral degree from the Durham University Business
+      School. He is a visiting lecturer at a number of business schools, a
+      Forbes contributor and high in-demand speaker at major conferences around
+      the world. Originally from Russia, he is based in Birmingham, UK and
+      Moscow, Russia.
+
+
+
+
+      More information http://olegkonovalov.com/
+
+
+      LinkedIn https://www.linkedin.com/in/dr-oleg-konovalov-a6a3401a/
+    coachName: Oleg Konovalov
+    jobTitle: 'Global thought leader, international speaker, author and consultant'
+    links:
+      linkedin: dr-oleg-konovalov-a6a3401a
+      website: www.olegkonovalov.com
+    photo: /uploads/olegkonovalov-2-oleg-konovalov-2-.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+  - bio: >-
+      Michelle Tillis Lederman, CSP is an expert on workplace communications and
+      relationships. Michelle's mission is to help people work better together
+      and advance their individual impact.
+
+
+
+
+      Named by Forbes as one of the Top 25 Networking Experts, Michelle is a
+      speaker, trainer, coach, and author of four books including The Connectors
+      Advantage and the internationally recognized, The 11 Laws of Likability.
+
+
+
+
+      As CEO of Executive Essentials, she provides customized communications and
+      leadership programs for fortune 500, non-profit, university and government
+      clients including the NYPD, Colgate Palmolive, JPMorgan, J&J, Deutsche
+      Bank, Michigan State University, MetLife, Sony, Ernst & Young, the
+      Department of Environmental Protection, and Madison Square Garden.
+      Passionate about education, Michelle served as a Professor at NYU’s Stern
+      School of Business, on the faculty of the American Management Association,
+      Lehigh Executive Education, and Rutgers Executive Education.
+
+
+
+
+      A regular media contributor, her column on INC.com is syndicated to Thrive
+      Global and other outlets. She has appeared on CBS, NBC, Fox, NPR, CNBC,
+      the NY Times, the Wall Street Journal, Working Mother, US News & World
+      Report, MSNBC, Forbes and USA Today.
+
+
+
+
+      Michelle spent a decade in finance with positions in audit, M&A, financial
+      consulting, VC, and hedge fund investing. She received her BS from Lehigh
+      University, her MBA from Columbia Business School, and holds the PCC
+      certification from the International Coaching Federation.
+
+
+
+
+      To connect with Michelle visit: www.michelletillislederman.com/ and
+      www.linkedin.com/in/communicationexpertspeaker
+    coachName: Michelle Tillis Lederman
+    jobTitle: 'Connection Creator, Author, Keynote Speaker and CEO, Executive Essentials'
+    links:
+      linkedin: communicationexpertspeaker
+      website: www.michelletillislederman.com
+    photo: >-
+      /uploads/dsc_2014-michelle-portrait-cropped-final-michelle-lederman-min-1-.jpg
+    tags:
+      - Executive Coach
+      - Speaker
+      - Author
+      - Entrepreneur
+  - bio: >-
+      Organizations who want to accelerate the development of their leaders call
+      Eddie Turner, The Leadership Excelerator®. He is an in-demand expert who
+      has worked for several of the world's “most admired companies"" such as
+      Deloitte, GE, and Accenture. Eddie works with leaders to Accelerate
+      Performance and Drive Impact!®
+
+
+
+
+      Eddie is a C-Suite advisor and national media commentator with years of
+      information technology expertise. He is a published writer and
+      best-selling author of 140 Simple Messages to Guide Emerging Leaders.
+      Eddie is the host of the Keep Leading!™ podcast which earned Apple iTunes
+      coveted New & Noteworthy designation.
+
+
+
+
+      Eddie has earned international certifications as a trainer, facilitator,
+      and coach. Eddie is a Certified Speaking Professional™ (CSP®)—a
+      designation earned by only 15 percent of professional speakers in the
+      world. He is an alumnus of Northwestern University where he studied
+      Leadership and Organization Behavior and of the John F. Kennedy School of
+      Government at Harvard University where he completed the “Art and Practice
+      of Leadership Development” executive education program. Eddie is a member
+      of the global network of Harvard educated Adaptive Leadership
+      practitioners in the Adaptive Leadership Network and a leadership coach in
+      the Leadership Circle.
+
+
+
+
+      Eddie actively promotes the power of coaching and develops new coaching
+      leaders through his work as a facilitator for the global ATD coaching
+      certificate program and Harvard Business Publishing. He coaches and trains
+      leaders of all levels to develop and apply successful coaching
+      competencies to transform themselves and their organization’s development.
+      He is also an Emotional Intelligence practitioner certified to issue the
+      EQ-i and EQ360 assessments in addition to delivering the Emotionally
+      Intelligent Leader workshop.
+
+
+
+
+      Executive & Leadership Coach | Best-Selling Author | Facilitator | Keynote
+      Speaker | New & Noteworthy Podcast Host
+    coachName: Eddie Turner
+    jobTitle: The Leadership Excelerator®
+    links:
+      linkedin: eddieturner
+      website: www.eddieturnerllc.com
+    photo: /uploads/eddie-turner-keynote-speaker-hires-eddie-turner.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+  - bio: >-
+      Mitch Joel is Founder of Six Pixels Group - an advisory, investing and
+      content producing company that is focused on commerce and innovation. His
+      first book, Six Pixels of Separation, named after his successful blog and
+      podcast is a business and marketing bestseller. His second book, CTRL ALT
+      Delete, was named one of the best business books of 2013 by Amazon.
+    coachName: Mitch Joel
+    jobTitle: 'President, Six Pixels Group'
+    links:
+      linkedin: mitchjoel
+      website: www.mitchjoel.com
+    photo: /uploads/mitch-joel-canada-small-mitch-joel.jpg
+    tags:
+      - Speaker
+      - Author
+      - Corporate Executive
+      - Entrepreneur
+  - bio: >-
+      Rhett Power co-founded Wild Creations in 2007 and quickly built the
+      startup toy company into the 2010 Fastest Growing Business in South
+      Carolina. Wild Creations was awarded a Blue Ribbon Top 75 US Company by
+      the US Chamber of Commerce and one of Inc. Magazine’s 500 Fastest Growing
+      US Companies. He and his team won over 40 national awards for their
+      innovative toys. He was a finalist for Ernst and Young’s Entrepreneur of
+      the Year award in 2011 and was nominated again in 2012.  Recently he was
+      named one of the world’s top 100 business bloggers and in 2018 the Best
+      Small Business Coach in the United States.
+
+
+
+
+      Rhett travels the globe speaking about entrepreneurship, and management
+      alongside the likes of Gates Foundation CEO Sue Desmond-Hellmann, AOL
+      Founder Steve Case, and President Barack Obama. He has been featured in
+      the Huffington Post, Business Insider, The Hill, Time, The Wall Street
+      Journal and CNN Money and is a regular contributor to Inc. Magazine, CNBC,
+      Forbes, and Thrive Global.
+
+
+
+
+      Before founding Wild Creations, Rhett worked as an economic and small
+      business development consultant for the United States Agency for
+      International Development (USAID), serving seven years in the former
+      Soviet Republics in Central Asia. Prior to that, he was Director of
+      National Service Programs for Habitat for Humanity, which included being
+      Habitat’s chief liaison with The White House, Congress, and the
+      Corporation for National Service. He now has a rapidly growing consulting
+      practice based in Washington DC.
+
+
+
+
+      He is the co-author of the best-selling book One Million Frogs. His second
+      best-seller THE ENTREPRENEUR’S BOOK OF ACTIONS: Essential Daily Exercises
+      and Habits for Becoming Wealthier, Smarter, and More Successful published
+      by McGraw Hill is now in stores.
+
+
+
+
+      He developed a love of teaching and service in the US Peace Corps and is a
+      graduate of the University of South Carolina.
+    coachName: Rhett Power
+    jobTitle: 'CEO, Business Coach, Author, Forbes Columnist'
+    links:
+      linkedin: rhettpower
+      website: www.rhettpower.com
+    photo: /uploads/rhettpower-rhett-power.jpg
+    tags:
+      - Consultant
+      - Speaker
+      - Author
+      - Entrepreneur
+      - Non-Profit
 ---
 
