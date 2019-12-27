@@ -4038,5 +4038,209 @@ coachList:
       - Executive Coach
       - Consultant
       - Entrepreneur
+  - bio: >-
+      Sean Brawley is passionate about helping people grow and succeed as
+      leaders. A performance consultant in Spencer Stuart’s Stamford office,
+      Sean is focused on coaching CEOs, and advising clients on top team
+      effectiveness and high-performance cultures. He has more than 25 years of
+      experience working with some of the most successful sports teams and a
+      wide variety of corporations, helping them sustain high performance in
+      high-pressure environments. Sean has extensive experience facilitating
+      workshops, and coaching CEOs and senior leaders in entertainment,
+      technology, healthcare, professional services and finance. 
+
+
+
+
+      High-performance coach to sports teams and CEOs
+
+
+
+
+      * Before joining Spencer Stuart, Sean was the founder and CEO of the
+      Brawley Leadership group, a CEO coaching and leadership training firm, for
+      18 years. 
+
+      * Among his work with sports organizations, Sean served as a coach adviser
+      to Pete Carroll, former head coach of USC Trojans of the University of
+      Southern California, as well as the team’s mental performance coach. He
+      also was a player development consultant for the New York Yankees for 12
+      years. 
+
+      * Sean also worked with numerous corporate clients, including GE, ITT,
+      Union Bank, and Dave & Buster’s, where he served as a leadership coach for
+      the company’s senior management team, who led a 30% increase in sales, 22%
+      increase in employee engagement and retention, and 50% increase in stock
+      price.
+
+
+
+
+      Sean graduated from the University of Southern California with a B.S. in
+      finance from the Marshall School of Business. He also was a highly ranked
+      tennis professional on the ATP Tour and #1 player for the USC tennis team.
+    coachName: Sean Brawley
+    jobTitle: 'Performance Coach & Consultant, TEDx Speaker, and Author'
+    links:
+      linkedin: sean-brawley
+      website: www.seanbrawley.com
+    photo: /uploads/sean-brawley-photo-sean-brawley.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+  - bio: >-
+      Jeffrey Hull, Ph.D. is an author, educator and consultant with over twenty
+      years experience partnering with C-suite executives on issues of high
+      performance leadership, change management, organizational strategy,
+      structure and culture. Dr. Hull is a highly sought-after facilitator,
+      keynote speaker and executive coach to both non-profit and for-profit
+      global organizations.
+
+
+
+
+      Dr. Hull is Director of Education & Business Development at the Institute
+      of Coaching, McLean Hospital, a Harvard Medical School Affiliate. He is
+      also a clinical instructor in psychology at Harvard Medical School and an
+      adjunct professor of leadership at New York University.
+    coachName: Jeffrey W Hull
+    jobTitle: >-
+      Director of Education & Business Development, Institute of Coaching,
+      Author & Exec Coach
+    links:
+      linkedin: jeffrey-hull-ph-d-bcc
+      website: www.jeffreyhull.com
+    photo: /uploads/hull-headshot-2.0-9.18-jeffrey-hull-min.jpg
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+      - Entrepreneur
+      - Non-Profit
+  - bio: >-
+      Yu Aoki is an Executive Coach and Marketer. He is the Executive Director
+      of BUSINESSCOACH INC. in Japan from 2006. BUSINESSCOACH INC. is one of the
+      largest coaching company in Japan, and provides executive coaching,
+      coaching services that support the transformation of executives and
+      managers using HR tech, and consulting services in HR field.
+
+
+
+
+      Yu Aoki helps technology leaders change their behaviors based on 360
+      degrees and assist in acquiring coaching skills. Yu Aoki had the following
+      series of web media for system engineers: Successful IT manager's
+      “Socializing”.  The series became E-Book.
+
+
+
+
+      Prior to joining BUSINESSCOACH INC., Yu Aoki worked as a systems engineer.
+      While experiencing some project managements, he was convinced that the
+      environment where members could talk to each other when they wanted to say
+      would increase the productivity of the project, and began to learn
+      coaching. (It is now famous as the psychological safety by the Project
+      Aristotle of Google.) He taught his colleagues coaching skills and
+      contributed not only to his own projects but also to the promotion of his
+      colleagues' projects.
+
+
+
+
+      Yu Aoki holds a Bachelor of Business Administration, Meiji University in
+      2001 in Japan.
+    coachName: Yu Aoki
+    jobTitle: Marketer and Coach
+    photo: /uploads/coach_aoki-thumbnail-yu-aoki.jpg
+    tags:
+      - Executive Coach
+      - Corporate Executive
+  - bio: >-
+      Brian Solis is globally recognized independent digital analyst and
+      anthropologist. He is also an award-winning author, prominent
+      blogger/writer, and world renowned keynote speaker. Contact him via email.
+
+
+
+
+      Brian Solis has been called “one of the greatest digital analysts of our
+      time.” Brian is also a world renowned keynote speaker and an award-winning
+      author of seven best-selling books including, X: The Experience When
+      Business Meets Design, What’s the Future of Business and The End of
+      Business as Usual.
+
+
+
+
+      In his new book, Lifescale: How to live a more creative, productive and
+      happy life, Brian tackles the struggles of living in a world rife with
+      constant digital distractions. His model for “Lifescaling” helps readers
+      overcome the unforeseen consequences of living a digital life to break
+      away from diversions, focus on what’s important, spark newfound creativity
+      and unlock new possibilities.
+
+
+
+
+      For almost 30 years, Solis has studied and influenced the effects of
+      emerging technology on business and society. His research and books help
+      executives, and also everyday people, better understand the relationship
+      between the evolution of technology and its impact on people and also the
+      role we each play in evolution. As a result of his work, Solis also helps
+      leading brands, celebrities, and startups develop new digital
+      transformation, culture 2.0, and innovation strategies that enable
+      businesses to adapt to new connected markets from the inside out.
+
+
+
+
+      With a loyal online audience of over 700,000 people online, his work makes
+      him a sought-after thought-leader to leading brands, celebrities such as
+      Oprah, Shaq and Ashton Kutcher and over 1,000 startups around the world.
+
+
+
+
+      Brian also hosts (r)evolution, a popular online video series that examines
+      technology, trends and best practices and introduces viewers to the
+      thought leaders who are blazing the trail. Guests have included Katie
+      Couric, Mark Burnett, Shaq, Billy Corgan, and Adrian Grenier.
+    coachName: Brian Solis
+    jobTitle: 'Digital Analyst and Anthopologist, Author, Speaker, Advisor'
+    links:
+      linkedin: briansolis
+      website: www.briansolis.com
+    photo: /uploads/7623251124_8ebb2dde73_o-brian-solis.png
+    tags:
+      - Executive Coach
+      - Consultant
+      - Speaker
+      - Author
+      - Entrepreneur
+  - bio: >-
+      Frank J. Maduri is a CPC, ELI-MP who seeks to help his clients unlock
+      their true potential. He is experienced in sales management in a variety
+      of industries, currently with Best Buy, where he coaches, trains, and
+      motivates sales professionals. Frank is an author of numerous news
+      stories, commentary pieces, poetry, and religious reflection pieces. He
+      has two works published on Amazon: a poetry collection entitled "The
+      Promise of Tomorrow" and a religious book, "Reflections on The Passion: A
+      Modern Guide to The Stations of The Cross". Frank hosts a podcast titled
+      "Undivided" on the Life Coach Radio Network which seeks to find solutions
+      to societal issues or divisions and find harmony and unity. He lives in
+      New Jersey with his wife, Maureen, and is an active member in his parish
+      community.
+    coachName: Frank J. Maduri
+    jobTitle: Certified Professional Coach (CPC) ELI-MP
+    links:
+      website: www.frankjmaduricoaching.com
+    photo: /uploads/20526378_336821633443247_1488205071906625936_n-frank-maduri.jpg
+    tags:
+      - Consultant
+      - Author
+      - Iconic Leader
 ---
 
