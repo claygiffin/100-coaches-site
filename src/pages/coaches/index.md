@@ -4683,5 +4683,48 @@ coachList:
       - Consultant
       - Speaker
       - Author
+  - bio: >-
+      Sharon Melnick, PhD is a leading authority on women's advancement and
+      stress resilience.  Her methods are informed by 10 years of psychology
+      research at Harvard Medical School.  A sought after coach and speaker, her
+      approaches are field tested by coaching clients/trainees at 35 Fortune 500
+      companies and over 200 conferences worldwide (as well as at the White
+      House and the United Nations). 
+
+
+      Her current work supports C-suite women leaders to be influential Change
+      Agents.  She also specializes in helping mid-level female talent overcome
+      gender bias so they can shift from "pigeon-holed" to "promoted" into
+      senior roles.   She created the Next Level Leader initiative which
+      partners with associations to provide group coaching for their members. 
+      She has recently launched a global network of senior women leaders to
+      harness their collective learnings and power across organizations.
+
+
+      Dr. Melnick became a subject matter expert on the three skillsets women
+      need for next level impact: Resilience, Confidence, and Influence.  Her
+      first book was Success under Stress: Powerful Tools for Staying Calm,
+      Confident, and Productive when the Pressure's On, and her second book is
+      Confidence when it Counts: Rise Above Self Doubt and Bias to Make your
+      Mark. She is now writing a 3rd book on how Power works in organizations -
+      it explores how women and Inclusive leaders (of either gender) get into
+      positions of power and use power to raise others.
+
+
+      Dr. Melnick's work with women leaders is strengthened through
+      neuro-coaching stress resilience techniques and a proprietary root cause
+      solution developed in her research. This unique "Magic Bullet" instantly
+      and permanently shifts women leaders' self doubt into self confidence,
+      thus contributing to their unwavering leadership Presence and deep impact.
+    coachName: 'Sharon Melnick, PhD'
+    jobTitle: Leading authority on women’s next level success
+    links:
+      website: 'https://www.sharonmelnick.com/'
+    photo: >-
+      https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/sharonmelnick041b-small.jpg
+    tags:
+      - speaker
+      - author
+      - executive coach
 ---
 
