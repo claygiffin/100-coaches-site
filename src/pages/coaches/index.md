@@ -829,7 +829,7 @@ coachList:
     jobTitle: 'Author of "The Best Team Wins" & "All In," NY Times Best-Seller'
     links:
       linkedin: chesterelton
-    photo: /uploads/chester-elton.jpg
+    photo: /uploads/elton-c-photo.jpg
     tags:
       - Author
       - Consultant
