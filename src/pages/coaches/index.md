@@ -4726,5 +4726,46 @@ coachList:
       - speaker
       - author
       - executive coach
+  - bio: >-
+      Based in London, I spent many years in multinationals such as Virgin HQ
+      (working as part of the support office for Richard Branson and Simon
+      Wright), Fox Family Worldwide (marketing, sponsorship, strategy) and The
+      Walt Disney Family (PR, marketing, sponsorship, partnerships) where after
+      serving as their Marketing Director with a responsibility of over 20
+      emerging markets, launching new channels and organising awards events on
+      major broadcaster platforms, I left to set up my own consultancy Lazarus &
+      Maverick.  
+
+
+      After years of business experience and at the height of my much-loved
+      career, the more I served as a leader, the more I was drawn to launching
+      people, not products, into success. Examining the success of our business
+      through the lens of human behaviour has always been my starting point and
+      I felt I had to learn more to truly give back. Having attended a Disney
+      Leadership Accelerate programme in Los Angeles, I was inspired by the
+      coaches we worked there to change career, to retrain, and my consultancy,
+      Lazarus & Maverick Limited was born. 
+
+
+      Many coaching courses later including years of incredible learning
+      experience at the Henley Business School (MSc, 2019) and becoming a
+      practitioner in various psychometric and assessment models from the Lumina
+      Learning range (Spark | Leader | Sales | Emotion) and others, together
+      with a group of colleagues we proudly help leaders and organisations to
+      enable their people to work better together, to unpack unhelpful group
+      dynamics, to think freely and creatively about the future possibilities
+      and to bring basic human psychology to the corporate space (KPMG, Spotify,
+      Apple, Toast, Disney, EndemolShine and others)
+    coachName: Alex Lazurus
+    jobTitle: Leadership and Team Coach | Behaviour Change Scientist
+    links:
+      linkedin: ''
+      website: 'http://www.lazarusandmaverick.co.uk'
+    photo: /uploads/alex-l.jpg
+    tags:
+      - speaker
+      - author
+      - executive coach
+      - consultant
 ---
 
