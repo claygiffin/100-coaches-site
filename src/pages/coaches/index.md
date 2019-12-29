@@ -197,7 +197,37 @@ coachList:
       - Entrepreneur
       - Speaker
       - Thinker
-  - bio: "* First Chief of Staff reporting to Founder & Chairman Charles ‘Chuck’ Schwab.\r\n* Founding Director & Coach for Sir Richard Branson’s Entrepreneurship Centres.\r\n* Founding Advisor & Board Member, Stanford Univ Realtime Venture Design Lab\r\n\n\rMark C. Thompson is a senior operating executive and New York Times bestselling author with 30+ years coaching senior executives, including leadership teams working directly for founders Steve Jobs, Richard Branson, Charles Schwab, FitBit founder Eric Friedman, and Pinterest founders Ben Silbermann and Evan Sharpe. He is a founding member of World Bank President Jim Kim’s Leadership Advisory Board, and served as a Governor for the Investment Securities Council at the World Economic Forum in Davos.  He is a founding director of Sir Richard Branson’s Virgin Unite Entrepreneurship Centres. The Virgin group has over 350 companies.\r\n\n\rMark was Chairman of Rioport, which popularized the MP-3 player before iTunes. He was a founding Board member of Esurance, which was sold to Allstate Insurance. He was a founding Board member of Interwoven during the Nasdaq IPO and then sold to HP.  He was Chairman of the Integration, which was sold to Silicon Labs. At his alma mater, Stanford University, Mark was a founding advisor of Stanford’s Real-Time Venture Design Lab and served as a Visiting Scholar for seven years. He was a board member of the John F. Kennedy University Institute for Entrepreneurial Leadership, where he received the institute’s first ever Lifetime Achievement Award.\r\n\n\rMark was an operating executive at Charles Schwab reporting to the Chairman, Charles ‘Chuck’ Schwab. Mark was on the team that launched Schwab as an NYSE IPO, and he was the first Retail & Institutional Investor Relations Officer, first Chief Customer Experience Officer and Executive Producer of Schwab.com, and Chief Communications Officer. www.MarkCThompson.com"
+  - bio: >-
+      Mark is a four-time CEO who today focuses exclusively on coaching global
+      C-level executives, many of whom are CEOs or potential succession
+      candidates. The American Management Association and Dr. Marshall Goldsmith
+      called him the World’s #1 CEO Coach, with more than 70 engagements with
+      boards that are leading vast organizational transformations. He
+      specializes in high-profile roles and leaders, from Sir Richard Branson
+      @Virgin and Logan Green@Lyft to Evan Sharp @ Pinterest, Steve Jobs, and
+      Tony Robbins. 
+
+
+      Mark was CEO of Schwab.com (a division of Charles Schwab); CEO of Esurance
+      (sold to Allstate), and Chairman and CEO of Rioport (which popularized the
+      MP3 player before Apple iTunes), Chairman of Interwoven (sold to Hewlett
+      Packard) and Chairman of Integration Semiconductor (sold to SiliconLabs).
+      He was a co-founder of the Stanford University Realtime Venture Design
+      Lab, along with Sir Richard Branson’s Entrepreneurship Centres and the JFK
+      Institute for Entrepreneurial Leadership. Previously, he was Charles
+      ‘Chuck’ Schwab’s Chief of Staff, Chief Communications Officer and
+      Executive Producer of Schwab.com. As a senior vice president at Schwab, he
+      also created and held the first integrated Chief Customer Experience
+      Officer role in a global company, which is now a world standard. 
+
+
+      Mark was honored on Forbes “Midas” list of investors as a founding board
+      member of Esurance, Integration, Interwoven, and early investor in
+      Netflix, Facebook, Lyft and Pinterest. He co-chairs the Institute of
+      Coaching Leadership Forum with Prof. Carol Kauffman at Harvard McLean
+      School of Medicine. He holds MA and MBA degrees and was a visiting scholar
+      at Stanford University, World Economic Forum, John F. Kennedy University
+      and the World Business Forum
     coachName: Mark C. Thompson
     jobTitle: >-
       AmMgmtAssn #1 CEO Coach: Lyft, Pinterest, World Bank, Virgin. NYTimes
