@@ -4784,5 +4784,43 @@ coachList:
       - author
       - executive coach
       - consultant
+  - bio: >-
+      Jennifer Paylor is the leader of the IBM Coaching Community & Practice,
+      which has more than 3,000 members worldwide. Jennifer is known as an
+      industry thought-leader in business coaching, senior executive leadership
+      development, Agile, and large scale culture transformation.
+
+
+      Jennifer has been a keynote speaker for the annual CEB Executive Coaching
+      & Leadership Conference, CEB Talent Management Conference, and the US Navy
+      Coaching Summit to name a few. Jennifer leverages her engineering
+      background and human-centered approach to design science based solutions
+      that address today’s business challenges.
+
+
+      Jennifer built the Global Talent Development team in IBM’s Global Process
+      Services Delivery before moving to IBM’s Corporate Headquarters to lead
+      the coaching strategy and executive leadership development programs.
+
+
+      Jennifer is on the Advisory Board for the diversity start-up called
+      itsDandi and a Fast Company Impact Council member. She served as the vice
+      chair for Recity Network, a nonprofit helping to rewrite the story for the
+      4,000 disadvantaged youth, the Secretary/Treasurer for the International
+      Coaching Federation Raleigh Area Chapter, and Board President for the
+      Institute of Behavioral Heath.
+
+
+      Jennifer devotes time singing, recording, and producing gospel music,
+      developing Christian leaders in church, and helping widows in the
+      community.
+    coachName: Jennifer Paylor
+    jobTitle: 'People Engineer, IBM'
+    photo: >-
+      https://raw.githubusercontent.com/claygiffin/100-coaches-site/master/static/uploads/img_4064-coach-jennifer-paylor.jpg
+    tags:
+      - Executive Coach
+      - Speaker
+      - Corporate Executive
 ---
 
