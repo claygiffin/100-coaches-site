@@ -3214,19 +3214,6 @@ coachList:
     photo: /uploads/catherine-duffy-headshot-standing-1.2019-catherine-duffy.jpg
     tags:
       - Corporate Executive
-  - bio: 'Reinventing leadership to improve families. #touchinglives'
-    coachName: Jennifer Paylor
-    jobTitle: People Engineer
-    links:
-      linkedin: jennifer-paylor-95b29841
-      website: www.PeopleEngineer.com
-    photo: /uploads/img_4064-coach-jennifer-paylor.jpg
-    tags:
-      - Executive Coach
-      - Consultant
-      - Speaker
-      - Author
-      - Entrepreneur
   - bio: >-
       Darcy Verhun is the President of FYidoctors, the worlds largest doctor
       owned private company that in just 11 years has emerged as one of the
