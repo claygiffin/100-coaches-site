@@ -287,7 +287,62 @@ coachList:
       - Executive Coach
       - Speaker
       - Thinker
-  - bio: "PETER BREGMAN is the CEO of Bregman Partners, which helps people and organizations get massive traction on what they care about most. Peter has advised CEOs and senior leaders in many of the world’s premier organizations, including Allianz, American Express, Pearson, Brunswick Group, Goldman Sachs, Morgan Stanley, Deutsche Bank, JPMorgan Chase, FEI, GE Capital, Merck, Clear Channel, Nike, UNICEF, and many others.\r\n\n\rHe is the host of the Bregman Leadership Podcast, short conversations with thought leaders focused on ideas that people can use to become more powerful and courageous leaders, and the author of three books:\r\n\n\rFour Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work, a New York Post top pick for your career in 2015.\r\n\nThe Wall Street Journal bestseller 18 Minutes: Find Your Focus, Master Distraction, and Getthe Right Things Done, winner of the Gold medal from the Axiom Business Book awards, named the best business book of the year on NPR, and selected by Publisher’s Weekly and the New York Post as a top 10 business book. \r\n\nPoint B: A Short Guide to Leading a Big Change.\r\n\nPeter has also contributed to five other books. Featured on PBS, ABC and CNN, Peter is a regular contributor to Harvard Business Review, Psychology Today, and Forbes, and his articles and commentary have appeared frequently in Bloomberg BusinessWeek, Fast Company, The Financial Times, CNN, NPR, and FOX Business News.\r\n\n\rPeter earned his B.A. from Princeton University and his M.B.A. from Columbia University. He can be reached at pbregman@bregmanpartners.com."
+  - bio: >-
+      Recognized as the #1 executive coach by Leading Global Coaches, Peter
+      Bregman is CEO of Bregman Partners, an executive coaching company that
+      helps successful people become exceptional leaders and stellar human
+      beings. 
+
+
+
+
+      Selected as a top 30 thought leader by Thinkers 50 Radar, Peter is the
+      award-winning, best selling author or contributor of 16 books, including,
+      most recently, Leading with Emotional Courage: How to Have Hard
+      Conversations, Create Accountability, and Inspire Action on Your Most
+      Important Work. His book, 18 Minutes: Find Your Focus, Master Distraction,
+      and Get the Right Things Done, was a Wall Street Journal  bestseller,
+      winner of the Gold medal from the Axiom Business Book awards, named the
+      best business book of the year by NPR, and selected by Publisher’s Weekly
+      and the New York Post as a top ten business book. He is also the author of
+      Four Seconds: All the Time You Need to Replace Counter-Productive Habits
+      with Ones That Really Work, a  New York Post  "Top Pick for Your Career"
+      in 2015, and Point B: A Short Guide to Leading a Big Change.
+
+
+
+
+      Peter is the host of the Bregman Leadership Podcast, which offers
+      insightful conversations with industry thought leaders on how to become
+      more powerful, courageous leaders. He is also a regular contributor to the
+      Harvard Business Review, and his articles and commentary appear frequently
+      in Bloomberg BusinessWeek, Fast Company, Psychology Today, Forbes, The
+      Financial Times , PBS, ABC, CNN, NPR, and FOX Business News.
+
+
+      Peter created and leads the Bregman Leadership Intensive, a four day
+      program that transforms the way people lead by increasing their confidence
+      in themselves, their ability to connect with others, their commitment to
+      what’s most important, and their emotional courage.
+
+
+      Peter designed the Bregman Partners proven, proprietary Big Arrow process
+      to align people to work together to accomplish an organization’s most
+      important work. The Bregman Arrow Measurement tool (BAM)©tm quantifies the
+      leadership and organizational gaps that block successful execution.
+
+
+      He has implemented his proprietary solutions with CEOs and senior leaders
+      in many of the world’s premier organizations, including Allianz, American
+      Express, CBS Corporation, Citibank, Pearson, Goldman Sachs, Morgan
+      Stanley, Deutsche Bank, JPMorgan Chase, FEI, GE Capital, Merck, Clear
+      Channel, Nike, UNICEF, among others.
+
+
+      Peter began his career teaching leadership on wilderness and
+      mountaineering expeditions and earned his B.A. from Princeton University
+      and his M.B.A. from Columbia University. He can be reached at
+      pbregman@bregmanpartners.com.
     coachName: Peter Bregman
     jobTitle: 'Author, Speaker, CEO at Bregman Partners, Inc.'
     links:
