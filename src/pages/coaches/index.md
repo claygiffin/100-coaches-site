@@ -1692,7 +1692,7 @@ coachList:
 
       Dr. Kuhn is a former corporate executive and professional bassist. In his
       spare time, he is an internationally-ranked competitive road cyclist.
-    coachName: Jeffrey Khun
+    coachName: Jeffrey Kuhn
     jobTitle: 'Thinker, author, advisor, educator, and speaker on strategic leadership'
     links:
       linkedin: jeffreymkuhn
