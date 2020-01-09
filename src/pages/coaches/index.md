@@ -1413,7 +1413,7 @@ coachList:
     jobTitle: Women in Innovation and  Leadership Expert
     links:
       linkedin: fionamacaulay
-    photo: /uploads/fiona-macaulay.jpg
+    photo: /uploads/fiona_macaulay_podium.jpg
     tags:
       - Consultant
       - Entrepreneur
