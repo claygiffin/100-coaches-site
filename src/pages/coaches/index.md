@@ -4877,5 +4877,21 @@ coachList:
       - Executive Coach
       - Speaker
       - Corporate Executive
+  - bio: >-
+      Jonathan is a licensed psychologist, and credentialed award winning
+      executive coach. He has coaches leaders across public, private and no for
+      profit sector, from government and the media. He is a prolific writer with
+      books on coaching, change, mindfulness and leadership, as well as over 100
+      scientific papers and book chapters  Jonathan was nominated as a
+      Thinkers50 Top8 coach in 2019 and his work has been recognized by a range
+      of awards.
+    coachName: Jonathan Passmore
+    jobTitle: 'Director of Coaching, Henley Business School'
+    photo: /uploads/70-2010-dr-jonathan-passmore-jonathan-passmore.jpg
+    tags:
+      - Executive Coach
+      - Speaker
+      - Author
+      - Entrepreneur
 ---
 
