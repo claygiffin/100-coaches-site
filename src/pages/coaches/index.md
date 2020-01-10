@@ -4878,13 +4878,26 @@ coachList:
       - Speaker
       - Corporate Executive
   - bio: >-
-      Jonathan is a licensed psychologist, and credentialed award winning
-      executive coach. He has coaches leaders across public, private and no for
-      profit sector, from government and the media. He is a prolific writer with
-      books on coaching, change, mindfulness and leadership, as well as over 100
-      scientific papers and book chapters  Jonathan was nominated as a
-      Thinkers50 Top8 coach in 2019 and his work has been recognized by a range
-      of awards.
+      Jonathan is a professor of coaching and behavioural change, he holds five
+      degrees, several coach accreditations and is a licensed I/O psychologist.
+      He has written widely with over 100 scientific papers and book chapters,
+      30 books including 'Excellence in Coaching' and 'Top Business Psychology
+      Models’, and has presented over 200 conference papers around the world. he
+      is the editor of the premier coaching journal ‘International Coaching
+      Psychology Review’ and series editor for Wiley Blackwell's academic I/O
+      series of handbooks. Jonathan was nominated as a Thinkers50 Top8 coach in
+      2019 and his work has been recognized by a range of awards by the British
+      Psychological Society, Association for Coaching and Best Paper in 2019 in
+      'Coaching at Work' magazine
+
+
+      Jonathan combines his academic role with a private coaching practice. He
+      has coached leaders across the public, private and the not for profit
+      sector, including well known names in government and the media. Prior to
+      this Jonathan has held a number of board level posts. He has been a local
+      government director, a chief executive for a national mental health
+      charity in the UK and has worked for PricewaterhouseCoopers and IBM on
+      business transformation projects.
     coachName: Jonathan Passmore
     jobTitle: 'Director of Coaching, Henley Business School'
     photo: /uploads/70-2010-dr-jonathan-passmore-jonathan-passmore.jpg
