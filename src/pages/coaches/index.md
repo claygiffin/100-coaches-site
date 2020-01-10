@@ -612,7 +612,26 @@ coachList:
       - Consultant
       - Speaker
       - Thinker
-  - bio: "Dorie Clark is a marketing strategy consultant, professional speaker, and frequent contributor to the Harvard Business Review and Entrepreneur magazine. She is the author of Entrepreneurial You from Harvard Business Review Press. Her previous books include Reinventing You and Stand Out, which was named the #1 Leadership Book of 2015 by Inc. magazine, one of the Top 10 Business Books of the Year by Forbes, and was a Washington Post bestseller.\r\n\n\rThe New York Times has described her as an “expert at self-reinvention and helping others make changes in their lives,” and she has been recognized as a “branding expert” by the Associated Press, Inc., and Fortune magazine.\r\n\n\rShe consults and speaks for a diverse range of clients, including Google, the World Bank, the Bill and Melinda Gates Foundation, the Ford Foundation, Yale University, the Mount Sinai Medical Center, and the U.S. National Park Service.\r\n\n\rClark, a former presidential campaign spokeswoman, is an adjunct professor of business administration at Duke University’s Fuqua School of Business. She has taught marketing and communications at Tufts University, Suffolk University, Emerson College, HEC-Paris, IE Business School in Madrid, Babson College, the University of North Carolina’s Kenan-Flagler School of Business, Smith College Executive Education, and Nazarbayev University in Kazakhstan. She was named one of Inc. magazine’s “100 Great Leadership Speakers for Your Next Conference,” and recognized in Forbes as one of “25 Professional Networking Experts to Watch in 2015.” \r\n\n\rShe has guest lectured at universities including Harvard Business School, the Harvard Kennedy School, Stanford University’s Graduate School of Business, the University of Pennsylvania’s Wharton School, the MIT Sloan School of Management, the University of California-Berkeley’s Haas School of Business, Georgetown, NYU, and the University of Michigan. Her work has been published in The Harvard Business Review Guide to Getting the Right Job, The Harvard Business Review Guide to Networking, The Harvard Business Review Guide to Office Politics, and The Harvard Business Review Guide to Dealing with Conflict. She is quoted frequently in the worldwide media, including NPR, the BBC, and MSNBC.\r\n\n\rA former New England Press Association award-winning journalist, Clark is the director of the environmental documentary film The Work of 1000. At age 14, Clark entered Mary Baldwin College’s Program for the Exceptionally Gifted. At 18, she graduated Phi Beta Kappa from Smith College, and two years later received a Master of Theological Studies from Harvard Divinity School. She is also a producer of a multiple Grammy-winning jazz album. You can learn more at dorieclark.com and download her free 42-page Stand Out Self-Assessment Workbook."
+  - bio: >-
+      Dorie Clark helps individuals and companies get their best ideas heard in
+      a crowded, noisy world. She has been named one of the Top 50 business
+      thinkers in the world by Thinkers50, and was honored as the #1
+      Communication Coach in the world at the Marshall Goldsmith Coaching
+      Awards. She is a keynote speaker and teaches for Duke University’s Fuqua
+      School of Business and Columbia Business School. She is the author of
+      Entrepreneurial You, which was named one of Forbes’ Top 5 Business Books
+      of the Year, as well as Reinventing You and Stand Out, which was named the
+      #1 Leadership Book of the Year by Inc. magazine. 
+
+
+      A former presidential campaign spokeswoman, Clark has been described by
+      the New York Times as an “expert at self-reinvention and helping others
+      make changes in their lives.” She is a frequent contributor to the Harvard
+      Business Review, and consults and speaks for clients such as Google, Yale
+      University, and the World Bank. She is a graduate of Harvard Divinity
+      School, a producer of a multiple Grammy-winning jazz album, and a Broadway
+      investor. You can download her free Entrepreneurial You self-assessment
+      workbook at dorieclark.com/entrepreneur.
     coachName: Dorie Clark
     jobTitle: Keynote Speaker & Marketing Strategy Consultant
     links:
