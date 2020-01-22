@@ -1293,7 +1293,38 @@ coachList:
       - Executive Coach
       - Speaker
       - Thinker
-  - bio: "Denise is the Chief Innovation Officer of Lead Inclusively, Inc., a consultancy dedicated to the connection between inclusion and business performance.  An attorney, with a history of landmark cases, she is a serial entrepreneur and business consultant who built and sold her cross-cultural business to Ernst & Young (EY), joining them as a Principal.  Her global expansion strategy model is intellectual property that she retains and that is being used throughout the world by EY, Deloitte and Aon Hewitt, as well as companies from pre-IPO to global enterprise.  She is the author of two books, a Ted Talk finalist, an HBA Board member, the Chair of Athena’s Life Sciences Committee and a member of Marshall Goldsmith’s 100 Coaches ™ Legacy team.\r\n\n\rHighlights of her career include establishing Ernst & Young’s (EY) Talent, Diversity, Innovation and Culture Transformation offerings, leading Aon-Hewitt’s international M&A people integration and building Deloitte’s candidate assessment, training program and success analytics for Global Mobility.  Additionally, Denise has consulted with the U.S. Departments of Defense and State, helping them to develop the cross-cultural readiness of intelligence advisors and diplomats.  She has designed global expansion and strategy programs for organizations and government delegations in over 25 countries, from developed nations to developing nations, with issues spanning from driving inbound Foreign Direct Investment to cross-border conflict resolution.\r\n\n\rAt EY, she won their Innovation Award in 2015, led a major global M&A integration for a high-tech client merger and developed EY’s client-facing methodology for Diversity & Inclusion client engagements.  As the Chief Executive Office & Founder at Universal Consensus, LLC, she implemented her cross-border business optimization model to generate double digit profit increases for clients, designed and executed the people integration for AIG’s operating companies in Japan and increased cross-cultural process performance for clients including FedEx, Roche, State of California Tourism, and EY’s shared services.  She is now executing engagements for clients under the banner of Lead Inclusively, Inc. where she helps clients to use inclusive leadership as a means to accelerate innovation and reduce risk.  She is also an EIR (CEO Entrepreneur In Residence) with CONNECT, a San Diego based organization that prepares high tech and life sciences inventors for first round financing competitions with Venture Capital.\r\n\n\rEarlier in her career Denise was a practicing attorney, a Law Clerk in the U.S. House of Representatives, General Counsel for the Overseas Education Association with a jurisdiction of Western Europe, Bermuda, Cuba and Iceland.  She also tried and won the first class action under the Americans With Disabilities Act. She received her Juris Doctor from American University, Washington College of Law in Washington, D.C. and her Bachelor of Arts in Psychology from Columbia University, Barnard College in New York, N.Y.. She also participated in international studies in advanced literature at the University of Florence in Italy.  She has lived in the United States, the United Kingdom and Italy and executed for clients in every continent.  She is fluent in English and Italian with conversational skills in French and Spanish."
+  - bio: >-
+      One of the world’s experts in organizational culture transformation,
+      Denise has been leveraging her knowledge of human and organizational
+      behavior from her undergraduate days at Columbia University.  She
+      continued her journey as an attorney, using Diversity & Inclusion (D&I) as
+      a lever for business impact.  While she is known for her role as the
+      attorney who litigated and won the first class-action under the Americans
+      with Disabilities Act, her career since then has been focused on the
+      opportunity, rather than the compliance side of D&I.
+
+
+      In 2010, Denise founded an organizational culture consulting firm where
+      she supported Aon-Hewitt’s international M&A people integration and built
+      Deloitte’s success analytics for Global Mobility.  She also supported the
+      U.S. Department of Defense to develop their cross-cultural readiness of
+      intelligence advisors and diplomats.
+
+
+      Denise sold her firm to Ernst & Young in 2016 and became a Principal
+      leading “Culture, Inclusion and Innovation” initiatives for EY’s Fortune
+      1000 clients and developed EY's client-facing methodology for Diversity &
+      Inclusion client engagements.  She won EY’s Annual Innovation Award the
+      first year of her tenure.
+
+
+      Now the Founder and Chief Executive Officer of Lead Inclusively, Inc.,
+      Denise was nominated Microsoft M12 Female Founder of the Year, for her
+      work at the intersection of inclusion, technology and business results. In
+      addition to the full spectrum of D&I strategy and learning, Denise’s
+      passion and decades of work in cultivating inclusive workplaces has led
+      her to develop the Inclusion Virtual Coach® App, designed to create and
+      sustain culture transformation at scale.
     coachName: Denise Pirrotti Hummel
     jobTitle: 'Chief Innovation Officer at Lead Inclusively, Inc.'
     links:
