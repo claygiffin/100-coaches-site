@@ -1329,7 +1329,7 @@ coachList:
     jobTitle: 'Chief Innovation Officer at Lead Inclusively, Inc.'
     links:
       linkedin: denisehummel
-    photo: /uploads/denise-pirrotti-hummel.jpg
+    photo: /uploads/p1.jpg
     tags:
       - Author
       - Consultant
