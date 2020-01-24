@@ -3262,7 +3262,7 @@ coachList:
     links:
       linkedin: moragbarrett
       website: www.SkyeTeam.com
-    photo: /uploads/morag-barrett-3-morag-barrett-1-.jpg
+    photo: /uploads/morag-4.jpg
     tags:
       - Executive Coach
       - Consultant
