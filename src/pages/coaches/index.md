@@ -3844,52 +3844,27 @@ coachList:
       - Author
       - Entrepreneur
   - bio: >-
-      Organizations who want to accelerate the development of their leaders call
-      Eddie Turner, The Leadership Excelerator®. He is an in-demand expert who
-      has worked for several of the world's “most admired companies"" such as
-      Deloitte, GE, and Accenture. Eddie works with leaders to Accelerate
-      Performance and Drive Impact!®
+      Leading organizations who are dedicated to the next generation of
+      leadership and talent development, rely on Eddie Turner, The Leadership
+      Excelerator® to unlock their treasure trove of cross-generational talent.
+      In today’s business landscape, it is harder to find people who are ready
+      for leadership positions, and even harder to find those who are ready for
+      the C-Suite. Eddie Turner’s Leadership Excelerator® Suite of Leadership
+      Programs gives your Talent Development department a proven pathway to
+      leadership success. As an in-demand expert in the field, Eddie has created
+      and delivered cross-generational leadership development programs for
+      Fortune 500 companies, government agencies, academic institutions, and
+      non-profit organizations looking to enhance their Human Capital.
 
 
-
-
-      Eddie is a C-Suite advisor and national media commentator with years of
-      information technology expertise. He is a published writer and
-      best-selling author of 140 Simple Messages to Guide Emerging Leaders.
-      Eddie is the host of the Keep Leading!™ podcast which earned Apple iTunes
-      coveted New & Noteworthy designation.
-
-
-
-
-      Eddie has earned international certifications as a trainer, facilitator,
-      and coach. Eddie is a Certified Speaking Professional™ (CSP®)—a
-      designation earned by only 15 percent of professional speakers in the
-      world. He is an alumnus of Northwestern University where he studied
-      Leadership and Organization Behavior and of the John F. Kennedy School of
-      Government at Harvard University where he completed the “Art and Practice
-      of Leadership Development” executive education program. Eddie is a member
-      of the global network of Harvard educated Adaptive Leadership
-      practitioners in the Adaptive Leadership Network and a leadership coach in
-      the Leadership Circle.
-
-
-
-
-      Eddie actively promotes the power of coaching and develops new coaching
-      leaders through his work as a facilitator for the global ATD coaching
-      certificate program and Harvard Business Publishing. He coaches and trains
-      leaders of all levels to develop and apply successful coaching
-      competencies to transform themselves and their organization’s development.
-      He is also an Emotional Intelligence practitioner certified to issue the
-      EQ-i and EQ360 assessments in addition to delivering the Emotionally
-      Intelligent Leader workshop.
-
-
-
-
-      Executive & Leadership Coach | Best-Selling Author | Facilitator | Keynote
-      Speaker | New & Noteworthy Podcast Host
+      Eddie is the author of an international best-selling book, 140 Simple
+      Messages to Guide Emerging Leaders, in which Eddie shares lessons he has
+      learned. As a C-Suite advisor, and national media commentator, Eddie has
+      appeared on dozens of media platforms including CNN LIVE! and has
+      contributed to Forbes.com. Eddie is also the host of the Keep Leading!®
+      podcast which earned Apple Podcasts coveted New & Noteworthy designation.
+      If you are searching for that elusive competitive edge, Eddie Turner is
+      ready to Accelerate Performance and Drive Impact!® for your organization!
     coachName: Eddie Turner
     jobTitle: The Leadership Excelerator®
     links:
