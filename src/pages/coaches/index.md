@@ -420,7 +420,70 @@ coachList:
     tags:
       - Executive Coach
       - Speaker
-  - bio: "As Director of Google’s Center of Expertise, David is responsible for innovative, high-impact approaches to develop Google leaders to meet current and emerging challenges. In addition, he coaches senior leaders, leads strategy for Google’s executive coaching programs, and supports other leadership and organization development initiatives, including leading a team on agile organization design for Google’s future needs.\r\n\n\rDavid is honored to be one of the MG100 coaches and serves as senior advisor on two other ventures:\r\n\n• Institute for Contemporary Leadership, focused on accelerating the development of high-potential leaders and equipping them to deal with disruption, complexity, and transformational change. The Institute provides top leaders with a high-trust peer network, disruptive development experiences, and a personal development advisor/coach to guide their journey. contemporaryleadership.com\r\n\n• 7 Paths Forward challenges highly-experienced executive coaches to raise their game and prepare for the changing competitive landscape by developing new mindsets and advanced coaching capabilities, as well as participating in catalytic experiences with a dynamic learning community of great coaches and professional colleagues. 7pathsforward.com\r\n\n\rBefore joining Google in 2011, David served as leader of world-wide coaching services for PDI Ninth House (now Korn Ferry). In addition to coaching top leaders at Salesforce, Sandisk, Microsoft, Hewlett-Packard, Target, Wal-Mart, Shell, Genentech, American Express, Mayo Clinic, Harvard, and Stanford University, he provided consultation and thought leadership on how to design and manage organizational coaching programs, how to develop high potential leaders and critical talent, and how to accelerate learning and leadership development at all levels.\r\n\n\rDavid has published dozens of articles and chapters on coaching, is co-author of Development FIRST:  Strategies for Self-Development and Leader as Coach, with over a million copies in print, and co-editor of the Handbook of the Psychology of Coaching and Mentoring.\r\n\n\rHe earned his PhD in Counseling and Industrial/Organizational Psychology at the University of Minnesota. He is a Fellow of the American Psychological Association, the Society of Consulting Psychology, the Society for Industrial and Organizational Psychology (SIOP), and the Harvard Institute of Coaching. His awards include the RHR International Award for Excellence in Consultation (Society of Consulting Psychology), the Outstanding Achievement Award (California Psychological Association), and the Vision of Excellence Award (Harvard Institute of Coaching).\r\n\n\rVikki Brock’s history of coaching (2008, 2012) names David as one of the primary influencers in the field, both for his early influence on the emergence of executive coaching and for continuing to shape the field “on the cutting edge of the profession, doing and saying surprising and thought-provoking things.”\r\n\n\rDavid lives in San Francisco with his wife, Alexis Shoemate, and two adorable Tibetan Terriers named Pinot and Cab."
+  - bio: >-
+      As Director of Google’s Center of Expertise, David is responsible for
+      innovative, high-impact approaches to develop Google leaders to meet
+      current and emerging challenges. In addition, he coaches senior leaders,
+      leads strategy for Google’s executive coaching programs, and supports
+      other leadership and organization development initiatives, including
+      leading a team on agile organization design for Google’s future needs.
+
+
+      David is honored to be one of the MG100 coaches -- where he was named the
+      World's #1 Corporate Coach --- and is proud to serve as senior advisor on
+      two other ventures:
+
+
+      • Institute for Contemporary Leadership, focused on accelerating the
+      development of high-potential leaders and equipping them to deal with
+      disruption, complexity, and transformational change. The Institute
+      provides top leaders with a high-trust peer network, disruptive
+      development experiences, and a personal development advisor/coach to guide
+      their journey. contemporaryleadership.com
+
+
+      • 7 Paths Forward challenges highly-experienced executive coaches to raise
+      their game and prepare for the changing competitive landscape by
+      developing new mindsets and advanced coaching capabilities, as well as
+      participating in catalytic experiences with a dynamic learning community
+      of great coaches and professional colleagues. 7pathsforward.com
+
+
+      Before joining Google in 2011, David served as leader of world-wide
+      coaching services for PDI Ninth House (now Korn Ferry). In addition to
+      coaching top leaders at Salesforce, Sandisk, Microsoft, Hewlett-Packard,
+      Target, Wal-Mart, Shell, Genentech, American Express, Mayo Clinic,
+      Harvard, and Stanford University, he provided consultation and thought
+      leadership on how to design and manage organizational coaching programs,
+      how to develop high potential leaders and critical talent, and how to
+      accelerate learning and leadership development at all levels.
+
+
+      David has published dozens of articles and chapters on coaching, is
+      co-author of Development FIRST:  Strategies for Self-Development and
+      Leader as Coach, with over a million copies in print, and co-editor of the
+      Handbook of the Psychology of Coaching and Mentoring.
+
+
+      He earned his PhD in Counseling and Industrial/Organizational Psychology
+      at the University of Minnesota. He is a Fellow of the American
+      Psychological Association, the Society of Consulting Psychology, the
+      Society for Industrial and Organizational Psychology (SIOP), and the
+      Harvard Institute of Coaching. His awards include the RHR International
+      Award for Excellence in Consultation (Society of Consulting Psychology),
+      the Outstanding Achievement Award (California Psychological Association),
+      and the Vision of Excellence Award (Harvard Institute of Coaching).
+
+
+      Vikki Brock’s history of coaching (2008, 2012) names David as one of the
+      primary influencers in the field, both for his early influence on the
+      emergence of executive coaching and for continuing to shape the field “on
+      the cutting edge of the profession, doing and saying surprising and
+      thought-provoking things.”
+
+
+      David lives in San Francisco with his wife, Alexis Shoemate, and two
+      adorable Tibetan Terriers named Pinot and Cab.
     coachName: 'David B. Peterson, PHD'
     jobTitle: 'Director, Center of Expertise, Leadership Development & Executive Coaching'
     links:
