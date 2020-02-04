@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: '100 Coaches',
+    title: 'Marshall Goldsmith 100 Coaches',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -40,19 +40,18 @@ module.exports = {
           //     name: "uploads" // Must match the source name ^
           //   }
           // },
-          // { 
+          // {
           //   resolve: `gatsby-remark-images`,
           //   options: {
           //   },
           // },
-          
         ],
       },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-133287110-1",
+        trackingId: 'UA-133287110-1',
         head: true,
       },
     },
