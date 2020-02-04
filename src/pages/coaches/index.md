@@ -3068,7 +3068,7 @@ coachList:
       interviews fascinating people on chairlifts. He skis about 50 days a year,
       usually 90 minutes at a time. (Your ""lunch"" is his 10,000 vertical
       feet.)
-    coachName: Bruce Ridge Kasanoff
+    coachName: Bruce Kasanoff
     jobTitle: Social Media Ghostwriter for Entrepreneurs
     links:
       linkedin: kasanoff
