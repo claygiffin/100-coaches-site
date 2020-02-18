@@ -38,10 +38,10 @@ collections:
             widget: list
             fields:
               - {label: Name, name: coachName, widget: string, hint: 'Name must be unique'}
-              - {label: Professional Title, name: jobTitle, widget: string, hint: 'Limit 90 characters', pattern: ['^.{0,90}$', 'Limit 90 characters']}
+              - {label: Professional Title, required: false, name: jobTitle, widget: string, hint: 'Limit 90 characters', pattern: ['^.{0,90}$', 'Limit 90 characters']}
               - {label: Photo, name: photo, widget: image}
-              - {label: Bio, name: bio, widget: markdown, buttons: [bold, italic, link, bulleted-list, numbered-list, quote, heading-two]}
-              - {label: Tags, name: tags, widget: list}
+              - {label: Bio, name: bio, required: false, widget: markdown, buttons: [bold, italic, link, bulleted-list, numbered-list, quote, heading-two]}
+              - {label: Tags, name: tags, required: false, widget: list}
               - label: Links
                 name: links
                 widget: object
