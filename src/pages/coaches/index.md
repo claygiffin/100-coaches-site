@@ -4577,7 +4577,7 @@ coachList:
     links:
       linkedin: eugene-frazier-8ab0a06
       website: www.EFChoice.com
-    photo: /uploads/eugene_fraizer_01_302_print-eugene-frazier.jpg
+    photo: /uploads/eugene_fraizer_01_302_My_Coach_Eugene2-web.jpg
     tags:
       - Executive Coach
       - Consultant
