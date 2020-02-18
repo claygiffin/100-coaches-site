@@ -1,7 +1,6 @@
 ---
 templateKey: coaches-page
-title: |
-  The 100 Coaches represent a unique spectrum of talent from around the world
+title: The 100 Coaches represent a unique spectrum of talent from around the world
 coachList:
   - bio: >-
       One of the most highly respected experts in the field of contemporary
