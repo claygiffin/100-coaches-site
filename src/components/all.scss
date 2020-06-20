@@ -1,7 +1,7 @@
-@import "./_prefixes.scss";
-@import "./_normalize.scss";
-@import "./_icomoon.scss";
-@import url("https://use.typekit.net/xln8mvd.css");
+@import './_prefixes.scss';
+@import './_normalize.scss';
+@import './_icomoon.scss';
+@import url('https://use.typekit.net/xln8mvd.css');
 
 // Config vars
 $dl: 1800;
@@ -51,7 +51,7 @@ $sizeList: 12 13 15 16 18 21 24 30 36 72;
 
 %font-72 {
   @media screen and (max-width: $mb * 1px) {
-    font-size: 6rem * .75;
+    font-size: 6rem * 0.75;
   }
 }
 %font-21 {
@@ -125,18 +125,19 @@ $sizeList: 12 13 15 16 18 21 24 30 36 72;
 
 // Mixins
 @mixin easingGradient {
-  background-image: linear-gradient( 
-    0deg, 
-    hsla(0, 0%, 0%, 0.65) 0%, 
-    hsla(0, 0%, 0%, 0.602030178295) 16.57%, 
-    hsla(0, 0%, 0%, 0.5286488340250001) 29.56%, 
-    hsla(0, 0%, 0%, 0.43814814816500003) 39.93%, 
-    hsla(0, 0%, 0%, 0.338820301755) 48.61%, 
-    hsla(0, 0%, 0%, 0.23895747596500005) 56.57%, 
-    hsla(0, 0%, 0%, 0.14685185183500005) 64.74%, 
-    hsla(0, 0%, 0%, 0.07079561040500004) 74.07%, 
-    hsla(0, 0%, 0%, 0.019080932780000004) 85.51%, 
-    hsla(0, 0%, 0%, 0) 100%);
+  background-image: linear-gradient(
+    0deg,
+    hsla(0, 0%, 0%, 0.65) 0%,
+    hsla(0, 0%, 0%, 0.602030178295) 16.57%,
+    hsla(0, 0%, 0%, 0.5286488340250001) 29.56%,
+    hsla(0, 0%, 0%, 0.43814814816500003) 39.93%,
+    hsla(0, 0%, 0%, 0.338820301755) 48.61%,
+    hsla(0, 0%, 0%, 0.23895747596500005) 56.57%,
+    hsla(0, 0%, 0%, 0.14685185183500005) 64.74%,
+    hsla(0, 0%, 0%, 0.07079561040500004) 74.07%,
+    hsla(0, 0%, 0%, 0.019080932780000004) 85.51%,
+    hsla(0, 0%, 0%, 0) 100%
+  );
 }
 
 @mixin divider {
@@ -177,8 +178,8 @@ h1 {
   font-weight: 400;
   text-transform: uppercase;
   text-align: center;
-  letter-spacing: .1em;
-  word-spacing: .05em;
+  letter-spacing: 0.1em;
+  word-spacing: 0.05em;
   color: $darkGray;
   margin: 1.5em 0 0;
   @extend %col-12;
@@ -196,8 +197,8 @@ h2 {
   font-weight: 400;
   text-transform: uppercase;
   text-align: center;
-  letter-spacing: .0875em;
-  word-spacing: .05em;
+  letter-spacing: 0.0875em;
+  word-spacing: 0.05em;
   color: $darkGray;
   margin: 1em 0 0;
   @include flexbox;
@@ -215,16 +216,16 @@ h3 {
   text-transform: none;
   letter-spacing: 0;
   color: $darkGray;
-  margin: 0 0 .5em;
+  margin: 0 0 0.5em;
 }
 
 h4 {
   @include effraStack;
   @extend %font-18;
   text-transform: uppercase;
-  letter-spacing: .125em;
+  letter-spacing: 0.125em;
   font-weight: 500;
-  margin: .25em 0;
+  margin: 0.25em 0;
 }
 
 h5 {
@@ -232,7 +233,7 @@ h5 {
   @extend %font-16;
   font-weight: 400;
   font-style: italic;
-  margin: .25em 0;
+  margin: 0.25em 0;
 }
 
 h6 {
@@ -240,7 +241,7 @@ h6 {
   @extend %font-13;
   text-transform: uppercase;
   color: $midLightGray;
-  letter-spacing: .05em;
+  letter-spacing: 0.05em;
   font-weight: 500;
 }
 
@@ -252,12 +253,13 @@ p {
   font-weight: 300;
   text-align: left;
   color: $midGray;
-  b, strong {
+  b,
+  strong {
     font-weight: 400;
   }
 }
 
-// Global Elements 
+// Global Elements
 section {
   @include flexbox;
   @include flex-direction(column);
@@ -279,19 +281,19 @@ section {
   @extend %font-18;
   text-transform: uppercase;
   font-weight: 500;
-  letter-spacing: .1em;
+  letter-spacing: 0.1em;
   color: $gold;
   text-decoration: none;
-  padding: .25em 0;
-  @include transition(.3s color ease);
+  padding: 0.25em 0;
+  @include transition(0.3s color ease);
   &:hover {
     color: $goldLight;
   }
   &:after {
     @include LinkArrow;
     display: inline-block;
-    font-size: .75em;
-    margin-left: .25em
+    font-size: 0.75em;
+    margin-left: 0.25em;
   }
 }
 
@@ -303,13 +305,13 @@ section {
   text-decoration: none;
   @extend %font-21;
   text-transform: uppercase;
-  padding: .75em 2.5em;
-  letter-spacing: .05em;
+  padding: 0.75em 2.5em;
+  letter-spacing: 0.05em;
   margin: 2em 0;
   background-position: 100% 0%;
-  @include transition(.3s filter ease);
+  @include transition(0.3s filter ease);
   &:hover {
-    filter: brightness(1.125)
+    filter: brightness(1.125);
   }
 }
 
@@ -317,13 +319,13 @@ section {
   cursor: pointer;
 }
 
-.divider{
+.divider {
   width: 100%;
   @include flexbox;
   @include justify-content(center);
   &:after {
     @include divider;
-  }  
+  }
 }
 
 .icon {
@@ -336,7 +338,7 @@ section {
   @include flexbox;
   @include align-items(center);
   @include justify-content(center);
-  @include transition(.15s color ease, .3s background-color ease);
+  @include transition(0.15s color ease, 0.3s background-color ease);
   &.facebook:before {
     @include Facebook;
   }
@@ -375,7 +377,6 @@ section {
   }
 }
 
-
 // Styling
 nav.navbar {
   position: fixed;
@@ -386,18 +387,18 @@ nav.navbar {
   width: 100%;
   .site-logo {
     @include flexbox;
-    margin: .6em 1.8em;
+    margin: 0.6em 1.8em;
     opacity: 1;
     z-index: 12;
-    @include transition(margin .3s ease .3s, opacity .3s ease );
+    @include transition(margin 0.3s ease 0.3s, opacity 0.3s ease);
     .logo {
       height: 2.4em;
       min-height: 24px;
-      padding: .6em;
-      @include transition(height .3s ease .3s, padding-top .3s ease .3s);
+      padding: 0.6em;
+      @include transition(height 0.3s ease 0.3s, padding-top 0.3s ease 0.3s);
     }
     &:hover {
-      opacity: .75;
+      opacity: 0.75;
     }
   }
   &.scrolled {
@@ -405,12 +406,12 @@ nav.navbar {
       margin: 0.1em 1.8em;
       .logo {
         height: 2em;
-        padding-top: .4em;
+        padding-top: 0.4em;
       }
     }
   }
   &.transparent:not(.scrolled) .site-logo {
-    opacity: .75;
+    opacity: 0.75;
     &:hover {
       opacity: 1;
     }
@@ -421,7 +422,7 @@ nav.navbar {
     @extend %absolute-fill;
     z-index: 11;
     pointer-events: none;
-    @include transition(.3s background-color ease);
+    @include transition(0.3s background-color ease);
   }
   .navbar-list {
     @include flexbox;
@@ -430,14 +431,14 @@ nav.navbar {
       @include justify-content(space-between);
       @include flex-direction(column);
       font-size: inherit;
-      padding: 0 .3em;
+      padding: 0 0.3em;
       margin: 0 2.1em;
       color: inherit;
       text-decoration: none;
       font-weight: 400;
       text-transform: uppercase;
-      letter-spacing: .075em;
-      @include transition(.3s color ease);
+      letter-spacing: 0.075em;
+      @include transition(0.3s color ease);
       z-index: 12;
       &:before,
       &:after {
@@ -452,9 +453,9 @@ nav.navbar {
       .contact-link {
         border: 1px solid $darkGray;
         color: inherit;
-        padding: .4667em .6em .4em ;
+        padding: 0.4667em 0.6em 0.4em;
         line-height: 1;
-        transition: all .3s ease;
+        transition: all 0.3s ease;
       }
     }
   }
@@ -483,7 +484,7 @@ nav.navbar {
   }
   &.transparent:not(.scrolled) {
     .navbar-item {
-      color: rgba(white, .75);
+      color: rgba(white, 0.75);
       &:hover {
         color: $goldLight;
       }
@@ -496,8 +497,8 @@ nav.navbar {
       }
     }
     .contact-link {
-      border-color: rgba(white, .75);
-      color: rgba(white, .75);
+      border-color: rgba(white, 0.75);
+      color: rgba(white, 0.75);
       &:hover {
         color: $goldLight;
         border-color: $goldLight;
@@ -506,7 +507,7 @@ nav.navbar {
   }
   &.white:after,
   &.scrolled:after {
-    box-shadow: 0 1px 0 rgba(0,0,0,.1);
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
     background-color: white;
   }
   @media screen and (max-width: $tb * 1px) {
@@ -518,13 +519,13 @@ nav.navbar {
       overflow: scroll;
       opacity: 0;
       transform: translate3d(0, -100%, 0);
-      @include transition(transform .3s ease, opacity 0s .3s ease);
+      @include transition(transform 0.3s ease, opacity 0s 0.3s ease);
       @include flex-direction(column);
       @include align-items(center);
       padding: calc(24px + 5rem) 2rem 2rem;
       box-sizing: border-box;
       background-color: white;
-      box-shadow: 0 3px 9px rgba(0,0,0,.1), 0 1px 0 rgba(0,0,0,.05);
+      box-shadow: 0 3px 9px rgba(0, 0, 0, 0.1), 0 1px 0 rgba(0, 0, 0, 0.05);
       .navbar-item {
         color: $greenLight;
         font-size: 16px;
@@ -552,14 +553,14 @@ nav.navbar {
       }
       z-index: 10;
     }
-    
+
     .site-logo,
     &.scrolled .site-logo {
       z-index: 13;
-      margin: .6rem calc(4.25vw - .6em);
+      margin: 0.6rem calc(4.25vw - 0.6em);
       .logo {
         height: 2em;
-        padding: .4em .6em;
+        padding: 0.4em 0.6em;
       }
     }
     .mobile-nav-button {
@@ -569,7 +570,7 @@ nav.navbar {
       margin: 1rem 2rem;
       padding: 0;
       @include transform(rotate(0deg));
-      @include transition(.5s ease-in-out);
+      @include transition(0.5s ease-in-out);
       cursor: pointer;
       z-index: 13;
       span {
@@ -580,11 +581,11 @@ nav.navbar {
         opacity: 1;
         left: 0;
         background-color: $green;
-        @include transition(.25s ease-in-out);
+        @include transition(0.25s ease-in-out);
         &:nth-child(1) {
           top: calc(50% - 9px);
           @include transform(translateY(-50%));
-          z-index:10;
+          z-index: 10;
         }
         &:nth-child(2),
         &:nth-child(3) {
@@ -595,15 +596,15 @@ nav.navbar {
         &:nth-child(4) {
           bottom: calc(50% - 9px);
           @include transform(translateY(50%));
-          z-index: 10
+          z-index: 10;
         }
       }
     }
     &.transparent:not(.scrolled) {
       .mobile-nav-button span {
-        background-color: rgba(white, .85);
+        background-color: rgba(white, 0.85);
       }
-      .navbar-item{
+      .navbar-item {
         color: $greenLight;
         &.active {
           color: $greenLight;
@@ -615,15 +616,15 @@ nav.navbar {
     }
     &.activated {
       &:before {
-        background-color: rgba(black, .15);
+        background-color: rgba(black, 0.15);
       }
       &:after {
-        box-shadow: 0 1px 0 rgba(0,0,0,.1);
+        box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
       }
       .navbar-list {
         transform: translate3d(0, 0, 0);
         opacity: 1;
-        @include transition(transform .3s ease, opacity .1s ease);
+        @include transition(transform 0.3s ease, opacity 0.1s ease);
       }
       .mobile-nav-button {
         span {
@@ -669,7 +670,6 @@ nav.navbar {
   }
 }
 
-
 footer.site-footer {
   position: relative;
   @include flexbox;
@@ -684,14 +684,15 @@ footer.site-footer {
     margin: 1.5rem 0 0;
     font-size: 1.25rem;
     text-transform: uppercase;
-    letter-spacing: .05em;
-    a, .contact-link {
+    letter-spacing: 0.05em;
+    a,
+    .contact-link {
       @extend %font-13;
       display: inline-block;
       font-weight: 400;
       color: $gold;
       text-decoration: none;
-      transition: .2s color ease;
+      transition: 0.2s color ease;
       cursor: pointer;
       &:hover {
         color: $goldLight;
@@ -706,8 +707,8 @@ footer.site-footer {
   .copyright {
     font-size: 1rem;
     text-transform: uppercase;
-    letter-spacing: .05em;
-    color: rgba(white, .85);
+    letter-spacing: 0.05em;
+    color: rgba(white, 0.85);
     text-align: center;
     margin-top: 1.5rem;
   }
@@ -725,7 +726,7 @@ footer.site-footer {
   @include linear-gradient(to top right, $greenDark, $green);
   @include clip-path(inset(0 0 0 0));
   overflow: hidden;
-  animation: fadeIn .5s 0s ease;
+  animation: fadeIn 0.5s 0s ease;
   #hero-video {
     @extend %absolute-fill;
     object-fit: cover;
@@ -754,15 +755,15 @@ footer.site-footer {
     position: relative;
     z-index: 1;
     .intro-text {
-      margin: .125em 0 .5em;
-      color: rgba(white, .75);
+      margin: 0.125em 0 0.5em;
+      color: rgba(white, 0.75);
     }
     .text-link {
       @extend %font-21;
     }
     h1 {
       color: white;
-      margin-top: .5em;
+      margin-top: 0.5em;
     }
   }
 }
@@ -780,7 +781,7 @@ footer.site-footer {
     #hero-logo {
       width: 7.5em;
       max-width: 90%;
-      margin-bottom: .5em;
+      margin-bottom: 0.5em;
     }
   }
 }
@@ -795,10 +796,10 @@ footer.site-footer {
 .coach {
   position: relative;
   cursor: pointer;
-  animation: fadeIn .5s 0s ease;
+  animation: fadeIn 0.5s 0s ease;
   .image-wrap {
-    width:100%;
-    height:0;
+    width: 100%;
+    height: 0;
     padding-bottom: 100%;
     position: relative;
     background-color: $lightGray;
@@ -812,7 +813,7 @@ footer.site-footer {
     width: 100%;
     bottom: 0;
     color: white;
-    padding: 1rem .75rem;
+    padding: 1rem 0.75rem;
     box-sizing: border-box;
     text-align: center;
     text-shadow: 0 0 5px black;
@@ -824,7 +825,7 @@ footer.site-footer {
     @include flex-direction(column);
     @media screen and (max-width: $tb * 1px) {
       position: relative;
-      padding: .25rem 0 .75rem;
+      padding: 0.25rem 0 0.75rem;
       text-shadow: none;
       color: $darkGray;
       background: none;
@@ -834,11 +835,11 @@ footer.site-footer {
     }
   }
   img {
-    @include transition(.3s opacity ease);
+    @include transition(0.3s opacity ease);
   }
   &:hover {
     img {
-      opacity: .85;
+      opacity: 0.85;
     }
     @media (pointer: coarse) and (hover: none) {
       opacity: 1;
@@ -889,14 +890,14 @@ footer.site-footer {
     .coach-links {
       @include flexbox;
       .icon {
-        margin: 0 .5rem 0 0;
+        margin: 0 0.5rem 0 0;
       }
     }
     .functional-links {
       @include flexbox;
       @include justify-content(flex-end);
       .icon {
-        margin: 0 0 0 .5rem;
+        margin: 0 0 0 0.5rem;
         cursor: pointer;
       }
     }
@@ -906,14 +907,14 @@ footer.site-footer {
       & > * {
         @include flex(auto);
       }
-      .coach-photo { 
+      .coach-photo {
         @include flex(auto);
         order: 3;
         width: 100%;
         .image-wrap-outer {
           margin-top: 2rem;
           width: 75%;
-          max-width: $mb * .5px;
+          max-width: $mb * 0.5px;
         }
       }
     }
@@ -926,7 +927,7 @@ footer.site-footer {
     }
     h1 {
       @extend %font-36;
-      margin: .75em 0 .5em;
+      margin: 0.75em 0 0.5em;
       width: 100%;
       &:after {
         display: none;
@@ -936,7 +937,7 @@ footer.site-footer {
       @extend %font-21;
       color: $midGray;
       font-weight: 300;
-      margin-bottom: .75em;
+      margin-bottom: 0.75em;
     }
     .tags {
       h6 {
@@ -945,7 +946,7 @@ footer.site-footer {
       }
     }
     .contact-link {
-      padding: .75em 1.25em;
+      padding: 0.75em 1.25em;
       margin: 2.25rem 0;
       display: inline-block;
       @extend h6;
@@ -969,7 +970,7 @@ footer.site-footer {
         color: $greenLight;
         text-decoration: none;
         font-weight: 400;
-        @include transition(color .2s ease);
+        @include transition(color 0.2s ease);
         &:hover {
           color: $gold;
         }
@@ -979,7 +980,7 @@ footer.site-footer {
         margin-bottom: 3rem;
         li {
           @extend p;
-          margin-bottom: .25em;
+          margin-bottom: 0.25em;
         }
       }
       blockquote {
@@ -1010,10 +1011,11 @@ footer.site-footer {
       max-width: 100%;
       min-height: 12em;
     }
-    input, textarea {
+    input,
+    textarea {
       @extend %font-21;
       line-height: 1.5em;
-      padding: .5em .75em;
+      padding: 0.5em 0.75em;
       margin: 1rem 0;
       border: 1px solid $lightGray;
       border-radius: 0;
@@ -1038,7 +1040,7 @@ footer.site-footer {
       @extend %font-30;
       font-weight: 300;
       text-align: center;
-      margin-bottom: .5em;
+      margin-bottom: 0.5em;
     }
   }
   .hidden {
@@ -1068,12 +1070,12 @@ footer.site-footer {
     opacity: 1;
     visibility: visible;
     @include transform(translate3D(-50%, 0, 0));
-    @include transition(.3s transform ease);
+    @include transition(0.3s transform ease);
   }
   &.inactive {
     opacity: 0;
     visibility: hidden;
-    @include transition(.5s 1.5s all ease);
+    @include transition(0.5s 1.5s all ease);
   }
 }
 
@@ -1084,7 +1086,7 @@ footer.site-footer {
   &:after {
     content: '';
     display: block;
-    position:absolute;
+    position: absolute;
     width: 100%;
     height: 1.25rem;
     @include linear-gradient(90deg, lighten($lightGray, 10%), $lightestGray);
@@ -1093,7 +1095,7 @@ footer.site-footer {
     top: 0;
   }
   &:after {
-    bottom:0;
+    bottom: 0;
   }
 }
 
@@ -1110,7 +1112,7 @@ footer.site-footer {
 .thought {
   text-decoration: none;
   color: $midGray;
-  @include transition(.3s color ease);
+  @include transition(0.3s color ease);
   h5 {
     font-style: normal;
     font-weight: 400;
@@ -1120,17 +1122,17 @@ footer.site-footer {
   h6 {
     font-weight: 400;
     margin: 0;
-    @include transition(.3s opacity ease);
+    @include transition(0.3s opacity ease);
   }
   .image {
     width: 100%;
     height: 0;
-    padding-bottom: 52.5%;
+    padding-bottom: 56.25%;
     position: relative;
     img {
       @extend %absolute-fill;
       object-fit: cover;
-      @include transition(.3s opacity ease);
+      @include transition(0.3s opacity ease);
     }
     &:after {
       content: '';
@@ -1143,14 +1145,15 @@ footer.site-footer {
   &:hover {
     color: $gold;
     img {
-      opacity: .85;
+      opacity: 0.85;
     }
     h6 {
-      opacity: .65;
+      opacity: 0.65;
     }
     @media (pointer: coarse) and (hover: none) {
       color: inherit;
-      img, h6 {
+      img,
+      h6 {
         opacity: 1;
       }
     }
@@ -1161,19 +1164,18 @@ footer.site-footer {
   @include linear-gradient(to top right, $greenDark, $greenMid);
   @include flex-direction(row);
   @include align-items(stretch);
-  .image {
+  margin-bottom: 5vw;
+  .image-wrap {
     flex: 1;
-    height: auto;
     position: relative;
-    img {
-      position: absolute;
-      left: 50%;
-      top: 50%;
-      @include transform(translate(-50%, -50%));
-      height: 160%;
-      max-width: 95%;
-      object-fit: contain;
-    }
+  }
+  .image {
+    height: auto;
+    width: 95%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    @include transform(translate(-50%, -50%));
   }
   .text {
     padding: 2rem 3rem 2rem 1.5rem;
@@ -1183,26 +1185,24 @@ footer.site-footer {
     color: white;
   }
   p {
-    color: rgba(white, .75);
+    color: rgba(white, 0.75);
     line-height: 1.5;
   }
   @media screen and (max-width: 540px) {
     @include flex-direction(column);
-    margin-top: 5%;
-    .image {
-      width: 100%;
-      display: flex;
-      justify-content: center;
-      margin-top: -15%;
-      margin-bottom: -5%;
-      img {
-        position: relative;
-        height: 100%;
-        max-width: 65%;
+    margin-top: 10%;
+    margin-bottom: 0%;
+    padding-bottom: 10vw;
+    .image-wrap {
+
+      .image {
         width: 100%;
-        @include transform(none);
-        top: auto;
-        left: auto;
+        position: relative;
+        transform: none;
+        left: 0;
+        top: 0;
+        margin-top: -15%;
+        margin-bottom: -5%;
       }
     }
     .text {
@@ -1255,7 +1255,7 @@ footer.site-footer {
     flex: 2;
     @include flexbox;
     @include align-items(center);
-    background-color: rgba(black, .10);
+    background-color: rgba(black, 0.1);
     .player-wrapper-inner {
       width: 100%;
       position: relative;
@@ -1272,9 +1272,9 @@ footer.site-footer {
   .info-wrapper {
     padding: 4rem 3rem;
     flex: 1;
-    h3{
+    h3 {
       @extend %font-30;
-      margin-bottom: .5em;
+      margin-bottom: 0.5em;
     }
     h6 {
       margin: 0 0 1em;
@@ -1282,7 +1282,7 @@ footer.site-footer {
     }
     p {
       @extend %font-18;
-      margin-bottom: .75em;
+      margin-bottom: 0.75em;
       line-height: 1.75;
       color: $midGray;
     }
@@ -1313,27 +1313,27 @@ footer.site-footer {
       text-decoration: none;
       text-transform: uppercase;
       font-weight: 500;
-      letter-spacing: .05em;
-      padding: .5em;
+      letter-spacing: 0.05em;
+      padding: 0.5em;
       margin-right: 1em;
-      @include transition(.2s color ease);
+      @include transition(0.2s color ease);
       &:after {
         content: '';
         display: block;
         position: absolute;
         pointer-events: none;
         right: -1em;
-        top: .1em;
-        bottom: .1em;
+        top: 0.1em;
+        bottom: 0.1em;
         width: 1px;
-        opacity: .5;
+        opacity: 0.5;
         background: $lightGray;
       }
       &:hover {
         color: $greenLight;
       }
     }
-    button.slick-arrow{
+    button.slick-arrow {
       position: relative;
       left: 0;
       right: 0;
@@ -1341,18 +1341,18 @@ footer.site-footer {
       bottom: 0;
       width: auto;
       height: auto;
-      @include transform(translate(0,0));
+      @include transform(translate(0, 0));
       @include flexbox;
       &:before {
         color: $green;
         @extend %font-21;
-        padding: .25em;
+        padding: 0.25em;
         opacity: 1;
-        @include transition(.15s color ease);
+        @include transition(0.15s color ease);
       }
       &.slick-prev {
-        margin-left: .9rem;
-        margin-right: .6rem;
+        margin-left: 0.9rem;
+        margin-right: 0.6rem;
         &:before {
           @include CarouselArrowPrev;
         }
@@ -1372,14 +1372,14 @@ footer.site-footer {
         pointer-events: none;
         &:before {
           color: $lightGray;
-          opacity: .5;
+          opacity: 0.5;
         }
-       &:hover {
+        &:hover {
           color: inherit;
         }
       }
     }
-    @media screen and (max-width: $tb * 1px ) {
+    @media screen and (max-width: $tb * 1px) {
       .view-all {
         font-size: 1.25rem;
       }
@@ -1392,11 +1392,11 @@ footer.site-footer {
       button.slick-arrow {
         display: none;
       }
-      .view-all{
+      .view-all {
         margin-right: 0;
         &:after {
           display: none;
-        } 
+        }
       }
     }
   }
@@ -1408,15 +1408,15 @@ footer.site-footer {
     .slick-list {
       overflow: visible;
       .slick-track {
-        >div>div {
-          padding: 0 .75vw;
+        > div > div {
+          padding: 0 0.75vw;
         }
       }
     }
     @media screen and (max-width: $tb * 1px) {
       padding-left: 4vw;
       padding-right: 4vw;
-      .slick-list .slick-track>div>div {
+      .slick-list .slick-track > div > div {
         padding: 0 1vw;
       }
     }
@@ -1445,14 +1445,14 @@ footer.site-footer {
       }
       @media screen and (max-width: $tb * 1px) {
         width: 33.333%;
-        padding: .25rem .75rem;
+        padding: 0.25rem 0.75rem;
       }
       @media screen and (max-width: $mb * 1px) {
         width: 50%;
       }
     }
     @media screen and (max-width: $tb * 1px) {
-      padding: 0 calc(5vw - .75rem) 9rem;
+      padding: 0 calc(5vw - 0.75rem) 9rem;
     }
   }
   #filters {
@@ -1464,12 +1464,12 @@ footer.site-footer {
     }
     h3 {
       cursor: pointer;
-      padding: .25em 0;
-      margin-right: .25em;
+      padding: 0.25em 0;
+      margin-right: 0.25em;
       margin-bottom: 1rem;
       margin-top: 1rem;
       color: lighten($lightGray, 10);
-      @include transition(color .2s ease);
+      @include transition(color 0.2s ease);
       @media screen and (max-width: $mb * 1px) {
         font-size: 2.5rem;
       }
@@ -1483,14 +1483,13 @@ footer.site-footer {
         color: $green;
       }
     }
-      
   }
 }
 
 #services-page {
   #hero {
     .text-link {
-      margin-top: .75em;
+      margin-top: 0.75em;
     }
   }
   section {
@@ -1501,16 +1500,16 @@ footer.site-footer {
       text-decoration: none;
       text-transform: uppercase;
       font-weight: 500;
-      letter-spacing: .05em;
-      padding: .5em;
+      letter-spacing: 0.05em;
+      padding: 0.5em;
       margin-bottom: 2rem;
-      @include transition(.2s color ease);
+      @include transition(0.2s color ease);
       &:hover {
         color: $greenLight;
       }
     }
     h2 {
-      margin-bottom: .5em;
+      margin-bottom: 0.5em;
       &:after {
         display: none;
       }
@@ -1562,7 +1561,7 @@ footer.site-footer {
     &:before {
       content: '';
       display: block;
-      position:absolute;
+      position: absolute;
       width: 100%;
       height: 1.25rem;
       @include linear-gradient(90deg, lighten($lightGray, 10%), $lightestGray);
@@ -1573,21 +1572,21 @@ footer.site-footer {
       @include justify-content(flex-start);
       @extend %col-12;
       .service {
-        width: calc(100%/3);
+        width: calc(100% / 3);
         padding: 1rem;
         box-sizing: border-box;
         .service-inner {
-          padding: 1.5rem 1.5rem 2rem .75rem;
+          padding: 1.5rem 1.5rem 2rem 0.75rem;
           box-sizing: border-box;
           @include flexbox;
           // width: calc((100% - 4rem) / 3 );
           width: 100%;
           height: 100%;
           background: white;
-          box-shadow: 0 0 0 1px rgba(black,.25);
+          box-shadow: 0 0 0 1px rgba(black, 0.25);
           .image {
             width: 6rem;
-            margin-top: -.5rem;
+            margin-top: -0.5rem;
             @include flex-shrink(0);
             img {
               width: 100%;
@@ -1602,11 +1601,11 @@ footer.site-footer {
               @extend %font-24;
               font-weight: 700;
               margin-top: 0;
-              margin-bottom: .375em;
+              margin-bottom: 0.375em;
             }
             h4 {
               margin-top: 0;
-              margin-bottom: .5em;
+              margin-bottom: 0.5em;
               color: $green;
               @extend %font-15;
               text-transform: none;
@@ -1614,7 +1613,7 @@ footer.site-footer {
             }
             p {
               line-height: 1.5;
-              margin-bottom: .75em;
+              margin-bottom: 0.75em;
               @extend %font-15;
               font-weight: 400;
               color: $midLightGray;
@@ -1625,7 +1624,7 @@ footer.site-footer {
             }
           }
         }
-        @media screen and (min-width: $ds * 1px ) {
+        @media screen and (min-width: $ds * 1px) {
           &:nth-child(3n - 2) {
             padding-left: 0;
           }
@@ -1634,8 +1633,8 @@ footer.site-footer {
           }
         }
         @media screen and (max-width: $ds * 1px) {
-          width: calc(100%/2);
-          padding: .75rem;
+          width: calc(100% / 2);
+          padding: 0.75rem;
           &:nth-child(2n - 1) {
             padding-left: 0;
           }
@@ -1652,7 +1651,6 @@ footer.site-footer {
   }
 }
 
-
 // Lightbox
 
 .lightbox {
@@ -1664,7 +1662,7 @@ footer.site-footer {
   -webkit-backface-visibility: hidden;
   -webkit-perspective: 1000;
   background-color: rgba(white, 0);
-  @include transition(.1s background-color ease);
+  @include transition(0.1s background-color ease);
   .lightbox-wrapper {
     @extend %absolute-fill;
     position: fixed;
@@ -1673,26 +1671,26 @@ footer.site-footer {
     overscroll-behavior: contain;
     -webkit-backface-visibility: hidden;
     -webkit-perspective: 1000;
-    @include transform(translate3D(0,0,0));
+    @include transform(translate3D(0, 0, 0));
     .wrapper-inner {
       position: relative;
     }
     .lightbox-container {
       -webkit-backface-visibility: hidden;
       -webkit-perspective: 1000;
-      @include transform(translate3D(0,0,0));
+      @include transform(translate3D(0, 0, 0));
       opacity: 0;
-      @include transition(.3s opacity ease);
+      @include transition(0.3s opacity ease);
       background: white;
       margin: 2rem 0 3rem;
       position: relative;
       z-index: 10;
-      box-shadow: 0 1vw 5vw rgba(0,0,0,.1), 0 0 0 1px rgba(0,0,0,.05);
+      box-shadow: 0 1vw 5vw rgba(0, 0, 0, 0.1), 0 0 0 1px rgba(0, 0, 0, 0.05);
       @include inline-flex;
       @include flex-direction(column);
       .lightbox-content {
         width: 62.5vw;
-        min-width: $tb * .9px;
+        min-width: $tb * 0.9px;
         @media screen and (max-width: $tb * 1px) {
           width: 90vw;
           min-width: auto;
@@ -1708,7 +1706,7 @@ footer.site-footer {
       height: 100%;
       min-height: 100vh;
       z-index: 1;
-    }  
+    }
   }
   nav {
     @include justify-content(space-between);
@@ -1729,8 +1727,8 @@ footer.site-footer {
       @include flexbox;
       @extend %font-36;
       color: $midGray;
-      @include transition(.1s color ease);
-      &:before{
+      @include transition(0.1s color ease);
+      &:before {
         @include XLarge;
       }
       &:hover {
@@ -1760,12 +1758,12 @@ body.lightbox-open {
     overflow: hidden;
   }
   .lightbox {
-    background-color: rgba(#f2f2f2, .95);
+    background-color: rgba(#f2f2f2, 0.95);
     .lightbox-wrapper .lightbox-container {
       opacity: 1;
     }
   }
-  &.multi-lightbox-open{
+  &.multi-lightbox-open {
     .lightbox:not(.active) {
       z-index: 99;
       .lightbox-wrapper .lightbox-container {
@@ -1782,7 +1780,6 @@ body.lightbox-open {
   }
 }
 
-
 // Keyframes
 @keyframes fadeIn {
   0% {
@@ -1792,7 +1789,6 @@ body.lightbox-open {
     opacity: 1;
   }
 }
-
 
 // Print
 
@@ -1808,18 +1804,18 @@ body.lightbox-open {
     display: block;
   }
   footer.site-footer {
-    display:none;
+    display: none;
   }
   nav.navbar {
     position: static !important;
     overflow: visible;
     margin: 0 0 1.25rem;
-    padding: 0 0 .75rem;
+    padding: 0 0 0.75rem;
     border-bottom: 1px solid hsl(0, 0%, 90%);
     &:after {
       display: none;
     }
-    .site-logo { 
+    .site-logo {
       margin: 0 !important;
       padding: 0;
       .logo {
@@ -1857,9 +1853,9 @@ body.lightbox-open {
           position: static;
           nav {
             display: block;
-            position:relative;
-            text-align: left; 
-            padding: 0 0 .5rem;
+            position: relative;
+            text-align: left;
+            padding: 0 0 0.5rem;
             margin-bottom: 1.25rem;
             .site-logo {
               height: 1.75rem;
@@ -1887,8 +1883,8 @@ body.lightbox-open {
         width: 25%;
         margin: 0 auto;
       }
-      .coach-links, 
-      .functional-links{
+      .coach-links,
+      .functional-links {
         display: none;
       }
     }
@@ -1910,7 +1906,7 @@ body.lightbox-open {
       right: 0;
       text-align: left;
       h6 {
-        margin: .25em 0;
+        margin: 0.25em 0;
       }
     }
     h6 {

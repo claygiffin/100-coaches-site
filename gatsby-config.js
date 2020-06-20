@@ -1,3 +1,6 @@
+require('dotenv').config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
 module.exports = {
   siteMetadata: {
     title: 'Marshall Goldsmith 100 Coaches',
@@ -55,11 +58,29 @@ module.exports = {
         head: true,
       },
     },
+    // {
+    //   resolve: 'gatsby-plugin-netlify-cms',
+    //   options: {
+    //     modulePath: `${__dirname}/src/cms/cms.js`,
+    //     stylesPath: `${__dirname}/src/components/all.scss`,
+    //   },
+    // },
     {
-      resolve: 'gatsby-plugin-netlify-cms',
+      resolve: `gatsby-source-datocms`,
       options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-        stylesPath: `${__dirname}/src/components/all.scss`,
+        // You can find your read-only API token under the Settings > API tokens
+        // section of your administrative area:
+        apiToken: `${process.env.DATO_API_KEY}`,
+
+        // If you are working on development/staging environment, you might want to
+        // preview the latest version of records instead of the published one:
+        previewMode: false,
+
+        // Disable automatic reloading of content when some change occurs on DatoCMS:
+        disableLiveReload: false,
+
+        // // Custom API base URL
+        // apiUrl: 'https://site-api.datocms.com/',
       },
     },
     'gatsby-plugin-netlify', // make sure to keep it last in the array

@@ -34,6 +34,9 @@ export default class VideoPlayer extends React.Component {
   }
 
   render() {
+    const getHtml = (node) => ({
+      __html: node.childMarkdownRemark.html,
+    })
     return (
       <div className="video-container">
         <div className="player-wrapper" >
@@ -60,7 +63,7 @@ export default class VideoPlayer extends React.Component {
         <div className="info-wrapper">
           <h3>{this.props.title}</h3>
           <h6>Video&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<span className="duration">{this.state.duration.hours !== 0 && `${this.state.duration.hours}:`}{this.state.duration.minutes && `${this.state.duration.minutes}:`}{this.state.duration.seconds && this.state.duration.seconds}</span></h6>
-          <p>{this.props.description}</p>
+          <div dangerouslySetInnerHTML={(getHtml(this.props.description))} />
         </div>
       </div>
     )
