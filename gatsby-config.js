@@ -22,13 +22,6 @@ module.exports = {
         name: 'assets',
       },
     },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/static/uploads`,
-        name: 'uploads',
-      },
-    },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
