@@ -1163,11 +1163,12 @@ footer.site-footer {
 #education {
   @include linear-gradient(to top right, $greenDark, $greenMid);
   @include flex-direction(row);
-  @include align-items(stretch);
+  @include align-items(center);
   margin-bottom: 5vw;
   .image-wrap {
     flex: 1;
     position: relative;
+    min-height: 30vw;
   }
   .image {
     height: auto;
@@ -1178,7 +1179,7 @@ footer.site-footer {
     @include transform(translate(-50%, -50%));
   }
   .text {
-    padding: 2rem 3rem 2rem 1.5rem;
+    padding: 2rem 5rem 2rem 1.5rem;
     flex: 1;
   }
   h3 {
@@ -1190,6 +1191,7 @@ footer.site-footer {
   }
   @media screen and (max-width: 540px) {
     @include flex-direction(column);
+    @include align-items(stretch);
     margin-top: 10%;
     margin-bottom: 0%;
     padding-bottom: 10vw;
