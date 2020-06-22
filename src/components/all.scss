@@ -394,7 +394,7 @@ nav.navbar {
     .logo {
       height: 2.4em;
       min-height: 24px;
-      padding: 0.6em;
+      margin: 0.6em;
       @include transition(height 0.3s ease 0.3s, padding-top 0.3s ease 0.3s);
     }
     &:hover {
@@ -406,7 +406,7 @@ nav.navbar {
       margin: 0.1em 1.8em;
       .logo {
         height: 2em;
-        padding-top: 0.4em;
+        margin-top: 0.4em;
       }
     }
   }
@@ -560,7 +560,7 @@ nav.navbar {
       margin: 0.6rem calc(4.25vw - 0.6em);
       .logo {
         height: 2em;
-        padding: 0.4em 0.6em;
+        margin: 0.4em 0.6em;
       }
     }
     .mobile-nav-button {
