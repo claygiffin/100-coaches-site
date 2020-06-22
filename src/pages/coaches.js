@@ -139,7 +139,7 @@ export class CoachesPageTemplate extends React.Component {
       <main id="coaches-page" className="page-content">
         <h1>{this.props.title}</h1>
         <div className="carousel-wrap">
-          <Carousel id="filters">
+          <Carousel id="filters" >
             <h3
               onMouseDown={this.handleMouseDown}
               onMouseMove={this.handleMouseMove}

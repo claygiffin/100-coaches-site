@@ -10,7 +10,7 @@ $ds: 1080;
 $tb: 768;
 $mb: 480;
 
-$green: hsl(154, 33%, 37%);
+$green: hsl(156, 33%, 37%);
 $greenLight: hsl(154, 36%, 50%);
 $greenMid: hsl(165, 56%, 22%);
 $greenDark: hsl(174, 70%, 12%);
@@ -1194,7 +1194,6 @@ footer.site-footer {
     margin-bottom: 0%;
     padding-bottom: 10vw;
     .image-wrap {
-
       .image {
         width: 100%;
         position: relative;
@@ -1659,8 +1658,8 @@ footer.site-footer {
   text-align: center;
   z-index: 99;
   @include transform(translate3D(0, 0, 0));
-  -webkit-backface-visibility: hidden;
-  -webkit-perspective: 1000;
+  backface-visibility: hidden;
+  perspective: 1px;
   background-color: rgba(white, 0);
   @include transition(0.1s background-color ease);
   .lightbox-wrapper {
@@ -1669,15 +1668,15 @@ footer.site-footer {
     overflow: scroll;
     -webkit-overflow-scrolling: touch;
     overscroll-behavior: contain;
-    -webkit-backface-visibility: hidden;
-    -webkit-perspective: 1000;
+    backface-visibility: hidden;
+    perspective: 1px;
     @include transform(translate3D(0, 0, 0));
     .wrapper-inner {
       position: relative;
     }
     .lightbox-container {
-      -webkit-backface-visibility: hidden;
-      -webkit-perspective: 1000;
+      backface-visibility: hidden;
+      perspective: 1px;
       @include transform(translate3D(0, 0, 0));
       opacity: 0;
       @include transition(0.3s opacity ease);
