@@ -834,11 +834,11 @@ footer.site-footer {
       }
     }
   }
-  img {
+  .image-wrap {
     @include transition(0.3s opacity ease);
   }
   &:hover {
-    img {
+    .image-wrap {
       opacity: 0.85;
     }
     @media (pointer: coarse) and (hover: none) {
