@@ -144,7 +144,7 @@ export default class CoachProfile extends React.Component {
           <div className="bio" dangerouslySetInnerHTML={getHtml(coach.bioNode)} />
         </div>
         <div className="print-only contact-info">
-          <h6>email: info@100coachesconsulting.com</h6>
+          <h6>email: info@100coaches.com</h6>
           <h6>phone: 212.877.4277</h6>
         </div>
         <Portal>
