@@ -24,26 +24,7 @@ module.exports = {
     },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
-    {
-      resolve: 'gatsby-transformer-remark',
-      options: {
-        plugins: [
-          // gatsby-remark-relative-images must
-          // go before gatsby-remark-images
-          // {
-          //   resolve: `gatsby-remark-relative-images`,
-          //   options: {
-          //     name: "uploads" // Must match the source name ^
-          //   }
-          // },
-          // {
-          //   resolve: `gatsby-remark-images`,
-          //   options: {
-          //   },
-          // },
-        ],
-      },
-    },
+    'gatsby-transformer-remark',
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
@@ -51,13 +32,6 @@ module.exports = {
         head: true,
       },
     },
-    // {
-    //   resolve: 'gatsby-plugin-netlify-cms',
-    //   options: {
-    //     modulePath: `${__dirname}/src/cms/cms.js`,
-    //     stylesPath: `${__dirname}/src/components/all.scss`,
-    //   },
-    // },
     {
       resolve: `gatsby-source-datocms`,
       options: {
