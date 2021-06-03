@@ -16,9 +16,7 @@ export const ServicesPage = () => {
         coachingServicesDescription
         speakingEngagementsDescription
         consultingServicesDescription
-        consultingServicesList(
-          sort: { fields: position, order: ASC }
-        ) {
+        consultingServicesList{
           serviceHeadline
           coach {
             coachName
