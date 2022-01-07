@@ -45,7 +45,12 @@ const ForefrontPage = () => {
               switch (record.__typename) {
                 case 'DatoCmsExternalLink':
                   return (
-                    <a href={record.url} className="cta-link">
+                    <a
+                      href={record.url}
+                      className="cta-link"
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >
                       {record.linkText}
                     </a>
                   )
