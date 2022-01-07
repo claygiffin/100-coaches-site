@@ -1,6 +1,4 @@
-require('dotenv').config({
-  path: `.env.${process.env.NODE_ENV}`,
-})
+require('dotenv').config()
 module.exports = {
   siteMetadata: {
     title: 'Marshall Goldsmith 100 Coaches',
@@ -48,6 +46,20 @@ module.exports = {
 
         // // Custom API base URL
         // apiUrl: 'https://site-api.datocms.com/',
+      },
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `100-coaches-theme`,
+        short_name: `100coaches`,
+        start_url: `/`,
+        background_color: `#195848`,
+        // This will impact how browsers show your PWA/website
+        // https://css-tricks.com/meta-theme-color-and-trickery/
+        // theme_color: `#663399`,
+        display: `minimal-ui`,
+        icon: `static/favicon.svg`, // This path is relative to the root of the site.
       },
     },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
