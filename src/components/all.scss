@@ -1259,17 +1259,19 @@ footer.site-footer {
     margin-left: -18.75vw;
     margin-top: 4rem;
     margin-bottom: 6rem;
+    @include flexbox;
+    @include align-items(center);
     @media screen and (max-width: calc($ds * 1px)) {
       margin-left: -2.5vw;
     }
     @media screen and (max-width: calc($tb * 1px)) {
       margin-left: -5vw;
     }
-  }
-  .react-player-wrapper {
-    margin: 4rem 0;
-    display: inline-flex;
-    @extend %col-8;
+    > div {
+      margin: 4rem 0;
+      display: inline-flex;
+      @extend %col-8;
+    }
   }
   .content {
     text-align: center;
