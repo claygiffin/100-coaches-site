@@ -28,80 +28,80 @@ $sizeList: 12 13 15 16 18 21 24 30 36 72;
 
 @each $fontSize in $sizeList {
   %font-#{$fontSize} {
-    @media screen and (min-width: $dl * 1px) {
-      font-size: $fontSize / $dl * 85vw;
+    @media screen and (min-width: calc($dl * 1px)) {
+      font-size: calc($fontSize / $dl * 85vw);
     }
-    @media screen and (max-width: $dl * 1px) {
-      font-size: $fontSize / $dl * 100vw;
+    @media screen and (max-width: calc($dl * 1px)) {
+      font-size: calc($fontSize / $dl * 100vw);
     }
-    @media screen and (max-width: $dt * 1px) {
-      font-size: $fontSize / $dt * 100vw;
+    @media screen and (max-width: calc($dt * 1px)) {
+      font-size: calc($fontSize / $dt * 100vw);
     }
-    @media screen and (max-width: $ds * 1px) {
-      font-size: $fontSize / $ds * 95vw;
+    @media screen and (max-width: calc($ds * 1px)) {
+      font-size: calc($fontSize / $ds * 95vw);
     }
-    @media screen and (max-width: $tb * 1px) {
-      font-size: $fontSize / $tb * 90vw;
+    @media screen and (max-width: calc($tb * 1px)) {
+      font-size: calc($fontSize / $tb * 90vw);
     }
-    @media screen and (max-width: $mb * 1px) {
-      font-size: $fontSize / $mb * 87.5vw;
+    @media screen and (max-width: calc($mb * 1px)) {
+      font-size: calc($fontSize / $mb * 87.5vw);
     }
   }
 }
 
 %font-72 {
-  @media screen and (max-width: $mb * 1px) {
+  @media screen and (max-width: calc($mb * 1px)) {
     font-size: 6rem * 0.75;
   }
 }
 %font-21 {
-  @media screen and (max-width: $tb * 1px) {
+  @media screen and (max-width: calc($tb * 1px)) {
     font-size: 16px;
   }
 }
 %font-18 {
-  @media screen and (max-width: $tb * 1px) {
+  @media screen and (max-width: calc($tb * 1px)) {
     font-size: 15px;
   }
 }
 %font-16 {
-  @media screen and (max-width: $tb * 1px) {
+  @media screen and (max-width: calc($tb * 1px)) {
     font-size: 14px;
   }
 }
 
 %font-15 {
-  @media screen and (max-width: $tb * 1px) {
+  @media screen and (max-width: calc($tb * 1px)) {
     font-size: 13px;
   }
 }
 
 %font-13 {
-  @media screen and (max-width: $tb * 1px) {
+  @media screen and (max-width: calc($tb * 1px)) {
     font-size: 12px;
   }
 }
 
 %col-8 {
   width: 62.5vw;
-  @media screen and (max-width: $ds * 1px) {
+  @media screen and (max-width: calc($ds * 1px)) {
     width: 95vw;
   }
-  @media screen and (max-width: $tb * 1px) {
+  @media screen and (max-width: calc($tb * 1px)) {
     width: 90vw;
   }
 }
 
 %col-10 {
   width: 78.75vw;
-  @media screen and (max-width: $tb * 1px) {
+  @media screen and (max-width: calc($tb * 1px)) {
     width: 90vw;
   }
 }
 
 %col-12 {
   width: 95vw;
-  @media screen and (max-width: $tb * 1px) {
+  @media screen and (max-width: calc($tb * 1px)) {
     width: 90vw;
   }
 }
@@ -147,7 +147,7 @@ $sizeList: 12 13 15 16 18 21 24 30 36 72;
   height: 2px;
   background-color: $gold;
   margin: 3rem 0;
-  @media screen and (max-width: $mb * 1px) {
+  @media screen and (max-width: calc($mb * 1px)) {
     height: 1px;
   }
 }
@@ -370,7 +370,7 @@ section {
     color: white;
     background-color: $gold;
   }
-  @media screen and (max-width: $tb * 1px) {
+  @media screen and (max-width: calc($tb * 1px)) {
     width: 36px;
     height: 36px;
     font-size: 18px;
@@ -510,7 +510,7 @@ nav.navbar {
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
     background-color: white;
   }
-  @media screen and (max-width: $tb * 1px) {
+  @media screen and (max-width: calc($tb * 1px)) {
     .navbar-list {
       position: absolute;
       width: 100%;
@@ -823,7 +823,7 @@ footer.site-footer {
     @include flexbox;
     @include justify-content(flex-end);
     @include flex-direction(column);
-    @media screen and (max-width: $tb * 1px) {
+    @media screen and (max-width: calc($tb * 1px)) {
       position: relative;
       padding: 0.25rem 0 0.75rem;
       text-shadow: none;
@@ -853,7 +853,7 @@ footer.site-footer {
     .profile-content {
       @extend %col-8;
     }
-    @media screen and (max-width: $tb * 1px) {
+    @media screen and (max-width: calc($tb * 1px)) {
       .profile-content {
         width: 100%;
       }
@@ -901,7 +901,7 @@ footer.site-footer {
         cursor: pointer;
       }
     }
-    @media screen and (max-width: $tb * 1px) {
+    @media screen and (max-width: calc($tb * 1px)) {
       padding: 1rem 2rem 0;
       @include flex-wrap(wrap);
       & > * {
@@ -922,7 +922,7 @@ footer.site-footer {
   .profile-content {
     box-sizing: border-box;
     padding: 0 3rem 6rem;
-    @media screen and (max-width: $tb * 1px) {
+    @media screen and (max-width: calc($tb * 1px)) {
       padding: 0 2rem 3rem;
     }
     h1 {
@@ -1231,7 +1231,8 @@ footer.site-footer {
 
 // About Page
 
-#about-page {
+#about-page,
+#forefront-page {
   margin-bottom: 9rem;
   h1 {
     @extend %col-12;
@@ -1246,12 +1247,100 @@ footer.site-footer {
     }
   }
 }
-
+#forefront-page {
+  .logo {
+    width: 30rem;
+  }
+  h1 {
+    margin-top: 0.5em;
+  }
+  .video-container {
+    width: 100vw;
+    margin-left: -18.75vw;
+    margin-top: 4rem;
+    margin-bottom: 6rem;
+    @media screen and (max-width: calc($ds * 1px)) {
+      margin-left: -2.5vw;
+    }
+    @media screen and (max-width: calc($tb * 1px)) {
+      margin-left: -5vw;
+    }
+  }
+  .react-player-wrapper {
+    margin: 4rem 0;
+    display: inline-flex;
+    @extend %col-8;
+  }
+  .content {
+    text-align: center;
+    p {
+      line-height: 1.5;
+    }
+    ul {
+      text-align: left;
+      list-style: none; /* Remove default bullets */
+      p {
+        display: inline;
+      }
+      li {
+        margin: 1em 0;
+      }
+      > li {
+        &:before {
+          content: '\2022'; /* Add content: \2022 is the CSS Code/unicode for a bullet */
+          color: $green; /* Change the color */
+          font-size: 175%;
+          font-weight: bold; /* If you want it to be bold */
+          display: inline-block; /* Needed to add space between the bullet and the text */
+          width: 1em; /* Also needed for space (tweak if needed) */
+          margin-left: -1em; /* Also needed for space (tweak if needed) */
+        }
+        > ul {
+          margin-bottom: 2em;
+          li {
+            &:before {
+              content: '–'; /* Add content: \2022 is the CSS Code/unicode for a bullet */
+            }
+            > ul li:before {
+              content: '\26AC'; /* Add content: \2022 is the CSS Code/unicode for a bullet */
+              font-size: 125%;
+              width: 1.5em;
+              transform: translateY(-0.125em);
+            }
+          }
+        }
+      }
+    }
+    .cta-link {
+      display: inline-block;
+      margin: 1em 0;
+    }
+    hr {
+      margin: 6em 0 4em;
+      border-style: none;
+      height: 1px;
+      background-color: $lightGray;
+    }
+  }
+}
+.react-player-wrapper {
+  width: 100%;
+  position: relative;
+  padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+  .react-player {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}
 .video-container {
   margin: 3rem 0 2rem;
   @extend %col-12;
   @include flexbox;
   @extend %geometric-bg;
+  @include justify-content(center);
   .player-wrapper {
     flex: 2;
     @include flexbox;
@@ -1287,11 +1376,11 @@ footer.site-footer {
       line-height: 1.75;
       color: $midGray;
     }
-    @media screen and (max-width: $mb * 1px) {
+    @media screen and (max-width: calc($mb * 1px)) {
       padding: 3rem 2rem;
     }
   }
-  @media screen and (max-width: $tb * 1px) {
+  @media screen and (max-width: calc($tb * 1px)) {
     @include flex-direction(column);
     margin-bottom: 0;
   }
@@ -1380,7 +1469,7 @@ footer.site-footer {
         }
       }
     }
-    @media screen and (max-width: $tb * 1px) {
+    @media screen and (max-width: calc($tb * 1px)) {
       .view-all {
         font-size: 1.25rem;
       }
@@ -1414,7 +1503,7 @@ footer.site-footer {
         }
       }
     }
-    @media screen and (max-width: $tb * 1px) {
+    @media screen and (max-width: calc($tb * 1px)) {
       padding-left: 4vw;
       padding-right: 4vw;
       .slick-list .slick-track > div > div {
@@ -1441,18 +1530,18 @@ footer.site-footer {
       padding: 1rem;
       width: 25%;
       box-sizing: border-box;
-      @media screen and (min-width: $dt * 1px + 1px) {
+      @media screen and (min-width: calc($dt * 1px + 1px)) {
         width: 20%;
       }
-      @media screen and (max-width: $tb * 1px) {
+      @media screen and (max-width: calc($tb * 1px)) {
         width: 33.333%;
         padding: 0.25rem 0.75rem;
       }
-      @media screen and (max-width: $mb * 1px) {
+      @media screen and (max-width: calc($mb * 1px)) {
         width: 50%;
       }
     }
-    @media screen and (max-width: $tb * 1px) {
+    @media screen and (max-width: calc($tb * 1px)) {
       padding: 0 calc(5vw - 0.75rem) 9rem;
     }
   }
@@ -1471,7 +1560,7 @@ footer.site-footer {
       margin-top: 1rem;
       color: lighten($lightGray, 10);
       @include transition(color 0.2s ease);
-      @media screen and (max-width: $mb * 1px) {
+      @media screen and (max-width: calc($mb * 1px)) {
         font-size: 2.5rem;
       }
       &:hover {
@@ -1530,7 +1619,7 @@ footer.site-footer {
         border-right: 1px solid #ccc;
       }
     }
-    @media screen and (max-width: $tb * 1px) {
+    @media screen and (max-width: calc($tb * 1px)) {
       @include flex-direction(column);
       padding: 0;
       > section {
@@ -1542,7 +1631,7 @@ footer.site-footer {
         }
       }
     }
-    @media screen and (max-width: $mb * 1px) {
+    @media screen and (max-width: calc($mb * 1px)) {
       > section {
         padding: 3rem 2rem;
       }
@@ -1625,7 +1714,7 @@ footer.site-footer {
             }
           }
         }
-        @media screen and (min-width: $ds * 1px) {
+        @media screen and (min-width: calc($ds * 1px)) {
           &:nth-child(3n - 2) {
             padding-left: 0;
           }
@@ -1633,7 +1722,7 @@ footer.site-footer {
             padding-right: 0;
           }
         }
-        @media screen and (max-width: $ds * 1px) {
+        @media screen and (max-width: calc($ds * 1px)) {
           width: calc(100% / 2);
           padding: 0.75rem;
           &:nth-child(2n - 1) {
@@ -1643,7 +1732,7 @@ footer.site-footer {
             padding-right: 0;
           }
         }
-        @media screen and (max-width: $tb * 1px) {
+        @media screen and (max-width: calc($tb * 1px)) {
           width: 100%;
           padding: 1rem 0;
         }
@@ -1692,7 +1781,7 @@ footer.site-footer {
       .lightbox-content {
         width: 62.5vw;
         min-width: $tb * 0.9px;
-        @media screen and (max-width: $tb * 1px) {
+        @media screen and (max-width: calc($tb * 1px)) {
           width: 90vw;
           min-width: auto;
         }
@@ -1737,7 +1826,7 @@ footer.site-footer {
       }
     }
   }
-  @media screen and (max-width: $tb * 1px) {
+  @media screen and (max-width: calc($tb * 1px)) {
     .lightbox-wrapper {
       .wrapper-inner {
         .lightbox-container {

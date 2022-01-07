@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { Link, graphql, useStaticQuery } from 'gatsby'
 import Img from 'gatsby-image'
 import Layout from '../components/Layout'
@@ -75,7 +74,7 @@ export const HomePage = () => {
             }
           }
         }
-      }      
+      }
     }
   `)
 
@@ -113,7 +112,11 @@ export class HomePageTemplate extends React.Component {
             <div className="intro-text">{page.coachesSectionDescription}</div>
             <Carousel slidesToShow={4} id="coaches-carousel" viewAll="/coaches">
               {this.props.coaches.map((coach) => (
-                <CoachThumb coach={coach} key={coach.coachName} onClick={this.handleCoachClick} />
+                <CoachThumb
+                  coach={coach}
+                  key={coach.coachName}
+                  onClick={this.handleCoachClick}
+                />
               ))}
             </Carousel>
           </section>
@@ -157,84 +160,4 @@ export class HomePageTemplate extends React.Component {
   }
 }
 
-// export const indexPageQuery = graphql`
-//   query IndexQuery($id: String!) {
-//     site {
-//       siteMetadata {
-//         title
-//       }
-//     }
-//     pageQuery: markdownRemark(id: { eq: $id }) {
-//       html
-//       frontmatter {
-//         intro {
-//           text
-//           linkText
-//         }
-//         coaches {
-//           headline
-//           text
-//         }
-//         consultancy {
-//           headline
-//           text
-//           linkText
-//         }
-//         education {
-//           headline
-//           text
-//           linkText
-//           url
-//           image
-//         }
-//         institute {
-//           headline
-//           text
-//           linkText
-//           url
-//         }
-//       }
-//     }
-//     coachQuery: allMarkdownRemark(
-//       filter: { frontmatter: { templateKey: { eq: "coaches-page" } }}
-//     ) {
-//       edges {
-//         node {
-//           frontmatter {
-//             coachList {
-//               bio
-//               coachName
-//               jobTitle
-//               photo
-//               tags
-//               links {
-//                 facebook
-//                 instagram
-//                 linkedin
-//                 twitter
-//                 website
-//               }
-//             }
-//           }
-//         }
-//       }
-//     }
-//     thoughtQuery: allMarkdownRemark(
-//       filter: { frontmatter: { templateKey: {eq: "thought-post"}}},
-//       sort: {fields: [frontmatter___date], order: DESC}
-//     ) {
-//       edges {
-//         node {
-//           frontmatter {
-//             title
-//             author
-//             date
-//             url
-//             image
-//           }
-//         }
-//       }
-//     }
-//   }
-// `
 export default HomePage
