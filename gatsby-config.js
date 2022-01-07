@@ -2,6 +2,9 @@ require('dotenv').config()
 module.exports = {
   siteMetadata: {
     title: 'Marshall Goldsmith 100 Coaches',
+    description: `100 Coaches offers services, events, online courses and other opportunities to inspire, develop, and energize leaders for the future. We amplify the collective impact of our exclusive community to improve the world.`,
+    author: `Clay Giffin // Doublespace`,
+    siteUrl: `https://www.100coaches.com/`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
