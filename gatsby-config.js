@@ -62,6 +62,13 @@ module.exports = {
         icon: `static/favicon.svg`, // This path is relative to the root of the site.
       },
     },
+    'gatsby-plugin-sitemap',
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://www.100coaches.com/`,
+      },
+    },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 }
