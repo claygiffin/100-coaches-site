@@ -499,6 +499,7 @@ nav.navbar {
     .contact-link {
       border-color: rgba(white, 0.75);
       color: rgba(white, 0.75);
+      text-decoration: none;
       &:hover {
         color: $goldLight;
         border-color: $goldLight;

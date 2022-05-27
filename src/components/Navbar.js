@@ -91,9 +91,8 @@ class Navbar extends React.Component {
           </Link>
           <div className="navbar-item">
             <a href="https://agency.100coaches.com/" className="contact-link">
-              Find a Coach
+              Hire a Coach
             </a>
-            {/* <ContactFormLink linkText="Work With Us" /> */}
           </div>
         </div>
       </nav>
