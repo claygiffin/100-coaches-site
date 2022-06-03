@@ -456,6 +456,7 @@ nav.navbar {
         padding: 0.4667em 0.6em 0.4em;
         line-height: 1;
         transition: all 0.3s ease;
+        text-decoration: none;
       }
     }
   }
@@ -758,8 +759,18 @@ footer.site-footer {
       margin: 0.125em 0 0.5em;
       color: rgba(white, 0.75);
     }
+    .links {
+      display: grid;
+      grid-template-columns: auto auto;
+      grid-gap: 1rem 2.5rem;
+      justify-items: center;
+      @media (max-width: 720px) {
+        grid-template-columns: auto;
+      }
+    }
     .text-link {
       @extend %font-21;
+      width: fit-content;
     }
     h1 {
       color: white;
@@ -786,10 +797,29 @@ footer.site-footer {
   }
 }
 
+h2.logo-heading {
+  margin: 1.5em 0 1.25em;
+  img {
+    height: 9rem;
+    max-width: 75vw;
+  }
+  &:after {
+    display: none;
+  }
+}
+
 #coaches {
   overflow: hidden;
   .intro-text {
     margin-bottom: 1.25rem;
+  }
+  #coaches-carousel {
+    .slick-nav {
+      padding-top: 0;
+    }
+    .slick-slider {
+      padding-bottom: 2rem;
+    }
   }
 }
 

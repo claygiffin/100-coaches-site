@@ -9,6 +9,9 @@ import ThoughtThumb from '../components/ThoughtThumb'
 import logoOnColor from '../assets/100Coaches_logo_onColor.svg'
 import videoMp4 from '../assets/GettyImages-178062441_3.mp4'
 
+import CCLogo from '../assets/100-cc-logo-stacked.svg'
+import CALogo from '../assets/100-ca-logo-stacked.svg'
+
 export const HomePage = () => {
   const data = useStaticQuery(graphql`
     query {
@@ -103,14 +106,25 @@ export class HomePageTemplate extends React.Component {
             <img src={logoOnColor} alt={this.props.title} id="hero-logo" />
             <div className="intro-text">{page.introText}</div>
             <div className="divider"></div>
-            <Link to="/about" className="text-link">
-              {page.introLinkText}
-            </Link>
+            <div className="links">
+              <Link to="/about" className="text-link">
+                {page.introLinkText}
+              </Link>
+              <a href="https://agency.100coaches.com/" className="text-link">
+                Hire a Coach
+              </a>
+            </div>
           </Hero>
           <section id="coaches">
-            <h2>{page.coachesSectionHeading}</h2>
+            <h2 className="logo-heading">
+              <img
+                src={CCLogo}
+                alt="100 Coaches Community"
+                title="100 Coaches Community"
+              />
+            </h2>
             <div className="intro-text">{page.coachesSectionDescription}</div>
-            <Carousel slidesToShow={4} id="coaches-carousel" viewAll="/coaches">
+            <Carousel slidesToShow={4} id="coaches-carousel" >
               {this.props.coaches.map((coach) => (
                 <CoachThumb
                   coach={coach}
@@ -119,13 +133,18 @@ export class HomePageTemplate extends React.Component {
                 />
               ))}
             </Carousel>
+            <Link to="/coaches/" className="cta-link">
+              Explore the community
+            </Link>
           </section>
           <section id="consultancy">
-            <h2>{page.servicesSectionHeadline}</h2>
+            <h2 className="logo-heading">
+              <img src={CALogo} alt="100 Coaches Agency" title="100 Coaches Agency" />
+            </h2>
             <div className="intro-text">{page.servicesSectionDescription}</div>
-            <Link to="/services/" className="cta-link">
-              {page.servicesSectionLinkText}
-            </Link>
+            <a href="https://agency.100coaches.com/" className="cta-link">
+              Interested in hiring a coach?
+            </a>
           </section>
           <section id="thought-leadership">
             <h2>Thought Leadership</h2>
@@ -135,7 +154,7 @@ export class HomePageTemplate extends React.Component {
               ))}
             </Carousel>
           </section>
-          <section id="education">
+          {/* <section id="education">
             <div className="image-wrap">
               <div className="image">
                 <Img fluid={page.educationSectionImage.fluid} />
@@ -153,7 +172,7 @@ export class HomePageTemplate extends React.Component {
                 {page.educationSectionLinkText}
               </a>
             </div>
-          </section>
+          </section> */}
         </main>
       </>
     )
