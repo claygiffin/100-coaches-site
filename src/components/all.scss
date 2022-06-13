@@ -1135,18 +1135,21 @@ h2.logo-heading {
     padding-top: 0;
   }
   h2:after {
-    margin-bottom: 1.25rem;
+    margin-bottom: 0.5rem;
   }
 }
 
 .thought {
+  display: block;
   text-decoration: none;
   color: $midGray;
+  border-top: 1px $midLightGray solid;
+  padding-top: 0.75em;
   @include transition(0.3s color ease);
   h5 {
     font-style: normal;
     font-weight: 400;
-    @extend %font-21;
+    @extend %font-24;
     color: inherit;
   }
   h6 {

@@ -17,9 +17,9 @@ export default class ThoughtThumb extends React.Component {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <div className="image">
+        {/* <div className="image">
           <Img sizes={{ ...thought.image.fluid, aspectRatio: 16/9 }} alt={thought.title} />
-        </div>
+        </div> */}
         <h5>{thought.title}</h5>
         <h6>{thought.coachAuthor ? thought.coachAuthor.coachName : thought.nonMemberAuthor ? thought.nonMemberAuthor : ''}</h6>
       </a>
