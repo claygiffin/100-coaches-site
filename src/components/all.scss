@@ -757,7 +757,7 @@ footer.site-footer {
     z-index: 1;
     .intro-text {
       margin: 0.125em 0 0.5em;
-      color: rgba(white, 0.75);
+      color: #fff;
     }
     .links {
       display: grid;
@@ -782,6 +782,7 @@ footer.site-footer {
 #home-page {
   display: block !important;
   #hero {
+    min-height: 0;
     h1 {
       margin: 0;
       padding: 0;
@@ -789,8 +790,16 @@ footer.site-footer {
       height: 0;
       overflow: hidden;
     }
+    a {
+      text-decoration: none;
+      color: $goldLight;
+      transition: color 300ms ease;
+      &:hover {
+        color: $gold;
+      }
+    }
     #hero-logo {
-      width: 9em;
+      width: 10em;
       max-width: 90%;
       margin-bottom: 0.5em;
     }
