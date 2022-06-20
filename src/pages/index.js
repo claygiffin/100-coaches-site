@@ -109,7 +109,7 @@ export class HomePageTemplate extends React.Component {
               100 Coaches is comprised of our <Link to="/coaches/">community</Link> of the
               world’s best coaches and our{' '}
               <a href="https://agency.100coaches.com/">agency</a> that connects them with
-              world’s best leaders.
+              the world’s best leaders.
             </div>
             {/* <div className="divider"></div> */}
             {/* <div className="links">
