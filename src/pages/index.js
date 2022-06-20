@@ -105,15 +105,15 @@ export class HomePageTemplate extends React.Component {
             <h1>{this.props.title}</h1>
             <img src={logoOnColor} alt={this.props.title} id="hero-logo" />
             <div className="intro-text">{page.introText}</div>
-            <div className="divider"></div>
-            <div className="links">
+            {/* <div className="divider"></div> */}
+            {/* <div className="links">
               <Link to="/about" className="text-link">
                 {page.introLinkText}
               </Link>
               <a href="https://agency.100coaches.com/" className="text-link">
                 Hire a Coach
               </a>
-            </div>
+            </div> */}
           </Hero>
           <section id="coaches">
             <h2 className="logo-heading">
@@ -134,7 +134,7 @@ export class HomePageTemplate extends React.Component {
               ))}
             </Carousel>
             <Link to="/coaches/" className="cta-link">
-              Explore the community
+              Meet our community
             </Link>
           </section>
           <section id="consultancy">
@@ -143,7 +143,7 @@ export class HomePageTemplate extends React.Component {
             </h2>
             <div className="intro-text">{page.servicesSectionDescription}</div>
             <a href="https://agency.100coaches.com/" className="cta-link">
-              Interested in hiring a coach?
+              Hire a coach
             </a>
           </section>
           <section id="thought-leadership">
