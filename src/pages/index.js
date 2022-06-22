@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link, graphql, useStaticQuery } from 'gatsby'
-import Img from 'gatsby-image'
 import Layout from '../components/Layout'
 import CoachThumb from '../components/CoachThumb'
 import Carousel from '../components/Carousel'
@@ -106,10 +105,12 @@ export class HomePageTemplate extends React.Component {
             <h1>{this.props.title}</h1>
             <img src={logoOnColor} alt={this.props.title} id="hero-logo" />
             <div className="intro-text">
-              100 Coaches is comprised of our <Link to="/coaches/">community</Link> of the
-              world’s best coaches and our{' '}
-              <a href="https://agency.100coaches.com/">agency</a> that connects them with
-              the world’s best leaders.
+              Created by world-renowned business educator and coach Marshall Goldsmith,
+              100 Coaches is a <Link to="/coaches/">community</Link> of the world’s best
+              coaches, consultants and thinkers and an{' '}
+              <a href="https://agency.100coaches.com/">agency</a>
+              that connects the world’s most experienced, dedicated coaches with the
+              world’s best leaders. 
             </div>
             {/* <div className="divider"></div> */}
             {/* <div className="links">
