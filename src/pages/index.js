@@ -106,11 +106,10 @@ export class HomePageTemplate extends React.Component {
             <img src={logoOnColor} alt={this.props.title} id="hero-logo" />
             <div className="intro-text">
               Created by world-renowned business educator and coach Marshall Goldsmith,
-              100 Coaches is a <Link to="/coaches/">community</Link> of the world’s best
-              coaches, consultants and thinkers and an{' '}
-              <a href="https://agency.100coaches.com/">agency</a>
-              that connects the world’s most experienced, dedicated coaches with the
-              world’s best leaders. 
+              100 Coaches assembled a <Link to="/coaches/">community</Link> of the world’s
+              most experienced, dedicated coaches, advisors, consultants, and thinkers who
+              through our <a href="https://agency.100coaches.com/">agency</a> serve the
+              world’s best leaders.
             </div>
             {/* <div className="divider"></div> */}
             {/* <div className="links">
