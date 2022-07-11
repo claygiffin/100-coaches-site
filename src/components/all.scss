@@ -380,7 +380,7 @@ section {
 // Styling
 nav.navbar {
   position: fixed;
-  @extend %font-15;
+  @extend %font-18;
   @include flexbox;
   @include justify-content(space-between);
   z-index: 10;
@@ -410,10 +410,13 @@ nav.navbar {
       }
     }
   }
-  &.transparent:not(.scrolled) .site-logo {
-    opacity: 0.75;
-    &:hover {
-      opacity: 1;
+  &.transparent:not(.scrolled) {
+    background: #00000066;
+    .site-logo {
+      opacity: 0.75;
+      &:hover {
+        opacity: 1;
+      }
     }
   }
   &:after {
@@ -719,7 +722,7 @@ footer.site-footer {
   @include clip-path(inset(0 0 0 0));
   @extend %font-72;
   position: relative;
-  padding: 12rem 3rem 8rem;
+  padding: 15rem 3rem 8rem;
   width: 100vw;
   min-height: 66.7vh;
   @include justify-content(center);
@@ -756,12 +759,14 @@ footer.site-footer {
     position: relative;
     z-index: 1;
     .intro-text {
-      margin: 0.125em 0 0.5em;
+      margin: 0.125em 0;
       color: #fff;
+      @extend %font-36;
+      max-width: 60ch;
     }
     .links {
       display: grid;
-      grid-template-columns: auto auto;
+      grid-template-columns: auto;
       grid-gap: 1rem 2.5rem;
       justify-items: center;
       @media (max-width: 720px) {
@@ -769,7 +774,7 @@ footer.site-footer {
       }
     }
     .text-link {
-      @extend %font-21;
+      @extend %font-24;
       width: fit-content;
     }
     h1 {

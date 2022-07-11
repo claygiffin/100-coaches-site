@@ -105,21 +105,17 @@ export class HomePageTemplate extends React.Component {
             <h1>{this.props.title}</h1>
             <img src={logoOnColor} alt={this.props.title} id="hero-logo" />
             <div className="intro-text">
-              Created by world-renowned business educator and coach Marshall Goldsmith,
-              100 Coaches assembled a <Link to="/coaches/">community</Link> of the world’s
-              most experienced, dedicated coaches, advisors, consultants, and thinkers who
-              through our <a href="https://agency.100coaches.com/">agency</a> serve the
-              world’s best leaders.
+              100 Coaches is a <Link to="/coaches/">community</Link> of coaches and
+              leadership experts, and an{' '}
+              <a href="https://agency.100coaches.com/">agency</a> that connects them with
+              the world’s best leaders.
             </div>
-            {/* <div className="divider"></div> */}
-            {/* <div className="links">
-              <Link to="/about" className="text-link">
-                {page.introLinkText}
-              </Link>
+            <div className="divider"></div>
+            <div className="links">
               <a href="https://agency.100coaches.com/" className="text-link">
                 Hire a Coach
               </a>
-            </div> */}
+            </div>
           </Hero>
           <section id="coaches">
             <Link to="/coaches/">
