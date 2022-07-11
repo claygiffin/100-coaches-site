@@ -1,11 +1,10 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { Link, graphql, useStaticQuery } from 'gatsby'
 import Img from 'gatsby-image'
-import Layout from '../components/Layout'
-import Hero from '../components/Hero'
+import Layout from '../src/components/Layout'
+import Hero from '../src/components/Hero'
 import heroImage from '../assets/speaker-feature.jpg'
-import ContactFormLink from '../components/ContactFormLink'
+import ContactFormLink from '../src/components/ContactFormLink'
 
 export const ServicesPage = () => {
   const data = useStaticQuery(graphql`

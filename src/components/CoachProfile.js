@@ -56,7 +56,9 @@ export default class CoachProfile extends React.Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <span className="hidden">{coach.website.replace(/(^\w+:|^)\/\//, '')}</span>
+                <span className="hidden">
+                  {coach.website.replace(/(^\w+:|^)\/\//, '')}
+                </span>
               </a>
             )}
             {coach.linkedin && (
@@ -128,9 +130,12 @@ export default class CoachProfile extends React.Component {
           <h5>{coach.jobTitle}</h5>
           <div className="tags">
             {coach.coachCategories &&
-              coach.coachCategories.map((category, i) => <h6 key={i}>{category.categoryName}</h6>)}
+              coach.coachCategories.map((category, i) => (
+                <h6 key={i}>{category.categoryName}</h6>
+              ))}
           </div>
-          {coach.coachCategories &&
+          <span className="divider" />
+          {/* {coach.coachCategories &&
           coach.coachCategories.filter((category) => hireTags.includes(category.categoryName)).length >
             0 ? (
             <ContactFormLink
@@ -140,7 +145,7 @@ export default class CoachProfile extends React.Component {
             />
           ) : (
             <span className="divider"></span>
-          )}
+          )} */}
           <div className="bio" dangerouslySetInnerHTML={getHtml(coach.bioNode)} />
         </div>
         <div className="print-only contact-info">

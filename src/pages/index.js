@@ -1,13 +1,16 @@
 import React from 'react'
 import { Link, graphql, useStaticQuery } from 'gatsby'
-import Img from 'gatsby-image'
 import Layout from '../components/Layout'
 import CoachThumb from '../components/CoachThumb'
 import Carousel from '../components/Carousel'
 import Hero from '../components/Hero'
 import ThoughtThumb from '../components/ThoughtThumb'
 import logoOnColor from '../assets/100Coaches_logo_onColor.svg'
-import videoMp4 from '../assets/GettyImages-178062441_3.mp4'
+import videoMp4 from '../assets/GettyImages-178062441_6.mp4'
+import videoWebM from '../assets/GettyImages-178062441_6.webm'
+
+import CCLogo from '../assets/100-cc-logo-stacked.svg'
+import CALogo from '../assets/100-ca-logo-stacked.svg'
 
 export const HomePage = () => {
   const data = useStaticQuery(graphql`
@@ -98,19 +101,34 @@ export class HomePageTemplate extends React.Component {
     return (
       <>
         <main id="home-page" className="page-content">
-          <Hero video videoMp4={videoMp4} videoOgg="" videoWebM="">
+          <Hero video videoMp4={videoMp4} videoOgg="" videoWebM={videoWebM}>
             <h1>{this.props.title}</h1>
             <img src={logoOnColor} alt={this.props.title} id="hero-logo" />
-            <div className="intro-text">{page.introText}</div>
+            <div className="intro-text">
+              100 Coaches is a <Link to="/coaches/">community</Link> of coaches and
+              leadership experts, and an{' '}
+              <a href="https://agency.100coaches.com/">agency</a> that connects them with
+              the world’s best leaders.
+            </div>
             <div className="divider"></div>
-            <Link to="/about" className="text-link">
-              {page.introLinkText}
-            </Link>
+            <div className="links">
+              <a href="https://agency.100coaches.com/" className="text-link">
+                Hire a Coach
+              </a>
+            </div>
           </Hero>
           <section id="coaches">
-            <h2>{page.coachesSectionHeading}</h2>
+            <Link to="/coaches/">
+              <h2 className="logo-heading">
+                <img
+                  src={CCLogo}
+                  alt="100 Coaches Community"
+                  title="100 Coaches Community"
+                />
+              </h2>
+            </Link>
             <div className="intro-text">{page.coachesSectionDescription}</div>
-            <Carousel slidesToShow={4} id="coaches-carousel" viewAll="/coaches">
+            <Carousel slidesToShow={4} id="coaches-carousel">
               {this.props.coaches.map((coach) => (
                 <CoachThumb
                   coach={coach}
@@ -119,13 +137,20 @@ export class HomePageTemplate extends React.Component {
                 />
               ))}
             </Carousel>
+            <Link to="/coaches/" className="cta-link">
+              Meet our community
+            </Link>
           </section>
           <section id="consultancy">
-            <h2>{page.servicesSectionHeadline}</h2>
+            <a href="https://agency.100coaches.com/">
+              <h2 className="logo-heading">
+                <img src={CALogo} alt="100 Coaches Agency" title="100 Coaches Agency" />
+              </h2>
+            </a>
             <div className="intro-text">{page.servicesSectionDescription}</div>
-            <Link to="/services/" className="cta-link">
-              {page.servicesSectionLinkText}
-            </Link>
+            <a href="https://agency.100coaches.com/" className="cta-link">
+              Hire a coach
+            </a>
           </section>
           <section id="thought-leadership">
             <h2>Thought Leadership</h2>
@@ -135,7 +160,7 @@ export class HomePageTemplate extends React.Component {
               ))}
             </Carousel>
           </section>
-          <section id="education">
+          {/* <section id="education">
             <div className="image-wrap">
               <div className="image">
                 <Img fluid={page.educationSectionImage.fluid} />
@@ -153,7 +178,7 @@ export class HomePageTemplate extends React.Component {
                 {page.educationSectionLinkText}
               </a>
             </div>
-          </section>
+          </section> */}
         </main>
       </>
     )

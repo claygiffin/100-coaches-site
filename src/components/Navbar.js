@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import ContactFormLink from '../components/ContactFormLink'
 import logoDefault from '../assets/100Coaches_logo.svg'
 import logoKnockout from '../assets/100Coaches_logo_knockout.svg'
 
@@ -84,11 +83,11 @@ class Navbar extends React.Component {
             Our Story
           </Link>
           <Link className="navbar-item" activeClassName="active" to="/coaches/">
-            The Coaches
+            Community
           </Link>
-          <Link className="navbar-item" activeClassName="active" to="/services/">
-            Our Services
-          </Link>
+          <a className="navbar-item" href="https://agency.100coaches.com/">
+            Agency
+          </a>
           <div className="navbar-item">
             <a href="https://agency.100coaches.com/" className="contact-link">
               Hire a Coach

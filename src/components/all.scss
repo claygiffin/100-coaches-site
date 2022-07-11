@@ -380,7 +380,7 @@ section {
 // Styling
 nav.navbar {
   position: fixed;
-  @extend %font-15;
+  @extend %font-18;
   @include flexbox;
   @include justify-content(space-between);
   z-index: 10;
@@ -410,10 +410,13 @@ nav.navbar {
       }
     }
   }
-  &.transparent:not(.scrolled) .site-logo {
-    opacity: 0.75;
-    &:hover {
-      opacity: 1;
+  &.transparent:not(.scrolled) {
+    background: #00000066;
+    .site-logo {
+      opacity: 0.75;
+      &:hover {
+        opacity: 1;
+      }
     }
   }
   &:after {
@@ -456,6 +459,7 @@ nav.navbar {
         padding: 0.4667em 0.6em 0.4em;
         line-height: 1;
         transition: all 0.3s ease;
+        text-decoration: none;
       }
     }
   }
@@ -719,7 +723,7 @@ footer.site-footer {
   @include clip-path(inset(0 0 0 0));
   @extend %font-72;
   position: relative;
-  padding: 12rem 3rem 8rem;
+  padding: 15rem 3rem 8rem;
   width: 100vw;
   min-height: 66.7vh;
   @include justify-content(center);
@@ -756,11 +760,23 @@ footer.site-footer {
     position: relative;
     z-index: 1;
     .intro-text {
-      margin: 0.125em 0 0.5em;
-      color: rgba(white, 0.75);
+      margin: 0.125em 0;
+      color: #fff;
+      @extend %font-36;
+      max-width: 60ch;
+    }
+    .links {
+      display: grid;
+      grid-template-columns: auto;
+      grid-gap: 1rem 2.5rem;
+      justify-items: center;
+      @media (max-width: 720px) {
+        grid-template-columns: auto;
+      }
     }
     .text-link {
-      @extend %font-21;
+      @extend %font-24;
+      width: fit-content;
     }
     h1 {
       color: white;
@@ -772,6 +788,7 @@ footer.site-footer {
 #home-page {
   display: block !important;
   #hero {
+    min-height: 0;
     h1 {
       margin: 0;
       padding: 0;
@@ -779,11 +796,30 @@ footer.site-footer {
       height: 0;
       overflow: hidden;
     }
+    a {
+      text-decoration: none;
+      color: $goldLight;
+      transition: color 300ms ease;
+      &:hover {
+        color: $gold;
+      }
+    }
     #hero-logo {
-      width: 7.5em;
+      width: 10em;
       max-width: 90%;
       margin-bottom: 0.5em;
     }
+  }
+}
+
+h2.logo-heading {
+  margin: 1.5em 0 1.25em;
+  img {
+    height: 9rem;
+    max-width: 75vw;
+  }
+  &:after {
+    display: none;
   }
 }
 
@@ -791,6 +827,14 @@ footer.site-footer {
   overflow: hidden;
   .intro-text {
     margin-bottom: 1.25rem;
+  }
+  #coaches-carousel {
+    .slick-nav {
+      padding-top: 0;
+    }
+    .slick-slider {
+      padding-bottom: 2rem;
+    }
   }
 }
 
@@ -1106,18 +1150,21 @@ footer.site-footer {
     padding-top: 0;
   }
   h2:after {
-    margin-bottom: 1.25rem;
+    margin-bottom: 0.5rem;
   }
 }
 
 .thought {
+  display: block;
   text-decoration: none;
   color: $midGray;
+  border-top: 1px $midLightGray solid;
+  padding-top: 0.75em;
   @include transition(0.3s color ease);
   h5 {
     font-style: normal;
     font-weight: 400;
-    @extend %font-21;
+    @extend %font-24;
     color: inherit;
   }
   h6 {
