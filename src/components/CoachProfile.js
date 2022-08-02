@@ -134,7 +134,7 @@ export default class CoachProfile extends React.Component {
                 <h6 key={i}>{category.categoryName}</h6>
               ))}
           </div>
-          <span className="divider" />
+          {/* <span className="divider" /> */}
           {/* {coach.coachCategories &&
           coach.coachCategories.filter((category) => hireTags.includes(category.categoryName)).length >
             0 ? (
@@ -146,6 +146,14 @@ export default class CoachProfile extends React.Component {
           ) : (
             <span className="divider"></span>
           )} */}
+          <a
+            href="https://agency.100coaches.com"
+            target="_blank"
+            rel="noopener"
+            className="contact-link cta-link"
+          >
+            Work With Us
+          </a>
           <div className="bio" dangerouslySetInnerHTML={getHtml(coach.bioNode)} />
         </div>
         <div className="print-only contact-info">
