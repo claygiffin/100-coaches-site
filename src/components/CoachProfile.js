@@ -149,7 +149,7 @@ export default class CoachProfile extends React.Component {
           <a
             href="https://agency.100coaches.com"
             target="_blank"
-            rel="noopener"
+            rel="noreferrer"
             className="contact-link cta-link"
           >
             Work With Us
