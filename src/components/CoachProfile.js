@@ -1,5 +1,5 @@
 import React from 'react'
-import ContactFormLink from './ContactFormLink'
+// import ContactFormLink from './ContactFormLink'
 import Helmet from 'react-helmet'
 import { Portal } from 'react-portal'
 import Img from 'gatsby-image'
