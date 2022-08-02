@@ -118,16 +118,34 @@ export class HomePageTemplate extends React.Component {
             </div>
           </Hero>
           <section id="coaches">
-            <Link to="/coaches/">
-              <h2 className="logo-heading">
-                <img
-                  src={CCLogo}
-                  alt="100 Coaches Community"
-                  title="100 Coaches Community"
-                />
-              </h2>
-            </Link>
-            <div className="intro-text">{page.coachesSectionDescription}</div>
+            <section>
+              <Link to="/coaches/">
+                <h2 className="logo-heading">
+                  <img
+                    src={CCLogo}
+                    alt="100 Coaches Community"
+                    title="100 Coaches Community"
+                  />
+                </h2>
+              </Link>
+              <div className="intro-text">{page.coachesSectionDescription}</div>
+              <Link to="/coaches/" className="cta-link">
+                Meet our community
+              </Link>
+            </section>
+            <section>
+              <a href="https://agency.100coaches.com/">
+                <h2 className="logo-heading">
+                  <img src={CALogo} alt="100 Coaches Agency" title="100 Coaches Agency" />
+                </h2>
+              </a>
+              <div className="intro-text">{page.servicesSectionDescription}</div>
+              <a href="https://agency.100coaches.com/" className="cta-link">
+                Hire a coach
+              </a>
+            </section>
+          </section>
+          <section id="slider-section">
             <Carousel slidesToShow={4} id="coaches-carousel">
               {this.props.coaches.map((coach) => (
                 <CoachThumb
@@ -137,20 +155,6 @@ export class HomePageTemplate extends React.Component {
                 />
               ))}
             </Carousel>
-            <Link to="/coaches/" className="cta-link">
-              Meet our community
-            </Link>
-          </section>
-          <section id="consultancy">
-            <a href="https://agency.100coaches.com/">
-              <h2 className="logo-heading">
-                <img src={CALogo} alt="100 Coaches Agency" title="100 Coaches Agency" />
-              </h2>
-            </a>
-            <div className="intro-text">{page.servicesSectionDescription}</div>
-            <a href="https://agency.100coaches.com/" className="cta-link">
-              Hire a coach
-            </a>
           </section>
           <section id="thought-leadership">
             <h2>Thought Leadership</h2>

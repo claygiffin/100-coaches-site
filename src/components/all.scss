@@ -811,28 +811,50 @@ footer.site-footer {
   }
 }
 
-h2.logo-heading {
-  margin: 1.5em 0 1.25em;
-  img {
-    height: 9rem;
-    max-width: 75vw;
-  }
-  &:after {
-    display: none;
-  }
-}
-
 #coaches {
   overflow: hidden;
-  .intro-text {
-    margin-bottom: 1.25rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 5vw;
+  padding: 0 2.5vw;
+  align-items: flex-start;
+  &:before {
+    content: '';
+    position: absolute;
+    width: 1px;
+    height: 100%;
+    top: 0;
+    left: 50%;
+    background: #ddd;
   }
-  #coaches-carousel {
-    .slick-nav {
-      padding-top: 0;
+  > section {
+    h2.logo-heading {
+      margin: 1.5em 0 1.25em;
+      img {
+        height: 9rem;
+        max-width: min(75vw, 100%);
+      }
+      &:after {
+        display: none;
+      }
     }
-    .slick-slider {
-      padding-bottom: 2rem;
+    .intro-text {
+      width: 100%;
+      @extend %font-21;
+      font-weight: 300;
+      text-align: left;
+      color: #222;
+      margin-bottom: 1.25rem;
+    }
+  }
+  @media screen and (max-width: calc($tb * 1px)) {
+    grid-template-columns: 1fr;
+    padding: 0 5vw;
+    &:before {
+      display: none;
+    }
+    > section:first-of-type {
+      border-bottom: 1px solid #ddd;
     }
   }
 }
@@ -1123,7 +1145,7 @@ h2.logo-heading {
   }
 }
 
-#consultancy {
+#slider-section {
   position: relative;
   @extend %geometric-bg;
   &:before,
