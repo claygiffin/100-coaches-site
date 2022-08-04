@@ -147,7 +147,7 @@ export default class CoachProfile extends React.Component {
             <span className="divider"></span>
           )} */}
           <a
-            href="https://agency.100coaches.com"
+            href="https://agency.100coaches.com/contact/"
             target="_blank"
             rel="noreferrer"
             className="contact-link cta-link"
