@@ -3,4 +3,5 @@ https://100coaches.netlify.com/*  https://www.100coaches.com/:splat           30
 /services                         https://agency.100coaches.com/about/
 /contact                          https://agency.100coaches.com/contact/
 /forefront                        https://www.forefrontby100coaches.com/
-/forefront/*                      https://www.forefrontby100coaches.com/
+/test                             https://www.forefrontby100coaches.com/
+/test-2                           https://www.example.com/
