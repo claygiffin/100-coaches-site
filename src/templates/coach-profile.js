@@ -3,7 +3,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import CoachProfile from '../components/CoachProfile'
 
-export const CoachProfilePage = ({ data }) => {
+const CoachProfilePage = ({ data }) => {
   const coach = data.datoCmsCoach
   return (
     <Layout>
@@ -12,7 +12,7 @@ export const CoachProfilePage = ({ data }) => {
   )
 }
 
-export class CoachProfileTemplate extends React.Component {
+class CoachProfileTemplate extends React.Component {
   render() {
     return (
       <main id="profile-page" className="page-content">

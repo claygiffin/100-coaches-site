@@ -1,7 +1,5 @@
-# Redirect default Netlify subdomain to primary domain
-https://100coaches.netlify.com/*  https://www.100coaches.com/:splat           301!
-/services                         https://agency.100coaches.com/about/
-/contact                          https://agency.100coaches.com/contact/
+/services                         https://www.100coaches.com/about/
+/contact                          https://www.100coaches.com/contact/
 /forefront                        https://www.forefrontby100coaches.com/
-/test                             https://www.forefrontby100coaches.com/
-/test-2                           https://www.example.com/
+
+/coaches                          /      301!

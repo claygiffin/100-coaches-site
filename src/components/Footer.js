@@ -8,7 +8,7 @@ export default class Footer extends React.Component {
         <img src={logoKnockout} alt="100 Coaches Logo" className="site-logo" />
         <div className="contact-info">
           <a
-            href="https://agency.100coaches.com/contact/"
+            href="https://www.100coaches.com/contact/"
             target="_blank"
             rel="noreferrer"
           >

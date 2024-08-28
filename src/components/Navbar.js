@@ -79,17 +79,17 @@ class Navbar extends React.Component {
           <span></span>
         </div>
         <div className="navbar-list">
+          <Link className="navbar-item" activeClassName="active" to="/">
+            Community
+          </Link>
           <Link className="navbar-item" activeClassName="active" to="/about/">
             Our Story
           </Link>
-          <Link className="navbar-item" activeClassName="active" to="/coaches/">
-            Community
-          </Link>
-          <a className="navbar-item" href="https://agency.100coaches.com/">
+          <a className="navbar-item" href="https://www.100coaches.com/">
             Agency
           </a>
           <div className="navbar-item">
-            <a href="https://agency.100coaches.com/" className="contact-link">
+            <a href="https://www.100coaches.com/" className="contact-link">
               Hire a Coach
             </a>
           </div>

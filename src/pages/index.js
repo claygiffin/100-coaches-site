@@ -1,18 +1,15 @@
-import React from 'react'
-import { Link, graphql, useStaticQuery } from 'gatsby'
-import Layout from '../components/Layout'
-import CoachThumb from '../components/CoachThumb'
-import Carousel from '../components/Carousel'
-import Hero from '../components/Hero'
-import ThoughtThumb from '../components/ThoughtThumb'
+import { graphql, useStaticQuery } from 'gatsby'
+import { kebabCase } from 'lodash'
+import React, { useCallback, useEffect, useState } from 'react'
 import logoOnColor from '../assets/100Coaches_logo_onColor.svg'
 import videoMp4 from '../assets/GettyImages-178062441_6.mp4'
 import videoWebM from '../assets/GettyImages-178062441_6.webm'
+import Carousel from '../components/Carousel'
+import CoachThumb from '../components/CoachThumb'
+import Hero from '../components/Hero'
+import Layout from '../components/Layout'
 
-import CCLogo from '../assets/100-cc-logo-stacked.svg'
-import CALogo from '../assets/100-ca-logo-stacked.svg'
-
-export const HomePage = () => {
+const HomePage = () => {
   const data = useStaticQuery(graphql`
     query {
       site {
@@ -23,19 +20,11 @@ export const HomePage = () => {
       datoCmsHomePage {
         introText
         introLinkText
-        coachesSectionHeading
-        coachesSectionDescription
-        servicesSectionHeadline
-        servicesSectionDescription
-        servicesSectionLinkText
-        educationSectionHeadline
-        educationSectionDescription
-        educationSectionLinkText
-        educationSectionLinkUrl
-        educationSectionImage {
-          fluid {
-            ...GatsbyDatoCmsFluid
-          }
+      }
+      allDatoCmsCoachCategory(sort: { fields: position }) {
+        nodes {
+          categoryName
+          categoryPlural
         }
       }
       allDatoCmsCoach(sort: { order: [ASC, ASC], fields: [priority, coachName] }) {
@@ -63,130 +52,114 @@ export const HomePage = () => {
           instagram
         }
       }
-      allDatoCmsThoughtLeadership(sort: { fields: meta___updatedAt, order: DESC }) {
-        nodes {
-          title
-          url
-          coachAuthor {
-            coachName
-          }
-          nonMemberAuthor
-          image {
-            fluid(maxWidth: 480, imgixParams: { ar: "16:9", fit: "crop" }) {
-              ...GatsbyDatoCmsFluid
-            }
-          }
-        }
-      }
     }
   `)
 
-  const _ = require('lodash')
+  const [activeFilter, setActiveFilter] = useState('default')
+  const [filteredCoaches, setFilteredCoaches] = useState([])
+
+  const categories = data.allDatoCmsCoachCategory.nodes
+
+  useEffect(() => {
+    switch (activeFilter) {
+      case 'default': {
+        setFilteredCoaches(data.allDatoCmsCoach.nodes)
+        break
+      }
+      default: {
+        const allCoaches = data.allDatoCmsCoach.nodes
+
+        const filteredCoaches = allCoaches.reduce((acc, coach) => {
+          const match = coach.coachCategories.filter(
+            (category) => category.categoryName === activeFilter.categoryName,
+          )
+          if (match.length > 0) {
+            acc.push(coach)
+          }
+          return acc
+        }, [])
+
+        setFilteredCoaches(filteredCoaches)
+        break
+      }
+    }
+  }, [activeFilter, data.allDatoCmsCoach.nodes])
+
+  const applyFilter = useCallback((selectedCategory) => {
+    setActiveFilter(selectedCategory)
+    let slug = `/#${kebabCase(selectedCategory.categoryPlural)}`
+    window.history.replaceState(
+      { page: selectedCategory.categoryPlural },
+      null,
+      `${slug}`,
+    )
+  }, [])
+
+  useEffect(() => {
+    if (window.location.hash) {
+      categories.forEach((category) => {
+        if (kebabCase(category.categoryPlural) === kebabCase(window.location.hash)) {
+          applyFilter(category)
+        }
+      })
+    } else {
+      setActiveFilter('default')
+    }
+  }, [categories, applyFilter])
 
   return (
     <Layout title={data.site.siteMetadata.title} navTransparent>
-      <HomePageTemplate
-        title={data.site.siteMetadata.title}
-        coaches={data.allDatoCmsCoach.nodes}
-        thoughts={data.allDatoCmsThoughtLeadership.nodes}
-        page={data.datoCmsHomePage}
-      />
+      <main id="home-page" className="page-content">
+        <Hero video videoMp4={videoMp4} videoOgg="" videoWebM={videoWebM}>
+          <h1>{data.site.siteMetadata.title}</h1>
+          <img src={logoOnColor} alt={data.site.siteMetadata.title} id="hero-logo" />
+          <div className="intro-text">
+            100 Coaches is a community of coaches and leadership experts, and an{' '}
+            <a href="https://www.100coaches.com/">agency</a> that connects them with
+            the world’s best leaders.
+          </div>
+          <div className="divider"></div>
+          <div className="links">
+            <a href="https://www.100coaches.com/" className="text-link">
+              Hire a Coach
+            </a>
+          </div>
+        </Hero>
+      </main>
+      <section id="coaches-page">
+        <div className="carousel-wrap">
+          <Carousel id="filters">
+            <h3
+              role="button"
+              onClick={() => setActiveFilter('default')}
+              className={activeFilter === 'default' ? 'active' : ''}
+            >
+              Everyone
+            </h3>
+            {categories.map((category, i) => {
+              return (
+                <h3
+                  key={i}
+                  role="button"
+                  onClick={() => setActiveFilter(category)}
+                  className={activeFilter === category ? 'active' : ''}
+                >
+                  {category.categoryPlural}
+                </h3>
+              )
+            })}
+          </Carousel>
+        </div>
+        <section className="coach-list">
+          {filteredCoaches.map((coach, i) => (
+            <div className="coach-wrap" key={i}>
+              <CoachThumb coach={coach} />
+            </div>
+          ))}
+        </section>
+      </section>
     </Layout>
   )
-}
-
-export class HomePageTemplate extends React.Component {
-  render() {
-    const page = this.props.page
-    return (
-      <>
-        <main id="home-page" className="page-content">
-          <Hero video videoMp4={videoMp4} videoOgg="" videoWebM={videoWebM}>
-            <h1>{this.props.title}</h1>
-            <img src={logoOnColor} alt={this.props.title} id="hero-logo" />
-            <div className="intro-text">
-              100 Coaches is a <Link to="/coaches/">community</Link> of coaches and
-              leadership experts, and an{' '}
-              <a href="https://agency.100coaches.com/">agency</a> that connects them with
-              the world’s best leaders.
-            </div>
-            <div className="divider"></div>
-            <div className="links">
-              <a href="https://agency.100coaches.com/" className="text-link">
-                Hire a Coach
-              </a>
-            </div>
-          </Hero>
-          <section id="coaches">
-            <section>
-              <Link to="/coaches/">
-                <h2 className="logo-heading">
-                  <img
-                    src={CCLogo}
-                    alt="100 Coaches Community"
-                    title="100 Coaches Community"
-                  />
-                </h2>
-              </Link>
-              <div className="intro-text">{page.coachesSectionDescription}</div>
-              <Link to="/coaches/" className="cta-link">
-                Meet our community
-              </Link>
-            </section>
-            <section>
-              <a href="https://agency.100coaches.com/">
-                <h2 className="logo-heading">
-                  <img src={CALogo} alt="100 Coaches Agency" title="100 Coaches Agency" />
-                </h2>
-              </a>
-              <div className="intro-text">{page.servicesSectionDescription}</div>
-              <a href="https://agency.100coaches.com/" className="cta-link">
-                Hire a coach
-              </a>
-            </section>
-          </section>
-          <section id="slider-section">
-            <Carousel slidesToShow={4} id="coaches-carousel">
-              {this.props.coaches.map((coach) => (
-                <CoachThumb
-                  coach={coach}
-                  key={coach.coachName}
-                  onClick={this.handleCoachClick}
-                />
-              ))}
-            </Carousel>
-          </section>
-          <section id="thought-leadership">
-            <h2>Thought Leadership</h2>
-            <Carousel slidesToShow={3} id="thought-leadership-carousel">
-              {this.props.thoughts.map((thought, i) => (
-                <ThoughtThumb key={i} thought={thought} />
-              ))}
-            </Carousel>
-          </section>
-          {/* <section id="education">
-            <div className="image-wrap">
-              <div className="image">
-                <Img fluid={page.educationSectionImage.fluid} />
-              </div>
-            </div>
-            <div className="text">
-              <h3>{page.educationSectionHeadline}</h3>
-              <p>{page.educationSectionDescription}</p>
-              <a
-                className="text-link"
-                href={page.educationSectionLinkUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                {page.educationSectionLinkText}
-              </a>
-            </div>
-          </section> */}
-        </main>
-      </>
-    )
-  }
 }
 
 export default HomePage
