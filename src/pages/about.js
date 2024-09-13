@@ -44,11 +44,11 @@ export class AboutPageTemplate extends React.Component {
       <main id="about-page" className="page-content">
         <h1>{page.headline}</h1>
         <p className="intro-text">{page.lede}</p>
-        <VideoPlayer
+        {/* <VideoPlayer
           url={page.videoUrl}
           title={page.videoDetailsTitle}
           description={page.videoDetailsDescriptionNode}
-        />
+        /> */}
         <div className="content" dangerouslySetInnerHTML={getHtml(page.mainContentNode)} />
       </main>
     )
